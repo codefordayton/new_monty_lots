@@ -14,7 +14,11 @@ const output = require('koop-output-geojson');
 koop.register(output);
 koop.register(provider, { dataDir: './provider-data' });
 
-// Serve static files
+// Serve static files from the public directory
+const express = require('express');
+koop.server.use('/public', express.static(path.join(__dirname, 'public')));
+
+// Serve index.html at the root
 koop.server.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'index.html'));
 });
