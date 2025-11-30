@@ -44,14 +44,24 @@
 			
 			<!-- Search Section -->
 			<div class="search-section">
-				<h3>Search Properties</h3>
+				<h3>Search Features</h3>
 				<div class="search-container">
-					<input type="text" id="search-input" placeholder="Search by address or parcel ID..." />
+					<input type="text" id="search-input" placeholder="Search all fields..." />
 					<button id="clear-search">Clear</button>
 				</div>
-				
+
 				<div class="search-results">
 					<span id="search-count">Search all properties</span>
+				</div>
+
+				<!-- Advanced Search Toggle -->
+				<button id="toggle-advanced-search" class="advanced-search-toggle">▼ Show Advanced Search</button>
+
+				<!-- Advanced Search Panel -->
+				<div id="advanced-search-panel" class="advanced-search-panel" style="display: none;">
+					<div id="advanced-filters-container">
+						<!-- Advanced filters will be dynamically generated -->
+					</div>
 				</div>
 			</div>
 			

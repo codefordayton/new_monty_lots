@@ -19,6 +19,7 @@ import {
 import { updateLayerState } from '../components/LayerList.js';
 import { updateGlobalStatistics } from '../components/Statistics.js';
 import { addLayerToLegend, removeLayerFromLegend } from '../components/Legend.js';
+import { analyzeLayerFields } from '../components/SearchBar.js';
 
 /**
  * Load a layer and add it to the map
@@ -44,6 +45,9 @@ export async function loadLayer(layerId) {
 
     // Store the original data for searching
     setLayerData(layerId, data);
+
+    // Analyze fields for generic search (works with any GeoJSON)
+    analyzeLayerFields(layerId, data);
 
     // Detect and store geometry type
     const geometryType = detectGeometryType(data);

@@ -1,6 +1,7 @@
 /**
  * SearchBar.js
  * Handles search functionality for filtering features
+ * Now works with any GeoJSON dataset through field analysis
  */
 
 import { getAllLayerData, getLayerGroup } from '../state/LayerState.js';
@@ -9,9 +10,43 @@ import { getMap } from '../state/MapState.js';
 import { getStyleForLayer } from '../services/StyleService.js';
 import { createPopupContent } from '../utils/popupBuilder.js';
 import { updateURL, clearURLParams, getSearchFromURL } from '../utils/urlParams.js';
+import { analyzeFields, getSearchableFields, searchFeaturesInFields } from '../utils/fieldAnalyzer.js';
+
+// Store field metadata for each layer
+const layerFieldMetadata = {};
+
+/**
+ * Analyze fields for a layer (done once when layer is loaded)
+ * @param {string} layerId - The layer ID
+ * @param {Object} geojsonData - The GeoJSON data
+ */
+export function analyzeLayerFields(layerId, geojsonData) {
+  const fieldMetadata = analyzeFields(geojsonData);
+  layerFieldMetadata[layerId] = fieldMetadata;
+
+  console.log(`📊 Analyzed ${Object.keys(fieldMetadata).length} fields for layer: ${layerId}`);
+
+  // Log searchable fields for debugging
+  const searchableFields = getSearchableFields(fieldMetadata);
+  if (searchableFields.length > 0) {
+    console.log(`  🔍 Searchable fields (${searchableFields.length}):`,
+      searchableFields.map(f => `${f.displayName} (${f.type})`).join(', ')
+    );
+  }
+
+  return fieldMetadata;
+}
+
+/**
+ * Get field metadata for a layer
+ */
+export function getLayerFieldMetadata(layerId) {
+  return layerFieldMetadata[layerId] || {};
+}
 
 /**
  * Search features across all loaded layers
+ * Now works with ANY GeoJSON fields automatically
  * @param {string} searchTerm - The search term
  */
 export function searchFeatures(searchTerm) {
@@ -27,20 +62,22 @@ export function searchFeatures(searchTerm) {
 
   Object.keys(allLayerData).forEach((layerId) => {
     const data = allLayerData[layerId];
-    const filteredFeatures = data.features.filter((feature) => {
-      const props = feature.properties;
 
-      // Search only address and parcel ID fields
-      const searchLower = searchTerm.toLowerCase();
-      const searchableText = [
-        props.PARLOC || props.location || "", // Address field
-        props.TAXPINNO || props.parcel || "", // Parcel ID field
-      ]
-        .join(" ")
-        .toLowerCase();
+    // Analyze fields if not already done
+    if (!layerFieldMetadata[layerId]) {
+      analyzeLayerFields(layerId, data);
+    }
 
-      return searchableText.includes(searchLower);
-    });
+    const fieldMetadata = layerFieldMetadata[layerId];
+    const searchableFields = getSearchableFields(fieldMetadata);
+
+    // Use generic search that works with any fields
+    const filteredFeatures = searchFeaturesInFields(
+      data.features,
+      searchTerm,
+      searchableFields.map(f => f.name),
+      fieldMetadata
+    );
 
     totalResults += filteredFeatures.length;
 
@@ -180,6 +217,85 @@ function updateSearchCount(count, searchTerm) {
 }
 
 /**
+ * Apply advanced filters to features
+ * @param {Object} filters - Advanced filters object
+ * @param {string} basicSearchTerm - Basic search term (optional)
+ */
+export function applyAdvancedFilters(filters, basicSearchTerm = '') {
+  let totalResults = 0;
+  const allLayerData = getAllLayerData();
+
+  Object.keys(allLayerData).forEach((layerId) => {
+    const data = allLayerData[layerId];
+
+    // Analyze fields if not already done
+    if (!layerFieldMetadata[layerId]) {
+      analyzeLayerFields(layerId, data);
+    }
+
+    const fieldMetadata = layerFieldMetadata[layerId];
+    const searchableFields = getSearchableFields(fieldMetadata);
+
+    // Apply filters
+    let filteredFeatures = data.features;
+
+    // Apply basic search first if provided
+    if (basicSearchTerm) {
+      filteredFeatures = searchFeaturesInFields(
+        filteredFeatures,
+        basicSearchTerm,
+        searchableFields.map(f => f.name),
+        fieldMetadata
+      );
+    }
+
+    // Apply advanced filters
+    filteredFeatures = filteredFeatures.filter(feature => {
+      const props = feature.properties || {};
+
+      return Object.keys(filters).every(fieldName => {
+        const filter = filters[fieldName];
+        const value = props[fieldName];
+
+        switch (filter.type) {
+          case 'categorical':
+            return filter.values.includes(String(value));
+
+          case 'numeric':
+            const numValue = parseFloat(value);
+            if (isNaN(numValue)) return false;
+            return numValue >= filter.min && numValue <= filter.max;
+
+          case 'boolean':
+            return value === filter.value;
+
+          case 'text':
+            if (value === null || value === undefined) return false;
+            return String(value).toLowerCase().includes(filter.value.toLowerCase());
+
+          default:
+            return true;
+        }
+      });
+    });
+
+    totalResults += filteredFeatures.length;
+
+    // Update the layer on the map
+    updateLayerWithFilteredFeatures(layerId, filteredFeatures);
+  });
+
+  // Update search count
+  const searchTerm = basicSearchTerm || 'Filtered';
+  updateSearchCount(totalResults, searchTerm);
+
+  // Update URL for shareability (basic search term only for now)
+  if (basicSearchTerm) {
+    updateURL(basicSearchTerm);
+  }
+}
+
+/**
  * Clear all search filters
  */
 export function clearAllFilters() {
@@ -187,6 +303,13 @@ export function clearAllFilters() {
 
   // Reset search field
   document.getElementById("search-input").value = "";
+
+  // Clear advanced filters
+  import('./AdvancedSearch.js').then(module => {
+    module.clearAdvancedFilters();
+  }).catch(() => {
+    // Advanced search not loaded yet
+  });
 
   // Restore original layers
   const originalLayerGroups = getAllOriginalLayerGroups();
