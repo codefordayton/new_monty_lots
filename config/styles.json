@@ -2,7 +2,7 @@
   "version": "1.0",
   "description": "Main styling configuration index for New Monty Lots",
   "lastUpdated": "2025-01-31",
-  
+
   "globalDefaults": {
     "color": "#666666",
     "fillColor": "#cccccc",
@@ -11,7 +11,7 @@
     "weight": 2,
     "opacity": 1.0
   },
-  
+
   "layers": {
     "housing": {
       "name": "Housing Properties",
@@ -22,26 +22,26 @@
     },
     "registry": {
       "name": "Agent Registry",
-      "configFile": "./layers/registry.json", 
+      "configFile": "./layers/registry.json",
       "enabled": true,
       "priority": 2,
       "description": "Property agent types and management information"
     }
   },
-  
+
   "legendSettings": {
     "globalPosition": "bottomleft",
     "allowCollapse": true,
     "showLayerToggle": true,
     "maxWidth": 250
   },
-  
+
   "performance": {
     "cacheStyles": true,
     "clusteringThreshold": 1000,
     "preloadConfigurations": true
   },
-  
+
   "development": {
     "validateOnLoad": true,
     "logStyleResolution": false,

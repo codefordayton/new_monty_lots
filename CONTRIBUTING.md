@@ -13,17 +13,20 @@ Welcome to the New Monty Lots project! This guide will help you get started with
 ### Setup
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/codefordayton/new_monty_lots.git
    cd new_monty_lots
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Start development server**
+
    ```bash
    npm run dev
    ```
@@ -49,6 +52,7 @@ new_monty_lots/
 ### Making Changes
 
 1. **Create a feature branch**
+
    ```bash
    git checkout -b feature/your-feature-name
    ```
@@ -63,6 +67,7 @@ new_monty_lots/
    - Test with different GeoJSON files in `provider-data/`
 
 4. **Commit your changes**
+
    ```bash
    git add .
    git commit -m "Add: your feature description"

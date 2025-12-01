@@ -5,13 +5,13 @@
 
 // Global state for layers
 export const state = {
-  allLayerData: {},          // Store all loaded layer data
-  layerGroups: {},           // Store layer groups for filtering
-  originalLayerGroups: {},   // Store original layer groups for reset
-  layerStates: {},           // Track loading state of each layer
-  layerFeatureCounts: {},    // Store feature counts for each layer
-  layerGeometryTypes: {},    // Store geometry types for each layer
-  layerBounds: {},           // Store geographic bounds for each layer
+  allLayerData: {}, // Store all loaded layer data
+  layerGroups: {}, // Store layer groups for filtering
+  originalLayerGroups: {}, // Store original layer groups for reset
+  layerStates: {}, // Track loading state of each layer
+  layerFeatureCounts: {}, // Store feature counts for each layer
+  layerGeometryTypes: {}, // Store geometry types for each layer
+  layerBounds: {}, // Store geographic bounds for each layer
 };
 
 /**
@@ -83,7 +83,7 @@ export function getAllOriginalLayerGroups() {
  * @returns {string} The layer state (loading, loaded, error, unloaded)
  */
 export function getLayerState(layerId) {
-  return state.layerStates[layerId] || "unloaded";
+  return state.layerStates[layerId] || 'unloaded';
 }
 
 /**
@@ -119,7 +119,7 @@ export function setFeatureCount(layerId, count) {
  * @returns {string} The geometry type
  */
 export function getGeometryType(layerId) {
-  return state.layerGeometryTypes[layerId] || "Unknown";
+  return state.layerGeometryTypes[layerId] || 'Unknown';
 }
 
 /**
@@ -154,9 +154,7 @@ export function setLayerBounds(layerId, bounds) {
  * @returns {string[]} Array of loaded layer IDs
  */
 export function getLoadedLayers() {
-  return Object.keys(state.layerStates).filter(
-    (layerId) => state.layerStates[layerId] === "loaded"
-  );
+  return Object.keys(state.layerStates).filter(layerId => state.layerStates[layerId] === 'loaded');
 }
 
 /**

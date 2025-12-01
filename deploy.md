@@ -3,17 +3,20 @@
 ## Recommended Platforms
 
 ### Railway (Easiest)
+
 1. Connect GitHub repo to Railway
 2. Set environment variables if needed
 3. Deploy automatically on push
 
 ### Render
+
 1. Connect GitHub repo
 2. Build command: `npm install`
 3. Start command: `npm start`
 4. Add environment variables in dashboard
 
 ### DigitalOcean App Platform
+
 1. Create new app from GitHub
 2. Configure Node.js service
 3. Set port to 8080
@@ -28,6 +31,7 @@ NODE_ENV=production
 ```
 
 For object storage (AWS S3):
+
 ```
 AWS_ACCESS_KEY_ID=your_key
 AWS_SECRET_ACCESS_KEY=your_secret
@@ -57,15 +61,18 @@ async function syncDataFromS3() {
 ## Scaling Considerations
 
 **Small to Medium (< 100MB total data)**:
+
 - Railway, Render, or DigitalOcean App Platform
 - Keep files in git repository
 
 **Large datasets (> 100MB)**:
+
 - Use object storage (S3, GCS, Azure Blob)
 - Consider CDN for static assets
 - AWS/GCP/Azure for hosting
 
 **High traffic**:
+
 - Add Redis caching
 - Load balancer
 - Consider serverless (Vercel, Netlify Functions)

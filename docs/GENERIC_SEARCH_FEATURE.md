@@ -9,44 +9,52 @@ The search system now automatically adapts to **any GeoJSON dataset**, detecting
 ## Key Features
 
 ### 1. **Automatic Field Analysis**
+
 - Analyzes GeoJSON properties when layers are loaded
 - Detects field types: text, numeric, boolean, categorical, date
 - Identifies likely identifiers (IDs, codes)
 - Calculates search priorities for fields
 
 ### 2. **Smart Field Type Detection**
+
 The system automatically categorizes fields:
 
-| Field Type | Detection Logic | Example Fields |
-|-----------|----------------|----------------|
-| **Text** | String values with many unique values | Address, Description, Notes |
-| **Categorical** | Strings with ≤20 unique values | Zone Type, Status, Category |
-| **Numeric** | All number values | Lot Size, Price, Year Built |
-| **Boolean** | True/false values | Is Active, Has Violations |
-| **Date** | ISO date strings | Created Date, Modified Date |
+| Field Type      | Detection Logic                       | Example Fields              |
+| --------------- | ------------------------------------- | --------------------------- |
+| **Text**        | String values with many unique values | Address, Description, Notes |
+| **Categorical** | Strings with ≤20 unique values        | Zone Type, Status, Category |
+| **Numeric**     | All number values                     | Lot Size, Price, Year Built |
+| **Boolean**     | True/false values                     | Is Active, Has Violations   |
+| **Date**        | ISO date strings                      | Created Date, Modified Date |
 
 ### 3. **Basic Search (Enhanced)**
+
 - **Generic field search**: No longer hardcoded to specific fields
 - **Intelligent prioritization**: Address/name fields searched first
 - **Match scoring**: Exact > starts-with > contains
 - **Works with any GeoJSON**: Automatically finds searchable fields
 
 ### 4. **Advanced Search Panel**
+
 Collapsible panel with field-specific filters:
 
 #### Categorical Filters
+
 - Multi-select dropdowns for fields with few unique values
 - Example: Zone types, property status, agent types
 
 #### Numeric Filters
+
 - Min/max range inputs
 - Example: Lot size (1000 - 5000), year built (1990 - 2020)
 
 #### Boolean Filters
+
 - Simple checkboxes
 - Example: "Has Violations", "Is Active"
 
 #### Text Filters
+
 - Field-specific search boxes
 - Example: Search only in "Owner Name" or "Description"
 
@@ -55,14 +63,18 @@ Collapsible panel with field-specific filters:
 ### New Files
 
 #### `static/scripts/utils/fieldAnalyzer.js`
+
 Core field analysis engine:
+
 - `analyzeFields(geojsonData)` - Analyzes all fields in a dataset
 - `getSearchableFields(metadata)` - Returns fields suitable for search
 - `getFilterableFields(metadata)` - Groups fields by type for filtering
 - `searchFeaturesInFields(features, term, fields, metadata)` - Generic search
 
 #### `static/scripts/components/AdvancedSearch.js`
+
 Advanced search UI component:
+
 - Dynamic filter generation based on detected fields
 - Categorical filters (multi-select)
 - Numeric filters (range inputs)
@@ -72,21 +84,25 @@ Advanced search UI component:
 ### Modified Files
 
 #### `static/scripts/components/SearchBar.js`
+
 - Removed hardcoded field names (`PARLOC`, `TAXPINNO`)
 - Added `analyzeLayerFields()` - Analyzes fields when layer loads
 - Added `applyAdvancedFilters()` - Applies complex filter combinations
 - Updated `searchFeatures()` - Uses generic field search
 
 #### `static/scripts/services/LayerService.js`
+
 - Calls `analyzeLayerFields()` when loading each layer
 - Enables automatic field detection for all datasets
 
 #### `index.html`
+
 - Updated search placeholder to "Search all fields..."
 - Added advanced search toggle button
 - Added advanced search panel container
 
 #### `static/styles/main.css`
+
 - Styled advanced search panel
 - Filter controls styling
 - Responsive layout for filters
@@ -111,12 +127,14 @@ Advanced search UI component:
 #### Adding a New Dataset
 
 Simply add a `.geojson` file to `provider-data/`. The system will:
+
 1. Automatically analyze all fields
 2. Detect field types
 3. Create appropriate filters
 4. Enable search without any code changes
 
 Example:
+
 ```bash
 # Add new GeoJSON
 cp my-permits.geojson provider-data/
@@ -164,20 +182,24 @@ npm start
 ## Benefits
 
 ### 1. **Dataset Agnostic**
+
 - Works with property data, permits, businesses, infrastructure, etc.
 - No code changes needed for new datasets
 
 ### 2. **User-Friendly**
+
 - Users don't need to know field names
 - Intuitive filter controls based on data types
 - Clear visual feedback
 
 ### 3. **Maintainable**
+
 - No hardcoded field mappings
 - Self-documenting (shows available fields)
 - Easy to extend with new filter types
 
 ### 4. **Performance**
+
 - Field analysis done once per layer load
 - Efficient filtering with early termination
 - Smart prioritization reduces unnecessary checks
@@ -218,6 +240,7 @@ Possible additions for future versions:
 ## Testing
 
 Tested with:
+
 - ✅ Property data (housing.geojson)
 - ✅ Registry data (registry.geojson)
 - ✅ Various field types (text, categorical, numeric)
@@ -241,6 +264,7 @@ Tested with:
 ## Browser Compatibility
 
 Works with all modern browsers:
+
 - Chrome/Edge 90+
 - Firefox 88+
 - Safari 14+

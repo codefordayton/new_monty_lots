@@ -3,7 +3,7 @@
   "description": "Property agent types and management information",
   "version": "1.0",
   "lastUpdated": "2025-01-31",
-  
+
   "defaultStyle": {
     "color": "#666666",
     "fillColor": "#cccccc",
@@ -11,7 +11,7 @@
     "radius": 6,
     "weight": 2
   },
-  
+
   "styleRules": [
     {
       "id": "agent_type",
@@ -110,7 +110,7 @@
       ]
     }
   ],
-  
+
   "legend": {
     "title": "Property Agent Types",
     "position": "bottomleft",

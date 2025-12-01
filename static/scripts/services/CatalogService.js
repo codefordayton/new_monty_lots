@@ -10,7 +10,7 @@ import { setFeatureCount } from '../state/LayerState.js';
  * @returns {Promise<Object>} The catalog data
  */
 export async function fetchCatalog() {
-  const response = await fetch("/catalog");
+  const response = await fetch('/catalog');
   const catalog = await response.json();
   return catalog;
 }
@@ -42,7 +42,7 @@ export async function getLayerFeatureCount(layerId) {
  */
 export function detectGeometryType(data) {
   if (!data || !data.features || data.features.length === 0) {
-    return "Unknown";
+    return 'Unknown';
   }
 
   // Get geometry type from first feature
@@ -51,5 +51,5 @@ export function detectGeometryType(data) {
     return firstFeature.geometry.type;
   }
 
-  return "Unknown";
+  return 'Unknown';
 }

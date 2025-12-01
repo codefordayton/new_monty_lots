@@ -9,12 +9,10 @@
  */
 export function updateURL(searchTerm) {
   const params = new URLSearchParams();
-  if (searchTerm) params.set("search", searchTerm);
+  if (searchTerm) params.set('search', searchTerm);
 
-  const newURL =
-    window.location.pathname +
-    (params.toString() ? "?" + params.toString() : "");
-  window.history.pushState({}, "", newURL);
+  const newURL = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
+  window.history.pushState({}, '', newURL);
 }
 
 /**
@@ -23,12 +21,12 @@ export function updateURL(searchTerm) {
  */
 export function getSearchFromURL() {
   const params = new URLSearchParams(window.location.search);
-  return params.get("search") || "";
+  return params.get('search') || '';
 }
 
 /**
  * Clear all URL parameters
  */
 export function clearURLParams() {
-  window.history.pushState({}, "", window.location.pathname);
+  window.history.pushState({}, '', window.location.pathname);
 }

@@ -50,16 +50,18 @@ function renderAdvancedFilters() {
     const filterableFields = getFilterableFields(fieldMetadata);
 
     // Merge fields from this layer
-    Object.values(filterableFields).flat().forEach(field => {
-      if (!allFields[field.name]) {
-        allFields[field.name] = {
-          ...field,
-          layers: [layerId]
-        };
-      } else if (!allFields[field.name].layers.includes(layerId)) {
-        allFields[field.name].layers.push(layerId);
-      }
-    });
+    Object.values(filterableFields)
+      .flat()
+      .forEach(field => {
+        if (!allFields[field.name]) {
+          allFields[field.name] = {
+            ...field,
+            layers: [layerId],
+          };
+        } else if (!allFields[field.name].layers.includes(layerId)) {
+          allFields[field.name].layers.push(layerId);
+        }
+      });
   });
 
   // Group fields by type
@@ -68,7 +70,7 @@ function renderAdvancedFilters() {
     numeric: [],
     boolean: [],
     date: [],
-    text: []
+    text: [],
   };
 
   Object.values(allFields).forEach(field => {
@@ -262,7 +264,7 @@ function handleFilterChange() {
     if (selectedValues.length > 0) {
       activeFilters[fieldName] = {
         type: 'categorical',
-        values: selectedValues
+        values: selectedValues,
       };
     }
   });
@@ -285,7 +287,7 @@ function handleFilterChange() {
         activeFilters[fieldName] = {
           type: 'numeric',
           min: isNaN(min) ? -Infinity : min,
-          max: isNaN(max) ? Infinity : max
+          max: isNaN(max) ? Infinity : max,
         };
       }
     }
@@ -296,7 +298,7 @@ function handleFilterChange() {
     const fieldName = checkbox.dataset.field;
     activeFilters[fieldName] = {
       type: 'boolean',
-      value: true
+      value: true,
     };
   });
 
@@ -307,7 +309,7 @@ function handleFilterChange() {
     if (value) {
       activeFilters[fieldName] = {
         type: 'text',
-        value: value
+        value: value,
       };
     }
   });
@@ -358,7 +360,9 @@ export function clearAdvancedFilters() {
   });
 
   document.querySelectorAll('.numeric-filter-min, .numeric-filter-max').forEach(input => {
-    input.value = input.getAttribute(input.classList.contains('numeric-filter-min') ? 'min' : 'max');
+    input.value = input.getAttribute(
+      input.classList.contains('numeric-filter-min') ? 'min' : 'max'
+    );
   });
 
   document.querySelectorAll('.boolean-filter').forEach(checkbox => {

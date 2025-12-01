@@ -10,7 +10,11 @@ import { getMap } from '../state/MapState.js';
 import { getStyleForLayer } from '../services/StyleService.js';
 import { createPopupContent } from '../utils/popupBuilder.js';
 import { updateURL, clearURLParams, getSearchFromURL } from '../utils/urlParams.js';
-import { analyzeFields, getSearchableFields, searchFeaturesInFields } from '../utils/fieldAnalyzer.js';
+import {
+  analyzeFields,
+  getSearchableFields,
+  searchFeaturesInFields,
+} from '../utils/fieldAnalyzer.js';
 
 // Store field metadata for each layer
 const layerFieldMetadata = {};
@@ -29,7 +33,8 @@ export function analyzeLayerFields(layerId, geojsonData) {
   // Log searchable fields for debugging
   const searchableFields = getSearchableFields(fieldMetadata);
   if (searchableFields.length > 0) {
-    console.log(`  🔍 Searchable fields (${searchableFields.length}):`,
+    console.log(
+      `  🔍 Searchable fields (${searchableFields.length}):`,
       searchableFields.map(f => `${f.displayName} (${f.type})`).join(', ')
     );
   }
@@ -60,7 +65,7 @@ export function searchFeatures(searchTerm) {
 
   const allLayerData = getAllLayerData();
 
-  Object.keys(allLayerData).forEach((layerId) => {
+  Object.keys(allLayerData).forEach(layerId => {
     const data = allLayerData[layerId];
 
     // Analyze fields if not already done
@@ -99,7 +104,6 @@ export function searchFeatures(searchTerm) {
  */
 function updateLayerWithFilteredFeatures(layerId, filteredFeatures) {
   const map = getMap();
-  const layerGroups = {};
 
   // Get current layer group from state
   const currentLayerGroup = getLayerGroup(layerId);
@@ -111,7 +115,7 @@ function updateLayerWithFilteredFeatures(layerId, filteredFeatures) {
 
   // Create new layer with filtered features
   const filteredData = {
-    type: "FeatureCollection",
+    type: 'FeatureCollection',
     features: filteredFeatures,
   };
 
@@ -136,15 +140,11 @@ function updateLayerWithFilteredFeatures(layerId, filteredFeatures) {
       style: style,
       onEachFeature: function (feature, layer) {
         const props = feature.properties;
-        const popupContent = createPopupContent(
-          layerId,
-          props,
-          feature.geometry
-        );
+        const popupContent = createPopupContent(layerId, props, feature.geometry);
         layer.bindPopup(popupContent);
         layer.feature = feature;
 
-        if (feature.geometry.type === "Point") {
+        if (feature.geometry.type === 'Point') {
           clusterGroup.addLayer(layer);
         } else {
           layer.addTo(map);
@@ -167,11 +167,7 @@ function updateLayerWithFilteredFeatures(layerId, filteredFeatures) {
       style: style,
       onEachFeature: function (feature, layer) {
         const props = feature.properties;
-        const popupContent = createPopupContent(
-          layerId,
-          props,
-          feature.geometry
-        );
+        const popupContent = createPopupContent(layerId, props, feature.geometry);
         layer.bindPopup(popupContent);
         layer.feature = feature;
       },
@@ -190,29 +186,21 @@ function updateLayerWithFilteredFeatures(layerId, filteredFeatures) {
  * @param {string} searchTerm - The search term
  */
 function updateSearchCount(count, searchTerm) {
-  const searchCountElement = document.getElementById("search-count");
+  const searchCountElement = document.getElementById('search-count');
   const allLayerData = getAllLayerData();
 
   if (count === 0 && searchTerm) {
-    searchCountElement.textContent = "No results found";
-    searchCountElement.style.color = "#dc3545";
+    searchCountElement.textContent = 'No results found';
+    searchCountElement.style.color = '#dc3545';
   } else if (searchTerm) {
-    const total = Object.values(allLayerData).reduce(
-      (sum, data) => sum + data.features.length,
-      0
-    );
+    const total = Object.values(allLayerData).reduce((sum, data) => sum + data.features.length, 0);
     searchCountElement.textContent = `Found ${count.toLocaleString()} of ${total.toLocaleString()} properties`;
-    searchCountElement.style.color = "#28a745";
+    searchCountElement.style.color = '#28a745';
   } else {
-    const total = Object.values(allLayerData).reduce(
-      (sum, data) => sum + data.features.length,
-      0
-    );
+    const total = Object.values(allLayerData).reduce((sum, data) => sum + data.features.length, 0);
     searchCountElement.textContent =
-      total > 0
-        ? `Search ${total.toLocaleString()} properties`
-        : "Search all properties";
-    searchCountElement.style.color = "#6c757d";
+      total > 0 ? `Search ${total.toLocaleString()} properties` : 'Search all properties';
+    searchCountElement.style.color = '#6c757d';
   }
 }
 
@@ -225,7 +213,7 @@ export function applyAdvancedFilters(filters, basicSearchTerm = '') {
   let totalResults = 0;
   const allLayerData = getAllLayerData();
 
-  Object.keys(allLayerData).forEach((layerId) => {
+  Object.keys(allLayerData).forEach(layerId => {
     const data = allLayerData[layerId];
 
     // Analyze fields if not already done
@@ -261,10 +249,11 @@ export function applyAdvancedFilters(filters, basicSearchTerm = '') {
           case 'categorical':
             return filter.values.includes(String(value));
 
-          case 'numeric':
+          case 'numeric': {
             const numValue = parseFloat(value);
             if (isNaN(numValue)) return false;
             return numValue >= filter.min && numValue <= filter.max;
+          }
 
           case 'boolean':
             return value === filter.value;
@@ -302,20 +291,22 @@ export function clearAllFilters() {
   const map = getMap();
 
   // Reset search field
-  document.getElementById("search-input").value = "";
+  document.getElementById('search-input').value = '';
 
   // Clear advanced filters
-  import('./AdvancedSearch.js').then(module => {
-    module.clearAdvancedFilters();
-  }).catch(() => {
-    // Advanced search not loaded yet
-  });
+  import('./AdvancedSearch.js')
+    .then(module => {
+      module.clearAdvancedFilters();
+    })
+    .catch(() => {
+      // Advanced search not loaded yet
+    });
 
   // Restore original layers
   const originalLayerGroups = getAllOriginalLayerGroups();
 
   import('../state/LayerState.js').then(module => {
-    Object.keys(originalLayerGroups).forEach((layerId) => {
+    Object.keys(originalLayerGroups).forEach(layerId => {
       if (module.state.layerGroups[layerId]) {
         map.removeLayer(module.state.layerGroups[layerId]);
       }
@@ -326,16 +317,11 @@ export function clearAllFilters() {
 
   // Update search count
   const allLayerData = getAllLayerData();
-  const total = Object.values(allLayerData).reduce(
-    (sum, data) => sum + data.features.length,
-    0
-  );
-  const searchCountElement = document.getElementById("search-count");
+  const total = Object.values(allLayerData).reduce((sum, data) => sum + data.features.length, 0);
+  const searchCountElement = document.getElementById('search-count');
   searchCountElement.textContent =
-    total > 0
-      ? `Search ${total.toLocaleString()} properties`
-      : "Search all properties";
-  searchCountElement.style.color = "#6c757d";
+    total > 0 ? `Search ${total.toLocaleString()} properties` : 'Search all properties';
+  searchCountElement.style.color = '#6c757d';
 
   // Clear URL parameters
   clearURLParams();
@@ -348,7 +334,7 @@ export function loadFromURL() {
   const searchTerm = getSearchFromURL();
 
   // Update search field
-  document.getElementById("search-input").value = searchTerm;
+  document.getElementById('search-input').value = searchTerm;
 
   // Apply search if term is set
   if (searchTerm) {
@@ -360,8 +346,8 @@ export function loadFromURL() {
  * Initialize search bar event listeners
  */
 export function initializeSearchBar() {
-  const searchInput = document.getElementById("search-input");
-  const clearButton = document.getElementById("clear-search");
+  const searchInput = document.getElementById('search-input');
+  const clearButton = document.getElementById('clear-search');
 
   // Debounced search function
   let searchTimeout;
@@ -374,12 +360,12 @@ export function initializeSearchBar() {
   }
 
   // Add event listeners
-  searchInput.addEventListener("input", debouncedSearch);
-  clearButton.addEventListener("click", clearAllFilters);
+  searchInput.addEventListener('input', debouncedSearch);
+  clearButton.addEventListener('click', clearAllFilters);
 
   // Enter key support for search input
-  searchInput.addEventListener("keypress", function (e) {
-    if (e.key === "Enter") {
+  searchInput.addEventListener('keypress', function (e) {
+    if (e.key === 'Enter') {
       clearTimeout(searchTimeout);
       const searchTerm = searchInput.value.trim();
       searchFeatures(searchTerm);

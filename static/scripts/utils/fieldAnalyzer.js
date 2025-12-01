@@ -13,7 +13,7 @@ export const FieldType = {
   BOOLEAN: 'boolean',
   DATE: 'date',
   CATEGORICAL: 'categorical', // Text with few unique values
-  GEOMETRY: 'geometry'
+  GEOMETRY: 'geometry',
 };
 
 /**
@@ -42,7 +42,7 @@ export function analyzeFields(geojsonData, categoricalThreshold = 20) {
           values: [],
           uniqueValues: new Set(),
           nullCount: 0,
-          types: new Set()
+          types: new Set(),
         };
       }
 
@@ -81,7 +81,7 @@ export function analyzeFields(geojsonData, categoricalThreshold = 20) {
       nullCount: stats.nullCount,
       sampleValues: getSampleValues(stats.uniqueValues, 5),
       searchable: true,
-      filterable: true
+      filterable: true,
     };
 
     // Add type-specific metadata
@@ -172,15 +172,17 @@ function isValidDate(value) {
  * Format field name for display (convert snake_case and camelCase to Title Case)
  */
 function formatFieldName(fieldName) {
-  return fieldName
-    // Handle snake_case
-    .replace(/_/g, ' ')
-    // Handle camelCase
-    .replace(/([a-z])([A-Z])/g, '$1 $2')
-    // Handle ALL CAPS
-    .split(' ')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-    .join(' ');
+  return (
+    fieldName
+      // Handle snake_case
+      .replace(/_/g, ' ')
+      // Handle camelCase
+      .replace(/([a-z])([A-Z])/g, '$1 $2')
+      // Handle ALL CAPS
+      .split(' ')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+      .join(' ')
+  );
 }
 
 /**
@@ -198,12 +200,11 @@ function isLikelyIdentifier(fieldName, uniqueCount, totalCount) {
   const lowerName = fieldName.toLowerCase();
 
   // Common identifier patterns
-  const identifierPatterns = [
-    'id', 'objectid', 'fid', 'gid', 'code', 'key', 'guid', 'uuid'
-  ];
+  const identifierPatterns = ['id', 'objectid', 'fid', 'gid', 'code', 'key', 'guid', 'uuid'];
 
-  const isIdPattern = identifierPatterns.some(pattern =>
-    lowerName === pattern || lowerName.endsWith('_' + pattern) || lowerName.endsWith(pattern)
+  const isIdPattern = identifierPatterns.some(
+    pattern =>
+      lowerName === pattern || lowerName.endsWith('_' + pattern) || lowerName.endsWith(pattern)
   );
 
   // High uniqueness ratio suggests identifier
@@ -222,19 +223,13 @@ function calculateSearchPriority(fieldName, metadata) {
   const lowerName = fieldName.toLowerCase();
 
   // High priority fields (likely to be searched)
-  const highPriorityPatterns = [
-    'name', 'address', 'street', 'location', 'title', 'description'
-  ];
+  const highPriorityPatterns = ['name', 'address', 'street', 'location', 'title', 'description'];
 
   // Medium priority fields
-  const mediumPriorityPatterns = [
-    'city', 'state', 'zip', 'postal', 'owner', 'type', 'category'
-  ];
+  const mediumPriorityPatterns = ['city', 'state', 'zip', 'postal', 'owner', 'type', 'category'];
 
   // Low priority fields (identifiers, codes)
-  const lowPriorityPatterns = [
-    'id', 'code', 'key', 'guid', 'uuid', 'objectid'
-  ];
+  const lowPriorityPatterns = ['id', 'code', 'key', 'guid', 'uuid', 'objectid'];
 
   if (highPriorityPatterns.some(p => lowerName.includes(p))) {
     priority = 10;
@@ -262,11 +257,12 @@ function calculateSearchPriority(fieldName, metadata) {
  */
 export function getSearchableFields(fieldMetadata) {
   return Object.values(fieldMetadata)
-    .filter(field =>
-      field.searchable &&
-      (field.type === FieldType.TEXT ||
-       field.type === FieldType.CATEGORICAL ||
-       field.isIdentifier)
+    .filter(
+      field =>
+        field.searchable &&
+        (field.type === FieldType.TEXT ||
+          field.type === FieldType.CATEGORICAL ||
+          field.isIdentifier)
     )
     .sort((a, b) => b.searchPriority - a.searchPriority);
 }
@@ -280,7 +276,7 @@ export function getFilterableFields(fieldMetadata) {
     numeric: [],
     boolean: [],
     date: [],
-    text: []
+    text: [],
   };
 
   Object.values(fieldMetadata).forEach(field => {
@@ -325,7 +321,7 @@ export function searchFeaturesInFields(features, searchTerm, fields = null, fiel
     .map(feature => {
       const props = feature.properties || {};
       let matchScore = 0;
-      let matchedFields = [];
+      const matchedFields = [];
 
       // Determine which fields to search
       const fieldsToSearch = fields || Object.keys(props);
@@ -358,7 +354,7 @@ export function searchFeaturesInFields(features, searchTerm, fields = null, fiel
       return {
         feature,
         matchScore,
-        matchedFields
+        matchedFields,
       };
     })
     .filter(result => result.matchScore > 0)

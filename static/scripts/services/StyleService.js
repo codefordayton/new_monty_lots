@@ -7,8 +7,8 @@ export class StyleResolver {
   constructor(layerConfig) {
     this.layerConfig = layerConfig;
     this.defaultStyle = layerConfig.defaultStyle || {
-      color: "#666666",
-      fillColor: "#cccccc",
+      color: '#666666',
+      fillColor: '#cccccc',
       fillOpacity: 0.7,
       radius: 6,
       weight: 2,
@@ -26,12 +26,12 @@ export class StyleResolver {
     for (const rule of this.layerConfig.styleRules) {
       if (!rule.enabled) continue;
 
-      if (rule.type === "categorical") {
+      if (rule.type === 'categorical') {
         const value = properties[rule.property];
         if (value !== undefined && rule.mappings && rule.mappings[value]) {
           return { ...this.defaultStyle, ...rule.mappings[value] };
         }
-      } else if (rule.type === "numeric") {
+      } else if (rule.type === 'numeric') {
         const value = parseFloat(properties[rule.property]);
         if (!isNaN(value) && rule.ranges) {
           for (const range of rule.ranges) {
@@ -57,9 +57,9 @@ export class StyleResolver {
       const awesomeOptions = {
         icon: style.awesomeMarker.icon,
         markerColor: style.awesomeMarker.markerColor,
-        iconColor: style.awesomeMarker.iconColor || "white",
+        iconColor: style.awesomeMarker.iconColor || 'white',
         spin: style.awesomeMarker.spin || false,
-        extraClasses: style.awesomeMarker.extraClasses || "",
+        extraClasses: style.awesomeMarker.extraClasses || '',
       };
 
       const awesomeIcon = L.AwesomeMarkers.icon(awesomeOptions);
@@ -85,7 +85,7 @@ export class StyleResolver {
         items: [],
       };
 
-      if (rule.type === "categorical" && rule.mappings) {
+      if (rule.type === 'categorical' && rule.mappings) {
         for (const [value, style] of Object.entries(rule.mappings)) {
           legendRule.items.push({
             value,
@@ -93,7 +93,7 @@ export class StyleResolver {
             description: style.description || value,
           });
         }
-      } else if (rule.type === "numeric" && rule.ranges) {
+      } else if (rule.type === 'numeric' && rule.ranges) {
         for (const range of rule.ranges) {
           legendRule.items.push({
             range: { min: range.min, max: range.max },
@@ -137,8 +137,8 @@ export async function loadStyleConfig(layerId) {
     return {
       name: layerId,
       defaultStyle: {
-        color: "#666666",
-        fillColor: "#cccccc",
+        color: '#666666',
+        fillColor: '#cccccc',
         fillOpacity: 0.7,
         radius: 6,
         weight: 2,
@@ -166,9 +166,9 @@ export function createStyleFunction(styleResolver) {
  */
 export function getStyleForLayer(layerId) {
   const styles = {
-    polygon: { color: "blue", fillColor: "#30f", fillOpacity: 0.3, weight: 2 },
-    line: { color: "red", weight: 3 },
-    square: { color: "green", fillColor: "#0f0", fillOpacity: 0.4, weight: 2 },
+    polygon: { color: 'blue', fillColor: '#30f', fillOpacity: 0.3, weight: 2 },
+    line: { color: 'red', weight: 3 },
+    square: { color: 'green', fillColor: '#0f0', fillOpacity: 0.4, weight: 2 },
   };
-  return styles[layerId] || { color: "purple", weight: 2 };
+  return styles[layerId] || { color: 'purple', weight: 2 };
 }

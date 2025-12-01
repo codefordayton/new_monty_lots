@@ -14,7 +14,7 @@ import {
   getLayerGroup,
   setGeometryType,
   setLayerBounds,
-  setFeatureCount
+  setFeatureCount,
 } from '../state/LayerState.js';
 import { updateLayerState } from '../components/LayerList.js';
 import { updateGlobalStatistics } from '../components/Statistics.js';
@@ -30,7 +30,7 @@ export async function loadLayer(layerId) {
   const map = getMap();
 
   // Update loading state
-  updateLayerState(layerId, "loading");
+  updateLayerState(layerId, 'loading');
 
   try {
     // Load style configuration first
@@ -79,25 +79,21 @@ export async function loadLayer(layerId) {
       });
 
       // Add features to cluster group with dynamic styling
-      const geoJsonLayer = L.geoJSON(data, {
+      L.geoJSON(data, {
         pointToLayer: function (feature, latlng) {
           return styleResolver.createMarker(feature.properties, latlng);
         },
         style: createStyleFunction(styleResolver),
         onEachFeature: function (feature, layer) {
           const props = feature.properties;
-          const popupContent = createPopupContent(
-            layerId,
-            props,
-            feature.geometry
-          );
+          const popupContent = createPopupContent(layerId, props, feature.geometry);
           layer.bindPopup(popupContent);
 
           // Store reference to feature for searching
           layer.feature = feature;
 
           // Add to cluster group for points, directly to map for polygons/lines
-          if (feature.geometry.type === "Point") {
+          if (feature.geometry.type === 'Point') {
             clusterGroup.addLayer(layer);
           } else {
             layer.addTo(map);
@@ -112,7 +108,7 @@ export async function loadLayer(layerId) {
       map.addLayer(clusterGroup);
 
       // Update state to loaded
-      updateLayerState(layerId, "loaded");
+      updateLayerState(layerId, 'loaded');
 
       // Update global statistics
       updateGlobalStatistics();
@@ -132,11 +128,7 @@ export async function loadLayer(layerId) {
         style: createStyleFunction(styleResolver),
         onEachFeature: function (feature, layer) {
           const props = feature.properties;
-          const popupContent = createPopupContent(
-            layerId,
-            props,
-            feature.geometry
-          );
+          const popupContent = createPopupContent(layerId, props, feature.geometry);
           layer.bindPopup(popupContent);
 
           // Store reference to feature for searching
@@ -148,7 +140,7 @@ export async function loadLayer(layerId) {
       setLayerGroup(layerId, geoJsonLayer);
 
       // Update state to loaded
-      updateLayerState(layerId, "loaded");
+      updateLayerState(layerId, 'loaded');
 
       // Update global statistics
       updateGlobalStatistics();
@@ -160,7 +152,7 @@ export async function loadLayer(layerId) {
     return data;
   } catch (error) {
     console.error(`Error loading ${layerId} data:`, error);
-    updateLayerState(layerId, "error");
+    updateLayerState(layerId, 'error');
     throw error;
   }
 }
@@ -181,7 +173,7 @@ export function unloadLayer(layerId) {
   // Remove from legend
   removeLayerFromLegend(layerId);
 
-  updateLayerState(layerId, "unloaded");
+  updateLayerState(layerId, 'unloaded');
 
   // Update global statistics
   updateGlobalStatistics();
@@ -195,36 +187,32 @@ export function unloadLayer(layerId) {
 export function toggleLayerVisibility(layerId, isVisible) {
   const map = getMap();
   const layerGroup = getLayerGroup(layerId);
-  const layerItem = document
-    .querySelector(`#toggle-${layerId}`)
-    .closest(".layer-item");
-  const statusElement = layerItem.querySelector(".layer-status");
+  const layerItem = document.querySelector(`#toggle-${layerId}`).closest('.layer-item');
+  const statusElement = layerItem.querySelector('.layer-status');
 
   if (layerGroup) {
     if (isVisible) {
       // Show layer
       map.addLayer(layerGroup);
-      layerItem.classList.remove("hidden");
-      statusElement.textContent = "✓ Visible";
-      statusElement.style.color = "#28a745";
+      layerItem.classList.remove('hidden');
+      statusElement.textContent = '✓ Visible';
+      statusElement.style.color = '#28a745';
     } else {
       // Hide layer
       map.removeLayer(layerGroup);
-      layerItem.classList.add("hidden");
-      statusElement.textContent = "✗ Hidden";
-      statusElement.style.color = "#6c757d";
+      layerItem.classList.add('hidden');
+      statusElement.textContent = '✗ Hidden';
+      statusElement.style.color = '#6c757d';
     }
   } else {
     // Layer not loaded yet, update UI to show loading
     if (isVisible) {
-      statusElement.textContent = "⏳ Loading...";
-      statusElement.style.color = "#007bff";
+      statusElement.textContent = '⏳ Loading...';
+      statusElement.style.color = '#007bff';
     } else {
-      statusElement.textContent = "✗ Hidden (not loaded)";
-      statusElement.style.color = "#6c757d";
+      statusElement.textContent = '✗ Hidden (not loaded)';
+      statusElement.style.color = '#6c757d';
     }
-    console.warn(
-      `Layer ${layerId} not found in layerGroups. It may not be loaded yet.`
-    );
+    console.warn(`Layer ${layerId} not found in layerGroups. It may not be loaded yet.`);
   }
 }

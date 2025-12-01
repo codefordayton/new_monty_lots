@@ -46,19 +46,18 @@ export function initializeSidebarToggle() {
   overlay.addEventListener('click', closeSidebar);
 
   // Close sidebar on escape key
-  document.addEventListener('keydown', (e) => {
+  document.addEventListener('keydown', e => {
     if (e.key === 'Escape' && sidebar.classList.contains('active')) {
       closeSidebar();
     }
   });
 
   // Close sidebar when clicking a layer (on mobile)
-  sidebar.addEventListener('click', (e) => {
+  sidebar.addEventListener('click', e => {
     // Only auto-close on mobile screens
     if (window.innerWidth <= 768) {
       // If clicking a load button or layer item, close sidebar after a short delay
-      if (e.target.classList.contains('load-button') ||
-          e.target.closest('.layer-item')) {
+      if (e.target.classList.contains('load-button') || e.target.closest('.layer-item')) {
         setTimeout(closeSidebar, 300);
       }
     }

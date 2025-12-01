@@ -20,12 +20,15 @@ This directory contains the styling configuration files for the dynamic layer st
 ## Configuration Files
 
 ### styles.json
+
 Main index file that lists all available layers and global defaults.
 
 ### layers/[layer-id].json
+
 Individual layer styling configurations. The filename should match the layer ID used in the Koop service catalog.
 
-### _template.json
+### \_template.json
+
 Template file showing the expected structure for new layer configurations. Copy this file and modify it when adding support for new layers.
 
 ## Adding a New Layer
@@ -38,6 +41,7 @@ Template file showing the expected structure for new layer configurations. Copy 
 ## Configuration Format
 
 Layer configurations support:
+
 - **Categorical rules**: Map discrete property values to specific styles
 - **Numeric rules**: Apply styles based on value ranges (future enhancement)
 - **Conditional rules**: Complex logic-based styling (future enhancement)

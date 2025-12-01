@@ -6,7 +6,11 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write \"**/*.{js,json,md,css,html}\"",
+    "format:check": "prettier --check \"**/*.{js,json,md,css,html}\""
   },
   "keywords": [
     "koop",
@@ -25,7 +29,11 @@
     "koop-output-geojson": "^1.1.2"
   },
   "devDependencies": {
-    "nodemon": "^3.0.0"
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "nodemon": "^3.0.0",
+    "prettier": "^3.7.3"
   },
   "engines": {
     "node": ">=14.0.0"

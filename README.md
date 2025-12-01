@@ -10,6 +10,7 @@ Monty Lots is an open-source geospatial data platform built by [Code for Dayton]
 ## 🌟 Features
 
 ### Core Capabilities
+
 - **🔍 Intelligent Search** - Search properties by address or parcel ID with real-time filtering
 - **📊 Large Dataset Handling** - Automatic clustering for datasets with 1000+ features
 - **🎯 Manual Layer Loading** - User-controlled layer loading to optimize performance
@@ -18,6 +19,7 @@ Monty Lots is an open-source geospatial data platform built by [Code for Dayton]
 - **📱 Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 
 ### Technical Features
+
 - **Dynamic Service Discovery** - Automatically catalogs all GeoJSON files in the data directory
 - **GeoJSON Validation** - Automatic validation of GeoJSON syntax with detailed error reporting
 - **S3-Compatible Storage** - Optional sync from DigitalOcean Spaces, AWS S3, Backblaze B2, or any S3-compatible storage
@@ -29,23 +31,27 @@ Monty Lots is an open-source geospatial data platform built by [Code for Dayton]
 ## 🚀 Quick Start
 
 ### Prerequisites
+
 - **Node.js** v14 or higher
 - **npm** (comes with Node.js)
 
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/codefordayton/new_monty_lots.git
    cd new_monty_lots
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Start the server**
+
    ```bash
    npm start
    ```
@@ -74,6 +80,7 @@ npm run dev
 ### Search Capabilities
 
 The search function supports:
+
 - **Address search** - Enter full or partial street addresses
 - **Parcel ID search** - Search by tax parcel numbers
 - **Real-time filtering** - Results update as you type (300ms debounce)
@@ -82,6 +89,7 @@ The search function supports:
 ### Performance Optimization
 
 The application automatically optimizes for dataset size:
+
 - **< 1,000 features** - Standard Leaflet layers
 - **> 1,000 features** - Marker clustering enabled
 - **> 5,000 features** - Warning displayed, clustering highly optimized
@@ -92,11 +100,13 @@ The application automatically optimizes for dataset size:
 ### Technology Stack
 
 **Backend:**
+
 - [Koop](https://koopjs.github.io/) v10.4.17 - GIS data transformation framework
 - [@koopjs/provider-file-geojson](https://github.com/koopjs/provider-file-geojson) - GeoJSON file serving
 - Express.js (via Koop) - Web server framework
 
 **Frontend:**
+
 - [Leaflet](https://leafletjs.com/) v1.9.4 - Interactive mapping library
 - [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker clustering
 - Vanilla JavaScript - No framework dependencies
@@ -155,6 +165,7 @@ The application automatically optimizes for dataset size:
 Returns metadata about all available GeoJSON services.
 
 **Response:**
+
 ```json
 {
   "services": [
@@ -181,12 +192,14 @@ Returns service metadata for a specific layer.
 Query features from a layer.
 
 **Query Parameters:**
+
 - `f=geojson` - Return format (geojson, json)
 - `where=1=1` - SQL-style where clause
 - `outFields=*` - Fields to return
 - `returnCountOnly=true` - Return only feature count
 
 **Example:**
+
 ```bash
 # Get all features as GeoJSON
 curl "http://localhost:8080/file-geojson/rest/services/housing/FeatureServer/0/query?f=geojson&where=1=1&outFields=*"
@@ -202,6 +215,7 @@ curl "http://localhost:8080/file-geojson/rest/services/housing/FeatureServer/0/q
 Returns server health status for monitoring.
 
 **Response:**
+
 ```json
 {
   "status": "healthy",
@@ -216,6 +230,7 @@ Returns server health status for monitoring.
 Returns current S3 sync configuration status.
 
 **Response:**
+
 ```json
 {
   "enabled": true,
@@ -231,6 +246,7 @@ Returns current S3 sync configuration status.
 Manually trigger a sync from S3 storage. Only available when `S3_ENABLED=true`.
 
 **Response:**
+
 ```json
 {
   "success": true,
@@ -275,6 +291,7 @@ npm start
 ```
 
 The new layer will automatically:
+
 - Appear in the `/catalog` endpoint
 - Show up in the frontend sidebar
 - Be queryable via the Koop API
@@ -285,6 +302,7 @@ The new layer will automatically:
 For production deployments or large datasets, you can store GeoJSON files in S3-compatible object storage:
 
 **Supported providers:**
+
 - DigitalOcean Spaces
 - AWS S3
 - Backblaze B2
@@ -295,11 +313,13 @@ For production deployments or large datasets, you can store GeoJSON files in S3-
 **Setup:**
 
 1. **Copy the environment example**
+
    ```bash
    cp .env.example .env
    ```
 
 2. **Configure your S3 settings in `.env`**
+
    ```bash
    S3_ENABLED=true
    S3_BUCKET=my-geojson-data
@@ -315,6 +335,7 @@ For production deployments or large datasets, you can store GeoJSON files in S3-
    ```
 
 **Features:**
+
 - ✅ Automatic sync on server startup
 - ✅ Optional periodic sync at configurable intervals
 - ✅ Manual sync via API: `POST /api/sync`
@@ -337,6 +358,7 @@ See [docs/DIGITALOCEAN_SPACES_SETUP.md](docs/DIGITALOCEAN_SPACES_SETUP.md) for d
 ### Quick Deploy Options
 
 **Railway** (Recommended for quick deployments)
+
 ```bash
 # Install Railway CLI
 npm i -g @railway/cli
@@ -346,17 +368,20 @@ railway up
 ```
 
 **Render**
+
 1. Connect your GitHub repository
 2. Set build command: `npm install`
 3. Set start command: `npm start`
 4. Deploy automatically on push
 
 **DigitalOcean App Platform**
+
 1. Create new app from GitHub
 2. Configure as Node.js service
 3. Set environment variable `PORT=8080`
 
 See [deploy.md](./deploy.md) for detailed deployment instructions, including:
+
 - Environment variable configuration
 - Object storage integration (AWS S3, GCS, Azure)
 - Scaling considerations
@@ -367,6 +392,7 @@ See [deploy.md](./deploy.md) for detailed deployment instructions, including:
 We welcome contributions from developers, designers, GIS professionals, and civic tech enthusiasts!
 
 **Ways to contribute:**
+
 - 🐛 Report bugs and request features via [GitHub Issues](https://github.com/codefordayton/new_monty_lots/issues)
 - 💻 Submit pull requests for bug fixes or new features
 - 📖 Improve documentation
@@ -378,6 +404,7 @@ We welcome contributions from developers, designers, GIS professionals, and civi
 **IMPORTANT: Always create a feature branch for your work. Never commit directly to `main`.**
 
 1. **Create a feature branch**
+
    ```bash
    git checkout -b feature/your-feature-name
    # or for bug fixes:
@@ -385,12 +412,14 @@ We welcome contributions from developers, designers, GIS professionals, and civi
    ```
 
 2. **Make your changes and commit**
+
    ```bash
    git add .
    git commit -m "Description of your changes"
    ```
 
 3. **Push to your branch**
+
    ```bash
    git push origin feature/your-feature-name
    ```
@@ -401,6 +430,7 @@ We welcome contributions from developers, designers, GIS professionals, and civi
    - Request review from maintainers
 
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines on:
+
 - Development workflow
 - Code style and standards
 - Testing procedures
@@ -411,24 +441,28 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines on:
 ### Planned Features
 
 **v2.0 - Enhanced Search & Analytics**
+
 - [ ] Advanced spatial queries (radius search, polygon selection)
 - [ ] Property comparison tool
 - [ ] Export search results to CSV/GeoJSON
 - [ ] Custom layer styling via UI
 
 **v3.0 - Data Integration**
+
 - [ ] Connect to live county data APIs
 - [ ] Automatic data refresh/sync
 - [ ] Historical data timeline view
 - [ ] Multi-county support
 
 **v4.0 - Collaboration & Community**
+
 - [ ] User accounts and saved searches
 - [ ] Community annotations and notes
 - [ ] Public/private layer sharing
 - [ ] Embeddable map widgets
 
 ### Technical Improvements
+
 - [ ] Unit and integration tests
 - [ ] TypeScript migration
 - [ ] GraphQL API option
@@ -439,21 +473,25 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines on:
 ## 📊 Use Cases
 
 **For Residents:**
+
 - Research properties before purchase or rental
 - Understand neighborhood boundaries and zoning
 - Track property development in their area
 
 **For Researchers:**
+
 - Analyze property patterns and trends
 - Study urban development over time
 - Export data for academic research
 
 **For Civic Organizations:**
+
 - Identify underutilized properties
 - Plan community development projects
 - Support affordable housing initiatives
 
 **For Developers:**
+
 - Build applications on top of the API
 - Integrate property data into other civic tech tools
 - Create custom visualizations
@@ -479,4 +517,4 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ by Code for Dayton volunteers**
 
-*Making public data public and accessible for everyone*
+_Making public data public and accessible for everyone_

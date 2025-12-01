@@ -1,98 +1,117 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-	<base target="_top">
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<title>Quick Start - Leaflet</title>
-	
-	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+  <head>
+    <base target="_top" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-    
+    <title>Quick Start - Leaflet</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+
     <!-- Leaflet MarkerCluster plugin -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"
+    />
     <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
-    
+
     <!-- Leaflet Awesome Markers plugin -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"
+    />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
-    
+
     <!-- Font Awesome for icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
 
-	<!-- Custom styles -->
-	<link rel="stylesheet" href="static/styles/main.css" />
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="static/styles/main.css" />
+  </head>
+  <body>
+    <!-- Mobile sidebar toggle -->
+    <button class="sidebar-toggle" id="sidebar-toggle" aria-label="Toggle sidebar">☰</button>
 
-	
-</head>
-<body>
-	<!-- Mobile sidebar toggle -->
-	<button class="sidebar-toggle" id="sidebar-toggle" aria-label="Toggle sidebar">
-		☰
-	</button>
+    <!-- Sidebar overlay for mobile -->
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
 
-	<!-- Sidebar overlay for mobile -->
-	<div class="sidebar-overlay" id="sidebar-overlay"></div>
+    <div class="container">
+      <div class="sidebar" id="sidebar">
+        <h2>Monty Lots</h2>
 
-	<div class="container">
-		<div class="sidebar" id="sidebar">
-			<h2>Monty Lots</h2>
-			
-			<!-- Search Section -->
-			<div class="search-section">
-				<h3>Search Features</h3>
-				<div class="search-container">
-					<input type="text" id="search-input" placeholder="Search all fields..." />
-					<button id="clear-search">Clear</button>
-				</div>
+        <!-- Search Section -->
+        <div class="search-section">
+          <h3>Search Features</h3>
+          <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search all fields..." />
+            <button id="clear-search">Clear</button>
+          </div>
 
-				<div class="search-results">
-					<span id="search-count">Search all properties</span>
-				</div>
+          <div class="search-results">
+            <span id="search-count">Search all properties</span>
+          </div>
 
-				<!-- Advanced Search Toggle -->
-				<button id="toggle-advanced-search" class="advanced-search-toggle">▼ Show Advanced Search</button>
+          <!-- Advanced Search Toggle -->
+          <button id="toggle-advanced-search" class="advanced-search-toggle">
+            ▼ Show Advanced Search
+          </button>
 
-				<!-- Advanced Search Panel -->
-				<div id="advanced-search-panel" class="advanced-search-panel" style="display: none;">
-					<div id="advanced-filters-container">
-						<!-- Advanced filters will be dynamically generated -->
-					</div>
-				</div>
-			</div>
-			
-			<h3>Available Layers</h3>
-			<ul id="layer-list" class="layer-list">
-				<li>Loading layers...</li>
-			</ul>
-			
-			<div class="stats">
-				<h3>Statistics</h3>
-				<div id="stats-content">
-					<p><strong>Total Layers:</strong> <span id="layer-count">-</span></p>
-					<p><strong>Loaded Layers:</strong> <span id="loaded-count">-</span></p>
-					<p><strong>Total Features:</strong> <span id="total-features">-</span></p>
-				</div>
-			</div>
-		</div>
-		
-		<div id="map"></div>
-	</div>
-	
-	<!-- Dynamic Legend -->
-	<div id="legend" class="legend" style="display: none;">
-		<div class="legend-toggle" onclick="toggleLegend()">
-			<span>Map Legend</span>
-		</div>
-		<div class="legend-content" id="legend-content">
-			<!-- Legend content will be dynamically generated -->
-		</div>
-	</div>
+          <!-- Advanced Search Panel -->
+          <div id="advanced-search-panel" class="advanced-search-panel" style="display: none">
+            <div id="advanced-filters-container">
+              <!-- Advanced filters will be dynamically generated -->
+            </div>
+          </div>
+        </div>
 
-	<script type="module" src="static/scripts/main.js"></script>
-</body>
+        <h3>Available Layers</h3>
+        <ul id="layer-list" class="layer-list">
+          <li>Loading layers...</li>
+        </ul>
+
+        <div class="stats">
+          <h3>Statistics</h3>
+          <div id="stats-content">
+            <p><strong>Total Layers:</strong> <span id="layer-count">-</span></p>
+            <p><strong>Loaded Layers:</strong> <span id="loaded-count">-</span></p>
+            <p><strong>Total Features:</strong> <span id="total-features">-</span></p>
+          </div>
+        </div>
+      </div>
+
+      <div id="map"></div>
+    </div>
+
+    <!-- Dynamic Legend -->
+    <div id="legend" class="legend" style="display: none">
+      <div class="legend-toggle" onclick="toggleLegend()">
+        <span>Map Legend</span>
+      </div>
+      <div class="legend-content" id="legend-content">
+        <!-- Legend content will be dynamically generated -->
+      </div>
+    </div>
+
+    <script type="module" src="static/scripts/main.js"></script>
+  </body>
 </html>

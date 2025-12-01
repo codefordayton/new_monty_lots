@@ -26,7 +26,7 @@ const s3Sync = new S3Sync({
   prefix: process.env.S3_PREFIX || '',
   localDir: './provider-data',
   autoSync: process.env.S3_AUTO_SYNC !== 'false',
-  syncInterval: parseInt(process.env.S3_SYNC_INTERVAL || '0', 10)
+  syncInterval: parseInt(process.env.S3_SYNC_INTERVAL || '0', 10),
 });
 
 // Serve static files
@@ -70,32 +70,31 @@ koop.server.get('/catalog', (req, res) => {
               name: layerId.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
               type: 'FeatureServer',
               url: `/file-geojson/rest/services/${layerId}/FeatureServer`,
-              queryUrl: `/file-geojson/rest/services/${layerId}/FeatureServer/0/query`
+              queryUrl: `/file-geojson/rest/services/${layerId}/FeatureServer/0/query`,
             });
           } else {
             const errors = geojsonValidation.isFeatureCollection(geojson) ||
-                          geojsonValidation.isFeature(geojson) ||
-                          geojsonValidation.isGeometryObject(geojson) ||
-                          ['Invalid GeoJSON structure'];
+              geojsonValidation.isFeature(geojson) ||
+              geojsonValidation.isGeometryObject(geojson) || ['Invalid GeoJSON structure'];
 
             console.warn(`⚠️  Skipping invalid GeoJSON file: ${file}`, errors);
             validationErrors.push({
               file: file,
-              errors: Array.isArray(errors) ? errors : [errors]
+              errors: Array.isArray(errors) ? errors : [errors],
             });
           }
         } catch (error) {
           console.error(`⚠️  Error validating ${file}:`, error.message);
           validationErrors.push({
             file: file,
-            errors: [error.message]
+            errors: [error.message],
           });
         }
       });
 
     const response = {
       services: geojsonFiles,
-      count: geojsonFiles.length
+      count: geojsonFiles.length,
     };
 
     // Include validation errors in response if any (for debugging)
@@ -118,7 +117,7 @@ koop.server.post('/api/sync', async (req, res) => {
   if (!s3Sync.enabled) {
     return res.status(400).json({
       success: false,
-      message: 'S3 sync is not enabled. Set S3_ENABLED=true in environment variables.'
+      message: 'S3 sync is not enabled. Set S3_ENABLED=true in environment variables.',
     });
   }
 
@@ -128,7 +127,7 @@ koop.server.post('/api/sync', async (req, res) => {
   } catch (error) {
     res.status(500).json({
       success: false,
-      error: error.message
+      error: error.message,
     });
   }
 });
@@ -140,12 +139,12 @@ koop.server.get('/api/sync/status', (req, res) => {
     bucket: s3Sync.bucket,
     endpoint: s3Sync.endpoint,
     autoSync: s3Sync.autoSync,
-    syncInterval: s3Sync.syncInterval
+    syncInterval: s3Sync.syncInterval,
   });
 });
 
 // Style configuration cache
-let styleConfigCache = {};
+const styleConfigCache = {};
 let mainStyleConfig = null;
 
 // Load and cache style configurations
@@ -166,7 +165,7 @@ function loadMainStyleConfig() {
     mainStyleConfig = loadStyleConfig('./config/styles.json');
     if (mainStyleConfig) {
       console.log('✓ Main style configuration loaded');
-      
+
       // Pre-load layer configurations
       if (mainStyleConfig.layers) {
         Object.entries(mainStyleConfig.layers).forEach(([layerId, layerInfo]) => {
@@ -195,12 +194,12 @@ koop.server.get('/api/styles/config', (req, res) => {
 
 koop.server.get('/api/styles/config/:layerId', (req, res) => {
   const layerId = req.params.layerId;
-  
+
   // Check cache first
   if (styleConfigCache[layerId]) {
     return res.json(styleConfigCache[layerId]);
   }
-  
+
   // Try to load from main config
   if (mainStyleConfig && mainStyleConfig.layers && mainStyleConfig.layers[layerId]) {
     const layerInfo = mainStyleConfig.layers[layerId];
@@ -212,7 +211,7 @@ koop.server.get('/api/styles/config/:layerId', (req, res) => {
       }
     }
   }
-  
+
   // Fallback: return default configuration
   res.json({
     name: layerId,
@@ -221,9 +220,9 @@ koop.server.get('/api/styles/config/:layerId', (req, res) => {
       fillColor: '#cccccc',
       fillOpacity: 0.7,
       radius: 6,
-      weight: 2
+      weight: 2,
     },
-    styleRules: []
+    styleRules: [],
   });
 });
 

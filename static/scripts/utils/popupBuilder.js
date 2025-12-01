@@ -11,9 +11,7 @@
  * @returns {string} HTML content for popup
  */
 export function createPopupContent(layerId, properties, geometry) {
-  let content = `<b>${
-    layerId.charAt(0).toUpperCase() + layerId.slice(1)
-  }</b><br/>`;
+  let content = `<b>${layerId.charAt(0).toUpperCase() + layerId.slice(1)}</b><br/>`;
 
   // Add properties if they exist
   if (properties && Object.keys(properties).length > 0) {
@@ -25,8 +23,8 @@ export function createPopupContent(layerId, properties, geometry) {
   }
 
   // Add geometry info
-  if (geometry.type === "Point") {
-    content += `Coordinates: ${geometry.coordinates.join(", ")}`;
+  if (geometry.type === 'Point') {
+    content += `Coordinates: ${geometry.coordinates.join(', ')}`;
   }
 
   return content;

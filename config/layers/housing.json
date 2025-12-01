@@ -3,7 +3,7 @@
   "description": "Montgomery County property conditions and classifications",
   "version": "1.0",
   "lastUpdated": "2025-01-31",
-  
+
   "defaultStyle": {
     "color": "#666666",
     "fillColor": "#cccccc",
@@ -11,7 +11,7 @@
     "radius": 6,
     "weight": 2
   },
-  
+
   "styleRules": [
     {
       "id": "grade_condition",
@@ -106,7 +106,7 @@
       }
     }
   ],
-  
+
   "legend": {
     "title": "Housing Property Conditions",
     "position": "bottomleft",

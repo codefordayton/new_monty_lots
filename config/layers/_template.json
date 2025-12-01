@@ -3,7 +3,7 @@
   "description": "Description of what this layer represents",
   "version": "1.0",
   "lastUpdated": "YYYY-MM-DD",
-  
+
   "defaultStyle": {
     "color": "#666666",
     "fillColor": "#cccccc",
@@ -11,7 +11,7 @@
     "radius": 6,
     "weight": 2
   },
-  
+
   "styleRules": [
     {
       "id": "example_rule",
@@ -39,7 +39,7 @@
       }
     }
   ],
-  
+
   "legend": {
     "title": "Legend Title",
     "position": "bottomleft",
