@@ -9,6 +9,16 @@ build/
 .tmp/
 .temp/
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+scripts/venv/
+scripts/env/
+*.egg-info/
+
 # Large data files (when using object storage)
 # Uncomment these lines when switching to object storage:
 # provider-data/*.geojson
