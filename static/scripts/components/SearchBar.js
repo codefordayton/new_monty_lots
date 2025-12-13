@@ -140,8 +140,16 @@ function updateLayerWithFilteredFeatures(layerId, filteredFeatures) {
       style: style,
       onEachFeature: function (feature, layer) {
         const props = feature.properties;
-        const popupContent = createPopupContent(layerId, props, feature.geometry);
-        layer.bindPopup(popupContent);
+
+        // Bind popup with async content loading
+        layer.bindPopup(() => {
+          const popup = layer.getPopup();
+          popup.setContent('Loading...');
+          createPopupContent(layerId, props, feature.geometry).then(content => {
+            popup.setContent(content);
+          });
+          return 'Loading...';
+        });
         layer.feature = feature;
 
         if (feature.geometry.type === 'Point') {
@@ -167,8 +175,16 @@ function updateLayerWithFilteredFeatures(layerId, filteredFeatures) {
       style: style,
       onEachFeature: function (feature, layer) {
         const props = feature.properties;
-        const popupContent = createPopupContent(layerId, props, feature.geometry);
-        layer.bindPopup(popupContent);
+
+        // Bind popup with async content loading
+        layer.bindPopup(() => {
+          const popup = layer.getPopup();
+          popup.setContent('Loading...');
+          createPopupContent(layerId, props, feature.geometry).then(content => {
+            popup.setContent(content);
+          });
+          return 'Loading...';
+        });
         layer.feature = feature;
       },
     }).addTo(map);

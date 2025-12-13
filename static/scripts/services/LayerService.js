@@ -86,8 +86,16 @@ export async function loadLayer(layerId) {
         style: createStyleFunction(styleResolver),
         onEachFeature: function (feature, layer) {
           const props = feature.properties;
-          const popupContent = createPopupContent(layerId, props, feature.geometry);
-          layer.bindPopup(popupContent);
+
+          // Bind popup with async content loading
+          layer.bindPopup(() => {
+            const popup = layer.getPopup();
+            popup.setContent('Loading...');
+            createPopupContent(layerId, props, feature.geometry).then(content => {
+              popup.setContent(content);
+            });
+            return 'Loading...';
+          });
 
           // Store reference to feature for searching
           layer.feature = feature;
@@ -128,8 +136,16 @@ export async function loadLayer(layerId) {
         style: createStyleFunction(styleResolver),
         onEachFeature: function (feature, layer) {
           const props = feature.properties;
-          const popupContent = createPopupContent(layerId, props, feature.geometry);
-          layer.bindPopup(popupContent);
+
+          // Bind popup with async content loading
+          layer.bindPopup(() => {
+            const popup = layer.getPopup();
+            popup.setContent('Loading...');
+            createPopupContent(layerId, props, feature.geometry).then(content => {
+              popup.setContent(content);
+            });
+            return 'Loading...';
+          });
 
           // Store reference to feature for searching
           layer.feature = feature;

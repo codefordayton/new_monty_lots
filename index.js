@@ -35,6 +35,7 @@ koop.server.get('/', (req, res) => {
 });
 
 koop.server.use('/static', require('express').static(path.join(__dirname, 'static')));
+koop.server.use('/config', require('express').static(path.join(__dirname, 'config')));
 
 // Service catalog endpoint with GeoJSON validation
 koop.server.get('/catalog', (req, res) => {
