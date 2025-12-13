@@ -3,10 +3,17 @@ const Koop = require('@koopjs/koop-core');
 const provider = require('@koopjs/provider-file-geojson');
 const path = require('path');
 const fs = require('fs');
-const koop = new Koop({ logLevel: 'debug' });
 const output = require('koop-output-geojson');
 const geojsonValidation = require('geojson-validation');
 const S3Sync = require('./lib/s3-sync');
+
+// Environment configuration
+const PORT = process.env.PORT || 8080;
+const DATA_DIR = process.env.DATA_DIR || './provider-data';
+const LOG_LEVEL = process.env.LOG_LEVEL || 'debug';
+const NODE_ENV = process.env.NODE_ENV || 'development';
+
+const koop = new Koop({ logLevel: LOG_LEVEL });
 
 // const auth = require('@koopjs/auth-direct-file')(
 //   'pass-in-your-secret',
@@ -15,7 +22,7 @@ const S3Sync = require('./lib/s3-sync');
 
 // koop.register(auth);
 koop.register(output);
-koop.register(provider, { dataDir: './provider-data' });
+koop.register(provider, { dataDir: DATA_DIR });
 
 // Configure S3 sync for DigitalOcean Spaces (or other S3-compatible storage)
 const s3Sync = new S3Sync({
@@ -24,7 +31,7 @@ const s3Sync = new S3Sync({
   region: process.env.S3_REGION || 'us-east-1',
   endpoint: process.env.S3_ENDPOINT,
   prefix: process.env.S3_PREFIX || '',
-  localDir: './provider-data',
+  localDir: DATA_DIR,
   autoSync: process.env.S3_AUTO_SYNC !== 'false',
   syncInterval: parseInt(process.env.S3_SYNC_INTERVAL || '0', 10),
 });
@@ -40,7 +47,7 @@ koop.server.use('/config', require('express').static(path.join(__dirname, 'confi
 // Service catalog endpoint with GeoJSON validation
 koop.server.get('/catalog', (req, res) => {
   const fs = require('fs');
-  const dataDir = path.join(__dirname, 'provider-data');
+  const dataDir = path.join(__dirname, DATA_DIR);
 
   fs.readdir(dataDir, (err, files) => {
     if (err) {
@@ -247,14 +254,13 @@ async function initializeServer() {
   s3Sync.startPeriodicSync();
 
   // Start server
-  const port = process.env.PORT || 8080;
-  koop.server.listen(port, () => {
-    console.log(`\n✓ Server listening on port ${port}`);
-    console.log(`  → Web interface: http://localhost:${port}`);
-    console.log(`  → Catalog API: http://localhost:${port}/catalog`);
+  koop.server.listen(PORT, () => {
+    console.log(`\n✓ Server listening on port ${PORT}`);
+    console.log(`  → Web interface: http://localhost:${PORT}`);
+    console.log(`  → Catalog API: http://localhost:${PORT}/catalog`);
     if (s3Sync.enabled) {
-      console.log(`  → S3 Sync status: http://localhost:${port}/api/sync/status`);
-      console.log(`  → Manual sync: POST http://localhost:${port}/api/sync`);
+      console.log(`  → S3 Sync status: http://localhost:${PORT}/api/sync/status`);
+      console.log(`  → Manual sync: POST http://localhost:${PORT}/api/sync`);
     }
   });
 }
