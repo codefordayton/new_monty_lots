@@ -77,36 +77,56 @@ def parse_precinct_tables(tables):
     all_data = []
 
     for table_idx, table in enumerate(tables):
-        if not table or len(table) < 2:
+        if not table or len(table) < 3:  # Need at least header + 2 rows
             continue
 
-        # Look for tables with precinct data
-        # Tables typically have headers like: Precinct, Registered Voters, Ballots Cast, etc.
-        header_row = table[0]
+        # Check if this looks like a precinct statistics table
+        # Header row usually has "STATISTICS" or similar
+        header_row1 = table[0] if len(table) > 0 else []
+        header_row2 = table[1] if len(table) > 1 else []
 
-        # Skip if doesn't look like precinct data
-        if not any('precinct' in str(cell).lower() for cell in header_row if cell):
+        # Look for "STATISTICS" or voter-related headers
+        is_stats_table = False
+        if header_row1:
+            is_stats_table = any('statistic' in str(cell).lower() for cell in header_row1 if cell)
+
+        if header_row2:
+            # Check for voter/ballot headers
+            header_text = ' '.join([str(cell).lower() for cell in header_row2 if cell])
+            is_stats_table = is_stats_table or ('voter' in header_text and 'ballot' in header_text)
+
+        if not is_stats_table:
             continue
 
-        print(f"   Processing table {table_idx + 1}...")
+        print(f"   Processing statistics table {table_idx + 1} ({len(table)} rows)...")
 
-        # Extract rows
-        for row in table[1:]:
+        # Extract rows (skip first 2 header rows)
+        for row_idx, row in enumerate(table[2:], start=2):
             if not row or len(row) < 2:
                 continue
 
-            # Skip total/summary rows
-            if any(str(cell).lower().strip().startswith(('total', 'summary')) for cell in row if cell):
+            # First column should be precinct code
+            precinct_code = str(row[0]).strip() if row[0] else None
+
+            # Skip if no precinct code or if it's a total/summary row
+            if not precinct_code:
                 continue
 
-            # Extract precinct data
+            if precinct_code.lower().startswith(('total', 'summary', 'county', 'none')):
+                continue
+
+            # Extract all columns
             row_data = {
-                'raw_row': ' | '.join([str(cell) if cell else '' for cell in row])
+                'precinct_code': precinct_code,
+                'registered_voters': str(row[1]).strip() if len(row) > 1 and row[1] else None,
+                'ballots_cast': str(row[2]).strip() if len(row) > 2 and row[2] else None,
+                'blank_ballots': str(row[3]).strip() if len(row) > 3 and row[3] else None,
+                'turnout_pct': str(row[4]).strip() if len(row) > 4 and row[4] else None,
             }
 
             all_data.append(row_data)
 
-    print(f"   Extracted {len(all_data)} data rows")
+    print(f"   Extracted {len(all_data)} precinct rows")
     return all_data
 
 
