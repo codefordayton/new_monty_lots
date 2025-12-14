@@ -41,6 +41,45 @@ def clean_field_name(text):
     return text
 
 
+def clean_numeric_value(value):
+    """Clean and convert numeric values (remove commas, convert percentages)."""
+    if value is None or value == '' or str(value).strip() == '':
+        return None
+
+    value_str = str(value).strip()
+
+    # Handle percentages - convert to decimal (e.g., "78.35%" -> 0.7835)
+    if '%' in value_str:
+        try:
+            numeric_part = value_str.replace('%', '').replace(',', '').strip()
+            return float(numeric_part) / 100.0
+        except ValueError:
+            return value_str
+
+    # Remove commas from numbers (e.g., "1,178" -> "1178")
+    if ',' in value_str:
+        try:
+            return int(value_str.replace(',', ''))
+        except ValueError:
+            # Try as float
+            try:
+                return float(value_str.replace(',', ''))
+            except ValueError:
+                return value_str
+
+    # Try to convert to int or float
+    try:
+        # Try int first
+        return int(value_str)
+    except ValueError:
+        try:
+            # Try float
+            return float(value_str)
+        except ValueError:
+            # Return as-is if not numeric
+            return value_str
+
+
 def sanitize_filename(text):
     """Convert race name to valid filename."""
     # Remove special characters, replace spaces with underscores
@@ -163,7 +202,7 @@ def extract_race_data(pdf_path, race_info):
                         for i, value in enumerate(row[1:], 1):
                             if i <= len(candidates):
                                 col_name = candidates[i-1] if candidates[i-1] else f'col_{i}'
-                                row_data[col_name] = str(value).strip() if value else None
+                                row_data[col_name] = clean_numeric_value(value)
 
                         all_rows.append(row_data)
 
@@ -189,7 +228,7 @@ def extract_race_data(pdf_path, race_info):
                         for i, value in enumerate(row[1:], 1):
                             if i <= len(candidates):
                                 col_name = candidates[i-1] if candidates[i-1] else f'candidate_{i}'
-                                row_data[col_name] = str(value).strip() if value else None
+                                row_data[col_name] = clean_numeric_value(value)
 
                         all_rows.append(row_data)
 
