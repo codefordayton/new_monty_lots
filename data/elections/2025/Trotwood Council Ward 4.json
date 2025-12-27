@@ -1,0 +1,46 @@
+{
+  "race": "Trotwood Council Ward 4",
+  "precincts": 5,
+  "results": [
+    {
+      "Precinct": "TR 4-A",
+      "Tyler R. Brown": 205,
+      "Total Votes Cast": 205,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 242
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Tyler R. Brown": 147,
+      "Total Votes Cast": 147,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 167
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Tyler R. Brown": 77,
+      "Total Votes Cast": 77,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 95
+    },
+    {
+      "Precinct": "TR 4-D1",
+      "Tyler R. Brown": 35,
+      "Total Votes Cast": 35,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 45
+    },
+    {
+      "Precinct": "TR 4-D2",
+      "Tyler R. Brown": 128,
+      "Total Votes Cast": 128,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 141
+    }
+  ]
+}

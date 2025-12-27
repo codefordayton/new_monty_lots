@@ -1,0 +1,3216 @@
+{
+  "race": "Dayton Metro Library - Additional 1 mill - 5 yrs ",
+  "precincts": 321,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "For the Tax": 346,
+      "Against the Tax": 526,
+      "Total Votes Cast": 872,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 923,
+      "": null
+    },
+    {
+      "Precinct": "BRK-B",
+      "For the Tax": 281,
+      "Against the Tax": 387,
+      "Total Votes Cast": 668,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 698,
+      "": null
+    },
+    {
+      "Precinct": "BRK-C",
+      "For the Tax": 331,
+      "Against the Tax": 529,
+      "Total Votes Cast": 860,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 909,
+      "": null
+    },
+    {
+      "Precinct": "BRK-D",
+      "For the Tax": 255,
+      "Against the Tax": 489,
+      "Total Votes Cast": 744,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 784,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "For the Tax": 305,
+      "Against the Tax": 480,
+      "Total Votes Cast": 785,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 828,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "For the Tax": 230,
+      "Against the Tax": 450,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 728,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "For the Tax": 350,
+      "Against the Tax": 531,
+      "Total Votes Cast": 881,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 925,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "For the Tax": 329,
+      "Against the Tax": 483,
+      "Total Votes Cast": 812,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 861,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "For the Tax": 247,
+      "Against the Tax": 325,
+      "Total Votes Cast": 572,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 596,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "For the Tax": 292,
+      "Against the Tax": 358,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 687,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "For the Tax": 239,
+      "Against the Tax": 231,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 520,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "For the Tax": 169,
+      "Against the Tax": 409,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 596,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "For the Tax": 199,
+      "Against the Tax": 389,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 620,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "For the Tax": 219,
+      "Against the Tax": 661,
+      "Total Votes Cast": 880,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 930,
+      "": null
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "For the Tax": 188,
+      "Against the Tax": 402,
+      "Total Votes Cast": 590,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 608,
+      "": null
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "For the Tax": 318,
+      "Against the Tax": 344,
+      "Total Votes Cast": 662,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 693,
+      "": null
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "For the Tax": 391,
+      "Against the Tax": 500,
+      "Total Votes Cast": 891,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 937,
+      "": null
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "For the Tax": 314,
+      "Against the Tax": 252,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 598,
+      "": null
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "For the Tax": 304,
+      "Against the Tax": 313,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 655,
+      "": null
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "For the Tax": 422,
+      "Against the Tax": 396,
+      "Total Votes Cast": 818,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 857,
+      "": null
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "For the Tax": 476,
+      "Against the Tax": 382,
+      "Total Votes Cast": 858,
+      "Overvotes": 1,
+      "Undervotes": 37,
+      "Contest Total": 896,
+      "": null
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "For the Tax": 429,
+      "Against the Tax": 395,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 861,
+      "": null
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "For the Tax": 419,
+      "Against the Tax": 371,
+      "Total Votes Cast": 790,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 827,
+      "": null
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "For the Tax": 385,
+      "Against the Tax": 324,
+      "Total Votes Cast": 709,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 737,
+      "": null
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "For the Tax": 137,
+      "Against the Tax": 56,
+      "Total Votes Cast": 193,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 214,
+      "": null
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "For the Tax": 516,
+      "Against the Tax": 195,
+      "Total Votes Cast": 711,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 738,
+      "": null
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "For the Tax": 374,
+      "Against the Tax": 114,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 522,
+      "": null
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "For the Tax": 247,
+      "Against the Tax": 74,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 332,
+      "": null
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "For the Tax": 487,
+      "Against the Tax": 130,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 640,
+      "": null
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "For the Tax": 221,
+      "Against the Tax": 191,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 443,
+      "": null
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "For the Tax": 356,
+      "Against the Tax": 137,
+      "Total Votes Cast": 493,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 509,
+      "": null
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "For the Tax": 284,
+      "Against the Tax": 229,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 539,
+      "": null
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "For the Tax": 192,
+      "Against the Tax": 163,
+      "Total Votes Cast": 355,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 390,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "For the Tax": 135,
+      "Against the Tax": 111,
+      "Total Votes Cast": 246,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 271,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "For the Tax": 165,
+      "Against the Tax": 187,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 388,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "For the Tax": 455,
+      "Against the Tax": 401,
+      "Total Votes Cast": 856,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 901,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "For the Tax": 224,
+      "Against the Tax": 231,
+      "Total Votes Cast": 455,
+      "Overvotes": 1,
+      "Undervotes": 42,
+      "Contest Total": 498,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "For the Tax": 147,
+      "Against the Tax": 110,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 277,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "For the Tax": 417,
+      "Against the Tax": 279,
+      "Total Votes Cast": 696,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 727,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "For the Tax": 238,
+      "Against the Tax": 214,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 482,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "For the Tax": 231,
+      "Against the Tax": 227,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 498,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "For the Tax": 438,
+      "Against the Tax": 364,
+      "Total Votes Cast": 802,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 844,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "For the Tax": 351,
+      "Against the Tax": 319,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 717,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "For the Tax": 477,
+      "Against the Tax": 376,
+      "Total Votes Cast": 853,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 893,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "For the Tax": 395,
+      "Against the Tax": 380,
+      "Total Votes Cast": 775,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 816,
+      "": null
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "For the Tax": 376,
+      "Against the Tax": 110,
+      "Total Votes Cast": 486,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 512,
+      "": null
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "For the Tax": 271,
+      "Against the Tax": 115,
+      "Total Votes Cast": 386,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 398,
+      "": null
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "For the Tax": 300,
+      "Against the Tax": 103,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 429,
+      "": null
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "For the Tax": 242,
+      "Against the Tax": 93,
+      "Total Votes Cast": 335,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 366,
+      "": null
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "For the Tax": 291,
+      "Against the Tax": 74,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 385,
+      "": null
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "For the Tax": 229,
+      "Against the Tax": 58,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 317,
+      "": null
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "For the Tax": 315,
+      "Against the Tax": 100,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 442,
+      "": null
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "For the Tax": 308,
+      "Against the Tax": 98,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 446,
+      "": null
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "For the Tax": 289,
+      "Against the Tax": 119,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 433,
+      "": null
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "For the Tax": 271,
+      "Against the Tax": 96,
+      "Total Votes Cast": 367,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 388,
+      "": null
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "For the Tax": 242,
+      "Against the Tax": 101,
+      "Total Votes Cast": 343,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 380,
+      "": null
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "For the Tax": 219,
+      "Against the Tax": 66,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 298,
+      "": null
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "For the Tax": 440,
+      "Against the Tax": 230,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 703,
+      "": null
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "For the Tax": 446,
+      "Against the Tax": 193,
+      "Total Votes Cast": 639,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 676,
+      "": null
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "For the Tax": 416,
+      "Against the Tax": 236,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 692,
+      "": null
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "For the Tax": 434,
+      "Against the Tax": 204,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 676,
+      "": null
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "For the Tax": 558,
+      "Against the Tax": 267,
+      "Total Votes Cast": 825,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 857,
+      "": null
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "For the Tax": 463,
+      "Against the Tax": 289,
+      "Total Votes Cast": 752,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 792,
+      "": null
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "For the Tax": 482,
+      "Against the Tax": 342,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 862,
+      "": null
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "For the Tax": 384,
+      "Against the Tax": 235,
+      "Total Votes Cast": 619,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 667,
+      "": null
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "For the Tax": 349,
+      "Against the Tax": 220,
+      "Total Votes Cast": 569,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 590,
+      "": null
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "For the Tax": 241,
+      "Against the Tax": 240,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 504,
+      "": null
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "For the Tax": 290,
+      "Against the Tax": 174,
+      "Total Votes Cast": 464,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 479,
+      "": null
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "For the Tax": 311,
+      "Against the Tax": 277,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 615,
+      "": null
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "For the Tax": 278,
+      "Against the Tax": 222,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 532,
+      "": null
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "For the Tax": 223,
+      "Against the Tax": 135,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 380,
+      "": null
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "For the Tax": 213,
+      "Against the Tax": 182,
+      "Total Votes Cast": 395,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 430,
+      "": null
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "For the Tax": 263,
+      "Against the Tax": 148,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 433,
+      "": null
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "For the Tax": 280,
+      "Against the Tax": 265,
+      "Total Votes Cast": 545,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 593,
+      "": null
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "For the Tax": 234,
+      "Against the Tax": 200,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 464,
+      "": null
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "For the Tax": 398,
+      "Against the Tax": 260,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 691,
+      "": null
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "For the Tax": 328,
+      "Against the Tax": 109,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 458,
+      "": null
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "For the Tax": 312,
+      "Against the Tax": 193,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 529,
+      "": null
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "For the Tax": 204,
+      "Against the Tax": 167,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 405,
+      "": null
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "For the Tax": 286,
+      "Against the Tax": 95,
+      "Total Votes Cast": 381,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 423,
+      "": null
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "For the Tax": 168,
+      "Against the Tax": 80,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 268,
+      "": null
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "For the Tax": 359,
+      "Against the Tax": 123,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 513,
+      "": null
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "For the Tax": 119,
+      "Against the Tax": 68,
+      "Total Votes Cast": 187,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 204,
+      "": null
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "For the Tax": 174,
+      "Against the Tax": 105,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 303,
+      "": null
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "For the Tax": 414,
+      "Against the Tax": 110,
+      "Total Votes Cast": 524,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 559,
+      "": null
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "For the Tax": 316,
+      "Against the Tax": 121,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 472,
+      "": null
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "For the Tax": 344,
+      "Against the Tax": 141,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 533,
+      "": null
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "For the Tax": 256,
+      "Against the Tax": 96,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 378,
+      "": null
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "For the Tax": 286,
+      "Against the Tax": 115,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 443,
+      "": null
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "For the Tax": 322,
+      "Against the Tax": 107,
+      "Total Votes Cast": 429,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 454,
+      "": null
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "For the Tax": 248,
+      "Against the Tax": 82,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 350,
+      "": null
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "For the Tax": 265,
+      "Against the Tax": 103,
+      "Total Votes Cast": 368,
+      "Overvotes": 1,
+      "Undervotes": 29,
+      "Contest Total": 398,
+      "": null
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "For the Tax": 499,
+      "Against the Tax": 212,
+      "Total Votes Cast": 711,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 748,
+      "": null
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "For the Tax": 282,
+      "Against the Tax": 130,
+      "Total Votes Cast": 412,
+      "Overvotes": 1,
+      "Undervotes": 33,
+      "Contest Total": 446,
+      "": null
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "For the Tax": 249,
+      "Against the Tax": 81,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 346,
+      "": null
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "For the Tax": 281,
+      "Against the Tax": 149,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 466,
+      "": null
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "For the Tax": 337,
+      "Against the Tax": 127,
+      "Total Votes Cast": 464,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 494,
+      "": null
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "For the Tax": 199,
+      "Against the Tax": 86,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 314,
+      "": null
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "For the Tax": 247,
+      "Against the Tax": 74,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 337,
+      "": null
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "For the Tax": 380,
+      "Against the Tax": 158,
+      "Total Votes Cast": 538,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 570,
+      "": null
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "For the Tax": 272,
+      "Against the Tax": 108,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 415,
+      "": null
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "For the Tax": 256,
+      "Against the Tax": 134,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 406,
+      "": null
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "For the Tax": 144,
+      "Against the Tax": 44,
+      "Total Votes Cast": 188,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 202,
+      "": null
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "For the Tax": 296,
+      "Against the Tax": 146,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 492,
+      "": null
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "For the Tax": 260,
+      "Against the Tax": 101,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 392,
+      "": null
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "For the Tax": 392,
+      "Against the Tax": 374,
+      "Total Votes Cast": 766,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 811,
+      "": null
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "For the Tax": 446,
+      "Against the Tax": 383,
+      "Total Votes Cast": 829,
+      "Overvotes": 1,
+      "Undervotes": 42,
+      "Contest Total": 872,
+      "": null
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "For the Tax": 238,
+      "Against the Tax": 306,
+      "Total Votes Cast": 544,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 573,
+      "": null
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "For the Tax": 268,
+      "Against the Tax": 312,
+      "Total Votes Cast": 580,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 619,
+      "": null
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "For the Tax": 267,
+      "Against the Tax": 84,
+      "Total Votes Cast": 351,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 373,
+      "": null
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "For the Tax": 255,
+      "Against the Tax": 89,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 371,
+      "": null
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "For the Tax": 396,
+      "Against the Tax": 134,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 570,
+      "": null
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "For the Tax": 492,
+      "Against the Tax": 192,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 720,
+      "": null
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "For the Tax": 412,
+      "Against the Tax": 112,
+      "Total Votes Cast": 524,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 554,
+      "": null
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "For the Tax": 561,
+      "Against the Tax": 194,
+      "Total Votes Cast": 755,
+      "Overvotes": 1,
+      "Undervotes": 54,
+      "Contest Total": 810,
+      "": null
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "For the Tax": 408,
+      "Against the Tax": 126,
+      "Total Votes Cast": 534,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 555,
+      "": null
+    },
+    {
+      "Precinct": "ENG-A",
+      "For the Tax": 434,
+      "Against the Tax": 367,
+      "Total Votes Cast": 801,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 833,
+      "": null
+    },
+    {
+      "Precinct": "ENG-B",
+      "For the Tax": 374,
+      "Against the Tax": 366,
+      "Total Votes Cast": 740,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 774,
+      "": null
+    },
+    {
+      "Precinct": "ENG-C",
+      "For the Tax": 406,
+      "Against the Tax": 295,
+      "Total Votes Cast": 701,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 731,
+      "": null
+    },
+    {
+      "Precinct": "ENG-D",
+      "For the Tax": 402,
+      "Against the Tax": 442,
+      "Total Votes Cast": 844,
+      "Overvotes": 1,
+      "Undervotes": 37,
+      "Contest Total": 882,
+      "": null
+    },
+    {
+      "Precinct": "ENG-E",
+      "For the Tax": 451,
+      "Against the Tax": 352,
+      "Total Votes Cast": 803,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 848,
+      "": null
+    },
+    {
+      "Precinct": "ENG-F",
+      "For the Tax": 341,
+      "Against the Tax": 336,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 697,
+      "": null
+    },
+    {
+      "Precinct": "ENG-G",
+      "For the Tax": 412,
+      "Against the Tax": 371,
+      "Total Votes Cast": 783,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 815,
+      "": null
+    },
+    {
+      "Precinct": "ENG-H",
+      "For the Tax": 321,
+      "Against the Tax": 275,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 625,
+      "": null
+    },
+    {
+      "Precinct": "ENG-I",
+      "For the Tax": 305,
+      "Against the Tax": 256,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 584,
+      "": null
+    },
+    {
+      "Precinct": "ENG-J",
+      "For the Tax": 377,
+      "Against the Tax": 311,
+      "Total Votes Cast": 688,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 713,
+      "": null
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "For the Tax": 52,
+      "Against the Tax": 152,
+      "Total Votes Cast": 204,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 217,
+      "": null
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "For the Tax": 7,
+      "Against the Tax": 29,
+      "Total Votes Cast": 36,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 39,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "For the Tax": 154,
+      "Against the Tax": 240,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 433,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "For the Tax": 231,
+      "Against the Tax": 271,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 539,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "For the Tax": 223,
+      "Against the Tax": 296,
+      "Total Votes Cast": 519,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 566,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "For the Tax": 415,
+      "Against the Tax": 339,
+      "Total Votes Cast": 754,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 797,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "For the Tax": 139,
+      "Against the Tax": 173,
+      "Total Votes Cast": 312,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 341,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "For the Tax": 228,
+      "Against the Tax": 79,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 321,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "For the Tax": 328,
+      "Against the Tax": 183,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 545,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "For the Tax": 371,
+      "Against the Tax": 157,
+      "Total Votes Cast": 528,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 582,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "For the Tax": 355,
+      "Against the Tax": 155,
+      "Total Votes Cast": 510,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 546,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "For the Tax": 363,
+      "Against the Tax": 135,
+      "Total Votes Cast": 498,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 535,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "For the Tax": 343,
+      "Against the Tax": 139,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 531,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "For the Tax": 454,
+      "Against the Tax": 279,
+      "Total Votes Cast": 733,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 762,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "For the Tax": 568,
+      "Against the Tax": 245,
+      "Total Votes Cast": 813,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 854,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "For the Tax": 200,
+      "Against the Tax": 259,
+      "Total Votes Cast": 459,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 505,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "For the Tax": 481,
+      "Against the Tax": 207,
+      "Total Votes Cast": 688,
+      "Overvotes": 1,
+      "Undervotes": 56,
+      "Contest Total": 745,
+      "": null
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "For the Tax": 301,
+      "Against the Tax": 463,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 811,
+      "": null
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "For the Tax": 447,
+      "Against the Tax": 467,
+      "Total Votes Cast": 914,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 970,
+      "": null
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "For the Tax": 369,
+      "Against the Tax": 307,
+      "Total Votes Cast": 676,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 734,
+      "": null
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "For the Tax": 359,
+      "Against the Tax": 495,
+      "Total Votes Cast": 854,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 901,
+      "": null
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "For the Tax": 363,
+      "Against the Tax": 418,
+      "Total Votes Cast": 781,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 833,
+      "": null
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "For the Tax": 351,
+      "Against the Tax": 481,
+      "Total Votes Cast": 832,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 885,
+      "": null
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "For the Tax": 273,
+      "Against the Tax": 321,
+      "Total Votes Cast": 594,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 629,
+      "": null
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "For the Tax": 297,
+      "Against the Tax": 236,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 579,
+      "": null
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "For the Tax": 264,
+      "Against the Tax": 287,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 589,
+      "": null
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "For the Tax": 345,
+      "Against the Tax": 433,
+      "Total Votes Cast": 778,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 844,
+      "": null
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "For the Tax": 316,
+      "Against the Tax": 293,
+      "Total Votes Cast": 609,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 649,
+      "": null
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "For the Tax": 340,
+      "Against the Tax": 396,
+      "Total Votes Cast": 736,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 803,
+      "": null
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "For the Tax": 286,
+      "Against the Tax": 416,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 754,
+      "": null
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "For the Tax": 383,
+      "Against the Tax": 398,
+      "Total Votes Cast": 781,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 836,
+      "": null
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "For the Tax": 362,
+      "Against the Tax": 384,
+      "Total Votes Cast": 746,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 797,
+      "": null
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "For the Tax": 331,
+      "Against the Tax": 349,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 744,
+      "": null
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "For the Tax": 333,
+      "Against the Tax": 363,
+      "Total Votes Cast": 696,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 744,
+      "": null
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "For the Tax": 297,
+      "Against the Tax": 392,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 749,
+      "": null
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "For the Tax": 305,
+      "Against the Tax": 418,
+      "Total Votes Cast": 723,
+      "Overvotes": 1,
+      "Undervotes": 46,
+      "Contest Total": 770,
+      "": null
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "For the Tax": 270,
+      "Against the Tax": 326,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 637,
+      "": null
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "For the Tax": 324,
+      "Against the Tax": 497,
+      "Total Votes Cast": 821,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 864,
+      "": null
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "For the Tax": 306,
+      "Against the Tax": 442,
+      "Total Votes Cast": 748,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 807,
+      "": null
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "For the Tax": 277,
+      "Against the Tax": 426,
+      "Total Votes Cast": 703,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 757,
+      "": null
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "For the Tax": 130,
+      "Against the Tax": 396,
+      "Total Votes Cast": 526,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 547,
+      "": null
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "For the Tax": 0,
+      "Against the Tax": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0,
+      "": null
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "For the Tax": 353,
+      "Against the Tax": 545,
+      "Total Votes Cast": 898,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 938,
+      "": null
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "For the Tax": 285,
+      "Against the Tax": 228,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 551,
+      "": null
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "For the Tax": 195,
+      "Against the Tax": 474,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 689,
+      "": null
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "For the Tax": 452,
+      "Against the Tax": 199,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 681,
+      "": null
+    },
+    {
+      "Precinct": "JNLB-A",
+      "For the Tax": 131,
+      "Against the Tax": 319,
+      "Total Votes Cast": 450,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 479,
+      "": null
+    },
+    {
+      "Precinct": "JNLB-B",
+      "For the Tax": 214,
+      "Against the Tax": 480,
+      "Total Votes Cast": 694,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 748,
+      "": null
+    },
+    {
+      "Precinct": "KT 1-A",
+      "For the Tax": 416,
+      "Against the Tax": 214,
+      "Total Votes Cast": 630,
+      "Overvotes": 1,
+      "Undervotes": 26,
+      "Contest Total": 657,
+      "": null
+    },
+    {
+      "Precinct": "KT 1-B",
+      "For the Tax": 294,
+      "Against the Tax": 301,
+      "Total Votes Cast": 595,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 651,
+      "": null
+    },
+    {
+      "Precinct": "KT 1-C",
+      "For the Tax": 423,
+      "Against the Tax": 411,
+      "Total Votes Cast": 834,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 874,
+      "": null
+    },
+    {
+      "Precinct": "KT 1-D",
+      "For the Tax": 434,
+      "Against the Tax": 350,
+      "Total Votes Cast": 784,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 841,
+      "": null
+    },
+    {
+      "Precinct": "KT 1-E",
+      "For the Tax": 311,
+      "Against the Tax": 334,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 680,
+      "": null
+    },
+    {
+      "Precinct": "KT 1-F",
+      "For the Tax": 325,
+      "Against the Tax": 296,
+      "Total Votes Cast": 621,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 667,
+      "": null
+    },
+    {
+      "Precinct": "KT 1-G",
+      "For the Tax": 310,
+      "Against the Tax": 344,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 705,
+      "": null
+    },
+    {
+      "Precinct": "KT 1-H",
+      "For the Tax": 462,
+      "Against the Tax": 398,
+      "Total Votes Cast": 860,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 910,
+      "": null
+    },
+    {
+      "Precinct": "KT 1-I",
+      "For the Tax": 397,
+      "Against the Tax": 336,
+      "Total Votes Cast": 733,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 781,
+      "": null
+    },
+    {
+      "Precinct": "KT 2-A",
+      "For the Tax": 382,
+      "Against the Tax": 342,
+      "Total Votes Cast": 724,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 762,
+      "": null
+    },
+    {
+      "Precinct": "KT 2-B",
+      "For the Tax": 397,
+      "Against the Tax": 311,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 738,
+      "": null
+    },
+    {
+      "Precinct": "KT 2-C",
+      "For the Tax": 425,
+      "Against the Tax": 332,
+      "Total Votes Cast": 757,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 792,
+      "": null
+    },
+    {
+      "Precinct": "KT 2-D",
+      "For the Tax": 437,
+      "Against the Tax": 401,
+      "Total Votes Cast": 838,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 873,
+      "": null
+    },
+    {
+      "Precinct": "KT 2-E",
+      "For the Tax": 428,
+      "Against the Tax": 359,
+      "Total Votes Cast": 787,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 809,
+      "": null
+    },
+    {
+      "Precinct": "KT 2-F",
+      "For the Tax": 338,
+      "Against the Tax": 299,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 663,
+      "": null
+    },
+    {
+      "Precinct": "KT 2-G",
+      "For the Tax": 488,
+      "Against the Tax": 498,
+      "Total Votes Cast": 986,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 1029,
+      "": null
+    },
+    {
+      "Precinct": "KT 2-H",
+      "For the Tax": 431,
+      "Against the Tax": 393,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 871,
+      "": null
+    },
+    {
+      "Precinct": "KT 2-I",
+      "For the Tax": 341,
+      "Against the Tax": 285,
+      "Total Votes Cast": 626,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 660,
+      "": null
+    },
+    {
+      "Precinct": "KT 2-J",
+      "For the Tax": 320,
+      "Against the Tax": 202,
+      "Total Votes Cast": 522,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 554,
+      "": null
+    },
+    {
+      "Precinct": "KT 3-A",
+      "For the Tax": 502,
+      "Against the Tax": 287,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 827,
+      "": null
+    },
+    {
+      "Precinct": "KT 3-B",
+      "For the Tax": 498,
+      "Against the Tax": 280,
+      "Total Votes Cast": 778,
+      "Overvotes": 1,
+      "Undervotes": 33,
+      "Contest Total": 812,
+      "": null
+    },
+    {
+      "Precinct": "KT 3-C",
+      "For the Tax": 414,
+      "Against the Tax": 348,
+      "Total Votes Cast": 762,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 792,
+      "": null
+    },
+    {
+      "Precinct": "KT 3-D",
+      "For the Tax": 433,
+      "Against the Tax": 217,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 701,
+      "": null
+    },
+    {
+      "Precinct": "KT 3-E",
+      "For the Tax": 441,
+      "Against the Tax": 360,
+      "Total Votes Cast": 801,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 845,
+      "": null
+    },
+    {
+      "Precinct": "KT 3-F",
+      "For the Tax": 389,
+      "Against the Tax": 255,
+      "Total Votes Cast": 644,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 683,
+      "": null
+    },
+    {
+      "Precinct": "KT 3-G",
+      "For the Tax": 363,
+      "Against the Tax": 291,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 677,
+      "": null
+    },
+    {
+      "Precinct": "KT 3-H",
+      "For the Tax": 420,
+      "Against the Tax": 352,
+      "Total Votes Cast": 772,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 807,
+      "": null
+    },
+    {
+      "Precinct": "KT 3-I",
+      "For the Tax": 383,
+      "Against the Tax": 275,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 681,
+      "": null
+    },
+    {
+      "Precinct": "KT 3-J",
+      "For the Tax": 374,
+      "Against the Tax": 277,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 671,
+      "": null
+    },
+    {
+      "Precinct": "KT 3-K",
+      "For the Tax": 511,
+      "Against the Tax": 398,
+      "Total Votes Cast": 909,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 944,
+      "": null
+    },
+    {
+      "Precinct": "KT 4-A",
+      "For the Tax": 574,
+      "Against the Tax": 323,
+      "Total Votes Cast": 897,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 920,
+      "": null
+    },
+    {
+      "Precinct": "KT 4-B",
+      "For the Tax": 633,
+      "Against the Tax": 268,
+      "Total Votes Cast": 901,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 938,
+      "": null
+    },
+    {
+      "Precinct": "KT 4-C",
+      "For the Tax": 291,
+      "Against the Tax": 246,
+      "Total Votes Cast": 537,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 563,
+      "": null
+    },
+    {
+      "Precinct": "KT 4-D",
+      "For the Tax": 496,
+      "Against the Tax": 293,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 814,
+      "": null
+    },
+    {
+      "Precinct": "KT 4-E",
+      "For the Tax": 423,
+      "Against the Tax": 261,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 729,
+      "": null
+    },
+    {
+      "Precinct": "KT 4-F",
+      "For the Tax": 480,
+      "Against the Tax": 273,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 769,
+      "": null
+    },
+    {
+      "Precinct": "KT 4-G",
+      "For the Tax": 558,
+      "Against the Tax": 412,
+      "Total Votes Cast": 970,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 993,
+      "": null
+    },
+    {
+      "Precinct": "KT 4-H",
+      "For the Tax": 336,
+      "Against the Tax": 299,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 675,
+      "": null
+    },
+    {
+      "Precinct": "KT 4-I",
+      "For the Tax": 546,
+      "Against the Tax": 262,
+      "Total Votes Cast": 808,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 845,
+      "": null
+    },
+    {
+      "Precinct": "KT 4-J",
+      "For the Tax": 519,
+      "Against the Tax": 211,
+      "Total Votes Cast": 730,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 763,
+      "": null
+    },
+    {
+      "Precinct": "KT 4-K",
+      "For the Tax": 463,
+      "Against the Tax": 293,
+      "Total Votes Cast": 756,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 788,
+      "": null
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "For the Tax": 341,
+      "Against the Tax": 507,
+      "Total Votes Cast": 848,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 898,
+      "": null
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "For the Tax": 287,
+      "Against the Tax": 522,
+      "Total Votes Cast": 809,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 856,
+      "": null
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "For the Tax": 354,
+      "Against the Tax": 386,
+      "Total Votes Cast": 740,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 776,
+      "": null
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "For the Tax": 267,
+      "Against the Tax": 309,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 610,
+      "": null
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "For the Tax": 304,
+      "Against the Tax": 447,
+      "Total Votes Cast": 751,
+      "Overvotes": 1,
+      "Undervotes": 54,
+      "Contest Total": 806,
+      "": null
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "For the Tax": 299,
+      "Against the Tax": 519,
+      "Total Votes Cast": 818,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 860,
+      "": null
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "For the Tax": 259,
+      "Against the Tax": 312,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 596,
+      "": null
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "For the Tax": 319,
+      "Against the Tax": 436,
+      "Total Votes Cast": 755,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 794,
+      "": null
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "For the Tax": 319,
+      "Against the Tax": 329,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 691,
+      "": null
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "For the Tax": 324,
+      "Against the Tax": 475,
+      "Total Votes Cast": 799,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 841,
+      "": null
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "For the Tax": 276,
+      "Against the Tax": 424,
+      "Total Votes Cast": 700,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 740,
+      "": null
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "For the Tax": 275,
+      "Against the Tax": 360,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 660,
+      "": null
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "For the Tax": 248,
+      "Against the Tax": 317,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 597,
+      "": null
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "For the Tax": 386,
+      "Against the Tax": 676,
+      "Total Votes Cast": 1062,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 1098,
+      "": 1098
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "For the Tax": 397,
+      "Against the Tax": 368,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 814,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "For the Tax": 373,
+      "Against the Tax": 302,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 716,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "For the Tax": 223,
+      "Against the Tax": 574,
+      "Total Votes Cast": 797,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 840,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "For the Tax": 327,
+      "Against the Tax": 341,
+      "Total Votes Cast": 668,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 708,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "For the Tax": 423,
+      "Against the Tax": 516,
+      "Total Votes Cast": 939,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 970,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "For the Tax": 387,
+      "Against the Tax": 321,
+      "Total Votes Cast": 708,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 754,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "For the Tax": 301,
+      "Against the Tax": 329,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 679,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "For the Tax": 322,
+      "Against the Tax": 343,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 702,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "For the Tax": 214,
+      "Against the Tax": 183,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 428,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "For the Tax": 153,
+      "Against the Tax": 504,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 696,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "For the Tax": 396,
+      "Against the Tax": 497,
+      "Total Votes Cast": 893,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 937,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "For the Tax": 296,
+      "Against the Tax": 285,
+      "Total Votes Cast": 581,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 612,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "For the Tax": 344,
+      "Against the Tax": 317,
+      "Total Votes Cast": 661,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 699,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "For the Tax": 402,
+      "Against the Tax": 373,
+      "Total Votes Cast": 775,
+      "Overvotes": 1,
+      "Undervotes": 25,
+      "Contest Total": 801,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "For the Tax": 329,
+      "Against the Tax": 382,
+      "Total Votes Cast": 711,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 749,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "For the Tax": 307,
+      "Against the Tax": 183,
+      "Total Votes Cast": 490,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 523,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "For the Tax": 418,
+      "Against the Tax": 336,
+      "Total Votes Cast": 754,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 795,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "For the Tax": 220,
+      "Against the Tax": 177,
+      "Total Votes Cast": 397,
+      "Overvotes": 1,
+      "Undervotes": 29,
+      "Contest Total": 427,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "For the Tax": 260,
+      "Against the Tax": 446,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 750,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "For the Tax": 281,
+      "Against the Tax": 304,
+      "Total Votes Cast": 585,
+      "Overvotes": 1,
+      "Undervotes": 39,
+      "Contest Total": 625,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "For the Tax": 313,
+      "Against the Tax": 250,
+      "Total Votes Cast": 563,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 599,
+      "": null
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "For the Tax": 324,
+      "Against the Tax": 358,
+      "Total Votes Cast": 682,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 734,
+      "": null
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "For the Tax": 172,
+      "Against the Tax": 258,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 461,
+      "": null
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "For the Tax": 319,
+      "Against the Tax": 479,
+      "Total Votes Cast": 798,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 832,
+      "": null
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "For the Tax": 192,
+      "Against the Tax": 300,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 527,
+      "": null
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "For the Tax": 220,
+      "Against the Tax": 210,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 467,
+      "": null
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "For the Tax": 228,
+      "Against the Tax": 134,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 383,
+      "": null
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "For the Tax": 128,
+      "Against the Tax": 446,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 598,
+      "": null
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "For the Tax": 199,
+      "Against the Tax": 429,
+      "Total Votes Cast": 628,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 652,
+      "": null
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "For the Tax": 152,
+      "Against the Tax": 584,
+      "Total Votes Cast": 736,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 768,
+      "": null
+    },
+    {
+      "Precinct": "PHBG",
+      "For the Tax": 67,
+      "Against the Tax": 163,
+      "Total Votes Cast": 230,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 237,
+      "": null
+    },
+    {
+      "Precinct": "PM",
+      "For the Tax": 271,
+      "Against the Tax": 205,
+      "Total Votes Cast": 476,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 526,
+      "": null
+    },
+    {
+      "Precinct": "PNLB",
+      "For the Tax": 175,
+      "Against the Tax": 326,
+      "Total Votes Cast": 501,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 531,
+      "": null
+    },
+    {
+      "Precinct": "RV-A",
+      "For the Tax": 313,
+      "Against the Tax": 316,
+      "Total Votes Cast": 629,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 667,
+      "": null
+    },
+    {
+      "Precinct": "RV-B",
+      "For the Tax": 191,
+      "Against the Tax": 319,
+      "Total Votes Cast": 510,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 560,
+      "": null
+    },
+    {
+      "Precinct": "RV-C",
+      "For the Tax": 359,
+      "Against the Tax": 287,
+      "Total Votes Cast": 646,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 708,
+      "": null
+    },
+    {
+      "Precinct": "RV-D",
+      "For the Tax": 264,
+      "Against the Tax": 399,
+      "Total Votes Cast": 663,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 728,
+      "": null
+    },
+    {
+      "Precinct": "RV-E",
+      "For the Tax": 215,
+      "Against the Tax": 350,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 619,
+      "": null
+    },
+    {
+      "Precinct": "RV-F",
+      "For the Tax": 307,
+      "Against the Tax": 248,
+      "Total Votes Cast": 555,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 601,
+      "": null
+    },
+    {
+      "Precinct": "RV-G",
+      "For the Tax": 185,
+      "Against the Tax": 302,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 536,
+      "": null
+    },
+    {
+      "Precinct": "RV-H",
+      "For the Tax": 163,
+      "Against the Tax": 149,
+      "Total Votes Cast": 312,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 360,
+      "": null
+    },
+    {
+      "Precinct": "RV-I",
+      "For the Tax": 204,
+      "Against the Tax": 277,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 526,
+      "": null
+    },
+    {
+      "Precinct": "RV-J",
+      "For the Tax": 191,
+      "Against the Tax": 277,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 512,
+      "": null
+    },
+    {
+      "Precinct": "RV-K",
+      "For the Tax": 316,
+      "Against the Tax": 342,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 690,
+      "": null
+    },
+    {
+      "Precinct": "RV-L",
+      "For the Tax": 154,
+      "Against the Tax": 219,
+      "Total Votes Cast": 373,
+      "Overvotes": 1,
+      "Undervotes": 46,
+      "Contest Total": 420,
+      "": null
+    },
+    {
+      "Precinct": "RV-M",
+      "For the Tax": 306,
+      "Against the Tax": 361,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 714,
+      "": null
+    },
+    {
+      "Precinct": "RV-N",
+      "For the Tax": 186,
+      "Against the Tax": 275,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 522,
+      "": null
+    },
+    {
+      "Precinct": "RV-O",
+      "For the Tax": 261,
+      "Against the Tax": 394,
+      "Total Votes Cast": 655,
+      "Overvotes": 1,
+      "Undervotes": 60,
+      "Contest Total": 716,
+      "": null
+    },
+    {
+      "Precinct": "RV-P",
+      "For the Tax": 333,
+      "Against the Tax": 385,
+      "Total Votes Cast": 718,
+      "Overvotes": 1,
+      "Undervotes": 37,
+      "Contest Total": 756,
+      "": null
+    },
+    {
+      "Precinct": "TR 1-A",
+      "For the Tax": 412,
+      "Against the Tax": 276,
+      "Total Votes Cast": 688,
+      "Overvotes": 1,
+      "Undervotes": 44,
+      "Contest Total": 733,
+      "": null
+    },
+    {
+      "Precinct": "TR 1-B",
+      "For the Tax": 202,
+      "Against the Tax": 179,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 406,
+      "": null
+    },
+    {
+      "Precinct": "TR 1-C",
+      "For the Tax": 336,
+      "Against the Tax": 156,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 533,
+      "": null
+    },
+    {
+      "Precinct": "TR 1-D",
+      "For the Tax": 279,
+      "Against the Tax": 128,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 440,
+      "": null
+    },
+    {
+      "Precinct": "TR 1-E",
+      "For the Tax": 457,
+      "Against the Tax": 230,
+      "Total Votes Cast": 687,
+      "Overvotes": 1,
+      "Undervotes": 42,
+      "Contest Total": 730,
+      "": null
+    },
+    {
+      "Precinct": "TR 2-A",
+      "For the Tax": 407,
+      "Against the Tax": 174,
+      "Total Votes Cast": 581,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 612,
+      "": null
+    },
+    {
+      "Precinct": "TR 2-B",
+      "For the Tax": 460,
+      "Against the Tax": 213,
+      "Total Votes Cast": 673,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 709,
+      "": null
+    },
+    {
+      "Precinct": "TR 2-C",
+      "For the Tax": 337,
+      "Against the Tax": 137,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 518,
+      "": null
+    },
+    {
+      "Precinct": "TR 2-D",
+      "For the Tax": 255,
+      "Against the Tax": 152,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 429,
+      "": null
+    },
+    {
+      "Precinct": "TR 2-E",
+      "For the Tax": 354,
+      "Against the Tax": 130,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 504,
+      "": null
+    },
+    {
+      "Precinct": "TR 3-A",
+      "For the Tax": 247,
+      "Against the Tax": 196,
+      "Total Votes Cast": 443,
+      "Overvotes": 1,
+      "Undervotes": 28,
+      "Contest Total": 472,
+      "": null
+    },
+    {
+      "Precinct": "TR 3-B",
+      "For the Tax": 237,
+      "Against the Tax": 334,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 609,
+      "": null
+    },
+    {
+      "Precinct": "TR 3-C",
+      "For the Tax": 216,
+      "Against the Tax": 223,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 469,
+      "": null
+    },
+    {
+      "Precinct": "TR 3-D",
+      "For the Tax": 414,
+      "Against the Tax": 218,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 681,
+      "": null
+    },
+    {
+      "Precinct": "TR 4-A",
+      "For the Tax": 424,
+      "Against the Tax": 212,
+      "Total Votes Cast": 636,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 669,
+      "": null
+    },
+    {
+      "Precinct": "TR 4-B",
+      "For the Tax": 340,
+      "Against the Tax": 188,
+      "Total Votes Cast": 528,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 562,
+      "": null
+    },
+    {
+      "Precinct": "TR 4-C",
+      "For the Tax": 280,
+      "Against the Tax": 137,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 449,
+      "": null
+    },
+    {
+      "Precinct": "TR 4-D",
+      "For the Tax": 288,
+      "Against the Tax": 146,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 467,
+      "": null
+    },
+    {
+      "Precinct": "UN-A",
+      "For the Tax": 188,
+      "Against the Tax": 266,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 477,
+      "": null
+    },
+    {
+      "Precinct": "UN-B",
+      "For the Tax": 301,
+      "Against the Tax": 389,
+      "Total Votes Cast": 690,
+      "Overvotes": 1,
+      "Undervotes": 25,
+      "Contest Total": 716,
+      "": null
+    },
+    {
+      "Precinct": "UN-C",
+      "For the Tax": 312,
+      "Against the Tax": 457,
+      "Total Votes Cast": 769,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 798,
+      "": null
+    },
+    {
+      "Precinct": "UN-D",
+      "For the Tax": 370,
+      "Against the Tax": 441,
+      "Total Votes Cast": 811,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 843,
+      "": null
+    },
+    {
+      "Precinct": "UN-E",
+      "For the Tax": 299,
+      "Against the Tax": 488,
+      "Total Votes Cast": 787,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 824,
+      "": null
+    },
+    {
+      "Precinct": "VD-A",
+      "For the Tax": 320,
+      "Against the Tax": 355,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 714,
+      "": null
+    },
+    {
+      "Precinct": "VD-B",
+      "For the Tax": 190,
+      "Against the Tax": 236,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 445,
+      "": null
+    },
+    {
+      "Precinct": "VD-C",
+      "For the Tax": 334,
+      "Against the Tax": 462,
+      "Total Votes Cast": 796,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 835,
+      "": null
+    },
+    {
+      "Precinct": "VD-D",
+      "For the Tax": 376,
+      "Against the Tax": 335,
+      "Total Votes Cast": 711,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 741,
+      "": null
+    },
+    {
+      "Precinct": "VD-E",
+      "For the Tax": 239,
+      "Against the Tax": 278,
+      "Total Votes Cast": 517,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 548,
+      "": null
+    },
+    {
+      "Precinct": "VD-F",
+      "For the Tax": 368,
+      "Against the Tax": 447,
+      "Total Votes Cast": 815,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 847,
+      "": null
+    },
+    {
+      "Precinct": "VD-G",
+      "For the Tax": 303,
+      "Against the Tax": 334,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 661,
+      "": null
+    },
+    {
+      "Precinct": "VD-H",
+      "For the Tax": 370,
+      "Against the Tax": 504,
+      "Total Votes Cast": 874,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 903,
+      "": null
+    },
+    {
+      "Precinct": "VD-I",
+      "For the Tax": 324,
+      "Against the Tax": 393,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 750,
+      "": null
+    },
+    {
+      "Precinct": "VD-J",
+      "For the Tax": 378,
+      "Against the Tax": 531,
+      "Total Votes Cast": 909,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 951,
+      "": null
+    },
+    {
+      "Precinct": "VD-K",
+      "For the Tax": 423,
+      "Against the Tax": 415,
+      "Total Votes Cast": 838,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 878,
+      "": null
+    },
+    {
+      "Precinct": "WCR-A",
+      "For the Tax": 346,
+      "Against the Tax": 307,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 700,
+      "": null
+    },
+    {
+      "Precinct": "WCR-B",
+      "For the Tax": 301,
+      "Against the Tax": 386,
+      "Total Votes Cast": 687,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 728,
+      "": null
+    },
+    {
+      "Precinct": "WCR-C",
+      "For the Tax": 292,
+      "Against the Tax": 419,
+      "Total Votes Cast": 711,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 752,
+      "": null
+    },
+    {
+      "Precinct": "WCR-D",
+      "For the Tax": 299,
+      "Against the Tax": 400,
+      "Total Votes Cast": 699,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 732,
+      "": null
+    },
+    {
+      "Precinct": "WCR-E",
+      "For the Tax": 270,
+      "Against the Tax": 176,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 477,
+      "": null
+    },
+    {
+      "Precinct": "WCR-F",
+      "For the Tax": 311,
+      "Against the Tax": 227,
+      "Total Votes Cast": 538,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 567,
+      "": null
+    },
+    {
+      "Precinct": "WCR-G",
+      "For the Tax": 377,
+      "Against the Tax": 336,
+      "Total Votes Cast": 713,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 753,
+      "": null
+    },
+    {
+      "Precinct": "WCR-H",
+      "For the Tax": 289,
+      "Against the Tax": 378,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 713,
+      "": null
+    },
+    {
+      "Precinct": "WCR-I",
+      "For the Tax": 297,
+      "Against the Tax": 184,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 519,
+      "": null
+    }
+  ]
+}

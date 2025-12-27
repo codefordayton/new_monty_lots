@@ -1,0 +1,15 @@
+{
+  "race": "City of Carlisle - Gas Aggregation",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MIATWP-J",
+      "Yes": 57,
+      "No": 75,
+      "Total Votes Cast": 132,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 152
+    }
+  ]
+}

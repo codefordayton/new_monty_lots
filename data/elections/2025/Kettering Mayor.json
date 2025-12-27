@@ -1,0 +1,402 @@
+{
+  "race": "Kettering Mayor",
+  "precincts": 44,
+  "results": [
+    {
+      "Precinct": "KT 1-A",
+      "Bob Scott": 62,
+      "Bryan N. Suddith": 113,
+      "Total Votes Cast": 175,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 181
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Bob Scott": 77,
+      "Bryan N. Suddith": 87,
+      "Total Votes Cast": 164,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 167
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Bob Scott": 141,
+      "Bryan N. Suddith": 131,
+      "Total Votes Cast": 272,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 280
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Bob Scott": 103,
+      "Bryan N. Suddith": 147,
+      "Total Votes Cast": 250,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 261
+    },
+    {
+      "Precinct": "KT 1-E1",
+      "Bob Scott": 62,
+      "Bryan N. Suddith": 77,
+      "Total Votes Cast": 139,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 141
+    },
+    {
+      "Precinct": "KT 1-E2",
+      "Bob Scott": 29,
+      "Bryan N. Suddith": 46,
+      "Total Votes Cast": 75,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 80
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Bob Scott": 74,
+      "Bryan N. Suddith": 137,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 218
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Bob Scott": 77,
+      "Bryan N. Suddith": 104,
+      "Total Votes Cast": 181,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 192
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Bob Scott": 84,
+      "Bryan N. Suddith": 132,
+      "Total Votes Cast": 216,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 221
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Bob Scott": 116,
+      "Bryan N. Suddith": 134,
+      "Total Votes Cast": 250,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 254
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Bob Scott": 93,
+      "Bryan N. Suddith": 144,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 249
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Bob Scott": 138,
+      "Bryan N. Suddith": 183,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 325
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Bob Scott": 103,
+      "Bryan N. Suddith": 191,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 296
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Bob Scott": 113,
+      "Bryan N. Suddith": 145,
+      "Total Votes Cast": 258,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 269
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Bob Scott": 113,
+      "Bryan N. Suddith": 162,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 278
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Bob Scott": 90,
+      "Bryan N. Suddith": 119,
+      "Total Votes Cast": 209,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 216
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Bob Scott": 170,
+      "Bryan N. Suddith": 198,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 378
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Bob Scott": 149,
+      "Bryan N. Suddith": 187,
+      "Total Votes Cast": 336,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Bob Scott": 105,
+      "Bryan N. Suddith": 169,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Bob Scott": 41,
+      "Bryan N. Suddith": 81,
+      "Total Votes Cast": 122,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 126
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Bob Scott": 78,
+      "Bryan N. Suddith": 204,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 291
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Bob Scott": 93,
+      "Bryan N. Suddith": 238,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 340
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Bob Scott": 139,
+      "Bryan N. Suddith": 200,
+      "Total Votes Cast": 339,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 349
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Bob Scott": 54,
+      "Bryan N. Suddith": 98,
+      "Total Votes Cast": 152,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 162
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Bob Scott": 103,
+      "Bryan N. Suddith": 187,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 292
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Bob Scott": 91,
+      "Bryan N. Suddith": 121,
+      "Total Votes Cast": 212,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 224
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Bob Scott": 90,
+      "Bryan N. Suddith": 189,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 286
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Bob Scott": 102,
+      "Bryan N. Suddith": 187,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 296
+    },
+    {
+      "Precinct": "KT 3-I1",
+      "Bob Scott": 91,
+      "Bryan N. Suddith": 212,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "KT 3-I2",
+      "Bob Scott": 0,
+      "Bryan N. Suddith": 2,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 2
+    },
+    {
+      "Precinct": "KT 3-I3",
+      "Bob Scott": 0,
+      "Bryan N. Suddith": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Bob Scott": 103,
+      "Bryan N. Suddith": 244,
+      "Total Votes Cast": 347,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 353
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Bob Scott": 129,
+      "Bryan N. Suddith": 246,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Bob Scott": 123,
+      "Bryan N. Suddith": 298,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 438
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Bob Scott": 91,
+      "Bryan N. Suddith": 299,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Bob Scott": 86,
+      "Bryan N. Suddith": 135,
+      "Total Votes Cast": 221,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 224
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Bob Scott": 122,
+      "Bryan N. Suddith": 236,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Bob Scott": 102,
+      "Bryan N. Suddith": 167,
+      "Total Votes Cast": 269,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 273
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Bob Scott": 84,
+      "Bryan N. Suddith": 256,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 349
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Bob Scott": 151,
+      "Bryan N. Suddith": 329,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 492
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Bob Scott": 78,
+      "Bryan N. Suddith": 87,
+      "Total Votes Cast": 165,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 176
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Bob Scott": 87,
+      "Bryan N. Suddith": 249,
+      "Total Votes Cast": 336,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 352
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Bob Scott": 62,
+      "Bryan N. Suddith": 241,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 315
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Bob Scott": 83,
+      "Bryan N. Suddith": 211,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 301
+    }
+  ]
+}

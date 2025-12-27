@@ -1,0 +1,789 @@
+{
+  "race": "State Rep District 36",
+  "precincts": 87,
+  "results": [
+    {
+      "Precinct": "DAY 1-B",
+      "Rose Lounsbury (DEM)": 518,
+      "Andrea White (REP)": 185,
+      "Total Votes Cast": 703,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Rose Lounsbury (DEM)": 269,
+      "Andrea White (REP)": 91,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Rose Lounsbury (DEM)": 193,
+      "Andrea White (REP)": 218,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Rose Lounsbury (DEM)": 329,
+      "Andrea White (REP)": 161,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Rose Lounsbury (DEM)": 273,
+      "Andrea White (REP)": 218,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Rose Lounsbury (DEM)": 180,
+      "Andrea White (REP)": 180,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Rose Lounsbury (DEM)": 404,
+      "Andrea White (REP)": 446,
+      "Total Votes Cast": 850,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Rose Lounsbury (DEM)": 117,
+      "Andrea White (REP)": 136,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Rose Lounsbury (DEM)": 186,
+      "Andrea White (REP)": 275,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Rose Lounsbury (DEM)": 442,
+      "Andrea White (REP)": 348,
+      "Total Votes Cast": 790,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Rose Lounsbury (DEM)": 338,
+      "Andrea White (REP)": 331,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Rose Lounsbury (DEM)": 442,
+      "Andrea White (REP)": 409,
+      "Total Votes Cast": 851,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Rose Lounsbury (DEM)": 348,
+      "Andrea White (REP)": 426,
+      "Total Votes Cast": 774,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Rose Lounsbury (DEM)": 207,
+      "Andrea White (REP)": 265,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Rose Lounsbury (DEM)": 195,
+      "Andrea White (REP)": 170,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Rose Lounsbury (DEM)": 198,
+      "Andrea White (REP)": 205,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Rose Lounsbury (DEM)": 239,
+      "Andrea White (REP)": 169,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Rose Lounsbury (DEM)": 242,
+      "Andrea White (REP)": 317,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Rose Lounsbury (DEM)": 196,
+      "Andrea White (REP)": 246,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Rose Lounsbury (DEM)": 311,
+      "Andrea White (REP)": 121,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Rose Lounsbury (DEM)": 414,
+      "Andrea White (REP)": 116,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Rose Lounsbury (DEM)": 339,
+      "Andrea White (REP)": 284,
+      "Total Votes Cast": 623,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Rose Lounsbury (DEM)": 224,
+      "Andrea White (REP)": 390,
+      "Total Votes Cast": 614,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Rose Lounsbury (DEM)": 322,
+      "Andrea White (REP)": 500,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Rose Lounsbury (DEM)": 376,
+      "Andrea White (REP)": 417,
+      "Total Votes Cast": 793,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Rose Lounsbury (DEM)": 269,
+      "Andrea White (REP)": 370,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Rose Lounsbury (DEM)": 260,
+      "Andrea White (REP)": 372,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Rose Lounsbury (DEM)": 281,
+      "Andrea White (REP)": 392,
+      "Total Votes Cast": 673,
+      "Overvotes": 1,
+      "Undervotes": 35,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Rose Lounsbury (DEM)": 387,
+      "Andrea White (REP)": 486,
+      "Total Votes Cast": 873,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Rose Lounsbury (DEM)": 326,
+      "Andrea White (REP)": 417,
+      "Total Votes Cast": 743,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Rose Lounsbury (DEM)": 337,
+      "Andrea White (REP)": 390,
+      "Total Votes Cast": 727,
+      "Overvotes": 1,
+      "Undervotes": 38,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Rose Lounsbury (DEM)": 292,
+      "Andrea White (REP)": 414,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Rose Lounsbury (DEM)": 339,
+      "Andrea White (REP)": 414,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Rose Lounsbury (DEM)": 387,
+      "Andrea White (REP)": 439,
+      "Total Votes Cast": 826,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Rose Lounsbury (DEM)": 289,
+      "Andrea White (REP)": 475,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Rose Lounsbury (DEM)": 252,
+      "Andrea White (REP)": 375,
+      "Total Votes Cast": 627,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Rose Lounsbury (DEM)": 365,
+      "Andrea White (REP)": 622,
+      "Total Votes Cast": 987,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Rose Lounsbury (DEM)": 337,
+      "Andrea White (REP)": 492,
+      "Total Votes Cast": 829,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Rose Lounsbury (DEM)": 269,
+      "Andrea White (REP)": 368,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Rose Lounsbury (DEM)": 277,
+      "Andrea White (REP)": 251,
+      "Total Votes Cast": 528,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Rose Lounsbury (DEM)": 377,
+      "Andrea White (REP)": 415,
+      "Total Votes Cast": 792,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Rose Lounsbury (DEM)": 418,
+      "Andrea White (REP)": 370,
+      "Total Votes Cast": 788,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Rose Lounsbury (DEM)": 281,
+      "Andrea White (REP)": 476,
+      "Total Votes Cast": 757,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Rose Lounsbury (DEM)": 399,
+      "Andrea White (REP)": 263,
+      "Total Votes Cast": 662,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Rose Lounsbury (DEM)": 350,
+      "Andrea White (REP)": 462,
+      "Total Votes Cast": 812,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Rose Lounsbury (DEM)": 307,
+      "Andrea White (REP)": 340,
+      "Total Votes Cast": 647,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Rose Lounsbury (DEM)": 280,
+      "Andrea White (REP)": 381,
+      "Total Votes Cast": 661,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Rose Lounsbury (DEM)": 359,
+      "Andrea White (REP)": 415,
+      "Total Votes Cast": 774,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Rose Lounsbury (DEM)": 252,
+      "Andrea White (REP)": 417,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Rose Lounsbury (DEM)": 288,
+      "Andrea White (REP)": 364,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Rose Lounsbury (DEM)": 389,
+      "Andrea White (REP)": 514,
+      "Total Votes Cast": 903,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Rose Lounsbury (DEM)": 492,
+      "Andrea White (REP)": 400,
+      "Total Votes Cast": 892,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Rose Lounsbury (DEM)": 548,
+      "Andrea White (REP)": 345,
+      "Total Votes Cast": 893,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Rose Lounsbury (DEM)": 226,
+      "Andrea White (REP)": 315,
+      "Total Votes Cast": 541,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Rose Lounsbury (DEM)": 392,
+      "Andrea White (REP)": 393,
+      "Total Votes Cast": 785,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Rose Lounsbury (DEM)": 324,
+      "Andrea White (REP)": 378,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Rose Lounsbury (DEM)": 376,
+      "Andrea White (REP)": 368,
+      "Total Votes Cast": 744,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Rose Lounsbury (DEM)": 404,
+      "Andrea White (REP)": 558,
+      "Total Votes Cast": 962,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Rose Lounsbury (DEM)": 284,
+      "Andrea White (REP)": 354,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Rose Lounsbury (DEM)": 437,
+      "Andrea White (REP)": 380,
+      "Total Votes Cast": 817,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Rose Lounsbury (DEM)": 428,
+      "Andrea White (REP)": 306,
+      "Total Votes Cast": 734,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Rose Lounsbury (DEM)": 367,
+      "Andrea White (REP)": 392,
+      "Total Votes Cast": 759,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "OAK-A",
+      "Rose Lounsbury (DEM)": 488,
+      "Andrea White (REP)": 323,
+      "Total Votes Cast": 811,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Rose Lounsbury (DEM)": 442,
+      "Andrea White (REP)": 366,
+      "Total Votes Cast": 808,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Rose Lounsbury (DEM)": 431,
+      "Andrea White (REP)": 221,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Rose Lounsbury (DEM)": 430,
+      "Andrea White (REP)": 235,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Rose Lounsbury (DEM)": 472,
+      "Andrea White (REP)": 217,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Rose Lounsbury (DEM)": 577,
+      "Andrea White (REP)": 279,
+      "Total Votes Cast": 856,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Rose Lounsbury (DEM)": 419,
+      "Andrea White (REP)": 311,
+      "Total Votes Cast": 730,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Rose Lounsbury (DEM)": 313,
+      "Andrea White (REP)": 274,
+      "Total Votes Cast": 587,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PM",
+      "Rose Lounsbury (DEM)": 238,
+      "Andrea White (REP)": 262,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "RV-A",
+      "Rose Lounsbury (DEM)": 222,
+      "Andrea White (REP)": 423,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Rose Lounsbury (DEM)": 166,
+      "Andrea White (REP)": 358,
+      "Total Votes Cast": 524,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Rose Lounsbury (DEM)": 299,
+      "Andrea White (REP)": 356,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Rose Lounsbury (DEM)": 209,
+      "Andrea White (REP)": 477,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Rose Lounsbury (DEM)": 157,
+      "Andrea White (REP)": 421,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Rose Lounsbury (DEM)": 245,
+      "Andrea White (REP)": 323,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Rose Lounsbury (DEM)": 182,
+      "Andrea White (REP)": 325,
+      "Total Votes Cast": 507,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Rose Lounsbury (DEM)": 119,
+      "Andrea White (REP)": 213,
+      "Total Votes Cast": 332,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Rose Lounsbury (DEM)": 169,
+      "Andrea White (REP)": 324,
+      "Total Votes Cast": 493,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Rose Lounsbury (DEM)": 159,
+      "Andrea White (REP)": 328,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Rose Lounsbury (DEM)": 279,
+      "Andrea White (REP)": 378,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Rose Lounsbury (DEM)": 111,
+      "Andrea White (REP)": 285,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Rose Lounsbury (DEM)": 263,
+      "Andrea White (REP)": 406,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Rose Lounsbury (DEM)": 178,
+      "Andrea White (REP)": 302,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Rose Lounsbury (DEM)": 257,
+      "Andrea White (REP)": 424,
+      "Total Votes Cast": 681,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Rose Lounsbury (DEM)": 288,
+      "Andrea White (REP)": 419,
+      "Total Votes Cast": 707,
+      "Overvotes": 1,
+      "Undervotes": 49,
+      "Contest Total": 757
+    }
+  ]
+}

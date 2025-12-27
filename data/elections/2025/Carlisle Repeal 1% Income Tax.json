@@ -1,0 +1,33 @@
+{
+  "race": "Carlisle Repeal 1% Income Tax",
+  "precincts": 3,
+  "results": [
+    {
+      "Precinct": "MBG 1-A2",
+      "FOR THE REPEAL OF THE INCOME TAX": 0,
+      "AGAINST THE REPEAL OF THE INCOME TAX": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MIATWP-J1",
+      "FOR THE REPEAL OF THE INCOME TAX": 112,
+      "AGAINST THE REPEAL OF THE INCOME TAX": 113,
+      "Total Votes Cast": 225,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 227
+    },
+    {
+      "Precinct": "MIATWP-J2",
+      "FOR THE REPEAL OF THE INCOME TAX": 38,
+      "AGAINST THE REPEAL OF THE INCOME TAX": 27,
+      "Total Votes Cast": 65,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 66
+    }
+  ]
+}

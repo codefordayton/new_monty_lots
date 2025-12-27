@@ -1,0 +1,551 @@
+{
+  "year": "2025",
+  "statistics_file": "statistics.json",
+  "races": [
+    {
+      "id": "Beavercreek CSD Renewal",
+      "name": "Beavercreek CSD Renewal",
+      "file": "Beavercreek CSD Renewal.json"
+    },
+    {
+      "id": "Beavercreek School Board",
+      "name": "Beavercreek School Board",
+      "file": "Beavercreek School Board.json"
+    },
+    {
+      "id": "Brookville Council",
+      "name": "Brookville Council",
+      "file": "Brookville Council.json"
+    },
+    {
+      "id": "Brookville Local School Board UTE",
+      "name": "Brookville Local School Board UTE",
+      "file": "Brookville Local School Board UTE.json"
+    },
+    {
+      "id": "Brookville Local School Board",
+      "name": "Brookville Local School Board",
+      "file": "Brookville Local School Board.json"
+    },
+    {
+      "id": "Butler Township Limited Home Rule Resolution",
+      "name": "Butler Township Limited Home Rule Resolution",
+      "file": "Butler Township Limited Home Rule Resolution.json"
+    },
+    {
+      "id": "Butler Township Trustees",
+      "name": "Butler Township Trustees",
+      "file": "Butler Township Trustees.json"
+    },
+    {
+      "id": "Carlisle Council at Large",
+      "name": "Carlisle Council at Large",
+      "file": "Carlisle Council at Large.json"
+    },
+    {
+      "id": "Carlisle Local School Board",
+      "name": "Carlisle Local School Board",
+      "file": "Carlisle Local School Board.json"
+    },
+    {
+      "id": "Carlisle Repeal 1% Income Tax",
+      "name": "Carlisle Repeal 1% Income Tax",
+      "file": "Carlisle Repeal 1% Income Tax.json"
+    },
+    {
+      "id": "Centerville Council",
+      "name": "Centerville Council",
+      "file": "Centerville Council.json"
+    },
+    {
+      "id": "Centerville School Board",
+      "name": "Centerville School Board",
+      "file": "Centerville School Board.json"
+    },
+    {
+      "id": "City Of Clayton Charter Amendment 1",
+      "name": "City Of Clayton Charter Amendment 1",
+      "file": "City Of Clayton Charter Amendment 1.json"
+    },
+    {
+      "id": "City Of Clayton Charter Amendment 2",
+      "name": "City Of Clayton Charter Amendment 2",
+      "file": "City Of Clayton Charter Amendment 2.json"
+    },
+    {
+      "id": "City Of Clayton Charter Amendment 3",
+      "name": "City Of Clayton Charter Amendment 3",
+      "file": "City Of Clayton Charter Amendment 3.json"
+    },
+    {
+      "id": "City Of Clayton Charter Amendment 4",
+      "name": "City Of Clayton Charter Amendment 4",
+      "file": "City Of Clayton Charter Amendment 4.json"
+    },
+    {
+      "id": "City Of Clayton Charter Amendment 5",
+      "name": "City Of Clayton Charter Amendment 5",
+      "file": "City Of Clayton Charter Amendment 5.json"
+    },
+    {
+      "id": "City Of Clayton Natural Gas",
+      "name": "City Of Clayton Natural Gas",
+      "file": "City Of Clayton Natural Gas.json"
+    },
+    {
+      "id": "City Of Union Additional 1% Income Tax",
+      "name": "City Of Union Additional 1% Income Tax",
+      "file": "City Of Union Additional 1% Income Tax.json"
+    },
+    {
+      "id": "City of Dayton Hospital Levy",
+      "name": "City of Dayton Hospital Levy",
+      "file": "City of Dayton Hospital Levy.json"
+    },
+    {
+      "id": "Clay Township Fiscal Officer",
+      "name": "Clay Township Fiscal Officer",
+      "file": "Clay Township Fiscal Officer.json"
+    },
+    {
+      "id": "Clay Township Trustees UTE 123127",
+      "name": "Clay Township Trustees UTE 123127",
+      "file": "Clay Township Trustees UTE 123127.json"
+    },
+    {
+      "id": "Clay Township Trustees",
+      "name": "Clay Township Trustees",
+      "file": "Clay Township Trustees.json"
+    },
+    {
+      "id": "Clayton Council at Large",
+      "name": "Clayton Council at Large",
+      "file": "Clayton Council at Large.json"
+    },
+    {
+      "id": "Clayton Mayor",
+      "name": "Clayton Mayor",
+      "file": "Clayton Mayor.json"
+    },
+    {
+      "id": "Clearcreek Township Trustees",
+      "name": "Clearcreek Township Trustees",
+      "file": "Clearcreek Township Trustees.json"
+    },
+    {
+      "id": "Dayton Commission",
+      "name": "Dayton Commission",
+      "file": "Dayton Commission.json"
+    },
+    {
+      "id": "Dayton Mayor",
+      "name": "Dayton Mayor",
+      "file": "Dayton Mayor.json"
+    },
+    {
+      "id": "Dayton School Board",
+      "name": "Dayton School Board",
+      "file": "Dayton School Board.json"
+    },
+    {
+      "id": "Englewood Council",
+      "name": "Englewood Council",
+      "file": "Englewood Council.json"
+    },
+    {
+      "id": "Fairborn School Board",
+      "name": "Fairborn School Board",
+      "file": "Fairborn School Board.json"
+    },
+    {
+      "id": "Farmersville Council",
+      "name": "Farmersville Council",
+      "file": "Farmersville Council.json"
+    },
+    {
+      "id": "German Township Park and Rec Levy",
+      "name": "German Township Park and Rec Levy",
+      "file": "German Township Park and Rec Levy.json"
+    },
+    {
+      "id": "German Township Park and Rec Permanent Improvement",
+      "name": "German Township Park and Rec Permanent Improvement",
+      "file": "German Township Park and Rec Permanent Improvement.json"
+    },
+    {
+      "id": "German Township Trustees",
+      "name": "German Township Trustees",
+      "file": "German Township Trustees.json"
+    },
+    {
+      "id": "Germantown Council",
+      "name": "Germantown Council",
+      "file": "Germantown Council.json"
+    },
+    {
+      "id": "Germantown Mayor",
+      "name": "Germantown Mayor",
+      "file": "Germantown Mayor.json"
+    },
+    {
+      "id": "Harrison Township Trustees",
+      "name": "Harrison Township Trustees",
+      "file": "Harrison Township Trustees.json"
+    },
+    {
+      "id": "Huber Heights Council Ward 3",
+      "name": "Huber Heights Council Ward 3",
+      "file": "Huber Heights Council Ward 3.json"
+    },
+    {
+      "id": "Huber Heights Council Ward 4",
+      "name": "Huber Heights Council Ward 4",
+      "file": "Huber Heights Council Ward 4.json"
+    },
+    {
+      "id": "Huber Heights Council Ward 5",
+      "name": "Huber Heights Council Ward 5",
+      "file": "Huber Heights Council Ward 5.json"
+    },
+    {
+      "id": "Huber Heights Council at Large",
+      "name": "Huber Heights Council at Large",
+      "file": "Huber Heights Council at Large.json"
+    },
+    {
+      "id": "Huber Heights Mayor",
+      "name": "Huber Heights Mayor",
+      "file": "Huber Heights Mayor.json"
+    },
+    {
+      "id": "Huber Heights School Board",
+      "name": "Huber Heights School Board",
+      "file": "Huber Heights School Board.json"
+    },
+    {
+      "id": "Jackson Township Trustees",
+      "name": "Jackson Township Trustees",
+      "file": "Jackson Township Trustees.json"
+    },
+    {
+      "id": "Jefferson Township LSD Income Tax",
+      "name": "Jefferson Township LSD Income Tax",
+      "file": "Jefferson Township LSD Income Tax.json"
+    },
+    {
+      "id": "Jefferson Township Local School Board",
+      "name": "Jefferson Township Local School Board",
+      "file": "Jefferson Township Local School Board.json"
+    },
+    {
+      "id": "Jefferson Township Roads and Bridges Levy",
+      "name": "Jefferson Township Roads and Bridges Levy",
+      "file": "Jefferson Township Roads and Bridges Levy.json"
+    },
+    {
+      "id": "Jefferson Township Trustees",
+      "name": "Jefferson Township Trustees",
+      "file": "Jefferson Township Trustees.json"
+    },
+    {
+      "id": "Kettering Council at Large",
+      "name": "Kettering Council at Large",
+      "file": "Kettering Council at Large.json"
+    },
+    {
+      "id": "Kettering Mayor",
+      "name": "Kettering Mayor",
+      "file": "Kettering Mayor.json"
+    },
+    {
+      "id": "Kettering Municipal Court Judge FTC 010126",
+      "name": "Kettering Municipal Court Judge FTC 010126",
+      "file": "Kettering Municipal Court Judge FTC 010126.json"
+    },
+    {
+      "id": "Kettering School Board",
+      "name": "Kettering School Board",
+      "file": "Kettering School Board.json"
+    },
+    {
+      "id": "Local Option - GTN-A - D-6 Parkside Pizza + Ice",
+      "name": "Local Option - GTN-A - D-6 Parkside Pizza + Ice",
+      "file": "Local Option - GTN-A - D-6 Parkside Pizza + Ice.json"
+    },
+    {
+      "id": "Local Option - KT 3-H - D-6 Kettering Wine",
+      "name": "Local Option - KT 3-H - D-6 Kettering Wine",
+      "file": "Local Option - KT 3-H - D-6 Kettering Wine.json"
+    },
+    {
+      "id": "Mad River Local School Board",
+      "name": "Mad River Local School Board",
+      "file": "Mad River Local School Board.json"
+    },
+    {
+      "id": "Miami Township Trustees",
+      "name": "Miami Township Trustees",
+      "file": "Miami Township Trustees.json"
+    },
+    {
+      "id": "Miamisburg Council Ward 1 ",
+      "name": "Miamisburg Council Ward 1 ",
+      "file": "Miamisburg Council Ward 1 .json"
+    },
+    {
+      "id": "Miamisburg Council Ward 2",
+      "name": "Miamisburg Council Ward 2",
+      "file": "Miamisburg Council Ward 2.json"
+    },
+    {
+      "id": "Miamisburg Council Ward 3",
+      "name": "Miamisburg Council Ward 3",
+      "file": "Miamisburg Council Ward 3.json"
+    },
+    {
+      "id": "Miamisburg Council Ward 4",
+      "name": "Miamisburg Council Ward 4",
+      "file": "Miamisburg Council Ward 4.json"
+    },
+    {
+      "id": "Miamisburg School Board",
+      "name": "Miamisburg School Board",
+      "file": "Miamisburg School Board.json"
+    },
+    {
+      "id": "Montgomery County Education Service Center",
+      "name": "Montgomery County Education Service Center",
+      "file": "Montgomery County Education Service Center.json"
+    },
+    {
+      "id": "Montgomery County HHS Renewal",
+      "name": "Montgomery County HHS Renewal",
+      "file": "Montgomery County HHS Renewal.json"
+    },
+    {
+      "id": "Montgomery County Municipal Court FTC 010126",
+      "name": "Montgomery County Municipal Court FTC 010126",
+      "file": "Montgomery County Municipal Court FTC 010126.json"
+    },
+    {
+      "id": "Montgomery County Municipal Court FTC 010226",
+      "name": "Montgomery County Municipal Court FTC 010226",
+      "file": "Montgomery County Municipal Court FTC 010226.json"
+    },
+    {
+      "id": "Moraine Council at Large",
+      "name": "Moraine Council at Large",
+      "file": "Moraine Council at Large.json"
+    },
+    {
+      "id": "Moraine Mayor",
+      "name": "Moraine Mayor",
+      "file": "Moraine Mayor.json"
+    },
+    {
+      "id": "New Lebanon Council",
+      "name": "New Lebanon Council",
+      "file": "New Lebanon Council.json"
+    },
+    {
+      "id": "New Lebanon LSD Income Tax",
+      "name": "New Lebanon LSD Income Tax",
+      "file": "New Lebanon LSD Income Tax.json"
+    },
+    {
+      "id": "New Lebanon Local School Board",
+      "name": "New Lebanon Local School Board",
+      "file": "New Lebanon Local School Board.json"
+    },
+    {
+      "id": "Northmont School Board",
+      "name": "Northmont School Board",
+      "file": "Northmont School Board.json"
+    },
+    {
+      "id": "Northridge Local School Board",
+      "name": "Northridge Local School Board",
+      "file": "Northridge Local School Board.json"
+    },
+    {
+      "id": "Oakwood Council",
+      "name": "Oakwood Council",
+      "file": "Oakwood Council.json"
+    },
+    {
+      "id": "Oakwood Municipal Court Judge",
+      "name": "Oakwood Municipal Court Judge",
+      "file": "Oakwood Municipal Court Judge.json"
+    },
+    {
+      "id": "Oakwood School Board",
+      "name": "Oakwood School Board",
+      "file": "Oakwood School Board.json"
+    },
+    {
+      "id": "Perry Township Fiscal Officer",
+      "name": "Perry Township Fiscal Officer",
+      "file": "Perry Township Fiscal Officer.json"
+    },
+    {
+      "id": "Perry Township Trustees",
+      "name": "Perry Township Trustees",
+      "file": "Perry Township Trustees.json"
+    },
+    {
+      "id": "Phillipsburg Council",
+      "name": "Phillipsburg Council",
+      "file": "Phillipsburg Council.json"
+    },
+    {
+      "id": "Phillipsburg Mayor",
+      "name": "Phillipsburg Mayor",
+      "file": "Phillipsburg Mayor.json"
+    },
+    {
+      "id": "Preble County Education Service Center UTE 123127",
+      "name": "Preble County Education Service Center UTE 123127",
+      "file": "Preble County Education Service Center UTE 123127.json"
+    },
+    {
+      "id": "Preble County Education Service Center",
+      "name": "Preble County Education Service Center",
+      "file": "Preble County Education Service Center.json"
+    },
+    {
+      "id": "Preble Shawnee LSD Income Tax",
+      "name": "Preble Shawnee LSD Income Tax",
+      "file": "Preble Shawnee LSD Income Tax.json"
+    },
+    {
+      "id": "Preble Shawnee Local School Board",
+      "name": "Preble Shawnee Local School Board",
+      "file": "Preble Shawnee Local School Board.json"
+    },
+    {
+      "id": "Riverside Council",
+      "name": "Riverside Council",
+      "file": "Riverside Council.json"
+    },
+    {
+      "id": "Springboro Community Bond",
+      "name": "Springboro Community Bond",
+      "file": "Springboro Community Bond.json"
+    },
+    {
+      "id": "Springboro Community School Board",
+      "name": "Springboro Community School Board",
+      "file": "Springboro Community School Board.json"
+    },
+    {
+      "id": "Springboro Council Ward 1",
+      "name": "Springboro Council Ward 1",
+      "file": "Springboro Council Ward 1.json"
+    },
+    {
+      "id": "Tri-County North Local School Board UTE 123127",
+      "name": "Tri-County North Local School Board UTE 123127",
+      "file": "Tri-County North Local School Board UTE 123127.json"
+    },
+    {
+      "id": "Tri-County North Local School Board",
+      "name": "Tri-County North Local School Board",
+      "file": "Tri-County North Local School Board.json"
+    },
+    {
+      "id": "Trotwood Council Ward 1",
+      "name": "Trotwood Council Ward 1",
+      "file": "Trotwood Council Ward 1.json"
+    },
+    {
+      "id": "Trotwood Council Ward 2",
+      "name": "Trotwood Council Ward 2",
+      "file": "Trotwood Council Ward 2.json"
+    },
+    {
+      "id": "Trotwood Council Ward 3",
+      "name": "Trotwood Council Ward 3",
+      "file": "Trotwood Council Ward 3.json"
+    },
+    {
+      "id": "Trotwood Council Ward 4",
+      "name": "Trotwood Council Ward 4",
+      "file": "Trotwood Council Ward 4.json"
+    },
+    {
+      "id": "Trotwood-Madison School Board",
+      "name": "Trotwood-Madison School Board",
+      "file": "Trotwood-Madison School Board.json"
+    },
+    {
+      "id": "Union Council",
+      "name": "Union Council",
+      "file": "Union Council.json"
+    },
+    {
+      "id": "Valley View Local School Board",
+      "name": "Valley View Local School Board",
+      "file": "Valley View Local School Board.json"
+    },
+    {
+      "id": "Vandalia Municipal Court Judge",
+      "name": "Vandalia Municipal Court Judge",
+      "file": "Vandalia Municipal Court Judge.json"
+    },
+    {
+      "id": "Vandalia-Butler School Board",
+      "name": "Vandalia-Butler School Board",
+      "file": "Vandalia-Butler School Board.json"
+    },
+    {
+      "id": "Verona Board of Trustees for Public Affairs",
+      "name": "Verona Board of Trustees for Public Affairs",
+      "file": "Verona Board of Trustees for Public Affairs.json"
+    },
+    {
+      "id": "Verona Council",
+      "name": "Verona Council",
+      "file": "Verona Council.json"
+    },
+    {
+      "id": "Verona Fire 1 Mil Tax Levy",
+      "name": "Verona Fire 1 Mil Tax Levy",
+      "file": "Verona Fire 1 Mil Tax Levy.json"
+    },
+    {
+      "id": "Verona Fire 4 Mil Tax Levy",
+      "name": "Verona Fire 4 Mil Tax Levy",
+      "file": "Verona Fire 4 Mil Tax Levy.json"
+    },
+    {
+      "id": "Warren County Education Service Center",
+      "name": "Warren County Education Service Center",
+      "file": "Warren County Education Service Center.json"
+    },
+    {
+      "id": "Washington Township Trustees",
+      "name": "Washington Township Trustees",
+      "file": "Washington Township Trustees.json"
+    },
+    {
+      "id": "West Carrollton Charter Amendments",
+      "name": "West Carrollton Charter Amendments",
+      "file": "West Carrollton Charter Amendments.json"
+    },
+    {
+      "id": "West Carrollton Council",
+      "name": "West Carrollton Council",
+      "file": "West Carrollton Council.json"
+    },
+    {
+      "id": "West Carrollton School Board UTE",
+      "name": "West Carrollton School Board UTE",
+      "file": "West Carrollton School Board UTE.json"
+    },
+    {
+      "id": "West Carrollton School Board",
+      "name": "West Carrollton School Board",
+      "file": "West Carrollton School Board.json"
+    }
+  ]
+}

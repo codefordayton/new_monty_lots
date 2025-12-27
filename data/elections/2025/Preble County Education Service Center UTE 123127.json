@@ -1,0 +1,38 @@
+{
+  "race": "Preble County Education Service Center UTE 123127",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "CLATWP-C2",
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 55
+    },
+    {
+      "Precinct": "CLATWP-C4",
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 10
+    },
+    {
+      "Precinct": "GERTWP-A3",
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 53
+    },
+    {
+      "Precinct": "JAKTWP-B2",
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

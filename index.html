@@ -84,6 +84,29 @@
           </div>
         </div>
 
+        <!-- Election Data Section -->
+        <div class="election-section" id="election-section" style="display: none">
+          <h3>Election Data</h3>
+
+          <div class="election-controls">
+            <label for="election-year">Year:</label>
+            <select id="election-year">
+              <option value="">-- Select Year --</option>
+            </select>
+          </div>
+
+          <div class="election-controls" id="race-selector-container" style="display: none">
+            <label for="race-selector">Race:</label>
+            <select id="race-selector">
+              <option value="">-- Select Race --</option>
+            </select>
+          </div>
+
+          <div id="race-summary" class="race-summary" style="display: none">
+            <!-- Race summary will be dynamically populated -->
+          </div>
+        </div>
+
         <h3>Available Layers</h3>
         <ul id="layer-list" class="layer-list">
           <li>Loading layers...</li>

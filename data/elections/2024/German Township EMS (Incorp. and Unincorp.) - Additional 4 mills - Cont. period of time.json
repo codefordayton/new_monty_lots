@@ -1,0 +1,60 @@
+{
+  "race": "German Township EMS (Incorp. and Unincorp.) - Additional 4 mills - Cont. period of time",
+  "precincts": 6,
+  "results": [
+    {
+      "Precinct": "GERTWP-A",
+      "For the Tax Levy": 305,
+      "Against the Tax Levy": 618,
+      "Total Votes Cast": 923,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "For the Tax Levy": 314,
+      "Against the Tax Levy": 592,
+      "Total Votes Cast": 906,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "GTN-A",
+      "For the Tax Levy": 339,
+      "Against the Tax Levy": 410,
+      "Total Votes Cast": 749,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "GTN-B",
+      "For the Tax Levy": 290,
+      "Against the Tax Levy": 398,
+      "Total Votes Cast": 688,
+      "Overvotes": 1,
+      "Undervotes": 56,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "GTN-C",
+      "For the Tax Levy": 339,
+      "Against the Tax Levy": 378,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "GTN-D",
+      "For the Tax Levy": 281,
+      "Against the Tax Levy": 484,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 831
+    }
+  ]
+}

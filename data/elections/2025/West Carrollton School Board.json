@@ -1,0 +1,236 @@
+{
+  "race": "West Carrollton School Board",
+  "precincts": 23,
+  "results": [
+    {
+      "Precinct": "KT 3-I2",
+      "Leslie A. Miller": 0,
+      "Nate Mundy": 0,
+      "Dormetria Robinson Thompson": 2,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 6
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Leslie A. Miller": 90,
+      "Nate Mundy": 77,
+      "Dormetria Robinson Thompson": 82,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Leslie A. Miller": 72,
+      "Nate Mundy": 74,
+      "Dormetria Robinson Thompson": 65,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 161,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Leslie A. Miller": 79,
+      "Nate Mundy": 57,
+      "Dormetria Robinson Thompson": 58,
+      "Total Votes Cast": 194,
+      "Overvotes": 0,
+      "Undervotes": 199,
+      "Contest Total": 393
+    },
+    {
+      "Precinct": "MIATWP-L1",
+      "Leslie A. Miller": 95,
+      "Nate Mundy": 89,
+      "Dormetria Robinson Thompson": 86,
+      "Total Votes Cast": 270,
+      "Overvotes": 0,
+      "Undervotes": 234,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "MIATWP-N2",
+      "Leslie A. Miller": 26,
+      "Nate Mundy": 26,
+      "Dormetria Robinson Thompson": 23,
+      "Total Votes Cast": 75,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 132
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Leslie A. Miller": 139,
+      "Nate Mundy": 144,
+      "Dormetria Robinson Thompson": 124,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 328,
+      "Contest Total": 735
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Leslie A. Miller": 52,
+      "Nate Mundy": 49,
+      "Dormetria Robinson Thompson": 50,
+      "Total Votes Cast": 151,
+      "Overvotes": 0,
+      "Undervotes": 122,
+      "Contest Total": 273
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Leslie A. Miller": 69,
+      "Nate Mundy": 63,
+      "Dormetria Robinson Thompson": 64,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 158,
+      "Contest Total": 354
+    },
+    {
+      "Precinct": "MOR 1-A2",
+      "Leslie A. Miller": 14,
+      "Nate Mundy": 11,
+      "Dormetria Robinson Thompson": 14,
+      "Total Votes Cast": 39,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 87
+    },
+    {
+      "Precinct": "MOR 2-A1",
+      "Leslie A. Miller": 99,
+      "Nate Mundy": 76,
+      "Dormetria Robinson Thompson": 80,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 234,
+      "Contest Total": 489
+    },
+    {
+      "Precinct": "MOR 3-A1",
+      "Leslie A. Miller": 63,
+      "Nate Mundy": 57,
+      "Dormetria Robinson Thompson": 49,
+      "Total Votes Cast": 169,
+      "Overvotes": 0,
+      "Undervotes": 194,
+      "Contest Total": 363
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Leslie A. Miller": 47,
+      "Nate Mundy": 33,
+      "Dormetria Robinson Thompson": 47,
+      "Total Votes Cast": 127,
+      "Overvotes": 0,
+      "Undervotes": 101,
+      "Contest Total": 228
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Leslie A. Miller": 19,
+      "Nate Mundy": 15,
+      "Dormetria Robinson Thompson": 21,
+      "Total Votes Cast": 55,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 138
+    },
+    {
+      "Precinct": "WCR-A1",
+      "Leslie A. Miller": 54,
+      "Nate Mundy": 46,
+      "Dormetria Robinson Thompson": 51,
+      "Total Votes Cast": 151,
+      "Overvotes": 0,
+      "Undervotes": 215,
+      "Contest Total": 366
+    },
+    {
+      "Precinct": "WCR-B",
+      "Leslie A. Miller": 97,
+      "Nate Mundy": 90,
+      "Dormetria Robinson Thompson": 72,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 263,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "WCR-C",
+      "Leslie A. Miller": 104,
+      "Nate Mundy": 101,
+      "Dormetria Robinson Thompson": 102,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 257,
+      "Contest Total": 564
+    },
+    {
+      "Precinct": "WCR-D",
+      "Leslie A. Miller": 112,
+      "Nate Mundy": 111,
+      "Dormetria Robinson Thompson": 86,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 324,
+      "Contest Total": 633
+    },
+    {
+      "Precinct": "WCR-E",
+      "Leslie A. Miller": 49,
+      "Nate Mundy": 37,
+      "Dormetria Robinson Thompson": 56,
+      "Total Votes Cast": 142,
+      "Overvotes": 0,
+      "Undervotes": 122,
+      "Contest Total": 264
+    },
+    {
+      "Precinct": "WCR-F",
+      "Leslie A. Miller": 48,
+      "Nate Mundy": 45,
+      "Dormetria Robinson Thompson": 55,
+      "Total Votes Cast": 148,
+      "Overvotes": 0,
+      "Undervotes": 131,
+      "Contest Total": 279
+    },
+    {
+      "Precinct": "WCR-G",
+      "Leslie A. Miller": 109,
+      "Nate Mundy": 108,
+      "Dormetria Robinson Thompson": 111,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 260,
+      "Contest Total": 588
+    },
+    {
+      "Precinct": "WCR-H",
+      "Leslie A. Miller": 54,
+      "Nate Mundy": 69,
+      "Dormetria Robinson Thompson": 66,
+      "Total Votes Cast": 189,
+      "Overvotes": 0,
+      "Undervotes": 246,
+      "Contest Total": 435
+    },
+    {
+      "Precinct": "WCR-I",
+      "Leslie A. Miller": 33,
+      "Nate Mundy": 25,
+      "Dormetria Robinson Thompson": 32,
+      "Total Votes Cast": 90,
+      "Overvotes": 0,
+      "Undervotes": 102,
+      "Contest Total": 192
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "race": "Montgomery County Municipal Court FTC 010126",
+  "precincts": 110,
+  "results": [
+    {
+      "Precinct": "BRK-A1",
+      "William C. Cox": 181,
+      "Total Votes Cast": 181,
+      "Overvotes": 0,
+      "Undervotes": 135,
+      "Contest Total": 316
+    },
+    {
+      "Precinct": "BRK-A2",
+      "William C. Cox": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "BRK-B",
+      "William C. Cox": 128,
+      "Total Votes Cast": 128,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 207
+    },
+    {
+      "Precinct": "BRK-C",
+      "William C. Cox": 163,
+      "Total Votes Cast": 163,
+      "Overvotes": 0,
+      "Undervotes": 127,
+      "Contest Total": 290
+    },
+    {
+      "Precinct": "BRK-D1",
+      "William C. Cox": 123,
+      "Total Votes Cast": 123,
+      "Overvotes": 0,
+      "Undervotes": 93,
+      "Contest Total": 216
+    },
+    {
+      "Precinct": "BRK-D2",
+      "William C. Cox": 3,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "William C. Cox": 127,
+      "Total Votes Cast": 127,
+      "Overvotes": 0,
+      "Undervotes": 101,
+      "Contest Total": 228
+    },
+    {
+      "Precinct": "CLATWP-B1",
+      "William C. Cox": 86,
+      "Total Votes Cast": 86,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 175
+    },
+    {
+      "Precinct": "CLATWP-B2",
+      "William C. Cox": 11,
+      "Total Votes Cast": 11,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 18
+    },
+    {
+      "Precinct": "CLATWP-C1",
+      "William C. Cox": 90,
+      "Total Votes Cast": 90,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 163
+    },
+    {
+      "Precinct": "CLATWP-C2",
+      "William C. Cox": 30,
+      "Total Votes Cast": 30,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 55
+    },
+    {
+      "Precinct": "CLATWP-C3",
+      "William C. Cox": 58,
+      "Total Votes Cast": 58,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 91
+    },
+    {
+      "Precinct": "CLATWP-C4",
+      "William C. Cox": 4,
+      "Total Votes Cast": 4,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 10
+    },
+    {
+      "Precinct": "FARM",
+      "William C. Cox": 120,
+      "Total Votes Cast": 120,
+      "Overvotes": 0,
+      "Undervotes": 108,
+      "Contest Total": 228
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "William C. Cox": 130,
+      "Total Votes Cast": 130,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "William C. Cox": 213,
+      "Total Votes Cast": 213,
+      "Overvotes": 0,
+      "Undervotes": 111,
+      "Contest Total": 324
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "William C. Cox": 134,
+      "Total Votes Cast": 134,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 189
+    },
+    {
+      "Precinct": "HUB 1-D1",
+      "William C. Cox": 166,
+      "Total Votes Cast": 166,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 251
+    },
+    {
+      "Precinct": "HUB 1-D2",
+      "William C. Cox": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "William C. Cox": 168,
+      "Total Votes Cast": 168,
+      "Overvotes": 0,
+      "Undervotes": 94,
+      "Contest Total": 262
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "William C. Cox": 192,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 110,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "William C. Cox": 145,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 204
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "William C. Cox": 73,
+      "Total Votes Cast": 73,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 121
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "William C. Cox": 118,
+      "Total Votes Cast": 118,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "William C. Cox": 144,
+      "Total Votes Cast": 144,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 228
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "William C. Cox": 88,
+      "Total Votes Cast": 88,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 158
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "William C. Cox": 126,
+      "Total Votes Cast": 126,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 197
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "William C. Cox": 131,
+      "Total Votes Cast": 131,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "William C. Cox": 122,
+      "Total Votes Cast": 122,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "William C. Cox": 157,
+      "Total Votes Cast": 157,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 201
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "William C. Cox": 122,
+      "Total Votes Cast": 122,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 182
+    },
+    {
+      "Precinct": "HUB 5-B1",
+      "William C. Cox": 138,
+      "Total Votes Cast": 138,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 198
+    },
+    {
+      "Precinct": "HUB 5-B2",
+      "William C. Cox": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "William C. Cox": 145,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 196
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "William C. Cox": 115,
+      "Total Votes Cast": 115,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 167
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "William C. Cox": 136,
+      "Total Votes Cast": 136,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 203
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "William C. Cox": 191,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 108,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "William C. Cox": 201,
+      "Total Votes Cast": 201,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 292
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "William C. Cox": 154,
+      "Total Votes Cast": 154,
+      "Overvotes": 0,
+      "Undervotes": 93,
+      "Contest Total": 247
+    },
+    {
+      "Precinct": "JAKTWP-A1",
+      "William C. Cox": 113,
+      "Total Votes Cast": 113,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 198
+    },
+    {
+      "Precinct": "JAKTWP-A2",
+      "William C. Cox": 86,
+      "Total Votes Cast": 86,
+      "Overvotes": 0,
+      "Undervotes": 93,
+      "Contest Total": 179
+    },
+    {
+      "Precinct": "JAKTWP-B1",
+      "William C. Cox": 145,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 141,
+      "Contest Total": 286
+    },
+    {
+      "Precinct": "JAKTWP-B2",
+      "William C. Cox": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "JEFTWP-A1",
+      "William C. Cox": 198,
+      "Total Votes Cast": 198,
+      "Overvotes": 0,
+      "Undervotes": 162,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "JEFTWP-A2",
+      "William C. Cox": 22,
+      "Total Votes Cast": 22,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 40
+    },
+    {
+      "Precinct": "JEFTWP-A3",
+      "William C. Cox": 4,
+      "Total Votes Cast": 4,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 8
+    },
+    {
+      "Precinct": "JEFTWP-B1",
+      "William C. Cox": 34,
+      "Total Votes Cast": 34,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 58
+    },
+    {
+      "Precinct": "JEFTWP-B2",
+      "William C. Cox": 34,
+      "Total Votes Cast": 34,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 54
+    },
+    {
+      "Precinct": "JEFTWP-B3",
+      "William C. Cox": 7,
+      "Total Votes Cast": 7,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 11
+    },
+    {
+      "Precinct": "JEFTWP-B4",
+      "William C. Cox": 30,
+      "Total Votes Cast": 30,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 45
+    },
+    {
+      "Precinct": "JEFTWP-C1",
+      "William C. Cox": 186,
+      "Total Votes Cast": 186,
+      "Overvotes": 0,
+      "Undervotes": 163,
+      "Contest Total": 349
+    },
+    {
+      "Precinct": "JEFTWP-C2",
+      "William C. Cox": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "William C. Cox": 186,
+      "Total Votes Cast": 186,
+      "Overvotes": 0,
+      "Undervotes": 93,
+      "Contest Total": 279
+    },
+    {
+      "Precinct": "JNLB-A1",
+      "William C. Cox": 90,
+      "Total Votes Cast": 90,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 160
+    },
+    {
+      "Precinct": "JNLB-A2",
+      "William C. Cox": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 1
+    },
+    {
+      "Precinct": "JNLB-B",
+      "William C. Cox": 142,
+      "Total Votes Cast": 142,
+      "Overvotes": 0,
+      "Undervotes": 99,
+      "Contest Total": 241
+    },
+    {
+      "Precinct": "PERTWP-A1",
+      "William C. Cox": 83,
+      "Total Votes Cast": 83,
+      "Overvotes": 0,
+      "Undervotes": 90,
+      "Contest Total": 173
+    },
+    {
+      "Precinct": "PERTWP-A2",
+      "William C. Cox": 25,
+      "Total Votes Cast": 25,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 49
+    },
+    {
+      "Precinct": "PERTWP-B1",
+      "William C. Cox": 122,
+      "Total Votes Cast": 122,
+      "Overvotes": 0,
+      "Undervotes": 113,
+      "Contest Total": 235
+    },
+    {
+      "Precinct": "PERTWP-B2",
+      "William C. Cox": 10,
+      "Total Votes Cast": 10,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 19
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "William C. Cox": 144,
+      "Total Votes Cast": 144,
+      "Overvotes": 0,
+      "Undervotes": 121,
+      "Contest Total": 265
+    },
+    {
+      "Precinct": "PHBG",
+      "William C. Cox": 49,
+      "Total Votes Cast": 49,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 89
+    },
+    {
+      "Precinct": "PM",
+      "William C. Cox": 44,
+      "Total Votes Cast": 44,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 58
+    },
+    {
+      "Precinct": "PNLB1",
+      "William C. Cox": 67,
+      "Total Votes Cast": 67,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 122
+    },
+    {
+      "Precinct": "PNLB2",
+      "William C. Cox": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "RV-A",
+      "William C. Cox": 150,
+      "Total Votes Cast": 150,
+      "Overvotes": 0,
+      "Undervotes": 102,
+      "Contest Total": 252
+    },
+    {
+      "Precinct": "RV-B1",
+      "William C. Cox": 75,
+      "Total Votes Cast": 75,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 131
+    },
+    {
+      "Precinct": "RV-B2",
+      "William C. Cox": 7,
+      "Total Votes Cast": 7,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 10
+    },
+    {
+      "Precinct": "RV-C",
+      "William C. Cox": 129,
+      "Total Votes Cast": 129,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 206
+    },
+    {
+      "Precinct": "RV-D",
+      "William C. Cox": 157,
+      "Total Votes Cast": 157,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 255
+    },
+    {
+      "Precinct": "RV-E1",
+      "William C. Cox": 93,
+      "Total Votes Cast": 93,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 168
+    },
+    {
+      "Precinct": "RV-E2",
+      "William C. Cox": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "RV-F",
+      "William C. Cox": 127,
+      "Total Votes Cast": 127,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 194
+    },
+    {
+      "Precinct": "RV-G",
+      "William C. Cox": 110,
+      "Total Votes Cast": 110,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 173
+    },
+    {
+      "Precinct": "RV-H",
+      "William C. Cox": 41,
+      "Total Votes Cast": 41,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 69
+    },
+    {
+      "Precinct": "RV-I",
+      "William C. Cox": 84,
+      "Total Votes Cast": 84,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 150
+    },
+    {
+      "Precinct": "RV-J",
+      "William C. Cox": 121,
+      "Total Votes Cast": 121,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 184
+    },
+    {
+      "Precinct": "RV-K1",
+      "William C. Cox": 156,
+      "Total Votes Cast": 156,
+      "Overvotes": 0,
+      "Undervotes": 92,
+      "Contest Total": 248
+    },
+    {
+      "Precinct": "RV-K2",
+      "William C. Cox": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "RV-L1",
+      "William C. Cox": 38,
+      "Total Votes Cast": 38,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 65
+    },
+    {
+      "Precinct": "RV-L2",
+      "William C. Cox": 27,
+      "Total Votes Cast": 27,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 38
+    },
+    {
+      "Precinct": "RV-M",
+      "William C. Cox": 135,
+      "Total Votes Cast": 135,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 214
+    },
+    {
+      "Precinct": "RV-N",
+      "William C. Cox": 75,
+      "Total Votes Cast": 75,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 113
+    },
+    {
+      "Precinct": "RV-O",
+      "William C. Cox": 135,
+      "Total Votes Cast": 135,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 208
+    },
+    {
+      "Precinct": "RV-P",
+      "William C. Cox": 156,
+      "Total Votes Cast": 156,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 239
+    },
+    {
+      "Precinct": "TR 1-A1",
+      "William C. Cox": 162,
+      "Total Votes Cast": 162,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 250
+    },
+    {
+      "Precinct": "TR 1-A2",
+      "William C. Cox": 7,
+      "Total Votes Cast": 7,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 11
+    },
+    {
+      "Precinct": "TR 1-B1",
+      "William C. Cox": 104,
+      "Total Votes Cast": 104,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 149
+    },
+    {
+      "Precinct": "TR 1-B2",
+      "William C. Cox": 13,
+      "Total Votes Cast": 13,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 22
+    },
+    {
+      "Precinct": "TR 1-C",
+      "William C. Cox": 152,
+      "Total Votes Cast": 152,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 236
+    },
+    {
+      "Precinct": "TR 1-D",
+      "William C. Cox": 95,
+      "Total Votes Cast": 95,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 140
+    },
+    {
+      "Precinct": "TR 1-E",
+      "William C. Cox": 192,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 90,
+      "Contest Total": 282
+    },
+    {
+      "Precinct": "TR 2-A",
+      "William C. Cox": 150,
+      "Total Votes Cast": 150,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 206
+    },
+    {
+      "Precinct": "TR 2-B",
+      "William C. Cox": 129,
+      "Total Votes Cast": 129,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 188
+    },
+    {
+      "Precinct": "TR 2-C1",
+      "William C. Cox": 102,
+      "Total Votes Cast": 102,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 139
+    },
+    {
+      "Precinct": "TR 2-C2",
+      "William C. Cox": 20,
+      "Total Votes Cast": 20,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 40
+    },
+    {
+      "Precinct": "TR 2-D1",
+      "William C. Cox": 60,
+      "Total Votes Cast": 60,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 90
+    },
+    {
+      "Precinct": "TR 2-D2",
+      "William C. Cox": 33,
+      "Total Votes Cast": 33,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 53
+    },
+    {
+      "Precinct": "TR 2-E",
+      "William C. Cox": 162,
+      "Total Votes Cast": 162,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 222
+    },
+    {
+      "Precinct": "TR 3-A",
+      "William C. Cox": 80,
+      "Total Votes Cast": 80,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 125
+    },
+    {
+      "Precinct": "TR 3-B1",
+      "William C. Cox": 80,
+      "Total Votes Cast": 80,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 120
+    },
+    {
+      "Precinct": "TR 3-B2",
+      "William C. Cox": 20,
+      "Total Votes Cast": 20,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 24
+    },
+    {
+      "Precinct": "TR 3-C1",
+      "William C. Cox": 51,
+      "Total Votes Cast": 51,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 80
+    },
+    {
+      "Precinct": "TR 3-C2",
+      "William C. Cox": 20,
+      "Total Votes Cast": 20,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 31
+    },
+    {
+      "Precinct": "TR 3-D",
+      "William C. Cox": 136,
+      "Total Votes Cast": 136,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 214
+    },
+    {
+      "Precinct": "TR 4-A",
+      "William C. Cox": 165,
+      "Total Votes Cast": 165,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 242
+    },
+    {
+      "Precinct": "TR 4-B",
+      "William C. Cox": 113,
+      "Total Votes Cast": 113,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 167
+    },
+    {
+      "Precinct": "TR 4-C",
+      "William C. Cox": 68,
+      "Total Votes Cast": 68,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 95
+    },
+    {
+      "Precinct": "TR 4-D1",
+      "William C. Cox": 29,
+      "Total Votes Cast": 29,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 45
+    },
+    {
+      "Precinct": "TR 4-D2",
+      "William C. Cox": 110,
+      "Total Votes Cast": 110,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 141
+    }
+  ]
+}

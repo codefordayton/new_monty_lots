@@ -1,0 +1,87 @@
+{
+  "race": "Perry Township Fiscal Officer",
+  "precincts": 9,
+  "results": [
+    {
+      "Precinct": "BRK-D1",
+      "Jamie Evans": 60,
+      "Amy Hoover": 114,
+      "Total Votes Cast": 174,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 216
+    },
+    {
+      "Precinct": "BRK-D2",
+      "Jamie Evans": 2,
+      "Amy Hoover": 1,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "PERTWP-A1",
+      "Jamie Evans": 63,
+      "Amy Hoover": 80,
+      "Total Votes Cast": 143,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 173
+    },
+    {
+      "Precinct": "PERTWP-A2",
+      "Jamie Evans": 19,
+      "Amy Hoover": 23,
+      "Total Votes Cast": 42,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 49
+    },
+    {
+      "Precinct": "PERTWP-B1",
+      "Jamie Evans": 96,
+      "Amy Hoover": 106,
+      "Total Votes Cast": 202,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 235
+    },
+    {
+      "Precinct": "PERTWP-B2",
+      "Jamie Evans": 12,
+      "Amy Hoover": 4,
+      "Total Votes Cast": 16,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 19
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Jamie Evans": 125,
+      "Amy Hoover": 89,
+      "Total Votes Cast": 214,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 265
+    },
+    {
+      "Precinct": "PNLB1",
+      "Jamie Evans": 42,
+      "Amy Hoover": 44,
+      "Total Votes Cast": 86,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 122
+    },
+    {
+      "Precinct": "PNLB2",
+      "Jamie Evans": 0,
+      "Amy Hoover": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

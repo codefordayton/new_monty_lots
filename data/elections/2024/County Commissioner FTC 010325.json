@@ -1,0 +1,3435 @@
+{
+  "race": "County Commissioner FTC 010325",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Deborah Lieberman (DEM)": 271,
+      "Mary McDonald (REP)": 585,
+      "Total Votes Cast": 856,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Deborah Lieberman (DEM)": 208,
+      "Mary McDonald (REP)": 452,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Deborah Lieberman (DEM)": 254,
+      "Mary McDonald (REP)": 591,
+      "Total Votes Cast": 845,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Deborah Lieberman (DEM)": 180,
+      "Mary McDonald (REP)": 541,
+      "Total Votes Cast": 721,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Deborah Lieberman (DEM)": 250,
+      "Mary McDonald (REP)": 532,
+      "Total Votes Cast": 782,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Deborah Lieberman (DEM)": 238,
+      "Mary McDonald (REP)": 451,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Deborah Lieberman (DEM)": 309,
+      "Mary McDonald (REP)": 577,
+      "Total Votes Cast": 886,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Deborah Lieberman (DEM)": 327,
+      "Mary McDonald (REP)": 492,
+      "Total Votes Cast": 819,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Deborah Lieberman (DEM)": 223,
+      "Mary McDonald (REP)": 358,
+      "Total Votes Cast": 581,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Deborah Lieberman (DEM)": 246,
+      "Mary McDonald (REP)": 400,
+      "Total Votes Cast": 646,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Deborah Lieberman (DEM)": 224,
+      "Mary McDonald (REP)": 273,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Deborah Lieberman (DEM)": 138,
+      "Mary McDonald (REP)": 426,
+      "Total Votes Cast": 564,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Deborah Lieberman (DEM)": 123,
+      "Mary McDonald (REP)": 455,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Deborah Lieberman (DEM)": 173,
+      "Mary McDonald (REP)": 693,
+      "Total Votes Cast": 866,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Deborah Lieberman (DEM)": 170,
+      "Mary McDonald (REP)": 404,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Deborah Lieberman (DEM)": 359,
+      "Mary McDonald (REP)": 302,
+      "Total Votes Cast": 661,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Deborah Lieberman (DEM)": 380,
+      "Mary McDonald (REP)": 503,
+      "Total Votes Cast": 883,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Deborah Lieberman (DEM)": 330,
+      "Mary McDonald (REP)": 250,
+      "Total Votes Cast": 580,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Deborah Lieberman (DEM)": 324,
+      "Mary McDonald (REP)": 298,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Deborah Lieberman (DEM)": 461,
+      "Mary McDonald (REP)": 361,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Deborah Lieberman (DEM)": 517,
+      "Mary McDonald (REP)": 321,
+      "Total Votes Cast": 838,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Deborah Lieberman (DEM)": 473,
+      "Mary McDonald (REP)": 346,
+      "Total Votes Cast": 819,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Deborah Lieberman (DEM)": 430,
+      "Mary McDonald (REP)": 356,
+      "Total Votes Cast": 786,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Deborah Lieberman (DEM)": 430,
+      "Mary McDonald (REP)": 279,
+      "Total Votes Cast": 709,
+      "Overvotes": 1,
+      "Undervotes": 28,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Deborah Lieberman (DEM)": 330,
+      "Mary McDonald (REP)": 266,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Deborah Lieberman (DEM)": 378,
+      "Mary McDonald (REP)": 452,
+      "Total Votes Cast": 830,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Deborah Lieberman (DEM)": 225,
+      "Mary McDonald (REP)": 306,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Deborah Lieberman (DEM)": 274,
+      "Mary McDonald (REP)": 312,
+      "Total Votes Cast": 586,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Deborah Lieberman (DEM)": 320,
+      "Mary McDonald (REP)": 447,
+      "Total Votes Cast": 767,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Deborah Lieberman (DEM)": 383,
+      "Mary McDonald (REP)": 486,
+      "Total Votes Cast": 869,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Deborah Lieberman (DEM)": 453,
+      "Mary McDonald (REP)": 488,
+      "Total Votes Cast": 941,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Deborah Lieberman (DEM)": 464,
+      "Mary McDonald (REP)": 482,
+      "Total Votes Cast": 946,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Deborah Lieberman (DEM)": 392,
+      "Mary McDonald (REP)": 637,
+      "Total Votes Cast": 1029,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Deborah Lieberman (DEM)": 349,
+      "Mary McDonald (REP)": 508,
+      "Total Votes Cast": 857,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Deborah Lieberman (DEM)": 410,
+      "Mary McDonald (REP)": 458,
+      "Total Votes Cast": 868,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Deborah Lieberman (DEM)": 434,
+      "Mary McDonald (REP)": 544,
+      "Total Votes Cast": 978,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Deborah Lieberman (DEM)": 372,
+      "Mary McDonald (REP)": 450,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Deborah Lieberman (DEM)": 349,
+      "Mary McDonald (REP)": 378,
+      "Total Votes Cast": 727,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Deborah Lieberman (DEM)": 469,
+      "Mary McDonald (REP)": 562,
+      "Total Votes Cast": 1031,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Deborah Lieberman (DEM)": 411,
+      "Mary McDonald (REP)": 489,
+      "Total Votes Cast": 900,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Deborah Lieberman (DEM)": 383,
+      "Mary McDonald (REP)": 420,
+      "Total Votes Cast": 803,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Deborah Lieberman (DEM)": 390,
+      "Mary McDonald (REP)": 432,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Deborah Lieberman (DEM)": 127,
+      "Mary McDonald (REP)": 62,
+      "Total Votes Cast": 189,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Deborah Lieberman (DEM)": 518,
+      "Mary McDonald (REP)": 180,
+      "Total Votes Cast": 698,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Deborah Lieberman (DEM)": 375,
+      "Mary McDonald (REP)": 127,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Deborah Lieberman (DEM)": 231,
+      "Mary McDonald (REP)": 86,
+      "Total Votes Cast": 317,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Deborah Lieberman (DEM)": 448,
+      "Mary McDonald (REP)": 162,
+      "Total Votes Cast": 610,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Deborah Lieberman (DEM)": 185,
+      "Mary McDonald (REP)": 225,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Deborah Lieberman (DEM)": 330,
+      "Mary McDonald (REP)": 154,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Deborah Lieberman (DEM)": 279,
+      "Mary McDonald (REP)": 215,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Deborah Lieberman (DEM)": 184,
+      "Mary McDonald (REP)": 181,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Deborah Lieberman (DEM)": 116,
+      "Mary McDonald (REP)": 125,
+      "Total Votes Cast": 241,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Deborah Lieberman (DEM)": 179,
+      "Mary McDonald (REP)": 173,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Deborah Lieberman (DEM)": 410,
+      "Mary McDonald (REP)": 441,
+      "Total Votes Cast": 851,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Deborah Lieberman (DEM)": 253,
+      "Mary McDonald (REP)": 215,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Deborah Lieberman (DEM)": 126,
+      "Mary McDonald (REP)": 127,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Deborah Lieberman (DEM)": 380,
+      "Mary McDonald (REP)": 311,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Deborah Lieberman (DEM)": 171,
+      "Mary McDonald (REP)": 269,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Deborah Lieberman (DEM)": 195,
+      "Mary McDonald (REP)": 262,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Deborah Lieberman (DEM)": 430,
+      "Mary McDonald (REP)": 346,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Deborah Lieberman (DEM)": 344,
+      "Mary McDonald (REP)": 318,
+      "Total Votes Cast": 662,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Deborah Lieberman (DEM)": 446,
+      "Mary McDonald (REP)": 399,
+      "Total Votes Cast": 845,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Deborah Lieberman (DEM)": 371,
+      "Mary McDonald (REP)": 412,
+      "Total Votes Cast": 783,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Deborah Lieberman (DEM)": 374,
+      "Mary McDonald (REP)": 118,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Deborah Lieberman (DEM)": 278,
+      "Mary McDonald (REP)": 101,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Deborah Lieberman (DEM)": 294,
+      "Mary McDonald (REP)": 107,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Deborah Lieberman (DEM)": 287,
+      "Mary McDonald (REP)": 51,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Deborah Lieberman (DEM)": 298,
+      "Mary McDonald (REP)": 68,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Deborah Lieberman (DEM)": 243,
+      "Mary McDonald (REP)": 52,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Deborah Lieberman (DEM)": 347,
+      "Mary McDonald (REP)": 79,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Deborah Lieberman (DEM)": 355,
+      "Mary McDonald (REP)": 65,
+      "Total Votes Cast": 420,
+      "Overvotes": 1,
+      "Undervotes": 25,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Deborah Lieberman (DEM)": 341,
+      "Mary McDonald (REP)": 70,
+      "Total Votes Cast": 411,
+      "Overvotes": 1,
+      "Undervotes": 22,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Deborah Lieberman (DEM)": 317,
+      "Mary McDonald (REP)": 54,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Deborah Lieberman (DEM)": 305,
+      "Mary McDonald (REP)": 55,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Deborah Lieberman (DEM)": 244,
+      "Mary McDonald (REP)": 46,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Deborah Lieberman (DEM)": 361,
+      "Mary McDonald (REP)": 287,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Deborah Lieberman (DEM)": 404,
+      "Mary McDonald (REP)": 239,
+      "Total Votes Cast": 643,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Deborah Lieberman (DEM)": 407,
+      "Mary McDonald (REP)": 235,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Deborah Lieberman (DEM)": 379,
+      "Mary McDonald (REP)": 252,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Deborah Lieberman (DEM)": 477,
+      "Mary McDonald (REP)": 336,
+      "Total Votes Cast": 813,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Deborah Lieberman (DEM)": 430,
+      "Mary McDonald (REP)": 318,
+      "Total Votes Cast": 748,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Deborah Lieberman (DEM)": 464,
+      "Mary McDonald (REP)": 349,
+      "Total Votes Cast": 813,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Deborah Lieberman (DEM)": 337,
+      "Mary McDonald (REP)": 295,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Deborah Lieberman (DEM)": 295,
+      "Mary McDonald (REP)": 257,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Deborah Lieberman (DEM)": 211,
+      "Mary McDonald (REP)": 259,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Deborah Lieberman (DEM)": 262,
+      "Mary McDonald (REP)": 194,
+      "Total Votes Cast": 456,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Deborah Lieberman (DEM)": 281,
+      "Mary McDonald (REP)": 291,
+      "Total Votes Cast": 572,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Deborah Lieberman (DEM)": 269,
+      "Mary McDonald (REP)": 232,
+      "Total Votes Cast": 501,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Deborah Lieberman (DEM)": 202,
+      "Mary McDonald (REP)": 161,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Deborah Lieberman (DEM)": 202,
+      "Mary McDonald (REP)": 197,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Deborah Lieberman (DEM)": 229,
+      "Mary McDonald (REP)": 176,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Deborah Lieberman (DEM)": 254,
+      "Mary McDonald (REP)": 299,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Deborah Lieberman (DEM)": 197,
+      "Mary McDonald (REP)": 247,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Deborah Lieberman (DEM)": 352,
+      "Mary McDonald (REP)": 302,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Deborah Lieberman (DEM)": 308,
+      "Mary McDonald (REP)": 127,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Deborah Lieberman (DEM)": 269,
+      "Mary McDonald (REP)": 228,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Deborah Lieberman (DEM)": 214,
+      "Mary McDonald (REP)": 154,
+      "Total Votes Cast": 368,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Deborah Lieberman (DEM)": 346,
+      "Mary McDonald (REP)": 60,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Deborah Lieberman (DEM)": 218,
+      "Mary McDonald (REP)": 26,
+      "Total Votes Cast": 244,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Deborah Lieberman (DEM)": 391,
+      "Mary McDonald (REP)": 93,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Deborah Lieberman (DEM)": 168,
+      "Mary McDonald (REP)": 24,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Deborah Lieberman (DEM)": 232,
+      "Mary McDonald (REP)": 54,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Deborah Lieberman (DEM)": 468,
+      "Mary McDonald (REP)": 71,
+      "Total Votes Cast": 539,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Deborah Lieberman (DEM)": 381,
+      "Mary McDonald (REP)": 66,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Deborah Lieberman (DEM)": 430,
+      "Mary McDonald (REP)": 73,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Deborah Lieberman (DEM)": 312,
+      "Mary McDonald (REP)": 46,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Deborah Lieberman (DEM)": 353,
+      "Mary McDonald (REP)": 59,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Deborah Lieberman (DEM)": 376,
+      "Mary McDonald (REP)": 53,
+      "Total Votes Cast": 429,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Deborah Lieberman (DEM)": 282,
+      "Mary McDonald (REP)": 48,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Deborah Lieberman (DEM)": 320,
+      "Mary McDonald (REP)": 65,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Deborah Lieberman (DEM)": 621,
+      "Mary McDonald (REP)": 103,
+      "Total Votes Cast": 724,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Deborah Lieberman (DEM)": 366,
+      "Mary McDonald (REP)": 65,
+      "Total Votes Cast": 431,
+      "Overvotes": 1,
+      "Undervotes": 19,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Deborah Lieberman (DEM)": 258,
+      "Mary McDonald (REP)": 77,
+      "Total Votes Cast": 335,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Deborah Lieberman (DEM)": 336,
+      "Mary McDonald (REP)": 100,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Deborah Lieberman (DEM)": 386,
+      "Mary McDonald (REP)": 78,
+      "Total Votes Cast": 464,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Deborah Lieberman (DEM)": 229,
+      "Mary McDonald (REP)": 71,
+      "Total Votes Cast": 300,
+      "Overvotes": 1,
+      "Undervotes": 12,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Deborah Lieberman (DEM)": 274,
+      "Mary McDonald (REP)": 50,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Deborah Lieberman (DEM)": 425,
+      "Mary McDonald (REP)": 128,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Deborah Lieberman (DEM)": 316,
+      "Mary McDonald (REP)": 76,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Deborah Lieberman (DEM)": 299,
+      "Mary McDonald (REP)": 94,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Deborah Lieberman (DEM)": 174,
+      "Mary McDonald (REP)": 20,
+      "Total Votes Cast": 194,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Deborah Lieberman (DEM)": 413,
+      "Mary McDonald (REP)": 58,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Deborah Lieberman (DEM)": 330,
+      "Mary McDonald (REP)": 42,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Deborah Lieberman (DEM)": 356,
+      "Mary McDonald (REP)": 406,
+      "Total Votes Cast": 762,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Deborah Lieberman (DEM)": 402,
+      "Mary McDonald (REP)": 413,
+      "Total Votes Cast": 815,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Deborah Lieberman (DEM)": 236,
+      "Mary McDonald (REP)": 308,
+      "Total Votes Cast": 544,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Deborah Lieberman (DEM)": 238,
+      "Mary McDonald (REP)": 340,
+      "Total Votes Cast": 578,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Deborah Lieberman (DEM)": 290,
+      "Mary McDonald (REP)": 72,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Deborah Lieberman (DEM)": 294,
+      "Mary McDonald (REP)": 57,
+      "Total Votes Cast": 351,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Deborah Lieberman (DEM)": 472,
+      "Mary McDonald (REP)": 82,
+      "Total Votes Cast": 554,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Deborah Lieberman (DEM)": 576,
+      "Mary McDonald (REP)": 112,
+      "Total Votes Cast": 688,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Deborah Lieberman (DEM)": 440,
+      "Mary McDonald (REP)": 85,
+      "Total Votes Cast": 525,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Deborah Lieberman (DEM)": 690,
+      "Mary McDonald (REP)": 75,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Deborah Lieberman (DEM)": 398,
+      "Mary McDonald (REP)": 123,
+      "Total Votes Cast": 521,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Deborah Lieberman (DEM)": 423,
+      "Mary McDonald (REP)": 358,
+      "Total Votes Cast": 781,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Deborah Lieberman (DEM)": 320,
+      "Mary McDonald (REP)": 397,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Deborah Lieberman (DEM)": 383,
+      "Mary McDonald (REP)": 316,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Deborah Lieberman (DEM)": 381,
+      "Mary McDonald (REP)": 461,
+      "Total Votes Cast": 842,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Deborah Lieberman (DEM)": 456,
+      "Mary McDonald (REP)": 350,
+      "Total Votes Cast": 806,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Deborah Lieberman (DEM)": 276,
+      "Mary McDonald (REP)": 385,
+      "Total Votes Cast": 661,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Deborah Lieberman (DEM)": 360,
+      "Mary McDonald (REP)": 408,
+      "Total Votes Cast": 768,
+      "Overvotes": 1,
+      "Undervotes": 48,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Deborah Lieberman (DEM)": 279,
+      "Mary McDonald (REP)": 316,
+      "Total Votes Cast": 595,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Deborah Lieberman (DEM)": 292,
+      "Mary McDonald (REP)": 268,
+      "Total Votes Cast": 560,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Deborah Lieberman (DEM)": 378,
+      "Mary McDonald (REP)": 303,
+      "Total Votes Cast": 681,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Deborah Lieberman (DEM)": 134,
+      "Mary McDonald (REP)": 378,
+      "Total Votes Cast": 512,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Deborah Lieberman (DEM)": 188,
+      "Mary McDonald (REP)": 738,
+      "Total Votes Cast": 926,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Deborah Lieberman (DEM)": 221,
+      "Mary McDonald (REP)": 668,
+      "Total Votes Cast": 889,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Deborah Lieberman (DEM)": 236,
+      "Mary McDonald (REP)": 514,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Deborah Lieberman (DEM)": 214,
+      "Mary McDonald (REP)": 488,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Deborah Lieberman (DEM)": 191,
+      "Mary McDonald (REP)": 529,
+      "Total Votes Cast": 720,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Deborah Lieberman (DEM)": 200,
+      "Mary McDonald (REP)": 564,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Deborah Lieberman (DEM)": 147,
+      "Mary McDonald (REP)": 256,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Deborah Lieberman (DEM)": 176,
+      "Mary McDonald (REP)": 321,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Deborah Lieberman (DEM)": 206,
+      "Mary McDonald (REP)": 305,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Deborah Lieberman (DEM)": 495,
+      "Mary McDonald (REP)": 264,
+      "Total Votes Cast": 759,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Deborah Lieberman (DEM)": 119,
+      "Mary McDonald (REP)": 201,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Deborah Lieberman (DEM)": 237,
+      "Mary McDonald (REP)": 70,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Deborah Lieberman (DEM)": 397,
+      "Mary McDonald (REP)": 119,
+      "Total Votes Cast": 516,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Deborah Lieberman (DEM)": 443,
+      "Mary McDonald (REP)": 108,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Deborah Lieberman (DEM)": 376,
+      "Mary McDonald (REP)": 139,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Deborah Lieberman (DEM)": 409,
+      "Mary McDonald (REP)": 93,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Deborah Lieberman (DEM)": 372,
+      "Mary McDonald (REP)": 125,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Deborah Lieberman (DEM)": 516,
+      "Mary McDonald (REP)": 225,
+      "Total Votes Cast": 741,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Deborah Lieberman (DEM)": 662,
+      "Mary McDonald (REP)": 158,
+      "Total Votes Cast": 820,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Deborah Lieberman (DEM)": 162,
+      "Mary McDonald (REP)": 298,
+      "Total Votes Cast": 460,
+      "Overvotes": 1,
+      "Undervotes": 44,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Deborah Lieberman (DEM)": 519,
+      "Mary McDonald (REP)": 189,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Deborah Lieberman (DEM)": 306,
+      "Mary McDonald (REP)": 464,
+      "Total Votes Cast": 770,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Deborah Lieberman (DEM)": 446,
+      "Mary McDonald (REP)": 471,
+      "Total Votes Cast": 917,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Deborah Lieberman (DEM)": 398,
+      "Mary McDonald (REP)": 286,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Deborah Lieberman (DEM)": 358,
+      "Mary McDonald (REP)": 488,
+      "Total Votes Cast": 846,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Deborah Lieberman (DEM)": 371,
+      "Mary McDonald (REP)": 407,
+      "Total Votes Cast": 778,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Deborah Lieberman (DEM)": 340,
+      "Mary McDonald (REP)": 482,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Deborah Lieberman (DEM)": 262,
+      "Mary McDonald (REP)": 335,
+      "Total Votes Cast": 597,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Deborah Lieberman (DEM)": 317,
+      "Mary McDonald (REP)": 225,
+      "Total Votes Cast": 542,
+      "Overvotes": 1,
+      "Undervotes": 37,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Deborah Lieberman (DEM)": 233,
+      "Mary McDonald (REP)": 313,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Deborah Lieberman (DEM)": 326,
+      "Mary McDonald (REP)": 469,
+      "Total Votes Cast": 795,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Deborah Lieberman (DEM)": 309,
+      "Mary McDonald (REP)": 302,
+      "Total Votes Cast": 611,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Deborah Lieberman (DEM)": 320,
+      "Mary McDonald (REP)": 427,
+      "Total Votes Cast": 747,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Deborah Lieberman (DEM)": 285,
+      "Mary McDonald (REP)": 414,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Deborah Lieberman (DEM)": 374,
+      "Mary McDonald (REP)": 412,
+      "Total Votes Cast": 786,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Deborah Lieberman (DEM)": 393,
+      "Mary McDonald (REP)": 366,
+      "Total Votes Cast": 759,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Deborah Lieberman (DEM)": 297,
+      "Mary McDonald (REP)": 399,
+      "Total Votes Cast": 696,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Deborah Lieberman (DEM)": 352,
+      "Mary McDonald (REP)": 344,
+      "Total Votes Cast": 696,
+      "Overvotes": 1,
+      "Undervotes": 49,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Deborah Lieberman (DEM)": 305,
+      "Mary McDonald (REP)": 398,
+      "Total Votes Cast": 703,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Deborah Lieberman (DEM)": 328,
+      "Mary McDonald (REP)": 398,
+      "Total Votes Cast": 726,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Deborah Lieberman (DEM)": 265,
+      "Mary McDonald (REP)": 340,
+      "Total Votes Cast": 605,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Deborah Lieberman (DEM)": 318,
+      "Mary McDonald (REP)": 495,
+      "Total Votes Cast": 813,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Deborah Lieberman (DEM)": 340,
+      "Mary McDonald (REP)": 412,
+      "Total Votes Cast": 752,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Deborah Lieberman (DEM)": 279,
+      "Mary McDonald (REP)": 439,
+      "Total Votes Cast": 718,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Deborah Lieberman (DEM)": 201,
+      "Mary McDonald (REP)": 699,
+      "Total Votes Cast": 900,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Deborah Lieberman (DEM)": 139,
+      "Mary McDonald (REP)": 483,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Deborah Lieberman (DEM)": 459,
+      "Mary McDonald (REP)": 430,
+      "Total Votes Cast": 889,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Deborah Lieberman (DEM)": 332,
+      "Mary McDonald (REP)": 184,
+      "Total Votes Cast": 516,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Deborah Lieberman (DEM)": 247,
+      "Mary McDonald (REP)": 411,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Deborah Lieberman (DEM)": 555,
+      "Mary McDonald (REP)": 99,
+      "Total Votes Cast": 654,
+      "Overvotes": 1,
+      "Undervotes": 28,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Deborah Lieberman (DEM)": 123,
+      "Mary McDonald (REP)": 313,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Deborah Lieberman (DEM)": 185,
+      "Mary McDonald (REP)": 505,
+      "Total Votes Cast": 690,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Deborah Lieberman (DEM)": 344,
+      "Mary McDonald (REP)": 273,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Deborah Lieberman (DEM)": 234,
+      "Mary McDonald (REP)": 371,
+      "Total Votes Cast": 605,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Deborah Lieberman (DEM)": 343,
+      "Mary McDonald (REP)": 468,
+      "Total Votes Cast": 811,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Deborah Lieberman (DEM)": 382,
+      "Mary McDonald (REP)": 402,
+      "Total Votes Cast": 784,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Deborah Lieberman (DEM)": 279,
+      "Mary McDonald (REP)": 357,
+      "Total Votes Cast": 636,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Deborah Lieberman (DEM)": 285,
+      "Mary McDonald (REP)": 343,
+      "Total Votes Cast": 628,
+      "Overvotes": 1,
+      "Undervotes": 38,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Deborah Lieberman (DEM)": 302,
+      "Mary McDonald (REP)": 358,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Deborah Lieberman (DEM)": 398,
+      "Mary McDonald (REP)": 461,
+      "Total Votes Cast": 859,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Deborah Lieberman (DEM)": 362,
+      "Mary McDonald (REP)": 370,
+      "Total Votes Cast": 732,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Deborah Lieberman (DEM)": 337,
+      "Mary McDonald (REP)": 369,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Deborah Lieberman (DEM)": 329,
+      "Mary McDonald (REP)": 365,
+      "Total Votes Cast": 694,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Deborah Lieberman (DEM)": 367,
+      "Mary McDonald (REP)": 371,
+      "Total Votes Cast": 738,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Deborah Lieberman (DEM)": 395,
+      "Mary McDonald (REP)": 429,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Deborah Lieberman (DEM)": 322,
+      "Mary McDonald (REP)": 434,
+      "Total Votes Cast": 756,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Deborah Lieberman (DEM)": 256,
+      "Mary McDonald (REP)": 356,
+      "Total Votes Cast": 612,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Deborah Lieberman (DEM)": 395,
+      "Mary McDonald (REP)": 568,
+      "Total Votes Cast": 963,
+      "Overvotes": 1,
+      "Undervotes": 66,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Deborah Lieberman (DEM)": 378,
+      "Mary McDonald (REP)": 432,
+      "Total Votes Cast": 810,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Deborah Lieberman (DEM)": 290,
+      "Mary McDonald (REP)": 335,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Deborah Lieberman (DEM)": 272,
+      "Mary McDonald (REP)": 244,
+      "Total Votes Cast": 516,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Deborah Lieberman (DEM)": 404,
+      "Mary McDonald (REP)": 376,
+      "Total Votes Cast": 780,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Deborah Lieberman (DEM)": 449,
+      "Mary McDonald (REP)": 327,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Deborah Lieberman (DEM)": 318,
+      "Mary McDonald (REP)": 442,
+      "Total Votes Cast": 760,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Deborah Lieberman (DEM)": 409,
+      "Mary McDonald (REP)": 242,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Deborah Lieberman (DEM)": 391,
+      "Mary McDonald (REP)": 406,
+      "Total Votes Cast": 797,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Deborah Lieberman (DEM)": 321,
+      "Mary McDonald (REP)": 307,
+      "Total Votes Cast": 628,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Deborah Lieberman (DEM)": 315,
+      "Mary McDonald (REP)": 341,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Deborah Lieberman (DEM)": 375,
+      "Mary McDonald (REP)": 382,
+      "Total Votes Cast": 757,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Deborah Lieberman (DEM)": 302,
+      "Mary McDonald (REP)": 357,
+      "Total Votes Cast": 659,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Deborah Lieberman (DEM)": 324,
+      "Mary McDonald (REP)": 321,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Deborah Lieberman (DEM)": 438,
+      "Mary McDonald (REP)": 458,
+      "Total Votes Cast": 896,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Deborah Lieberman (DEM)": 497,
+      "Mary McDonald (REP)": 380,
+      "Total Votes Cast": 877,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Deborah Lieberman (DEM)": 565,
+      "Mary McDonald (REP)": 310,
+      "Total Votes Cast": 875,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Deborah Lieberman (DEM)": 245,
+      "Mary McDonald (REP)": 284,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Deborah Lieberman (DEM)": 408,
+      "Mary McDonald (REP)": 369,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Deborah Lieberman (DEM)": 348,
+      "Mary McDonald (REP)": 337,
+      "Total Votes Cast": 685,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Deborah Lieberman (DEM)": 395,
+      "Mary McDonald (REP)": 335,
+      "Total Votes Cast": 730,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Deborah Lieberman (DEM)": 440,
+      "Mary McDonald (REP)": 503,
+      "Total Votes Cast": 943,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Deborah Lieberman (DEM)": 305,
+      "Mary McDonald (REP)": 327,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Deborah Lieberman (DEM)": 447,
+      "Mary McDonald (REP)": 347,
+      "Total Votes Cast": 794,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Deborah Lieberman (DEM)": 427,
+      "Mary McDonald (REP)": 295,
+      "Total Votes Cast": 722,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Deborah Lieberman (DEM)": 384,
+      "Mary McDonald (REP)": 351,
+      "Total Votes Cast": 735,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Deborah Lieberman (DEM)": 303,
+      "Mary McDonald (REP)": 519,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Deborah Lieberman (DEM)": 246,
+      "Mary McDonald (REP)": 541,
+      "Total Votes Cast": 787,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Deborah Lieberman (DEM)": 302,
+      "Mary McDonald (REP)": 434,
+      "Total Votes Cast": 736,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Deborah Lieberman (DEM)": 223,
+      "Mary McDonald (REP)": 340,
+      "Total Votes Cast": 563,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Deborah Lieberman (DEM)": 246,
+      "Mary McDonald (REP)": 490,
+      "Total Votes Cast": 736,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Deborah Lieberman (DEM)": 261,
+      "Mary McDonald (REP)": 542,
+      "Total Votes Cast": 803,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Deborah Lieberman (DEM)": 210,
+      "Mary McDonald (REP)": 344,
+      "Total Votes Cast": 554,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Deborah Lieberman (DEM)": 295,
+      "Mary McDonald (REP)": 430,
+      "Total Votes Cast": 725,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Deborah Lieberman (DEM)": 279,
+      "Mary McDonald (REP)": 370,
+      "Total Votes Cast": 649,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Deborah Lieberman (DEM)": 265,
+      "Mary McDonald (REP)": 529,
+      "Total Votes Cast": 794,
+      "Overvotes": 1,
+      "Undervotes": 48,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Deborah Lieberman (DEM)": 241,
+      "Mary McDonald (REP)": 452,
+      "Total Votes Cast": 693,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Deborah Lieberman (DEM)": 201,
+      "Mary McDonald (REP)": 422,
+      "Total Votes Cast": 623,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Deborah Lieberman (DEM)": 210,
+      "Mary McDonald (REP)": 354,
+      "Total Votes Cast": 564,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Deborah Lieberman (DEM)": 408,
+      "Mary McDonald (REP)": 622,
+      "Total Votes Cast": 1030,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Deborah Lieberman (DEM)": 330,
+      "Mary McDonald (REP)": 434,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Deborah Lieberman (DEM)": 315,
+      "Mary McDonald (REP)": 337,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Deborah Lieberman (DEM)": 188,
+      "Mary McDonald (REP)": 593,
+      "Total Votes Cast": 781,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Deborah Lieberman (DEM)": 324,
+      "Mary McDonald (REP)": 343,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Deborah Lieberman (DEM)": 368,
+      "Mary McDonald (REP)": 553,
+      "Total Votes Cast": 921,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Deborah Lieberman (DEM)": 355,
+      "Mary McDonald (REP)": 350,
+      "Total Votes Cast": 705,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Deborah Lieberman (DEM)": 247,
+      "Mary McDonald (REP)": 381,
+      "Total Votes Cast": 628,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Deborah Lieberman (DEM)": 295,
+      "Mary McDonald (REP)": 361,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Deborah Lieberman (DEM)": 208,
+      "Mary McDonald (REP)": 193,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Deborah Lieberman (DEM)": 160,
+      "Mary McDonald (REP)": 495,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Deborah Lieberman (DEM)": 343,
+      "Mary McDonald (REP)": 539,
+      "Total Votes Cast": 882,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Deborah Lieberman (DEM)": 247,
+      "Mary McDonald (REP)": 330,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Deborah Lieberman (DEM)": 284,
+      "Mary McDonald (REP)": 377,
+      "Total Votes Cast": 661,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Deborah Lieberman (DEM)": 319,
+      "Mary McDonald (REP)": 442,
+      "Total Votes Cast": 761,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Deborah Lieberman (DEM)": 296,
+      "Mary McDonald (REP)": 403,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Deborah Lieberman (DEM)": 261,
+      "Mary McDonald (REP)": 238,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Deborah Lieberman (DEM)": 377,
+      "Mary McDonald (REP)": 374,
+      "Total Votes Cast": 751,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Deborah Lieberman (DEM)": 192,
+      "Mary McDonald (REP)": 210,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Deborah Lieberman (DEM)": 229,
+      "Mary McDonald (REP)": 475,
+      "Total Votes Cast": 704,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Deborah Lieberman (DEM)": 226,
+      "Mary McDonald (REP)": 346,
+      "Total Votes Cast": 572,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Deborah Lieberman (DEM)": 283,
+      "Mary McDonald (REP)": 284,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Deborah Lieberman (DEM)": 242,
+      "Mary McDonald (REP)": 430,
+      "Total Votes Cast": 672,
+      "Overvotes": 1,
+      "Undervotes": 64,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Deborah Lieberman (DEM)": 148,
+      "Mary McDonald (REP)": 282,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Deborah Lieberman (DEM)": 308,
+      "Mary McDonald (REP)": 465,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Deborah Lieberman (DEM)": 172,
+      "Mary McDonald (REP)": 316,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Deborah Lieberman (DEM)": 205,
+      "Mary McDonald (REP)": 227,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Deborah Lieberman (DEM)": 232,
+      "Mary McDonald (REP)": 127,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Deborah Lieberman (DEM)": 472,
+      "Mary McDonald (REP)": 324,
+      "Total Votes Cast": 796,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Deborah Lieberman (DEM)": 435,
+      "Mary McDonald (REP)": 352,
+      "Total Votes Cast": 787,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Deborah Lieberman (DEM)": 403,
+      "Mary McDonald (REP)": 232,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Deborah Lieberman (DEM)": 420,
+      "Mary McDonald (REP)": 227,
+      "Total Votes Cast": 647,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Deborah Lieberman (DEM)": 454,
+      "Mary McDonald (REP)": 218,
+      "Total Votes Cast": 672,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Deborah Lieberman (DEM)": 553,
+      "Mary McDonald (REP)": 281,
+      "Total Votes Cast": 834,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Deborah Lieberman (DEM)": 418,
+      "Mary McDonald (REP)": 299,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Deborah Lieberman (DEM)": 318,
+      "Mary McDonald (REP)": 257,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Deborah Lieberman (DEM)": 114,
+      "Mary McDonald (REP)": 438,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Deborah Lieberman (DEM)": 165,
+      "Mary McDonald (REP)": 444,
+      "Total Votes Cast": 609,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Deborah Lieberman (DEM)": 188,
+      "Mary McDonald (REP)": 529,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Deborah Lieberman (DEM)": 61,
+      "Mary McDonald (REP)": 163,
+      "Total Votes Cast": 224,
+      "Overvotes": 1,
+      "Undervotes": 12,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Deborah Lieberman (DEM)": 233,
+      "Mary McDonald (REP)": 264,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Deborah Lieberman (DEM)": 134,
+      "Mary McDonald (REP)": 357,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Deborah Lieberman (DEM)": 255,
+      "Mary McDonald (REP)": 382,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Deborah Lieberman (DEM)": 176,
+      "Mary McDonald (REP)": 350,
+      "Total Votes Cast": 526,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Deborah Lieberman (DEM)": 312,
+      "Mary McDonald (REP)": 341,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Deborah Lieberman (DEM)": 219,
+      "Mary McDonald (REP)": 457,
+      "Total Votes Cast": 676,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Deborah Lieberman (DEM)": 168,
+      "Mary McDonald (REP)": 410,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Deborah Lieberman (DEM)": 255,
+      "Mary McDonald (REP)": 309,
+      "Total Votes Cast": 564,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Deborah Lieberman (DEM)": 172,
+      "Mary McDonald (REP)": 322,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Deborah Lieberman (DEM)": 124,
+      "Mary McDonald (REP)": 205,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Deborah Lieberman (DEM)": 178,
+      "Mary McDonald (REP)": 311,
+      "Total Votes Cast": 489,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Deborah Lieberman (DEM)": 167,
+      "Mary McDonald (REP)": 315,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Deborah Lieberman (DEM)": 297,
+      "Mary McDonald (REP)": 354,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Deborah Lieberman (DEM)": 118,
+      "Mary McDonald (REP)": 269,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Deborah Lieberman (DEM)": 271,
+      "Mary McDonald (REP)": 407,
+      "Total Votes Cast": 678,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Deborah Lieberman (DEM)": 190,
+      "Mary McDonald (REP)": 288,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Deborah Lieberman (DEM)": 284,
+      "Mary McDonald (REP)": 386,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Deborah Lieberman (DEM)": 304,
+      "Mary McDonald (REP)": 395,
+      "Total Votes Cast": 699,
+      "Overvotes": 1,
+      "Undervotes": 57,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Deborah Lieberman (DEM)": 467,
+      "Mary McDonald (REP)": 236,
+      "Total Votes Cast": 703,
+      "Overvotes": 1,
+      "Undervotes": 30,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Deborah Lieberman (DEM)": 258,
+      "Mary McDonald (REP)": 129,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Deborah Lieberman (DEM)": 417,
+      "Mary McDonald (REP)": 94,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Deborah Lieberman (DEM)": 330,
+      "Mary McDonald (REP)": 88,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Deborah Lieberman (DEM)": 569,
+      "Mary McDonald (REP)": 139,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Deborah Lieberman (DEM)": 459,
+      "Mary McDonald (REP)": 131,
+      "Total Votes Cast": 590,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Deborah Lieberman (DEM)": 537,
+      "Mary McDonald (REP)": 142,
+      "Total Votes Cast": 679,
+      "Overvotes": 1,
+      "Undervotes": 29,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Deborah Lieberman (DEM)": 401,
+      "Mary McDonald (REP)": 82,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Deborah Lieberman (DEM)": 267,
+      "Mary McDonald (REP)": 138,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Deborah Lieberman (DEM)": 411,
+      "Mary McDonald (REP)": 72,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Deborah Lieberman (DEM)": 275,
+      "Mary McDonald (REP)": 166,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Deborah Lieberman (DEM)": 258,
+      "Mary McDonald (REP)": 311,
+      "Total Votes Cast": 569,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Deborah Lieberman (DEM)": 285,
+      "Mary McDonald (REP)": 157,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Deborah Lieberman (DEM)": 503,
+      "Mary McDonald (REP)": 140,
+      "Total Votes Cast": 643,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Deborah Lieberman (DEM)": 531,
+      "Mary McDonald (REP)": 116,
+      "Total Votes Cast": 647,
+      "Overvotes": 2,
+      "Undervotes": 21,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Deborah Lieberman (DEM)": 431,
+      "Mary McDonald (REP)": 104,
+      "Total Votes Cast": 535,
+      "Overvotes": 1,
+      "Undervotes": 27,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Deborah Lieberman (DEM)": 336,
+      "Mary McDonald (REP)": 95,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Deborah Lieberman (DEM)": 337,
+      "Mary McDonald (REP)": 107,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Deborah Lieberman (DEM)": 146,
+      "Mary McDonald (REP)": 293,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Deborah Lieberman (DEM)": 261,
+      "Mary McDonald (REP)": 416,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Deborah Lieberman (DEM)": 254,
+      "Mary McDonald (REP)": 506,
+      "Total Votes Cast": 760,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Deborah Lieberman (DEM)": 328,
+      "Mary McDonald (REP)": 467,
+      "Total Votes Cast": 795,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Deborah Lieberman (DEM)": 254,
+      "Mary McDonald (REP)": 517,
+      "Total Votes Cast": 771,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Deborah Lieberman (DEM)": 231,
+      "Mary McDonald (REP)": 439,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Deborah Lieberman (DEM)": 139,
+      "Mary McDonald (REP)": 283,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Deborah Lieberman (DEM)": 255,
+      "Mary McDonald (REP)": 524,
+      "Total Votes Cast": 779,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Deborah Lieberman (DEM)": 289,
+      "Mary McDonald (REP)": 417,
+      "Total Votes Cast": 706,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Deborah Lieberman (DEM)": 163,
+      "Mary McDonald (REP)": 355,
+      "Total Votes Cast": 518,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Deborah Lieberman (DEM)": 321,
+      "Mary McDonald (REP)": 483,
+      "Total Votes Cast": 804,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Deborah Lieberman (DEM)": 223,
+      "Mary McDonald (REP)": 403,
+      "Total Votes Cast": 626,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Deborah Lieberman (DEM)": 280,
+      "Mary McDonald (REP)": 581,
+      "Total Votes Cast": 861,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Deborah Lieberman (DEM)": 251,
+      "Mary McDonald (REP)": 461,
+      "Total Votes Cast": 712,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Deborah Lieberman (DEM)": 313,
+      "Mary McDonald (REP)": 593,
+      "Total Votes Cast": 906,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Deborah Lieberman (DEM)": 304,
+      "Mary McDonald (REP)": 519,
+      "Total Votes Cast": 823,
+      "Overvotes": 1,
+      "Undervotes": 54,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Deborah Lieberman (DEM)": 287,
+      "Mary McDonald (REP)": 440,
+      "Total Votes Cast": 727,
+      "Overvotes": 1,
+      "Undervotes": 50,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Deborah Lieberman (DEM)": 418,
+      "Mary McDonald (REP)": 597,
+      "Total Votes Cast": 1015,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Deborah Lieberman (DEM)": 365,
+      "Mary McDonald (REP)": 488,
+      "Total Votes Cast": 853,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Deborah Lieberman (DEM)": 259,
+      "Mary McDonald (REP)": 365,
+      "Total Votes Cast": 624,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Deborah Lieberman (DEM)": 387,
+      "Mary McDonald (REP)": 492,
+      "Total Votes Cast": 879,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Deborah Lieberman (DEM)": 244,
+      "Mary McDonald (REP)": 313,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Deborah Lieberman (DEM)": 426,
+      "Mary McDonald (REP)": 509,
+      "Total Votes Cast": 935,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Deborah Lieberman (DEM)": 314,
+      "Mary McDonald (REP)": 436,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Deborah Lieberman (DEM)": 329,
+      "Mary McDonald (REP)": 304,
+      "Total Votes Cast": 633,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Deborah Lieberman (DEM)": 382,
+      "Mary McDonald (REP)": 431,
+      "Total Votes Cast": 813,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Deborah Lieberman (DEM)": 301,
+      "Mary McDonald (REP)": 490,
+      "Total Votes Cast": 791,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Deborah Lieberman (DEM)": 335,
+      "Mary McDonald (REP)": 316,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Deborah Lieberman (DEM)": 352,
+      "Mary McDonald (REP)": 523,
+      "Total Votes Cast": 875,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Deborah Lieberman (DEM)": 415,
+      "Mary McDonald (REP)": 385,
+      "Total Votes Cast": 800,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Deborah Lieberman (DEM)": 377,
+      "Mary McDonald (REP)": 452,
+      "Total Votes Cast": 829,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Deborah Lieberman (DEM)": 390,
+      "Mary McDonald (REP)": 540,
+      "Total Votes Cast": 930,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Deborah Lieberman (DEM)": 424,
+      "Mary McDonald (REP)": 489,
+      "Total Votes Cast": 913,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Deborah Lieberman (DEM)": 290,
+      "Mary McDonald (REP)": 383,
+      "Total Votes Cast": 673,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Deborah Lieberman (DEM)": 294,
+      "Mary McDonald (REP)": 405,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Deborah Lieberman (DEM)": 363,
+      "Mary McDonald (REP)": 331,
+      "Total Votes Cast": 694,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Deborah Lieberman (DEM)": 361,
+      "Mary McDonald (REP)": 468,
+      "Total Votes Cast": 829,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Deborah Lieberman (DEM)": 327,
+      "Mary McDonald (REP)": 457,
+      "Total Votes Cast": 784,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Deborah Lieberman (DEM)": 278,
+      "Mary McDonald (REP)": 281,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Deborah Lieberman (DEM)": 286,
+      "Mary McDonald (REP)": 383,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Deborah Lieberman (DEM)": 471,
+      "Mary McDonald (REP)": 557,
+      "Total Votes Cast": 1028,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Deborah Lieberman (DEM)": 304,
+      "Mary McDonald (REP)": 414,
+      "Total Votes Cast": 718,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Deborah Lieberman (DEM)": 346,
+      "Mary McDonald (REP)": 421,
+      "Total Votes Cast": 767,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Deborah Lieberman (DEM)": 270,
+      "Mary McDonald (REP)": 303,
+      "Total Votes Cast": 573,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Deborah Lieberman (DEM)": 424,
+      "Mary McDonald (REP)": 540,
+      "Total Votes Cast": 964,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Deborah Lieberman (DEM)": 247,
+      "Mary McDonald (REP)": 400,
+      "Total Votes Cast": 647,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Deborah Lieberman (DEM)": 247,
+      "Mary McDonald (REP)": 436,
+      "Total Votes Cast": 683,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Deborah Lieberman (DEM)": 234,
+      "Mary McDonald (REP)": 474,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Deborah Lieberman (DEM)": 263,
+      "Mary McDonald (REP)": 426,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Deborah Lieberman (DEM)": 286,
+      "Mary McDonald (REP)": 175,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Deborah Lieberman (DEM)": 242,
+      "Mary McDonald (REP)": 284,
+      "Total Votes Cast": 526,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Deborah Lieberman (DEM)": 330,
+      "Mary McDonald (REP)": 377,
+      "Total Votes Cast": 707,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Deborah Lieberman (DEM)": 217,
+      "Mary McDonald (REP)": 446,
+      "Total Votes Cast": 663,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Deborah Lieberman (DEM)": 310,
+      "Mary McDonald (REP)": 179,
+      "Total Votes Cast": 489,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 519
+    }
+  ]
+}

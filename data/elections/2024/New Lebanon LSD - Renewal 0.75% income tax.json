@@ -1,0 +1,87 @@
+{
+  "race": "New Lebanon LSD - Renewal 0.75% income tax",
+  "precincts": 9,
+  "results": [
+    {
+      "Precinct": "JAKTWP-A",
+      "For the Tax": 205,
+      "Against the Tax": 323,
+      "Total Votes Cast": 528,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 547
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "For the Tax": 24,
+      "Against the Tax": 56,
+      "Total Votes Cast": 80,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 82
+    },
+    {
+      "Precinct": "JNLB-A",
+      "For the Tax": 196,
+      "Against the Tax": 259,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "For the Tax": 313,
+      "Against the Tax": 403,
+      "Total Votes Cast": 716,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 748
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "For the Tax": 40,
+      "Against the Tax": 49,
+      "Total Votes Cast": 89,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 93
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "For the Tax": 21,
+      "Against the Tax": 34,
+      "Total Votes Cast": 55,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 60
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "For the Tax": 306,
+      "Against the Tax": 439,
+      "Total Votes Cast": 745,
+      "Overvotes": 1,
+      "Undervotes": 22,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PNLB",
+      "For the Tax": 230,
+      "Against the Tax": 281,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "TR 3-B",
+      "For the Tax": 62,
+      "Against the Tax": 80,
+      "Total Votes Cast": 142,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 148
+    }
+  ]
+}

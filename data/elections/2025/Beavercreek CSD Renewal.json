@@ -1,0 +1,24 @@
+{
+  "race": "Beavercreek CSD Renewal",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "KT 1-E2",
+      "FOR THE TAX LEVY": 47,
+      "AGAINST THE TAX LEVY": 32,
+      "Total Votes Cast": 79,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 80
+    },
+    {
+      "Precinct": "RV-D",
+      "FOR THE TAX LEVY": 123,
+      "AGAINST THE TAX LEVY": 132,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 255
+    }
+  ]
+}

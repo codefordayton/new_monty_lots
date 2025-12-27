@@ -1,0 +1,15 @@
+{
+  "race": "Local Option - HUB 1-D - Wawa #7200 - 5-R Q2 ",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "HUB 1-D",
+      "Yes": 534,
+      "No": 291,
+      "Total Votes Cast": 825,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 901
+    }
+  ]
+}

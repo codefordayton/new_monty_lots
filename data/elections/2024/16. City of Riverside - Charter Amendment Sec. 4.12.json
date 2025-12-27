@@ -1,0 +1,159 @@
+{
+  "race": "16. City of Riverside - Charter Amendment Sec. 4.12",
+  "precincts": 17,
+  "results": [
+    {
+      "Precinct": "PM",
+      "Yes": 305,
+      "No": 117,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-A",
+      "Yes": 355,
+      "No": 203,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 109,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "RV-B",
+      "Yes": 263,
+      "No": 195,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 102,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Yes": 365,
+      "No": 211,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 132,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Yes": 360,
+      "No": 231,
+      "Total Votes Cast": 591,
+      "Overvotes": 0,
+      "Undervotes": 137,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Yes": 284,
+      "No": 246,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 619
+    },
+    {
+      "Precinct": "RV-F",
+      "Yes": 334,
+      "No": 163,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Yes": 242,
+      "No": 182,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 112,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "RV-H",
+      "Yes": 186,
+      "No": 108,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "RV-I",
+      "Yes": 253,
+      "No": 167,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 106,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Yes": 260,
+      "No": 152,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 100,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Yes": 382,
+      "No": 172,
+      "Total Votes Cast": 554,
+      "Overvotes": 0,
+      "Undervotes": 136,
+      "Contest Total": 690
+    },
+    {
+      "Precinct": "RV-L",
+      "Yes": 201,
+      "No": 130,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 420
+    },
+    {
+      "Precinct": "RV-M",
+      "Yes": 413,
+      "No": 207,
+      "Total Votes Cast": 620,
+      "Overvotes": 0,
+      "Undervotes": 94,
+      "Contest Total": 714
+    },
+    {
+      "Precinct": "RV-N",
+      "Yes": 269,
+      "No": 152,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 101,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Yes": 376,
+      "No": 213,
+      "Total Votes Cast": 589,
+      "Overvotes": 0,
+      "Undervotes": 127,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-P",
+      "Yes": 380,
+      "No": 254,
+      "Total Votes Cast": 634,
+      "Overvotes": 1,
+      "Undervotes": 121,
+      "Contest Total": 756
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "race": "Beavercreek CSD - Bond issue 4.9 mills - 37 yrs",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "KT 1-E",
+      "Yes": 56,
+      "No": 90,
+      "Total Votes Cast": 146,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 160
+    },
+    {
+      "Precinct": "RV-D",
+      "Yes": 295,
+      "No": 365,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 728
+    }
+  ]
+}

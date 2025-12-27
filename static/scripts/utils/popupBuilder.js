@@ -124,30 +124,90 @@ export async function createPopupContent(layerId, properties, geometry) {
     .replace(/\b\w/g, (char) => char.toUpperCase());
   let content = `<div style="max-width: 300px;"><h3 style="margin: 0 0 10px 0; padding-bottom: 8px; border-bottom: 2px solid #007bff;">${layerTitle}</h3>`;
 
-  // Add properties if they exist
-  if (properties && Object.keys(properties).length > 0) {
-    const fieldsToDisplay = getFieldsToDisplay(properties, layerId, config);
+  // Check if this feature has race data
+  if (properties && properties._currentRace) {
+    content += buildRacePopupContent(properties._currentRace);
+  } else {
+    // Add properties if they exist
+    if (properties && Object.keys(properties).length > 0) {
+      const fieldsToDisplay = getFieldsToDisplay(properties, layerId, config);
 
-    content += '<table style="width: 100%; border-collapse: collapse;">';
+      content += '<table style="width: 100%; border-collapse: collapse;">';
 
-    for (const fieldName of fieldsToDisplay) {
-      const value = properties[fieldName];
+      for (const fieldName of fieldsToDisplay) {
+        const value = properties[fieldName];
 
-      if (value !== null && value !== undefined && value !== '') {
-        const label = getFieldLabel(fieldName, layerId, config);
-        const formattedValue = formatFieldValue(value, fieldName);
+        if (value !== null && value !== undefined && value !== '') {
+          const label = getFieldLabel(fieldName, layerId, config);
+          const formattedValue = formatFieldValue(value, fieldName);
 
-        content += `
-          <tr style="border-bottom: 1px solid #eee;">
-            <td style="padding: 2px 8px 2px 0; font-weight: 600; vertical-align: top; width: 40%; font-size: 13px;">${label}:</td>
-            <td style="padding: 2px 0; vertical-align: top; font-size: 13px;">${formattedValue}</td>
-          </tr>
-        `;
+          content += `
+            <tr style="border-bottom: 1px solid #eee;">
+              <td style="padding: 2px 8px 2px 0; font-weight: 600; vertical-align: top; width: 40%; font-size: 13px;">${label}:</td>
+              <td style="padding: 2px 0; vertical-align: top; font-size: 13px;">${formattedValue}</td>
+            </tr>
+          `;
+        }
       }
-    }
 
-    content += '</table>';
+      content += '</table>';
+    }
   }
+
+  content += '</div>';
+
+  return content;
+}
+
+/**
+ * Build popup content for race data
+ * @param {Object} raceData - Race result data for this precinct
+ * @returns {string} HTML content for race results
+ */
+function buildRacePopupContent(raceData) {
+  if (!raceData || typeof raceData !== 'object') {
+    return '<p>No race data available</p>';
+  }
+
+  let content = '<div style="margin-top: 10px;">';
+
+  // Get all candidate fields (exclude metadata fields)
+  const excludeFields = ['Precinct', 'Total Votes Cast', 'Overvotes', 'Undervotes', 'Contest Total'];
+  const candidates = Object.keys(raceData).filter(
+    key => !excludeFields.includes(key) &&
+           !key.startsWith('Write-in') &&
+           !key.startsWith('_') &&
+           typeof raceData[key] === 'number'
+  );
+
+  // Display precinct name
+  if (raceData.Precinct) {
+    content += `<p style="margin: 0 0 10px 0; font-weight: 600;">Precinct: ${raceData.Precinct}</p>`;
+  }
+
+  // Display candidates
+  content += '<table style="width: 100%; border-collapse: collapse; margin-bottom: 10px;">';
+
+  candidates.forEach(candidate => {
+    const votes = raceData[candidate];
+    const totalVotes = raceData['Total Votes Cast'] || 0;
+    const percentage = totalVotes > 0 ? ((votes / totalVotes) * 100).toFixed(1) : 0;
+
+    content += `
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 4px 8px 4px 0; font-weight: 500; font-size: 13px;">${candidate}</td>
+        <td style="padding: 4px 0; text-align: right; font-size: 13px;">${votes.toLocaleString()}</td>
+        <td style="padding: 4px 0 4px 8px; text-align: right; font-size: 13px; color: #666;">${percentage}%</td>
+      </tr>
+    `;
+  });
+
+  content += '</table>';
+
+  // Display totals
+  content += `<div style="padding-top: 8px; border-top: 2px solid #ddd; font-size: 13px;">`;
+  content += `<strong>Total Votes:</strong> ${(raceData['Total Votes Cast'] || 0).toLocaleString()}`;
+  content += `</div>`;
 
   content += '</div>';
 

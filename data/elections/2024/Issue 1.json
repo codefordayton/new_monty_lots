@@ -1,0 +1,3435 @@
+{
+  "race": "Issue 1",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "YES": 330,
+      "NO": 542,
+      "Total Votes Cast": 872,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "YES": 219,
+      "NO": 451,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "BRK-C",
+      "YES": 293,
+      "NO": 571,
+      "Total Votes Cast": 864,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 909
+    },
+    {
+      "Precinct": "BRK-D",
+      "YES": 236,
+      "NO": 503,
+      "Total Votes Cast": 739,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "YES": 271,
+      "NO": 526,
+      "Total Votes Cast": 797,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "YES": 263,
+      "NO": 436,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "YES": 334,
+      "NO": 549,
+      "Total Votes Cast": 883,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "YES": 341,
+      "NO": 484,
+      "Total Votes Cast": 825,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "YES": 234,
+      "NO": 343,
+      "Total Votes Cast": 577,
+      "Overvotes": 1,
+      "Undervotes": 18,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "YES": 266,
+      "NO": 401,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "YES": 228,
+      "NO": 266,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 520
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "YES": 160,
+      "NO": 408,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "YES": 152,
+      "NO": 428,
+      "Total Votes Cast": 580,
+      "Overvotes": 1,
+      "Undervotes": 39,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "YES": 206,
+      "NO": 679,
+      "Total Votes Cast": 885,
+      "Overvotes": 1,
+      "Undervotes": 44,
+      "Contest Total": 930
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "YES": 196,
+      "NO": 395,
+      "Total Votes Cast": 591,
+      "Overvotes": 1,
+      "Undervotes": 16,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "YES": 344,
+      "NO": 330,
+      "Total Votes Cast": 674,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "YES": 405,
+      "NO": 485,
+      "Total Votes Cast": 890,
+      "Overvotes": 1,
+      "Undervotes": 46,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "YES": 320,
+      "NO": 256,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "YES": 327,
+      "NO": 299,
+      "Total Votes Cast": 626,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "YES": 482,
+      "NO": 354,
+      "Total Votes Cast": 836,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 857
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "YES": 526,
+      "NO": 333,
+      "Total Votes Cast": 859,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 896
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "YES": 475,
+      "NO": 355,
+      "Total Votes Cast": 830,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "YES": 444,
+      "NO": 360,
+      "Total Votes Cast": 804,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "YES": 427,
+      "NO": 284,
+      "Total Votes Cast": 711,
+      "Overvotes": 1,
+      "Undervotes": 25,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "CV-A",
+      "YES": 344,
+      "NO": 266,
+      "Total Votes Cast": 610,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 635
+    },
+    {
+      "Precinct": "CV-B",
+      "YES": 412,
+      "NO": 428,
+      "Total Votes Cast": 840,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 880
+    },
+    {
+      "Precinct": "CV-C",
+      "YES": 252,
+      "NO": 290,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 564
+    },
+    {
+      "Precinct": "CV-D",
+      "YES": 298,
+      "NO": 313,
+      "Total Votes Cast": 611,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 648
+    },
+    {
+      "Precinct": "CV-E",
+      "YES": 367,
+      "NO": 419,
+      "Total Votes Cast": 786,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 815
+    },
+    {
+      "Precinct": "CV-F",
+      "YES": 432,
+      "NO": 458,
+      "Total Votes Cast": 890,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "CV-G",
+      "YES": 500,
+      "NO": 460,
+      "Total Votes Cast": 960,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 1002
+    },
+    {
+      "Precinct": "CV-H",
+      "YES": 476,
+      "NO": 487,
+      "Total Votes Cast": 963,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-I",
+      "YES": 431,
+      "NO": 614,
+      "Total Votes Cast": 1045,
+      "Overvotes": 2,
+      "Undervotes": 40,
+      "Contest Total": 1087
+    },
+    {
+      "Precinct": "CV-J",
+      "YES": 389,
+      "NO": 492,
+      "Total Votes Cast": 881,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 914
+    },
+    {
+      "Precinct": "CV-K",
+      "YES": 441,
+      "NO": 465,
+      "Total Votes Cast": 906,
+      "Overvotes": 2,
+      "Undervotes": 35,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "YES": 444,
+      "NO": 548,
+      "Total Votes Cast": 992,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "YES": 396,
+      "NO": 434,
+      "Total Votes Cast": 830,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "CV-N",
+      "YES": 398,
+      "NO": 332,
+      "Total Votes Cast": 730,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 777
+    },
+    {
+      "Precinct": "CV-O",
+      "YES": 508,
+      "NO": 546,
+      "Total Votes Cast": 1054,
+      "Overvotes": 1,
+      "Undervotes": 48,
+      "Contest Total": 1103
+    },
+    {
+      "Precinct": "CV-P",
+      "YES": 452,
+      "NO": 472,
+      "Total Votes Cast": 924,
+      "Overvotes": 1,
+      "Undervotes": 38,
+      "Contest Total": 963
+    },
+    {
+      "Precinct": "CV-Q",
+      "YES": 394,
+      "NO": 431,
+      "Total Votes Cast": 825,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "YES": 454,
+      "NO": 368,
+      "Total Votes Cast": 822,
+      "Overvotes": 1,
+      "Undervotes": 57,
+      "Contest Total": 880
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "YES": 133,
+      "NO": 68,
+      "Total Votes Cast": 201,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 214
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "YES": 523,
+      "NO": 184,
+      "Total Votes Cast": 707,
+      "Overvotes": 2,
+      "Undervotes": 29,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "YES": 374,
+      "NO": 115,
+      "Total Votes Cast": 489,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "YES": 239,
+      "NO": 81,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 332
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "YES": 468,
+      "NO": 150,
+      "Total Votes Cast": 618,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 640
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "YES": 236,
+      "NO": 179,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "YES": 345,
+      "NO": 150,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 509
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "YES": 288,
+      "NO": 229,
+      "Total Votes Cast": 517,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "YES": 183,
+      "NO": 174,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "YES": 134,
+      "NO": 121,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "YES": 171,
+      "NO": 190,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "YES": 455,
+      "NO": 415,
+      "Total Votes Cast": 870,
+      "Overvotes": 1,
+      "Undervotes": 30,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "YES": 260,
+      "NO": 216,
+      "Total Votes Cast": 476,
+      "Overvotes": 1,
+      "Undervotes": 21,
+      "Contest Total": 498
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "YES": 148,
+      "NO": 115,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "YES": 412,
+      "NO": 290,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "YES": 227,
+      "NO": 226,
+      "Total Votes Cast": 453,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 482
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "YES": 228,
+      "NO": 247,
+      "Total Votes Cast": 475,
+      "Overvotes": 1,
+      "Undervotes": 22,
+      "Contest Total": 498
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "YES": 442,
+      "NO": 371,
+      "Total Votes Cast": 813,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "YES": 375,
+      "NO": 308,
+      "Total Votes Cast": 683,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "YES": 471,
+      "NO": 390,
+      "Total Votes Cast": 861,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 893
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "YES": 377,
+      "NO": 410,
+      "Total Votes Cast": 787,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "YES": 372,
+      "NO": 124,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "YES": 268,
+      "NO": 107,
+      "Total Votes Cast": 375,
+      "Overvotes": 1,
+      "Undervotes": 22,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "YES": 298,
+      "NO": 112,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "YES": 283,
+      "NO": 55,
+      "Total Votes Cast": 338,
+      "Overvotes": 2,
+      "Undervotes": 26,
+      "Contest Total": 366
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "YES": 288,
+      "NO": 77,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "YES": 234,
+      "NO": 60,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 317
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "YES": 341,
+      "NO": 85,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 442
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "YES": 345,
+      "NO": 67,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "YES": 341,
+      "NO": 68,
+      "Total Votes Cast": 409,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "YES": 314,
+      "NO": 57,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "YES": 300,
+      "NO": 47,
+      "Total Votes Cast": 347,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "YES": 231,
+      "NO": 55,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 298
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "YES": 379,
+      "NO": 289,
+      "Total Votes Cast": 668,
+      "Overvotes": 2,
+      "Undervotes": 33,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "YES": 426,
+      "NO": 219,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "YES": 431,
+      "NO": 236,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "YES": 371,
+      "NO": 274,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "YES": 500,
+      "NO": 328,
+      "Total Votes Cast": 828,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 857
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "YES": 484,
+      "NO": 266,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "YES": 498,
+      "NO": 337,
+      "Total Votes Cast": 835,
+      "Overvotes": 2,
+      "Undervotes": 25,
+      "Contest Total": 862
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "YES": 347,
+      "NO": 284,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "YES": 321,
+      "NO": 243,
+      "Total Votes Cast": 564,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "YES": 239,
+      "NO": 241,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "YES": 271,
+      "NO": 188,
+      "Total Votes Cast": 459,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "YES": 306,
+      "NO": 284,
+      "Total Votes Cast": 590,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "YES": 292,
+      "NO": 221,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 532
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "YES": 205,
+      "NO": 158,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "YES": 216,
+      "NO": 183,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 430
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "YES": 248,
+      "NO": 168,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "YES": 258,
+      "NO": 294,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 593
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "YES": 230,
+      "NO": 210,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "YES": 372,
+      "NO": 281,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "YES": 328,
+      "NO": 116,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "YES": 294,
+      "NO": 211,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 529
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "YES": 231,
+      "NO": 147,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "YES": 323,
+      "NO": 66,
+      "Total Votes Cast": 389,
+      "Overvotes": 1,
+      "Undervotes": 33,
+      "Contest Total": 423
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "YES": 209,
+      "NO": 40,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 268
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "YES": 390,
+      "NO": 102,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "YES": 154,
+      "NO": 39,
+      "Total Votes Cast": 193,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 204
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "YES": 221,
+      "NO": 58,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 303
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "YES": 451,
+      "NO": 82,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "YES": 385,
+      "NO": 62,
+      "Total Votes Cast": 447,
+      "Overvotes": 1,
+      "Undervotes": 24,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "YES": 426,
+      "NO": 74,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "YES": 302,
+      "NO": 51,
+      "Total Votes Cast": 353,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 378
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "YES": 364,
+      "NO": 56,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "YES": 353,
+      "NO": 80,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "YES": 287,
+      "NO": 47,
+      "Total Votes Cast": 334,
+      "Overvotes": 1,
+      "Undervotes": 15,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "YES": 331,
+      "NO": 52,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "YES": 587,
+      "NO": 128,
+      "Total Votes Cast": 715,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 748
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "YES": 343,
+      "NO": 76,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "YES": 259,
+      "NO": 75,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 346
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "YES": 304,
+      "NO": 137,
+      "Total Votes Cast": 441,
+      "Overvotes": 1,
+      "Undervotes": 24,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "YES": 377,
+      "NO": 96,
+      "Total Votes Cast": 473,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 494
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "YES": 235,
+      "NO": 63,
+      "Total Votes Cast": 298,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 314
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "YES": 258,
+      "NO": 67,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "YES": 427,
+      "NO": 119,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 570
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "YES": 299,
+      "NO": 93,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "YES": 284,
+      "NO": 102,
+      "Total Votes Cast": 386,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "YES": 154,
+      "NO": 37,
+      "Total Votes Cast": 191,
+      "Overvotes": 1,
+      "Undervotes": 10,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "YES": 368,
+      "NO": 86,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 492
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "YES": 326,
+      "NO": 46,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "YES": 401,
+      "NO": 374,
+      "Total Votes Cast": 775,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 811
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "YES": 431,
+      "NO": 392,
+      "Total Votes Cast": 823,
+      "Overvotes": 1,
+      "Undervotes": 48,
+      "Contest Total": 872
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "YES": 279,
+      "NO": 269,
+      "Total Votes Cast": 548,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "YES": 281,
+      "NO": 315,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 619
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "YES": 306,
+      "NO": 50,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 373
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "YES": 292,
+      "NO": 56,
+      "Total Votes Cast": 348,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 371
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "YES": 456,
+      "NO": 84,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 570
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "YES": 555,
+      "NO": 135,
+      "Total Votes Cast": 690,
+      "Overvotes": 1,
+      "Undervotes": 29,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "YES": 445,
+      "NO": 87,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "YES": 654,
+      "NO": 116,
+      "Total Votes Cast": 770,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 810
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "YES": 393,
+      "NO": 127,
+      "Total Votes Cast": 520,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 555
+    },
+    {
+      "Precinct": "ENG-A",
+      "YES": 400,
+      "NO": 399,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "YES": 341,
+      "NO": 401,
+      "Total Votes Cast": 742,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 774
+    },
+    {
+      "Precinct": "ENG-C",
+      "YES": 364,
+      "NO": 344,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "ENG-D",
+      "YES": 398,
+      "NO": 450,
+      "Total Votes Cast": 848,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 882
+    },
+    {
+      "Precinct": "ENG-E",
+      "YES": 437,
+      "NO": 376,
+      "Total Votes Cast": 813,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "ENG-F",
+      "YES": 308,
+      "NO": 364,
+      "Total Votes Cast": 672,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "ENG-G",
+      "YES": 353,
+      "NO": 420,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 815
+    },
+    {
+      "Precinct": "ENG-H",
+      "YES": 294,
+      "NO": 304,
+      "Total Votes Cast": 598,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "ENG-I",
+      "YES": 283,
+      "NO": 275,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 584
+    },
+    {
+      "Precinct": "ENG-J",
+      "YES": 376,
+      "NO": 309,
+      "Total Votes Cast": 685,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 713
+    },
+    {
+      "Precinct": "FARM",
+      "YES": 147,
+      "NO": 383,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 555
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "YES": 235,
+      "NO": 703,
+      "Total Votes Cast": 938,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "YES": 235,
+      "NO": 670,
+      "Total Votes Cast": 905,
+      "Overvotes": 1,
+      "Undervotes": 46,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "GTN-A",
+      "YES": 295,
+      "NO": 465,
+      "Total Votes Cast": 760,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "GTN-B",
+      "YES": 264,
+      "NO": 455,
+      "Total Votes Cast": 719,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "GTN-C",
+      "YES": 243,
+      "NO": 495,
+      "Total Votes Cast": 738,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "GTN-D",
+      "YES": 265,
+      "NO": 519,
+      "Total Votes Cast": 784,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 831
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "YES": 167,
+      "NO": 246,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "YES": 228,
+      "NO": 277,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "YES": 240,
+      "NO": 302,
+      "Total Votes Cast": 542,
+      "Overvotes": 1,
+      "Undervotes": 23,
+      "Contest Total": 566
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "YES": 478,
+      "NO": 295,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 797
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "YES": 130,
+      "NO": 192,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 341
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "YES": 235,
+      "NO": 74,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "YES": 388,
+      "NO": 132,
+      "Total Votes Cast": 520,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "YES": 416,
+      "NO": 148,
+      "Total Votes Cast": 564,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "YES": 362,
+      "NO": 163,
+      "Total Votes Cast": 525,
+      "Overvotes": 1,
+      "Undervotes": 20,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "YES": 401,
+      "NO": 108,
+      "Total Votes Cast": 509,
+      "Overvotes": 1,
+      "Undervotes": 25,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "YES": 379,
+      "NO": 126,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "YES": 521,
+      "NO": 228,
+      "Total Votes Cast": 749,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "YES": 626,
+      "NO": 195,
+      "Total Votes Cast": 821,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "YES": 204,
+      "NO": 270,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "YES": 522,
+      "NO": 179,
+      "Total Votes Cast": 701,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "YES": 359,
+      "NO": 416,
+      "Total Votes Cast": 775,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 811
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "YES": 439,
+      "NO": 497,
+      "Total Votes Cast": 936,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "YES": 404,
+      "NO": 277,
+      "Total Votes Cast": 681,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "YES": 404,
+      "NO": 446,
+      "Total Votes Cast": 850,
+      "Overvotes": 1,
+      "Undervotes": 50,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "YES": 398,
+      "NO": 398,
+      "Total Votes Cast": 796,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "YES": 412,
+      "NO": 437,
+      "Total Votes Cast": 849,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "YES": 272,
+      "NO": 326,
+      "Total Votes Cast": 598,
+      "Overvotes": 1,
+      "Undervotes": 30,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "YES": 301,
+      "NO": 248,
+      "Total Votes Cast": 549,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 579
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "YES": 265,
+      "NO": 296,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 589
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "YES": 348,
+      "NO": 454,
+      "Total Votes Cast": 802,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "YES": 302,
+      "NO": 317,
+      "Total Votes Cast": 619,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "YES": 355,
+      "NO": 397,
+      "Total Votes Cast": 752,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 803
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "YES": 345,
+      "NO": 369,
+      "Total Votes Cast": 714,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "YES": 397,
+      "NO": 395,
+      "Total Votes Cast": 792,
+      "Overvotes": 1,
+      "Undervotes": 43,
+      "Contest Total": 836
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "YES": 411,
+      "NO": 346,
+      "Total Votes Cast": 757,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 797
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "YES": 321,
+      "NO": 372,
+      "Total Votes Cast": 693,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "YES": 343,
+      "NO": 364,
+      "Total Votes Cast": 707,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "YES": 369,
+      "NO": 353,
+      "Total Votes Cast": 722,
+      "Overvotes": 1,
+      "Undervotes": 26,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "YES": 347,
+      "NO": 392,
+      "Total Votes Cast": 739,
+      "Overvotes": 1,
+      "Undervotes": 30,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "YES": 287,
+      "NO": 326,
+      "Total Votes Cast": 613,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 637
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "YES": 331,
+      "NO": 491,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 864
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "YES": 347,
+      "NO": 415,
+      "Total Votes Cast": 762,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "YES": 282,
+      "NO": 448,
+      "Total Votes Cast": 730,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "YES": 230,
+      "NO": 691,
+      "Total Votes Cast": 921,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "YES": 175,
+      "NO": 459,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "YES": 456,
+      "NO": 443,
+      "Total Votes Cast": 899,
+      "Overvotes": 1,
+      "Undervotes": 38,
+      "Contest Total": 938
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "YES": 316,
+      "NO": 200,
+      "Total Votes Cast": 516,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 551
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "YES": 263,
+      "NO": 399,
+      "Total Votes Cast": 662,
+      "Overvotes": 1,
+      "Undervotes": 29,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "YES": 523,
+      "NO": 126,
+      "Total Votes Cast": 649,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "JNLB-A",
+      "YES": 154,
+      "NO": 291,
+      "Total Votes Cast": 445,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "YES": 221,
+      "NO": 490,
+      "Total Votes Cast": 711,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 748
+    },
+    {
+      "Precinct": "KT 1-A",
+      "YES": 371,
+      "NO": 265,
+      "Total Votes Cast": 636,
+      "Overvotes": 1,
+      "Undervotes": 20,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "YES": 259,
+      "NO": 361,
+      "Total Votes Cast": 620,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 651
+    },
+    {
+      "Precinct": "KT 1-C",
+      "YES": 386,
+      "NO": 448,
+      "Total Votes Cast": 834,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "YES": 425,
+      "NO": 378,
+      "Total Votes Cast": 803,
+      "Overvotes": 1,
+      "Undervotes": 37,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "KT 1-E",
+      "YES": 309,
+      "NO": 336,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "KT 1-F",
+      "YES": 290,
+      "NO": 340,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "YES": 332,
+      "NO": 339,
+      "Total Votes Cast": 671,
+      "Overvotes": 1,
+      "Undervotes": 33,
+      "Contest Total": 705
+    },
+    {
+      "Precinct": "KT 1-H",
+      "YES": 428,
+      "NO": 441,
+      "Total Votes Cast": 869,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 910
+    },
+    {
+      "Precinct": "KT 1-I",
+      "YES": 376,
+      "NO": 359,
+      "Total Votes Cast": 735,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 781
+    },
+    {
+      "Precinct": "KT 2-A",
+      "YES": 374,
+      "NO": 346,
+      "Total Votes Cast": 720,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "KT 2-B",
+      "YES": 347,
+      "NO": 368,
+      "Total Votes Cast": 715,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "KT 2-C",
+      "YES": 384,
+      "NO": 368,
+      "Total Votes Cast": 752,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 2-D",
+      "YES": 434,
+      "NO": 411,
+      "Total Votes Cast": 845,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "YES": 346,
+      "NO": 427,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "YES": 287,
+      "NO": 351,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "KT 2-G",
+      "YES": 448,
+      "NO": 550,
+      "Total Votes Cast": 998,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 1029
+    },
+    {
+      "Precinct": "KT 2-H",
+      "YES": 398,
+      "NO": 435,
+      "Total Votes Cast": 833,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 871
+    },
+    {
+      "Precinct": "KT 2-I",
+      "YES": 305,
+      "NO": 320,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "YES": 309,
+      "NO": 221,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "YES": 414,
+      "NO": 377,
+      "Total Votes Cast": 791,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "KT 3-B",
+      "YES": 443,
+      "NO": 339,
+      "Total Votes Cast": 782,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "KT 3-C",
+      "YES": 335,
+      "NO": 434,
+      "Total Votes Cast": 769,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "YES": 410,
+      "NO": 254,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "KT 3-E",
+      "YES": 417,
+      "NO": 390,
+      "Total Votes Cast": 807,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 845
+    },
+    {
+      "Precinct": "KT 3-F",
+      "YES": 343,
+      "NO": 305,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "KT 3-G",
+      "YES": 328,
+      "NO": 323,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "KT 3-H",
+      "YES": 400,
+      "NO": 375,
+      "Total Votes Cast": 775,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "YES": 313,
+      "NO": 344,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 685
+    },
+    {
+      "Precinct": "KT 3-J",
+      "YES": 324,
+      "NO": 326,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "YES": 460,
+      "NO": 453,
+      "Total Votes Cast": 913,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 944
+    },
+    {
+      "Precinct": "KT 4-A",
+      "YES": 521,
+      "NO": 374,
+      "Total Votes Cast": 895,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "KT 4-B",
+      "YES": 578,
+      "NO": 319,
+      "Total Votes Cast": 897,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 938
+    },
+    {
+      "Precinct": "KT 4-C",
+      "YES": 262,
+      "NO": 273,
+      "Total Votes Cast": 535,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "YES": 439,
+      "NO": 338,
+      "Total Votes Cast": 777,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "YES": 372,
+      "NO": 321,
+      "Total Votes Cast": 693,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "KT 4-F",
+      "YES": 421,
+      "NO": 328,
+      "Total Votes Cast": 749,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "KT 4-G",
+      "YES": 494,
+      "NO": 469,
+      "Total Votes Cast": 963,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 993
+    },
+    {
+      "Precinct": "KT 4-H",
+      "YES": 310,
+      "NO": 332,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 675
+    },
+    {
+      "Precinct": "KT 4-I",
+      "YES": 485,
+      "NO": 328,
+      "Total Votes Cast": 813,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 845
+    },
+    {
+      "Precinct": "KT 4-J",
+      "YES": 434,
+      "NO": 293,
+      "Total Votes Cast": 727,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 763
+    },
+    {
+      "Precinct": "KT 4-K",
+      "YES": 413,
+      "NO": 332,
+      "Total Votes Cast": 745,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 788
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "YES": 338,
+      "NO": 518,
+      "Total Votes Cast": 856,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 898
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "YES": 310,
+      "NO": 495,
+      "Total Votes Cast": 805,
+      "Overvotes": 1,
+      "Undervotes": 50,
+      "Contest Total": 856
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "YES": 314,
+      "NO": 433,
+      "Total Votes Cast": 747,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "YES": 261,
+      "NO": 317,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "YES": 300,
+      "NO": 466,
+      "Total Votes Cast": 766,
+      "Overvotes": 1,
+      "Undervotes": 39,
+      "Contest Total": 806
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "YES": 322,
+      "NO": 502,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 860
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "YES": 253,
+      "NO": 311,
+      "Total Votes Cast": 564,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "YES": 336,
+      "NO": 405,
+      "Total Votes Cast": 741,
+      "Overvotes": 1,
+      "Undervotes": 52,
+      "Contest Total": 794
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "YES": 304,
+      "NO": 349,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "YES": 296,
+      "NO": 515,
+      "Total Votes Cast": 811,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "YES": 259,
+      "NO": 452,
+      "Total Votes Cast": 711,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "YES": 241,
+      "NO": 389,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "YES": 234,
+      "NO": 339,
+      "Total Votes Cast": 573,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "YES": 416,
+      "NO": 638,
+      "Total Votes Cast": 1054,
+      "Overvotes": 2,
+      "Undervotes": 42,
+      "Contest Total": 1098
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "YES": 345,
+      "NO": 420,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "YES": 330,
+      "NO": 340,
+      "Total Votes Cast": 670,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "YES": 247,
+      "NO": 553,
+      "Total Votes Cast": 800,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "YES": 342,
+      "NO": 339,
+      "Total Votes Cast": 681,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "YES": 389,
+      "NO": 550,
+      "Total Votes Cast": 939,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "YES": 388,
+      "NO": 329,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "YES": 321,
+      "NO": 330,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "YES": 308,
+      "NO": 362,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "YES": 213,
+      "NO": 191,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "YES": 192,
+      "NO": 473,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "YES": 377,
+      "NO": 509,
+      "Total Votes Cast": 886,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "YES": 260,
+      "NO": 322,
+      "Total Votes Cast": 582,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "YES": 326,
+      "NO": 336,
+      "Total Votes Cast": 662,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "YES": 364,
+      "NO": 420,
+      "Total Votes Cast": 784,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "YES": 331,
+      "NO": 386,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "YES": 258,
+      "NO": 237,
+      "Total Votes Cast": 495,
+      "Overvotes": 2,
+      "Undervotes": 26,
+      "Contest Total": 523
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "YES": 420,
+      "NO": 342,
+      "Total Votes Cast": 762,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "YES": 201,
+      "NO": 199,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 427
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "YES": 267,
+      "NO": 444,
+      "Total Votes Cast": 711,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "YES": 275,
+      "NO": 313,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "YES": 308,
+      "NO": 263,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "YES": 315,
+      "NO": 385,
+      "Total Votes Cast": 700,
+      "Overvotes": 1,
+      "Undervotes": 33,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "YES": 190,
+      "NO": 247,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 461
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "YES": 357,
+      "NO": 442,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "YES": 219,
+      "NO": 285,
+      "Total Votes Cast": 504,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "YES": 220,
+      "NO": 215,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "YES": 218,
+      "NO": 141,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 383
+    },
+    {
+      "Precinct": "OAK-A",
+      "YES": 519,
+      "NO": 290,
+      "Total Votes Cast": 809,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "OAK-B",
+      "YES": 469,
+      "NO": 334,
+      "Total Votes Cast": 803,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "YES": 454,
+      "NO": 204,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "OAK-D",
+      "YES": 429,
+      "NO": 227,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "OAK-E",
+      "YES": 477,
+      "NO": 208,
+      "Total Votes Cast": 685,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "OAK-F",
+      "YES": 579,
+      "NO": 268,
+      "Total Votes Cast": 847,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "YES": 444,
+      "NO": 280,
+      "Total Votes Cast": 724,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 753
+    },
+    {
+      "Precinct": "OAK-H",
+      "YES": 323,
+      "NO": 265,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "YES": 135,
+      "NO": 436,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "YES": 175,
+      "NO": 440,
+      "Total Votes Cast": 615,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "YES": 215,
+      "NO": 517,
+      "Total Votes Cast": 732,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "YES": 82,
+      "NO": 149,
+      "Total Votes Cast": 231,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "YES": 234,
+      "NO": 267,
+      "Total Votes Cast": 501,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "PNLB",
+      "YES": 187,
+      "NO": 318,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "YES": 276,
+      "NO": 373,
+      "Total Votes Cast": 649,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "RV-B",
+      "YES": 196,
+      "NO": 329,
+      "Total Votes Cast": 525,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "YES": 336,
+      "NO": 335,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "YES": 258,
+      "NO": 422,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "YES": 222,
+      "NO": 353,
+      "Total Votes Cast": 575,
+      "Overvotes": 1,
+      "Undervotes": 43,
+      "Contest Total": 619
+    },
+    {
+      "Precinct": "RV-F",
+      "YES": 271,
+      "NO": 291,
+      "Total Votes Cast": 562,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "YES": 211,
+      "NO": 288,
+      "Total Votes Cast": 499,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "RV-H",
+      "YES": 168,
+      "NO": 167,
+      "Total Votes Cast": 335,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "RV-I",
+      "YES": 199,
+      "NO": 312,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "YES": 202,
+      "NO": 283,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "YES": 318,
+      "NO": 347,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 690
+    },
+    {
+      "Precinct": "RV-L",
+      "YES": 157,
+      "NO": 237,
+      "Total Votes Cast": 394,
+      "Overvotes": 1,
+      "Undervotes": 25,
+      "Contest Total": 420
+    },
+    {
+      "Precinct": "RV-M",
+      "YES": 318,
+      "NO": 363,
+      "Total Votes Cast": 681,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 714
+    },
+    {
+      "Precinct": "RV-N",
+      "YES": 212,
+      "NO": 268,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "YES": 314,
+      "NO": 370,
+      "Total Votes Cast": 684,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-P",
+      "YES": 333,
+      "NO": 399,
+      "Total Votes Cast": 732,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 756
+    },
+    {
+      "Precinct": "TR 1-A",
+      "YES": 483,
+      "NO": 213,
+      "Total Votes Cast": 696,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 733
+    },
+    {
+      "Precinct": "TR 1-B",
+      "YES": 257,
+      "NO": 126,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "YES": 425,
+      "NO": 77,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "TR 1-D",
+      "YES": 330,
+      "NO": 87,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "YES": 572,
+      "NO": 120,
+      "Total Votes Cast": 692,
+      "Overvotes": 1,
+      "Undervotes": 37,
+      "Contest Total": 730
+    },
+    {
+      "Precinct": "TR 2-A",
+      "YES": 472,
+      "NO": 112,
+      "Total Votes Cast": 584,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "YES": 547,
+      "NO": 127,
+      "Total Votes Cast": 674,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "YES": 408,
+      "NO": 81,
+      "Total Votes Cast": 489,
+      "Overvotes": 1,
+      "Undervotes": 28,
+      "Contest Total": 518
+    },
+    {
+      "Precinct": "TR 2-D",
+      "YES": 298,
+      "NO": 111,
+      "Total Votes Cast": 409,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "TR 2-E",
+      "YES": 417,
+      "NO": 65,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "TR 3-A",
+      "YES": 278,
+      "NO": 169,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "YES": 271,
+      "NO": 309,
+      "Total Votes Cast": 580,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 609
+    },
+    {
+      "Precinct": "TR 3-C",
+      "YES": 263,
+      "NO": 183,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 469
+    },
+    {
+      "Precinct": "TR 3-D",
+      "YES": 473,
+      "NO": 173,
+      "Total Votes Cast": 646,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "TR 4-A",
+      "YES": 530,
+      "NO": 113,
+      "Total Votes Cast": 643,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 669
+    },
+    {
+      "Precinct": "TR 4-B",
+      "YES": 417,
+      "NO": 114,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 562
+    },
+    {
+      "Precinct": "TR 4-C",
+      "YES": 321,
+      "NO": 103,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "YES": 345,
+      "NO": 98,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "UN-A",
+      "YES": 171,
+      "NO": 275,
+      "Total Votes Cast": 446,
+      "Overvotes": 1,
+      "Undervotes": 30,
+      "Contest Total": 477
+    },
+    {
+      "Precinct": "UN-B",
+      "YES": 278,
+      "NO": 404,
+      "Total Votes Cast": 682,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "UN-C",
+      "YES": 301,
+      "NO": 451,
+      "Total Votes Cast": 752,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "YES": 331,
+      "NO": 467,
+      "Total Votes Cast": 798,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "UN-E",
+      "YES": 288,
+      "NO": 497,
+      "Total Votes Cast": 785,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 824
+    },
+    {
+      "Precinct": "VD-A",
+      "YES": 265,
+      "NO": 419,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 714
+    },
+    {
+      "Precinct": "VD-B",
+      "YES": 170,
+      "NO": 259,
+      "Total Votes Cast": 429,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "YES": 316,
+      "NO": 482,
+      "Total Votes Cast": 798,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 835
+    },
+    {
+      "Precinct": "VD-D",
+      "YES": 314,
+      "NO": 396,
+      "Total Votes Cast": 710,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "YES": 203,
+      "NO": 318,
+      "Total Votes Cast": 521,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 548
+    },
+    {
+      "Precinct": "VD-F",
+      "YES": 323,
+      "NO": 483,
+      "Total Votes Cast": 806,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 847
+    },
+    {
+      "Precinct": "VD-G",
+      "YES": 277,
+      "NO": 362,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 661
+    },
+    {
+      "Precinct": "VD-H",
+      "YES": 319,
+      "NO": 559,
+      "Total Votes Cast": 878,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 903
+    },
+    {
+      "Precinct": "VD-I",
+      "YES": 275,
+      "NO": 442,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "VD-J",
+      "YES": 341,
+      "NO": 571,
+      "Total Votes Cast": 912,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "VD-K",
+      "YES": 334,
+      "NO": 502,
+      "Total Votes Cast": 836,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "YES": 334,
+      "NO": 412,
+      "Total Votes Cast": 746,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 779
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "YES": 464,
+      "NO": 576,
+      "Total Votes Cast": 1040,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 1085
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "YES": 389,
+      "NO": 472,
+      "Total Votes Cast": 861,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "YES": 286,
+      "NO": 348,
+      "Total Votes Cast": 634,
+      "Overvotes": 1,
+      "Undervotes": 22,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "YES": 403,
+      "NO": 478,
+      "Total Votes Cast": 881,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 919
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "YES": 281,
+      "NO": 293,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "YES": 468,
+      "NO": 488,
+      "Total Votes Cast": 956,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 999
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "YES": 325,
+      "NO": 456,
+      "Total Votes Cast": 781,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "YES": 347,
+      "NO": 291,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "YES": 407,
+      "NO": 415,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "YES": 330,
+      "NO": 457,
+      "Total Votes Cast": 787,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "YES": 348,
+      "NO": 325,
+      "Total Votes Cast": 673,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 726
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "YES": 363,
+      "NO": 537,
+      "Total Votes Cast": 900,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "YES": 427,
+      "NO": 369,
+      "Total Votes Cast": 796,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 842
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "YES": 389,
+      "NO": 450,
+      "Total Votes Cast": 839,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "YES": 431,
+      "NO": 505,
+      "Total Votes Cast": 936,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 989
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "YES": 455,
+      "NO": 465,
+      "Total Votes Cast": 920,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 968
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "YES": 306,
+      "NO": 380,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 710
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "YES": 316,
+      "NO": 398,
+      "Total Votes Cast": 714,
+      "Overvotes": 1,
+      "Undervotes": 24,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "YES": 379,
+      "NO": 327,
+      "Total Votes Cast": 706,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "YES": 382,
+      "NO": 469,
+      "Total Votes Cast": 851,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "YES": 357,
+      "NO": 451,
+      "Total Votes Cast": 808,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 839
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "YES": 291,
+      "NO": 268,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "YES": 311,
+      "NO": 366,
+      "Total Votes Cast": 677,
+      "Overvotes": 2,
+      "Undervotes": 30,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "YES": 517,
+      "NO": 535,
+      "Total Votes Cast": 1052,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "YES": 327,
+      "NO": 416,
+      "Total Votes Cast": 743,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "YES": 385,
+      "NO": 410,
+      "Total Votes Cast": 795,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "YES": 296,
+      "NO": 286,
+      "Total Votes Cast": 582,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "YES": 463,
+      "NO": 512,
+      "Total Votes Cast": 975,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 1025
+    },
+    {
+      "Precinct": "WCR-A",
+      "YES": 285,
+      "NO": 381,
+      "Total Votes Cast": 666,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 700
+    },
+    {
+      "Precinct": "WCR-B",
+      "YES": 282,
+      "NO": 406,
+      "Total Votes Cast": 688,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WCR-C",
+      "YES": 272,
+      "NO": 424,
+      "Total Votes Cast": 696,
+      "Overvotes": 3,
+      "Undervotes": 53,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "WCR-D",
+      "YES": 291,
+      "NO": 416,
+      "Total Votes Cast": 707,
+      "Overvotes": 1,
+      "Undervotes": 24,
+      "Contest Total": 732
+    },
+    {
+      "Precinct": "WCR-E",
+      "YES": 266,
+      "NO": 187,
+      "Total Votes Cast": 453,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 477
+    },
+    {
+      "Precinct": "WCR-F",
+      "YES": 260,
+      "NO": 280,
+      "Total Votes Cast": 540,
+      "Overvotes": 1,
+      "Undervotes": 26,
+      "Contest Total": 567
+    },
+    {
+      "Precinct": "WCR-G",
+      "YES": 363,
+      "NO": 358,
+      "Total Votes Cast": 721,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 753
+    },
+    {
+      "Precinct": "WCR-H",
+      "YES": 256,
+      "NO": 426,
+      "Total Votes Cast": 682,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 713
+    },
+    {
+      "Precinct": "WCR-I",
+      "YES": 301,
+      "NO": 194,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 519
+    }
+  ]
+}

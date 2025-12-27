@@ -1,0 +1,69 @@
+{
+  "race": "Trotwood Council Ward 1",
+  "precincts": 7,
+  "results": [
+    {
+      "Precinct": "TR 1-A1",
+      "Bettye L. Gales": 114,
+      "Robert L Kelley Jr.": 120,
+      "Total Votes Cast": 234,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 250
+    },
+    {
+      "Precinct": "TR 1-A2",
+      "Bettye L. Gales": 3,
+      "Robert L Kelley Jr.": 8,
+      "Total Votes Cast": 11,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 11
+    },
+    {
+      "Precinct": "TR 1-B1",
+      "Bettye L. Gales": 82,
+      "Robert L Kelley Jr.": 63,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 149
+    },
+    {
+      "Precinct": "TR 1-B2",
+      "Bettye L. Gales": 16,
+      "Robert L Kelley Jr.": 4,
+      "Total Votes Cast": 20,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 22
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Bettye L. Gales": 89,
+      "Robert L Kelley Jr.": 143,
+      "Total Votes Cast": 232,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 236
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Bettye L. Gales": 68,
+      "Robert L Kelley Jr.": 69,
+      "Total Votes Cast": 137,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 140
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Bettye L. Gales": 137,
+      "Robert L Kelley Jr.": 142,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 282
+    }
+  ]
+}

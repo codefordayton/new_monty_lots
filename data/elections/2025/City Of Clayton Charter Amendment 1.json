@@ -1,0 +1,150 @@
+{
+  "race": "City Of Clayton Charter Amendment 1",
+  "precincts": 16,
+  "results": [
+    {
+      "Precinct": "CTN 1-A1",
+      "YES": 130,
+      "NO": 192,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 370
+    },
+    {
+      "Precinct": "CTN 1-A2",
+      "YES": 0,
+      "NO": 2,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 2
+    },
+    {
+      "Precinct": "CTN 1-B1",
+      "YES": 35,
+      "NO": 29,
+      "Total Votes Cast": 64,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 69
+    },
+    {
+      "Precinct": "CTN 1-B2",
+      "YES": 0,
+      "NO": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "CTN 1-B3",
+      "YES": 151,
+      "NO": 120,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 311
+    },
+    {
+      "Precinct": "CTN 1-C1",
+      "YES": 212,
+      "NO": 176,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 442
+    },
+    {
+      "Precinct": "CTN 1-C2",
+      "YES": 11,
+      "NO": 8,
+      "Total Votes Cast": 19,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 21
+    },
+    {
+      "Precinct": "CTN 1-D1",
+      "YES": 125,
+      "NO": 84,
+      "Total Votes Cast": 209,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 239
+    },
+    {
+      "Precinct": "CTN 1-D2",
+      "YES": 10,
+      "NO": 13,
+      "Total Votes Cast": 23,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 24
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "YES": 106,
+      "NO": 104,
+      "Total Votes Cast": 210,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 241
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "YES": 182,
+      "NO": 133,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "CTN 2-C1",
+      "YES": 181,
+      "NO": 132,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "CTN 2-C2",
+      "YES": 17,
+      "NO": 17,
+      "Total Votes Cast": 34,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 39
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "YES": 188,
+      "NO": 162,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 400
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "YES": 179,
+      "NO": 130,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 356
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "YES": 136,
+      "NO": 107,
+      "Total Votes Cast": 243,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 272
+    }
+  ]
+}

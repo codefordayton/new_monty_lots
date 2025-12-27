@@ -1,0 +1,190 @@
+{
+  "race": "West Carrollton School Board UTE",
+  "precincts": 23,
+  "results": [
+    {
+      "Precinct": "KT 3-I2",
+      "Angela Shockley": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 2
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Angela Shockley": 103,
+      "Total Votes Cast": 103,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 143
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Angela Shockley": 88,
+      "Total Votes Cast": 88,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 124
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Angela Shockley": 93,
+      "Total Votes Cast": 93,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 131
+    },
+    {
+      "Precinct": "MIATWP-L1",
+      "Angela Shockley": 109,
+      "Total Votes Cast": 109,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 168
+    },
+    {
+      "Precinct": "MIATWP-N2",
+      "Angela Shockley": 27,
+      "Total Votes Cast": 27,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 44
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Angela Shockley": 166,
+      "Total Votes Cast": 166,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 245
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Angela Shockley": 64,
+      "Total Votes Cast": 64,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 91
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Angela Shockley": 82,
+      "Total Votes Cast": 82,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 118
+    },
+    {
+      "Precinct": "MOR 1-A2",
+      "Angela Shockley": 22,
+      "Total Votes Cast": 22,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 29
+    },
+    {
+      "Precinct": "MOR 2-A1",
+      "Angela Shockley": 113,
+      "Total Votes Cast": 113,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 163
+    },
+    {
+      "Precinct": "MOR 3-A1",
+      "Angela Shockley": 91,
+      "Total Votes Cast": 91,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 121
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Angela Shockley": 60,
+      "Total Votes Cast": 60,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 76
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Angela Shockley": 31,
+      "Total Votes Cast": 31,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 46
+    },
+    {
+      "Precinct": "WCR-A1",
+      "Angela Shockley": 67,
+      "Total Votes Cast": 67,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 122
+    },
+    {
+      "Precinct": "WCR-B",
+      "Angela Shockley": 113,
+      "Total Votes Cast": 113,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "WCR-C",
+      "Angela Shockley": 130,
+      "Total Votes Cast": 130,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 188
+    },
+    {
+      "Precinct": "WCR-D",
+      "Angela Shockley": 127,
+      "Total Votes Cast": 127,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 211
+    },
+    {
+      "Precinct": "WCR-E",
+      "Angela Shockley": 57,
+      "Total Votes Cast": 57,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 88
+    },
+    {
+      "Precinct": "WCR-F",
+      "Angela Shockley": 62,
+      "Total Votes Cast": 62,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 93
+    },
+    {
+      "Precinct": "WCR-G",
+      "Angela Shockley": 147,
+      "Total Votes Cast": 147,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 196
+    },
+    {
+      "Precinct": "WCR-H",
+      "Angela Shockley": 80,
+      "Total Votes Cast": 80,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 145
+    },
+    {
+      "Precinct": "WCR-I",
+      "Angela Shockley": 44,
+      "Total Votes Cast": 44,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 64
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "race": "Trotwood-Madison School Board",
+  "precincts": 22,
+  "results": [
+    {
+      "Precinct": "CTN 1-D2",
+      "Sonja R. Cherry": 14,
+      "LaJuana J. Curington": 10,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 24,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 72
+    },
+    {
+      "Precinct": "CTN 2-C2",
+      "Sonja R. Cherry": 24,
+      "LaJuana J. Curington": 14,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 38,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 117
+    },
+    {
+      "Precinct": "DAY 6-A2",
+      "Sonja R. Cherry": 0,
+      "LaJuana J. Curington": 1,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "DAY 15-D1",
+      "Sonja R. Cherry": 53,
+      "LaJuana J. Curington": 40,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 93,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 270
+    },
+    {
+      "Precinct": "JEFTWP-A3",
+      "Sonja R. Cherry": 5,
+      "LaJuana J. Curington": 4,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 9,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 24
+    },
+    {
+      "Precinct": "JEFTWP-B3",
+      "Sonja R. Cherry": 6,
+      "LaJuana J. Curington": 4,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 10,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 33
+    },
+    {
+      "Precinct": "TR 1-A1",
+      "Sonja R. Cherry": 158,
+      "LaJuana J. Curington": 121,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 471,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "TR 1-B1",
+      "Sonja R. Cherry": 94,
+      "LaJuana J. Curington": 87,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 181,
+      "Overvotes": 0,
+      "Undervotes": 266,
+      "Contest Total": 447
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Sonja R. Cherry": 163,
+      "LaJuana J. Curington": 126,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Sonja R. Cherry": 82,
+      "LaJuana J. Curington": 84,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 166,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 420
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Sonja R. Cherry": 183,
+      "LaJuana J. Curington": 161,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 502,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Sonja R. Cherry": 133,
+      "LaJuana J. Curington": 113,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 246,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 564
+    },
+    {
+      "Precinct": "TR 2-C1",
+      "Sonja R. Cherry": 87,
+      "LaJuana J. Curington": 76,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 163,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 417
+    },
+    {
+      "Precinct": "TR 2-D1",
+      "Sonja R. Cherry": 53,
+      "LaJuana J. Curington": 45,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 98,
+      "Overvotes": 0,
+      "Undervotes": 172,
+      "Contest Total": 270
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Sonja R. Cherry": 153,
+      "LaJuana J. Curington": 130,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 383,
+      "Contest Total": 666
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Sonja R. Cherry": 75,
+      "LaJuana J. Curington": 63,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 138,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 375
+    },
+    {
+      "Precinct": "TR 3-B1",
+      "Sonja R. Cherry": 74,
+      "LaJuana J. Curington": 54,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 128,
+      "Overvotes": 0,
+      "Undervotes": 232,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "TR 3-C1",
+      "Sonja R. Cherry": 47,
+      "LaJuana J. Curington": 48,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 95,
+      "Overvotes": 0,
+      "Undervotes": 145,
+      "Contest Total": 240
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Sonja R. Cherry": 120,
+      "LaJuana J. Curington": 115,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 235,
+      "Overvotes": 0,
+      "Undervotes": 407,
+      "Contest Total": 642
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Sonja R. Cherry": 162,
+      "LaJuana J. Curington": 131,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 433,
+      "Contest Total": 726
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Sonja R. Cherry": 110,
+      "LaJuana J. Curington": 76,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 186,
+      "Overvotes": 0,
+      "Undervotes": 315,
+      "Contest Total": 501
+    },
+    {
+      "Precinct": "TR 4-D1",
+      "Sonja R. Cherry": 28,
+      "LaJuana J. Curington": 22,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 50,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 135
+    }
+  ]
+}

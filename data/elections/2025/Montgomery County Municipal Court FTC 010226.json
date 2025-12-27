@@ -1,0 +1,996 @@
+{
+  "race": "Montgomery County Municipal Court FTC 010226",
+  "precincts": 110,
+  "results": [
+    {
+      "Precinct": "BRK-A1",
+      "Brandon Myers": 192,
+      "Cindi Westwood": 102,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 316
+    },
+    {
+      "Precinct": "BRK-A2",
+      "Brandon Myers": 3,
+      "Cindi Westwood": 0,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "BRK-B",
+      "Brandon Myers": 135,
+      "Cindi Westwood": 58,
+      "Total Votes Cast": 193,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 207
+    },
+    {
+      "Precinct": "BRK-C",
+      "Brandon Myers": 206,
+      "Cindi Westwood": 72,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 290
+    },
+    {
+      "Precinct": "BRK-D1",
+      "Brandon Myers": 147,
+      "Cindi Westwood": 59,
+      "Total Votes Cast": 206,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 216
+    },
+    {
+      "Precinct": "BRK-D2",
+      "Brandon Myers": 3,
+      "Cindi Westwood": 0,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Brandon Myers": 153,
+      "Cindi Westwood": 47,
+      "Total Votes Cast": 200,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 228
+    },
+    {
+      "Precinct": "CLATWP-B1",
+      "Brandon Myers": 122,
+      "Cindi Westwood": 34,
+      "Total Votes Cast": 156,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 175
+    },
+    {
+      "Precinct": "CLATWP-B2",
+      "Brandon Myers": 9,
+      "Cindi Westwood": 8,
+      "Total Votes Cast": 17,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 18
+    },
+    {
+      "Precinct": "CLATWP-C1",
+      "Brandon Myers": 113,
+      "Cindi Westwood": 39,
+      "Total Votes Cast": 152,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 163
+    },
+    {
+      "Precinct": "CLATWP-C2",
+      "Brandon Myers": 30,
+      "Cindi Westwood": 14,
+      "Total Votes Cast": 44,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 55
+    },
+    {
+      "Precinct": "CLATWP-C3",
+      "Brandon Myers": 53,
+      "Cindi Westwood": 30,
+      "Total Votes Cast": 83,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 91
+    },
+    {
+      "Precinct": "CLATWP-C4",
+      "Brandon Myers": 7,
+      "Cindi Westwood": 1,
+      "Total Votes Cast": 8,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 10
+    },
+    {
+      "Precinct": "FARM",
+      "Brandon Myers": 113,
+      "Cindi Westwood": 78,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 228
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Brandon Myers": 81,
+      "Cindi Westwood": 101,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Brandon Myers": 142,
+      "Cindi Westwood": 159,
+      "Total Votes Cast": 301,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 324
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Brandon Myers": 72,
+      "Cindi Westwood": 94,
+      "Total Votes Cast": 166,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 189
+    },
+    {
+      "Precinct": "HUB 1-D1",
+      "Brandon Myers": 113,
+      "Cindi Westwood": 118,
+      "Total Votes Cast": 231,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 251
+    },
+    {
+      "Precinct": "HUB 1-D2",
+      "Brandon Myers": 0,
+      "Cindi Westwood": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Brandon Myers": 115,
+      "Cindi Westwood": 124,
+      "Total Votes Cast": 239,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 262
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Brandon Myers": 144,
+      "Cindi Westwood": 119,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Brandon Myers": 97,
+      "Cindi Westwood": 94,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 204
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Brandon Myers": 31,
+      "Cindi Westwood": 70,
+      "Total Votes Cast": 101,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 121
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Brandon Myers": 66,
+      "Cindi Westwood": 91,
+      "Total Votes Cast": 157,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Brandon Myers": 110,
+      "Cindi Westwood": 105,
+      "Total Votes Cast": 215,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 228
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Brandon Myers": 68,
+      "Cindi Westwood": 65,
+      "Total Votes Cast": 133,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 158
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Brandon Myers": 81,
+      "Cindi Westwood": 99,
+      "Total Votes Cast": 180,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 197
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Brandon Myers": 82,
+      "Cindi Westwood": 100,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Brandon Myers": 67,
+      "Cindi Westwood": 108,
+      "Total Votes Cast": 175,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Brandon Myers": 91,
+      "Cindi Westwood": 96,
+      "Total Votes Cast": 187,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 201
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Brandon Myers": 72,
+      "Cindi Westwood": 91,
+      "Total Votes Cast": 163,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 182
+    },
+    {
+      "Precinct": "HUB 5-B1",
+      "Brandon Myers": 91,
+      "Cindi Westwood": 91,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 198
+    },
+    {
+      "Precinct": "HUB 5-B2",
+      "Brandon Myers": 0,
+      "Cindi Westwood": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Brandon Myers": 77,
+      "Cindi Westwood": 105,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 196
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Brandon Myers": 76,
+      "Cindi Westwood": 79,
+      "Total Votes Cast": 155,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 167
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Brandon Myers": 91,
+      "Cindi Westwood": 95,
+      "Total Votes Cast": 186,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 203
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Brandon Myers": 139,
+      "Cindi Westwood": 129,
+      "Total Votes Cast": 268,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Brandon Myers": 137,
+      "Cindi Westwood": 129,
+      "Total Votes Cast": 266,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 292
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Brandon Myers": 134,
+      "Cindi Westwood": 89,
+      "Total Votes Cast": 223,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 247
+    },
+    {
+      "Precinct": "JAKTWP-A1",
+      "Brandon Myers": 105,
+      "Cindi Westwood": 69,
+      "Total Votes Cast": 174,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 198
+    },
+    {
+      "Precinct": "JAKTWP-A2",
+      "Brandon Myers": 91,
+      "Cindi Westwood": 68,
+      "Total Votes Cast": 159,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 179
+    },
+    {
+      "Precinct": "JAKTWP-B1",
+      "Brandon Myers": 152,
+      "Cindi Westwood": 98,
+      "Total Votes Cast": 250,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 286
+    },
+    {
+      "Precinct": "JAKTWP-B2",
+      "Brandon Myers": 0,
+      "Cindi Westwood": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "JEFTWP-A1",
+      "Brandon Myers": 106,
+      "Cindi Westwood": 190,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "JEFTWP-A2",
+      "Brandon Myers": 19,
+      "Cindi Westwood": 12,
+      "Total Votes Cast": 31,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 40
+    },
+    {
+      "Precinct": "JEFTWP-A3",
+      "Brandon Myers": 2,
+      "Cindi Westwood": 5,
+      "Total Votes Cast": 7,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 8
+    },
+    {
+      "Precinct": "JEFTWP-B1",
+      "Brandon Myers": 28,
+      "Cindi Westwood": 23,
+      "Total Votes Cast": 51,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 58
+    },
+    {
+      "Precinct": "JEFTWP-B2",
+      "Brandon Myers": 22,
+      "Cindi Westwood": 26,
+      "Total Votes Cast": 48,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 54
+    },
+    {
+      "Precinct": "JEFTWP-B3",
+      "Brandon Myers": 6,
+      "Cindi Westwood": 5,
+      "Total Votes Cast": 11,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 11
+    },
+    {
+      "Precinct": "JEFTWP-B4",
+      "Brandon Myers": 12,
+      "Cindi Westwood": 31,
+      "Total Votes Cast": 43,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 45
+    },
+    {
+      "Precinct": "JEFTWP-C1",
+      "Brandon Myers": 146,
+      "Cindi Westwood": 137,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 349
+    },
+    {
+      "Precinct": "JEFTWP-C2",
+      "Brandon Myers": 0,
+      "Cindi Westwood": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Brandon Myers": 92,
+      "Cindi Westwood": 161,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 279
+    },
+    {
+      "Precinct": "JNLB-A1",
+      "Brandon Myers": 80,
+      "Cindi Westwood": 51,
+      "Total Votes Cast": 131,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 160
+    },
+    {
+      "Precinct": "JNLB-A2",
+      "Brandon Myers": 1,
+      "Cindi Westwood": 0,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 1
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Brandon Myers": 134,
+      "Cindi Westwood": 77,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 241
+    },
+    {
+      "Precinct": "PERTWP-A1",
+      "Brandon Myers": 116,
+      "Cindi Westwood": 36,
+      "Total Votes Cast": 152,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 173
+    },
+    {
+      "Precinct": "PERTWP-A2",
+      "Brandon Myers": 30,
+      "Cindi Westwood": 12,
+      "Total Votes Cast": 42,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 49
+    },
+    {
+      "Precinct": "PERTWP-B1",
+      "Brandon Myers": 156,
+      "Cindi Westwood": 62,
+      "Total Votes Cast": 218,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 235
+    },
+    {
+      "Precinct": "PERTWP-B2",
+      "Brandon Myers": 9,
+      "Cindi Westwood": 6,
+      "Total Votes Cast": 15,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 19
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Brandon Myers": 168,
+      "Cindi Westwood": 64,
+      "Total Votes Cast": 232,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 265
+    },
+    {
+      "Precinct": "PHBG",
+      "Brandon Myers": 55,
+      "Cindi Westwood": 27,
+      "Total Votes Cast": 82,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 89
+    },
+    {
+      "Precinct": "PM",
+      "Brandon Myers": 22,
+      "Cindi Westwood": 33,
+      "Total Votes Cast": 55,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 58
+    },
+    {
+      "Precinct": "PNLB1",
+      "Brandon Myers": 49,
+      "Cindi Westwood": 53,
+      "Total Votes Cast": 102,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 122
+    },
+    {
+      "Precinct": "PNLB2",
+      "Brandon Myers": 0,
+      "Cindi Westwood": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "RV-A",
+      "Brandon Myers": 109,
+      "Cindi Westwood": 110,
+      "Total Votes Cast": 219,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 252
+    },
+    {
+      "Precinct": "RV-B1",
+      "Brandon Myers": 67,
+      "Cindi Westwood": 43,
+      "Total Votes Cast": 110,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 131
+    },
+    {
+      "Precinct": "RV-B2",
+      "Brandon Myers": 6,
+      "Cindi Westwood": 3,
+      "Total Votes Cast": 9,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 10
+    },
+    {
+      "Precinct": "RV-C",
+      "Brandon Myers": 87,
+      "Cindi Westwood": 100,
+      "Total Votes Cast": 187,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 206
+    },
+    {
+      "Precinct": "RV-D",
+      "Brandon Myers": 115,
+      "Cindi Westwood": 108,
+      "Total Votes Cast": 223,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 255
+    },
+    {
+      "Precinct": "RV-E1",
+      "Brandon Myers": 79,
+      "Cindi Westwood": 65,
+      "Total Votes Cast": 144,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 168
+    },
+    {
+      "Precinct": "RV-E2",
+      "Brandon Myers": 3,
+      "Cindi Westwood": 0,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "RV-F",
+      "Brandon Myers": 100,
+      "Cindi Westwood": 76,
+      "Total Votes Cast": 176,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 194
+    },
+    {
+      "Precinct": "RV-G",
+      "Brandon Myers": 91,
+      "Cindi Westwood": 58,
+      "Total Votes Cast": 149,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 173
+    },
+    {
+      "Precinct": "RV-H",
+      "Brandon Myers": 18,
+      "Cindi Westwood": 40,
+      "Total Votes Cast": 58,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 69
+    },
+    {
+      "Precinct": "RV-I",
+      "Brandon Myers": 78,
+      "Cindi Westwood": 51,
+      "Total Votes Cast": 129,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 150
+    },
+    {
+      "Precinct": "RV-J",
+      "Brandon Myers": 76,
+      "Cindi Westwood": 88,
+      "Total Votes Cast": 164,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 184
+    },
+    {
+      "Precinct": "RV-K1",
+      "Brandon Myers": 112,
+      "Cindi Westwood": 105,
+      "Total Votes Cast": 217,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 248
+    },
+    {
+      "Precinct": "RV-K2",
+      "Brandon Myers": 0,
+      "Cindi Westwood": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "RV-L1",
+      "Brandon Myers": 29,
+      "Cindi Westwood": 31,
+      "Total Votes Cast": 60,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 65
+    },
+    {
+      "Precinct": "RV-L2",
+      "Brandon Myers": 12,
+      "Cindi Westwood": 21,
+      "Total Votes Cast": 33,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 38
+    },
+    {
+      "Precinct": "RV-M",
+      "Brandon Myers": 100,
+      "Cindi Westwood": 95,
+      "Total Votes Cast": 195,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 214
+    },
+    {
+      "Precinct": "RV-N",
+      "Brandon Myers": 51,
+      "Cindi Westwood": 48,
+      "Total Votes Cast": 99,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 113
+    },
+    {
+      "Precinct": "RV-O",
+      "Brandon Myers": 83,
+      "Cindi Westwood": 98,
+      "Total Votes Cast": 181,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 208
+    },
+    {
+      "Precinct": "RV-P",
+      "Brandon Myers": 108,
+      "Cindi Westwood": 102,
+      "Total Votes Cast": 210,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 239
+    },
+    {
+      "Precinct": "TR 1-A1",
+      "Brandon Myers": 66,
+      "Cindi Westwood": 161,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 250
+    },
+    {
+      "Precinct": "TR 1-A2",
+      "Brandon Myers": 9,
+      "Cindi Westwood": 2,
+      "Total Votes Cast": 11,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 11
+    },
+    {
+      "Precinct": "TR 1-B1",
+      "Brandon Myers": 50,
+      "Cindi Westwood": 86,
+      "Total Votes Cast": 136,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 149
+    },
+    {
+      "Precinct": "TR 1-B2",
+      "Brandon Myers": 4,
+      "Cindi Westwood": 15,
+      "Total Votes Cast": 19,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 22
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Brandon Myers": 48,
+      "Cindi Westwood": 164,
+      "Total Votes Cast": 212,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 236
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Brandon Myers": 49,
+      "Cindi Westwood": 69,
+      "Total Votes Cast": 118,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 140
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Brandon Myers": 67,
+      "Cindi Westwood": 197,
+      "Total Votes Cast": 264,
+      "Overvotes": 1,
+      "Undervotes": 17,
+      "Contest Total": 282
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Brandon Myers": 79,
+      "Cindi Westwood": 117,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 206
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Brandon Myers": 59,
+      "Cindi Westwood": 110,
+      "Total Votes Cast": 169,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 188
+    },
+    {
+      "Precinct": "TR 2-C1",
+      "Brandon Myers": 49,
+      "Cindi Westwood": 76,
+      "Total Votes Cast": 125,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 139
+    },
+    {
+      "Precinct": "TR 2-C2",
+      "Brandon Myers": 14,
+      "Cindi Westwood": 20,
+      "Total Votes Cast": 34,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 40
+    },
+    {
+      "Precinct": "TR 2-D1",
+      "Brandon Myers": 24,
+      "Cindi Westwood": 54,
+      "Total Votes Cast": 78,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 90
+    },
+    {
+      "Precinct": "TR 2-D2",
+      "Brandon Myers": 20,
+      "Cindi Westwood": 28,
+      "Total Votes Cast": 48,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 53
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Brandon Myers": 67,
+      "Cindi Westwood": 137,
+      "Total Votes Cast": 204,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 222
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Brandon Myers": 39,
+      "Cindi Westwood": 77,
+      "Total Votes Cast": 116,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 125
+    },
+    {
+      "Precinct": "TR 3-B1",
+      "Brandon Myers": 47,
+      "Cindi Westwood": 61,
+      "Total Votes Cast": 108,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 120
+    },
+    {
+      "Precinct": "TR 3-B2",
+      "Brandon Myers": 6,
+      "Cindi Westwood": 17,
+      "Total Votes Cast": 23,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 24
+    },
+    {
+      "Precinct": "TR 3-C1",
+      "Brandon Myers": 27,
+      "Cindi Westwood": 46,
+      "Total Votes Cast": 73,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 80
+    },
+    {
+      "Precinct": "TR 3-C2",
+      "Brandon Myers": 11,
+      "Cindi Westwood": 16,
+      "Total Votes Cast": 27,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 31
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Brandon Myers": 69,
+      "Cindi Westwood": 121,
+      "Total Votes Cast": 190,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 214
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Brandon Myers": 62,
+      "Cindi Westwood": 162,
+      "Total Votes Cast": 224,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 242
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Brandon Myers": 61,
+      "Cindi Westwood": 84,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 167
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Brandon Myers": 22,
+      "Cindi Westwood": 63,
+      "Total Votes Cast": 85,
+      "Overvotes": 1,
+      "Undervotes": 9,
+      "Contest Total": 95
+    },
+    {
+      "Precinct": "TR 4-D1",
+      "Brandon Myers": 12,
+      "Cindi Westwood": 27,
+      "Total Votes Cast": 39,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 45
+    },
+    {
+      "Precinct": "TR 4-D2",
+      "Brandon Myers": 48,
+      "Cindi Westwood": 80,
+      "Total Votes Cast": 128,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 141
+    }
+  ]
+}

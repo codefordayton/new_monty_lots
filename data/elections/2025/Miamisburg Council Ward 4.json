@@ -1,0 +1,38 @@
+{
+  "race": "Miamisburg Council Ward 4",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "MBG 4-A",
+      "REP Jeff Thompson": 178,
+      "Total Votes Cast": 178,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 269
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "REP Jeff Thompson": 191,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "REP Jeff Thompson": 151,
+      "Total Votes Cast": 151,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 224
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "REP Jeff Thompson": 260,
+      "Total Votes Cast": 260,
+      "Overvotes": 0,
+      "Undervotes": 147,
+      "Contest Total": 407
+    }
+  ]
+}

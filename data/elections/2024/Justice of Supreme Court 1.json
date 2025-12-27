@@ -1,0 +1,3435 @@
+{
+  "race": "Justice of Supreme Court 1",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Michael P. Donnelly (DEM)": 242,
+      "Megan E. Shanahan (REP)": 590,
+      "Total Votes Cast": 832,
+      "Overvotes": 2,
+      "Undervotes": 89,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Michael P. Donnelly (DEM)": 172,
+      "Megan E. Shanahan (REP)": 467,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Michael P. Donnelly (DEM)": 204,
+      "Megan E. Shanahan (REP)": 627,
+      "Total Votes Cast": 831,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Michael P. Donnelly (DEM)": 157,
+      "Megan E. Shanahan (REP)": 560,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Michael P. Donnelly (DEM)": 227,
+      "Megan E. Shanahan (REP)": 547,
+      "Total Votes Cast": 774,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Michael P. Donnelly (DEM)": 225,
+      "Megan E. Shanahan (REP)": 452,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Michael P. Donnelly (DEM)": 288,
+      "Megan E. Shanahan (REP)": 574,
+      "Total Votes Cast": 862,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Michael P. Donnelly (DEM)": 309,
+      "Megan E. Shanahan (REP)": 487,
+      "Total Votes Cast": 796,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Michael P. Donnelly (DEM)": 210,
+      "Megan E. Shanahan (REP)": 350,
+      "Total Votes Cast": 560,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Michael P. Donnelly (DEM)": 223,
+      "Megan E. Shanahan (REP)": 412,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Michael P. Donnelly (DEM)": 207,
+      "Megan E. Shanahan (REP)": 263,
+      "Total Votes Cast": 470,
+      "Overvotes": 1,
+      "Undervotes": 50,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Michael P. Donnelly (DEM)": 119,
+      "Megan E. Shanahan (REP)": 431,
+      "Total Votes Cast": 550,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Michael P. Donnelly (DEM)": 118,
+      "Megan E. Shanahan (REP)": 459,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Michael P. Donnelly (DEM)": 150,
+      "Megan E. Shanahan (REP)": 701,
+      "Total Votes Cast": 851,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Michael P. Donnelly (DEM)": 150,
+      "Megan E. Shanahan (REP)": 408,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Michael P. Donnelly (DEM)": 338,
+      "Megan E. Shanahan (REP)": 297,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Michael P. Donnelly (DEM)": 349,
+      "Megan E. Shanahan (REP)": 508,
+      "Total Votes Cast": 857,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Michael P. Donnelly (DEM)": 317,
+      "Megan E. Shanahan (REP)": 240,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Michael P. Donnelly (DEM)": 304,
+      "Megan E. Shanahan (REP)": 293,
+      "Total Votes Cast": 597,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Michael P. Donnelly (DEM)": 451,
+      "Megan E. Shanahan (REP)": 345,
+      "Total Votes Cast": 796,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Michael P. Donnelly (DEM)": 516,
+      "Megan E. Shanahan (REP)": 305,
+      "Total Votes Cast": 821,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Michael P. Donnelly (DEM)": 448,
+      "Megan E. Shanahan (REP)": 342,
+      "Total Votes Cast": 790,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Michael P. Donnelly (DEM)": 430,
+      "Megan E. Shanahan (REP)": 343,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Michael P. Donnelly (DEM)": 425,
+      "Megan E. Shanahan (REP)": 267,
+      "Total Votes Cast": 692,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Michael P. Donnelly (DEM)": 343,
+      "Megan E. Shanahan (REP)": 253,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Michael P. Donnelly (DEM)": 378,
+      "Megan E. Shanahan (REP)": 436,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Michael P. Donnelly (DEM)": 209,
+      "Megan E. Shanahan (REP)": 309,
+      "Total Votes Cast": 518,
+      "Overvotes": 1,
+      "Undervotes": 46,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Michael P. Donnelly (DEM)": 287,
+      "Megan E. Shanahan (REP)": 290,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Michael P. Donnelly (DEM)": 320,
+      "Megan E. Shanahan (REP)": 438,
+      "Total Votes Cast": 758,
+      "Overvotes": 1,
+      "Undervotes": 60,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Michael P. Donnelly (DEM)": 386,
+      "Megan E. Shanahan (REP)": 471,
+      "Total Votes Cast": 857,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Michael P. Donnelly (DEM)": 451,
+      "Megan E. Shanahan (REP)": 470,
+      "Total Votes Cast": 921,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Michael P. Donnelly (DEM)": 441,
+      "Megan E. Shanahan (REP)": 484,
+      "Total Votes Cast": 925,
+      "Overvotes": 2,
+      "Undervotes": 82,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Michael P. Donnelly (DEM)": 367,
+      "Megan E. Shanahan (REP)": 637,
+      "Total Votes Cast": 1004,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Michael P. Donnelly (DEM)": 340,
+      "Megan E. Shanahan (REP)": 506,
+      "Total Votes Cast": 846,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Michael P. Donnelly (DEM)": 389,
+      "Megan E. Shanahan (REP)": 473,
+      "Total Votes Cast": 862,
+      "Overvotes": 0,
+      "Undervotes": 81,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Michael P. Donnelly (DEM)": 423,
+      "Megan E. Shanahan (REP)": 544,
+      "Total Votes Cast": 967,
+      "Overvotes": 1,
+      "Undervotes": 64,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Michael P. Donnelly (DEM)": 356,
+      "Megan E. Shanahan (REP)": 436,
+      "Total Votes Cast": 792,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Michael P. Donnelly (DEM)": 342,
+      "Megan E. Shanahan (REP)": 367,
+      "Total Votes Cast": 709,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Michael P. Donnelly (DEM)": 462,
+      "Megan E. Shanahan (REP)": 557,
+      "Total Votes Cast": 1019,
+      "Overvotes": 1,
+      "Undervotes": 86,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Michael P. Donnelly (DEM)": 407,
+      "Megan E. Shanahan (REP)": 483,
+      "Total Votes Cast": 890,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Michael P. Donnelly (DEM)": 389,
+      "Megan E. Shanahan (REP)": 420,
+      "Total Votes Cast": 809,
+      "Overvotes": 1,
+      "Undervotes": 71,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Michael P. Donnelly (DEM)": 401,
+      "Megan E. Shanahan (REP)": 413,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Michael P. Donnelly (DEM)": 125,
+      "Megan E. Shanahan (REP)": 60,
+      "Total Votes Cast": 185,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Michael P. Donnelly (DEM)": 533,
+      "Megan E. Shanahan (REP)": 174,
+      "Total Votes Cast": 707,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Michael P. Donnelly (DEM)": 379,
+      "Megan E. Shanahan (REP)": 103,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Michael P. Donnelly (DEM)": 246,
+      "Megan E. Shanahan (REP)": 72,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Michael P. Donnelly (DEM)": 467,
+      "Megan E. Shanahan (REP)": 137,
+      "Total Votes Cast": 604,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Michael P. Donnelly (DEM)": 187,
+      "Megan E. Shanahan (REP)": 203,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Michael P. Donnelly (DEM)": 321,
+      "Megan E. Shanahan (REP)": 147,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Michael P. Donnelly (DEM)": 273,
+      "Megan E. Shanahan (REP)": 215,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Michael P. Donnelly (DEM)": 181,
+      "Megan E. Shanahan (REP)": 159,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Michael P. Donnelly (DEM)": 113,
+      "Megan E. Shanahan (REP)": 121,
+      "Total Votes Cast": 234,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Michael P. Donnelly (DEM)": 156,
+      "Megan E. Shanahan (REP)": 184,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Michael P. Donnelly (DEM)": 400,
+      "Megan E. Shanahan (REP)": 434,
+      "Total Votes Cast": 834,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Michael P. Donnelly (DEM)": 252,
+      "Megan E. Shanahan (REP)": 190,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Michael P. Donnelly (DEM)": 124,
+      "Megan E. Shanahan (REP)": 124,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Michael P. Donnelly (DEM)": 371,
+      "Megan E. Shanahan (REP)": 300,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Michael P. Donnelly (DEM)": 161,
+      "Megan E. Shanahan (REP)": 259,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Michael P. Donnelly (DEM)": 192,
+      "Megan E. Shanahan (REP)": 248,
+      "Total Votes Cast": 440,
+      "Overvotes": 1,
+      "Undervotes": 58,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Michael P. Donnelly (DEM)": 438,
+      "Megan E. Shanahan (REP)": 327,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 81,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Michael P. Donnelly (DEM)": 332,
+      "Megan E. Shanahan (REP)": 314,
+      "Total Votes Cast": 646,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Michael P. Donnelly (DEM)": 449,
+      "Megan E. Shanahan (REP)": 393,
+      "Total Votes Cast": 842,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Michael P. Donnelly (DEM)": 349,
+      "Megan E. Shanahan (REP)": 406,
+      "Total Votes Cast": 755,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Michael P. Donnelly (DEM)": 384,
+      "Megan E. Shanahan (REP)": 90,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Michael P. Donnelly (DEM)": 291,
+      "Megan E. Shanahan (REP)": 77,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Michael P. Donnelly (DEM)": 297,
+      "Megan E. Shanahan (REP)": 82,
+      "Total Votes Cast": 379,
+      "Overvotes": 2,
+      "Undervotes": 48,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Michael P. Donnelly (DEM)": 296,
+      "Megan E. Shanahan (REP)": 26,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Michael P. Donnelly (DEM)": 296,
+      "Megan E. Shanahan (REP)": 49,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Michael P. Donnelly (DEM)": 231,
+      "Megan E. Shanahan (REP)": 39,
+      "Total Votes Cast": 270,
+      "Overvotes": 1,
+      "Undervotes": 50,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Michael P. Donnelly (DEM)": 367,
+      "Megan E. Shanahan (REP)": 29,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Michael P. Donnelly (DEM)": 374,
+      "Megan E. Shanahan (REP)": 20,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Michael P. Donnelly (DEM)": 355,
+      "Megan E. Shanahan (REP)": 30,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Michael P. Donnelly (DEM)": 322,
+      "Megan E. Shanahan (REP)": 20,
+      "Total Votes Cast": 342,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Michael P. Donnelly (DEM)": 313,
+      "Megan E. Shanahan (REP)": 24,
+      "Total Votes Cast": 337,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Michael P. Donnelly (DEM)": 253,
+      "Megan E. Shanahan (REP)": 26,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Michael P. Donnelly (DEM)": 363,
+      "Megan E. Shanahan (REP)": 276,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Michael P. Donnelly (DEM)": 412,
+      "Megan E. Shanahan (REP)": 229,
+      "Total Votes Cast": 641,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Michael P. Donnelly (DEM)": 401,
+      "Megan E. Shanahan (REP)": 241,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Michael P. Donnelly (DEM)": 373,
+      "Megan E. Shanahan (REP)": 250,
+      "Total Votes Cast": 623,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Michael P. Donnelly (DEM)": 470,
+      "Megan E. Shanahan (REP)": 340,
+      "Total Votes Cast": 810,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Michael P. Donnelly (DEM)": 419,
+      "Megan E. Shanahan (REP)": 305,
+      "Total Votes Cast": 724,
+      "Overvotes": 1,
+      "Undervotes": 71,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Michael P. Donnelly (DEM)": 460,
+      "Megan E. Shanahan (REP)": 340,
+      "Total Votes Cast": 800,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Michael P. Donnelly (DEM)": 334,
+      "Megan E. Shanahan (REP)": 277,
+      "Total Votes Cast": 611,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Michael P. Donnelly (DEM)": 302,
+      "Megan E. Shanahan (REP)": 251,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Michael P. Donnelly (DEM)": 206,
+      "Megan E. Shanahan (REP)": 243,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Michael P. Donnelly (DEM)": 260,
+      "Megan E. Shanahan (REP)": 190,
+      "Total Votes Cast": 450,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Michael P. Donnelly (DEM)": 278,
+      "Megan E. Shanahan (REP)": 286,
+      "Total Votes Cast": 564,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Michael P. Donnelly (DEM)": 266,
+      "Megan E. Shanahan (REP)": 223,
+      "Total Votes Cast": 489,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Michael P. Donnelly (DEM)": 199,
+      "Megan E. Shanahan (REP)": 151,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Michael P. Donnelly (DEM)": 185,
+      "Megan E. Shanahan (REP)": 202,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Michael P. Donnelly (DEM)": 233,
+      "Megan E. Shanahan (REP)": 163,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Michael P. Donnelly (DEM)": 243,
+      "Megan E. Shanahan (REP)": 295,
+      "Total Votes Cast": 538,
+      "Overvotes": 1,
+      "Undervotes": 55,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Michael P. Donnelly (DEM)": 199,
+      "Megan E. Shanahan (REP)": 231,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Michael P. Donnelly (DEM)": 346,
+      "Megan E. Shanahan (REP)": 281,
+      "Total Votes Cast": 627,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Michael P. Donnelly (DEM)": 315,
+      "Megan E. Shanahan (REP)": 113,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Michael P. Donnelly (DEM)": 268,
+      "Megan E. Shanahan (REP)": 226,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Michael P. Donnelly (DEM)": 203,
+      "Megan E. Shanahan (REP)": 156,
+      "Total Votes Cast": 359,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Michael P. Donnelly (DEM)": 345,
+      "Megan E. Shanahan (REP)": 26,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Michael P. Donnelly (DEM)": 209,
+      "Megan E. Shanahan (REP)": 18,
+      "Total Votes Cast": 227,
+      "Overvotes": 1,
+      "Undervotes": 39,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Michael P. Donnelly (DEM)": 395,
+      "Megan E. Shanahan (REP)": 64,
+      "Total Votes Cast": 459,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Michael P. Donnelly (DEM)": 164,
+      "Megan E. Shanahan (REP)": 16,
+      "Total Votes Cast": 180,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Michael P. Donnelly (DEM)": 227,
+      "Megan E. Shanahan (REP)": 31,
+      "Total Votes Cast": 258,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Michael P. Donnelly (DEM)": 470,
+      "Megan E. Shanahan (REP)": 34,
+      "Total Votes Cast": 504,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Michael P. Donnelly (DEM)": 384,
+      "Megan E. Shanahan (REP)": 34,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Michael P. Donnelly (DEM)": 438,
+      "Megan E. Shanahan (REP)": 24,
+      "Total Votes Cast": 462,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Michael P. Donnelly (DEM)": 299,
+      "Megan E. Shanahan (REP)": 19,
+      "Total Votes Cast": 318,
+      "Overvotes": 1,
+      "Undervotes": 60,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Michael P. Donnelly (DEM)": 367,
+      "Megan E. Shanahan (REP)": 26,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Michael P. Donnelly (DEM)": 367,
+      "Megan E. Shanahan (REP)": 38,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Michael P. Donnelly (DEM)": 281,
+      "Megan E. Shanahan (REP)": 27,
+      "Total Votes Cast": 308,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Michael P. Donnelly (DEM)": 330,
+      "Megan E. Shanahan (REP)": 34,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Michael P. Donnelly (DEM)": 630,
+      "Megan E. Shanahan (REP)": 54,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Michael P. Donnelly (DEM)": 370,
+      "Megan E. Shanahan (REP)": 27,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Michael P. Donnelly (DEM)": 258,
+      "Megan E. Shanahan (REP)": 65,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Michael P. Donnelly (DEM)": 331,
+      "Megan E. Shanahan (REP)": 82,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Michael P. Donnelly (DEM)": 375,
+      "Megan E. Shanahan (REP)": 69,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Michael P. Donnelly (DEM)": 237,
+      "Megan E. Shanahan (REP)": 50,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Michael P. Donnelly (DEM)": 274,
+      "Megan E. Shanahan (REP)": 33,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Michael P. Donnelly (DEM)": 422,
+      "Megan E. Shanahan (REP)": 93,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Michael P. Donnelly (DEM)": 300,
+      "Megan E. Shanahan (REP)": 68,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Michael P. Donnelly (DEM)": 277,
+      "Megan E. Shanahan (REP)": 89,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Michael P. Donnelly (DEM)": 178,
+      "Megan E. Shanahan (REP)": 6,
+      "Total Votes Cast": 184,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Michael P. Donnelly (DEM)": 414,
+      "Megan E. Shanahan (REP)": 32,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Michael P. Donnelly (DEM)": 323,
+      "Megan E. Shanahan (REP)": 20,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Michael P. Donnelly (DEM)": 346,
+      "Megan E. Shanahan (REP)": 382,
+      "Total Votes Cast": 728,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Michael P. Donnelly (DEM)": 388,
+      "Megan E. Shanahan (REP)": 401,
+      "Total Votes Cast": 789,
+      "Overvotes": 1,
+      "Undervotes": 84,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Michael P. Donnelly (DEM)": 229,
+      "Megan E. Shanahan (REP)": 304,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Michael P. Donnelly (DEM)": 224,
+      "Megan E. Shanahan (REP)": 332,
+      "Total Votes Cast": 556,
+      "Overvotes": 1,
+      "Undervotes": 63,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Michael P. Donnelly (DEM)": 311,
+      "Megan E. Shanahan (REP)": 35,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Michael P. Donnelly (DEM)": 312,
+      "Megan E. Shanahan (REP)": 26,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Michael P. Donnelly (DEM)": 468,
+      "Megan E. Shanahan (REP)": 50,
+      "Total Votes Cast": 518,
+      "Overvotes": 1,
+      "Undervotes": 54,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Michael P. Donnelly (DEM)": 577,
+      "Megan E. Shanahan (REP)": 76,
+      "Total Votes Cast": 653,
+      "Overvotes": 1,
+      "Undervotes": 66,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Michael P. Donnelly (DEM)": 444,
+      "Megan E. Shanahan (REP)": 55,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Michael P. Donnelly (DEM)": 683,
+      "Megan E. Shanahan (REP)": 44,
+      "Total Votes Cast": 727,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Michael P. Donnelly (DEM)": 414,
+      "Megan E. Shanahan (REP)": 107,
+      "Total Votes Cast": 521,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Michael P. Donnelly (DEM)": 397,
+      "Megan E. Shanahan (REP)": 373,
+      "Total Votes Cast": 770,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Michael P. Donnelly (DEM)": 309,
+      "Megan E. Shanahan (REP)": 406,
+      "Total Votes Cast": 715,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Michael P. Donnelly (DEM)": 382,
+      "Megan E. Shanahan (REP)": 298,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Michael P. Donnelly (DEM)": 344,
+      "Megan E. Shanahan (REP)": 477,
+      "Total Votes Cast": 821,
+      "Overvotes": 1,
+      "Undervotes": 63,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Michael P. Donnelly (DEM)": 450,
+      "Megan E. Shanahan (REP)": 336,
+      "Total Votes Cast": 786,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Michael P. Donnelly (DEM)": 264,
+      "Megan E. Shanahan (REP)": 392,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Michael P. Donnelly (DEM)": 342,
+      "Megan E. Shanahan (REP)": 402,
+      "Total Votes Cast": 744,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Michael P. Donnelly (DEM)": 270,
+      "Megan E. Shanahan (REP)": 303,
+      "Total Votes Cast": 573,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Michael P. Donnelly (DEM)": 284,
+      "Megan E. Shanahan (REP)": 260,
+      "Total Votes Cast": 544,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Michael P. Donnelly (DEM)": 357,
+      "Megan E. Shanahan (REP)": 297,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Michael P. Donnelly (DEM)": 125,
+      "Megan E. Shanahan (REP)": 379,
+      "Total Votes Cast": 504,
+      "Overvotes": 1,
+      "Undervotes": 52,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Michael P. Donnelly (DEM)": 167,
+      "Megan E. Shanahan (REP)": 736,
+      "Total Votes Cast": 903,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Michael P. Donnelly (DEM)": 183,
+      "Megan E. Shanahan (REP)": 667,
+      "Total Votes Cast": 850,
+      "Overvotes": 0,
+      "Undervotes": 101,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Michael P. Donnelly (DEM)": 220,
+      "Megan E. Shanahan (REP)": 509,
+      "Total Votes Cast": 729,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Michael P. Donnelly (DEM)": 206,
+      "Megan E. Shanahan (REP)": 479,
+      "Total Votes Cast": 685,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Michael P. Donnelly (DEM)": 180,
+      "Megan E. Shanahan (REP)": 531,
+      "Total Votes Cast": 711,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Michael P. Donnelly (DEM)": 185,
+      "Megan E. Shanahan (REP)": 568,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Michael P. Donnelly (DEM)": 133,
+      "Megan E. Shanahan (REP)": 248,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Michael P. Donnelly (DEM)": 166,
+      "Megan E. Shanahan (REP)": 304,
+      "Total Votes Cast": 470,
+      "Overvotes": 1,
+      "Undervotes": 69,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Michael P. Donnelly (DEM)": 195,
+      "Megan E. Shanahan (REP)": 302,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Michael P. Donnelly (DEM)": 478,
+      "Megan E. Shanahan (REP)": 244,
+      "Total Votes Cast": 722,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Michael P. Donnelly (DEM)": 109,
+      "Megan E. Shanahan (REP)": 196,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Michael P. Donnelly (DEM)": 246,
+      "Megan E. Shanahan (REP)": 50,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Michael P. Donnelly (DEM)": 383,
+      "Megan E. Shanahan (REP)": 99,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Michael P. Donnelly (DEM)": 436,
+      "Megan E. Shanahan (REP)": 71,
+      "Total Votes Cast": 507,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Michael P. Donnelly (DEM)": 377,
+      "Megan E. Shanahan (REP)": 117,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Michael P. Donnelly (DEM)": 409,
+      "Megan E. Shanahan (REP)": 75,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Michael P. Donnelly (DEM)": 375,
+      "Megan E. Shanahan (REP)": 99,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Michael P. Donnelly (DEM)": 504,
+      "Megan E. Shanahan (REP)": 206,
+      "Total Votes Cast": 710,
+      "Overvotes": 1,
+      "Undervotes": 51,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Michael P. Donnelly (DEM)": 673,
+      "Megan E. Shanahan (REP)": 95,
+      "Total Votes Cast": 768,
+      "Overvotes": 0,
+      "Undervotes": 86,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Michael P. Donnelly (DEM)": 161,
+      "Megan E. Shanahan (REP)": 293,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Michael P. Donnelly (DEM)": 507,
+      "Megan E. Shanahan (REP)": 149,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Michael P. Donnelly (DEM)": 295,
+      "Megan E. Shanahan (REP)": 464,
+      "Total Votes Cast": 759,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Michael P. Donnelly (DEM)": 420,
+      "Megan E. Shanahan (REP)": 473,
+      "Total Votes Cast": 893,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Michael P. Donnelly (DEM)": 402,
+      "Megan E. Shanahan (REP)": 257,
+      "Total Votes Cast": 659,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Michael P. Donnelly (DEM)": 350,
+      "Megan E. Shanahan (REP)": 475,
+      "Total Votes Cast": 825,
+      "Overvotes": 1,
+      "Undervotes": 78,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Michael P. Donnelly (DEM)": 350,
+      "Megan E. Shanahan (REP)": 409,
+      "Total Votes Cast": 759,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Michael P. Donnelly (DEM)": 338,
+      "Megan E. Shanahan (REP)": 463,
+      "Total Votes Cast": 801,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Michael P. Donnelly (DEM)": 251,
+      "Megan E. Shanahan (REP)": 326,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Michael P. Donnelly (DEM)": 326,
+      "Megan E. Shanahan (REP)": 205,
+      "Total Votes Cast": 531,
+      "Overvotes": 1,
+      "Undervotes": 48,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Michael P. Donnelly (DEM)": 219,
+      "Megan E. Shanahan (REP)": 314,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Michael P. Donnelly (DEM)": 316,
+      "Megan E. Shanahan (REP)": 448,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 82,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Michael P. Donnelly (DEM)": 307,
+      "Megan E. Shanahan (REP)": 291,
+      "Total Votes Cast": 598,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Michael P. Donnelly (DEM)": 306,
+      "Megan E. Shanahan (REP)": 428,
+      "Total Votes Cast": 734,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Michael P. Donnelly (DEM)": 274,
+      "Megan E. Shanahan (REP)": 409,
+      "Total Votes Cast": 683,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Michael P. Donnelly (DEM)": 371,
+      "Megan E. Shanahan (REP)": 392,
+      "Total Votes Cast": 763,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Michael P. Donnelly (DEM)": 386,
+      "Megan E. Shanahan (REP)": 356,
+      "Total Votes Cast": 742,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Michael P. Donnelly (DEM)": 294,
+      "Megan E. Shanahan (REP)": 381,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Michael P. Donnelly (DEM)": 325,
+      "Megan E. Shanahan (REP)": 350,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Michael P. Donnelly (DEM)": 303,
+      "Megan E. Shanahan (REP)": 371,
+      "Total Votes Cast": 674,
+      "Overvotes": 1,
+      "Undervotes": 74,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Michael P. Donnelly (DEM)": 312,
+      "Megan E. Shanahan (REP)": 387,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Michael P. Donnelly (DEM)": 252,
+      "Megan E. Shanahan (REP)": 341,
+      "Total Votes Cast": 593,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Michael P. Donnelly (DEM)": 310,
+      "Megan E. Shanahan (REP)": 487,
+      "Total Votes Cast": 797,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Michael P. Donnelly (DEM)": 329,
+      "Megan E. Shanahan (REP)": 403,
+      "Total Votes Cast": 732,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Michael P. Donnelly (DEM)": 258,
+      "Megan E. Shanahan (REP)": 434,
+      "Total Votes Cast": 692,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Michael P. Donnelly (DEM)": 168,
+      "Megan E. Shanahan (REP)": 689,
+      "Total Votes Cast": 857,
+      "Overvotes": 1,
+      "Undervotes": 101,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Michael P. Donnelly (DEM)": 125,
+      "Megan E. Shanahan (REP)": 481,
+      "Total Votes Cast": 606,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Michael P. Donnelly (DEM)": 429,
+      "Megan E. Shanahan (REP)": 413,
+      "Total Votes Cast": 842,
+      "Overvotes": 0,
+      "Undervotes": 97,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Michael P. Donnelly (DEM)": 320,
+      "Megan E. Shanahan (REP)": 158,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Michael P. Donnelly (DEM)": 241,
+      "Megan E. Shanahan (REP)": 409,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Michael P. Donnelly (DEM)": 584,
+      "Megan E. Shanahan (REP)": 34,
+      "Total Votes Cast": 618,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Michael P. Donnelly (DEM)": 107,
+      "Megan E. Shanahan (REP)": 327,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Michael P. Donnelly (DEM)": 165,
+      "Megan E. Shanahan (REP)": 509,
+      "Total Votes Cast": 674,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Michael P. Donnelly (DEM)": 344,
+      "Megan E. Shanahan (REP)": 265,
+      "Total Votes Cast": 609,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Michael P. Donnelly (DEM)": 232,
+      "Megan E. Shanahan (REP)": 356,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Michael P. Donnelly (DEM)": 342,
+      "Megan E. Shanahan (REP)": 462,
+      "Total Votes Cast": 804,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Michael P. Donnelly (DEM)": 377,
+      "Megan E. Shanahan (REP)": 379,
+      "Total Votes Cast": 756,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Michael P. Donnelly (DEM)": 273,
+      "Megan E. Shanahan (REP)": 349,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Michael P. Donnelly (DEM)": 276,
+      "Megan E. Shanahan (REP)": 344,
+      "Total Votes Cast": 620,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Michael P. Donnelly (DEM)": 302,
+      "Megan E. Shanahan (REP)": 353,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Michael P. Donnelly (DEM)": 390,
+      "Megan E. Shanahan (REP)": 459,
+      "Total Votes Cast": 849,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Michael P. Donnelly (DEM)": 340,
+      "Megan E. Shanahan (REP)": 386,
+      "Total Votes Cast": 726,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Michael P. Donnelly (DEM)": 337,
+      "Megan E. Shanahan (REP)": 353,
+      "Total Votes Cast": 690,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Michael P. Donnelly (DEM)": 321,
+      "Megan E. Shanahan (REP)": 365,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Michael P. Donnelly (DEM)": 358,
+      "Megan E. Shanahan (REP)": 373,
+      "Total Votes Cast": 731,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Michael P. Donnelly (DEM)": 386,
+      "Megan E. Shanahan (REP)": 413,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Michael P. Donnelly (DEM)": 305,
+      "Megan E. Shanahan (REP)": 444,
+      "Total Votes Cast": 749,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Michael P. Donnelly (DEM)": 273,
+      "Megan E. Shanahan (REP)": 337,
+      "Total Votes Cast": 610,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Michael P. Donnelly (DEM)": 378,
+      "Megan E. Shanahan (REP)": 562,
+      "Total Votes Cast": 940,
+      "Overvotes": 0,
+      "Undervotes": 90,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Michael P. Donnelly (DEM)": 367,
+      "Megan E. Shanahan (REP)": 429,
+      "Total Votes Cast": 796,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Michael P. Donnelly (DEM)": 287,
+      "Megan E. Shanahan (REP)": 336,
+      "Total Votes Cast": 623,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Michael P. Donnelly (DEM)": 267,
+      "Megan E. Shanahan (REP)": 245,
+      "Total Votes Cast": 512,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Michael P. Donnelly (DEM)": 382,
+      "Megan E. Shanahan (REP)": 359,
+      "Total Votes Cast": 741,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Michael P. Donnelly (DEM)": 431,
+      "Megan E. Shanahan (REP)": 330,
+      "Total Votes Cast": 761,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Michael P. Donnelly (DEM)": 300,
+      "Megan E. Shanahan (REP)": 434,
+      "Total Votes Cast": 734,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Michael P. Donnelly (DEM)": 399,
+      "Megan E. Shanahan (REP)": 232,
+      "Total Votes Cast": 631,
+      "Overvotes": 1,
+      "Undervotes": 70,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Michael P. Donnelly (DEM)": 383,
+      "Megan E. Shanahan (REP)": 405,
+      "Total Votes Cast": 788,
+      "Overvotes": 1,
+      "Undervotes": 57,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Michael P. Donnelly (DEM)": 320,
+      "Megan E. Shanahan (REP)": 301,
+      "Total Votes Cast": 621,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Michael P. Donnelly (DEM)": 298,
+      "Megan E. Shanahan (REP)": 347,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Michael P. Donnelly (DEM)": 373,
+      "Megan E. Shanahan (REP)": 391,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Michael P. Donnelly (DEM)": 280,
+      "Megan E. Shanahan (REP)": 359,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Michael P. Donnelly (DEM)": 308,
+      "Megan E. Shanahan (REP)": 328,
+      "Total Votes Cast": 636,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Michael P. Donnelly (DEM)": 433,
+      "Megan E. Shanahan (REP)": 445,
+      "Total Votes Cast": 878,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Michael P. Donnelly (DEM)": 490,
+      "Megan E. Shanahan (REP)": 384,
+      "Total Votes Cast": 874,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Michael P. Donnelly (DEM)": 551,
+      "Megan E. Shanahan (REP)": 308,
+      "Total Votes Cast": 859,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Michael P. Donnelly (DEM)": 236,
+      "Megan E. Shanahan (REP)": 275,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Michael P. Donnelly (DEM)": 398,
+      "Megan E. Shanahan (REP)": 361,
+      "Total Votes Cast": 759,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Michael P. Donnelly (DEM)": 338,
+      "Megan E. Shanahan (REP)": 337,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Michael P. Donnelly (DEM)": 378,
+      "Megan E. Shanahan (REP)": 327,
+      "Total Votes Cast": 705,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Michael P. Donnelly (DEM)": 440,
+      "Megan E. Shanahan (REP)": 494,
+      "Total Votes Cast": 934,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Michael P. Donnelly (DEM)": 297,
+      "Megan E. Shanahan (REP)": 322,
+      "Total Votes Cast": 619,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Michael P. Donnelly (DEM)": 456,
+      "Megan E. Shanahan (REP)": 337,
+      "Total Votes Cast": 793,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Michael P. Donnelly (DEM)": 426,
+      "Megan E. Shanahan (REP)": 287,
+      "Total Votes Cast": 713,
+      "Overvotes": 1,
+      "Undervotes": 52,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Michael P. Donnelly (DEM)": 375,
+      "Megan E. Shanahan (REP)": 361,
+      "Total Votes Cast": 736,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Michael P. Donnelly (DEM)": 291,
+      "Megan E. Shanahan (REP)": 521,
+      "Total Votes Cast": 812,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Michael P. Donnelly (DEM)": 239,
+      "Megan E. Shanahan (REP)": 544,
+      "Total Votes Cast": 783,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Michael P. Donnelly (DEM)": 289,
+      "Megan E. Shanahan (REP)": 430,
+      "Total Votes Cast": 719,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Michael P. Donnelly (DEM)": 219,
+      "Megan E. Shanahan (REP)": 335,
+      "Total Votes Cast": 554,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Michael P. Donnelly (DEM)": 251,
+      "Megan E. Shanahan (REP)": 484,
+      "Total Votes Cast": 735,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Michael P. Donnelly (DEM)": 254,
+      "Megan E. Shanahan (REP)": 545,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Michael P. Donnelly (DEM)": 209,
+      "Megan E. Shanahan (REP)": 337,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Michael P. Donnelly (DEM)": 269,
+      "Megan E. Shanahan (REP)": 446,
+      "Total Votes Cast": 715,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Michael P. Donnelly (DEM)": 266,
+      "Megan E. Shanahan (REP)": 353,
+      "Total Votes Cast": 619,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Michael P. Donnelly (DEM)": 243,
+      "Megan E. Shanahan (REP)": 533,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Michael P. Donnelly (DEM)": 223,
+      "Megan E. Shanahan (REP)": 457,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Michael P. Donnelly (DEM)": 191,
+      "Megan E. Shanahan (REP)": 425,
+      "Total Votes Cast": 616,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Michael P. Donnelly (DEM)": 203,
+      "Megan E. Shanahan (REP)": 356,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Michael P. Donnelly (DEM)": 383,
+      "Megan E. Shanahan (REP)": 622,
+      "Total Votes Cast": 1005,
+      "Overvotes": 0,
+      "Undervotes": 95,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Michael P. Donnelly (DEM)": 305,
+      "Megan E. Shanahan (REP)": 426,
+      "Total Votes Cast": 731,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Michael P. Donnelly (DEM)": 303,
+      "Megan E. Shanahan (REP)": 342,
+      "Total Votes Cast": 645,
+      "Overvotes": 1,
+      "Undervotes": 72,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Michael P. Donnelly (DEM)": 166,
+      "Megan E. Shanahan (REP)": 591,
+      "Total Votes Cast": 757,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Michael P. Donnelly (DEM)": 319,
+      "Megan E. Shanahan (REP)": 330,
+      "Total Votes Cast": 649,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Michael P. Donnelly (DEM)": 364,
+      "Megan E. Shanahan (REP)": 553,
+      "Total Votes Cast": 917,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Michael P. Donnelly (DEM)": 328,
+      "Megan E. Shanahan (REP)": 359,
+      "Total Votes Cast": 687,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Michael P. Donnelly (DEM)": 252,
+      "Megan E. Shanahan (REP)": 367,
+      "Total Votes Cast": 619,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Michael P. Donnelly (DEM)": 287,
+      "Megan E. Shanahan (REP)": 349,
+      "Total Votes Cast": 636,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Michael P. Donnelly (DEM)": 202,
+      "Megan E. Shanahan (REP)": 195,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Michael P. Donnelly (DEM)": 146,
+      "Megan E. Shanahan (REP)": 499,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Michael P. Donnelly (DEM)": 334,
+      "Megan E. Shanahan (REP)": 527,
+      "Total Votes Cast": 861,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Michael P. Donnelly (DEM)": 243,
+      "Megan E. Shanahan (REP)": 322,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Michael P. Donnelly (DEM)": 279,
+      "Megan E. Shanahan (REP)": 362,
+      "Total Votes Cast": 641,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Michael P. Donnelly (DEM)": 312,
+      "Megan E. Shanahan (REP)": 441,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Michael P. Donnelly (DEM)": 285,
+      "Megan E. Shanahan (REP)": 400,
+      "Total Votes Cast": 685,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Michael P. Donnelly (DEM)": 266,
+      "Megan E. Shanahan (REP)": 223,
+      "Total Votes Cast": 489,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Michael P. Donnelly (DEM)": 378,
+      "Megan E. Shanahan (REP)": 372,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Michael P. Donnelly (DEM)": 191,
+      "Megan E. Shanahan (REP)": 194,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Michael P. Donnelly (DEM)": 223,
+      "Megan E. Shanahan (REP)": 462,
+      "Total Votes Cast": 685,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Michael P. Donnelly (DEM)": 229,
+      "Megan E. Shanahan (REP)": 351,
+      "Total Votes Cast": 580,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Michael P. Donnelly (DEM)": 274,
+      "Megan E. Shanahan (REP)": 284,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Michael P. Donnelly (DEM)": 238,
+      "Megan E. Shanahan (REP)": 419,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Michael P. Donnelly (DEM)": 140,
+      "Megan E. Shanahan (REP)": 277,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Michael P. Donnelly (DEM)": 284,
+      "Megan E. Shanahan (REP)": 477,
+      "Total Votes Cast": 761,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Michael P. Donnelly (DEM)": 156,
+      "Megan E. Shanahan (REP)": 316,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Michael P. Donnelly (DEM)": 196,
+      "Megan E. Shanahan (REP)": 222,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Michael P. Donnelly (DEM)": 225,
+      "Megan E. Shanahan (REP)": 116,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Michael P. Donnelly (DEM)": 481,
+      "Megan E. Shanahan (REP)": 307,
+      "Total Votes Cast": 788,
+      "Overvotes": 1,
+      "Undervotes": 44,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Michael P. Donnelly (DEM)": 451,
+      "Megan E. Shanahan (REP)": 336,
+      "Total Votes Cast": 787,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Michael P. Donnelly (DEM)": 422,
+      "Megan E. Shanahan (REP)": 219,
+      "Total Votes Cast": 641,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Michael P. Donnelly (DEM)": 411,
+      "Megan E. Shanahan (REP)": 233,
+      "Total Votes Cast": 644,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Michael P. Donnelly (DEM)": 466,
+      "Megan E. Shanahan (REP)": 207,
+      "Total Votes Cast": 673,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Michael P. Donnelly (DEM)": 576,
+      "Megan E. Shanahan (REP)": 261,
+      "Total Votes Cast": 837,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Michael P. Donnelly (DEM)": 418,
+      "Megan E. Shanahan (REP)": 295,
+      "Total Votes Cast": 713,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Michael P. Donnelly (DEM)": 315,
+      "Megan E. Shanahan (REP)": 258,
+      "Total Votes Cast": 573,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Michael P. Donnelly (DEM)": 88,
+      "Megan E. Shanahan (REP)": 453,
+      "Total Votes Cast": 541,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Michael P. Donnelly (DEM)": 133,
+      "Megan E. Shanahan (REP)": 459,
+      "Total Votes Cast": 592,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Michael P. Donnelly (DEM)": 138,
+      "Megan E. Shanahan (REP)": 545,
+      "Total Votes Cast": 683,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Michael P. Donnelly (DEM)": 56,
+      "Megan E. Shanahan (REP)": 150,
+      "Total Votes Cast": 206,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Michael P. Donnelly (DEM)": 246,
+      "Megan E. Shanahan (REP)": 251,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Michael P. Donnelly (DEM)": 128,
+      "Megan E. Shanahan (REP)": 350,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Michael P. Donnelly (DEM)": 240,
+      "Megan E. Shanahan (REP)": 387,
+      "Total Votes Cast": 627,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Michael P. Donnelly (DEM)": 169,
+      "Megan E. Shanahan (REP)": 330,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Michael P. Donnelly (DEM)": 310,
+      "Megan E. Shanahan (REP)": 344,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Michael P. Donnelly (DEM)": 214,
+      "Megan E. Shanahan (REP)": 455,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Michael P. Donnelly (DEM)": 162,
+      "Megan E. Shanahan (REP)": 394,
+      "Total Votes Cast": 556,
+      "Overvotes": 2,
+      "Undervotes": 62,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Michael P. Donnelly (DEM)": 260,
+      "Megan E. Shanahan (REP)": 291,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Michael P. Donnelly (DEM)": 178,
+      "Megan E. Shanahan (REP)": 318,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Michael P. Donnelly (DEM)": 123,
+      "Megan E. Shanahan (REP)": 191,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Michael P. Donnelly (DEM)": 171,
+      "Megan E. Shanahan (REP)": 312,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Michael P. Donnelly (DEM)": 170,
+      "Megan E. Shanahan (REP)": 300,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Michael P. Donnelly (DEM)": 305,
+      "Megan E. Shanahan (REP)": 347,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Michael P. Donnelly (DEM)": 122,
+      "Megan E. Shanahan (REP)": 267,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Michael P. Donnelly (DEM)": 273,
+      "Megan E. Shanahan (REP)": 386,
+      "Total Votes Cast": 659,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Michael P. Donnelly (DEM)": 188,
+      "Megan E. Shanahan (REP)": 282,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Michael P. Donnelly (DEM)": 266,
+      "Megan E. Shanahan (REP)": 386,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Michael P. Donnelly (DEM)": 299,
+      "Megan E. Shanahan (REP)": 399,
+      "Total Votes Cast": 698,
+      "Overvotes": 1,
+      "Undervotes": 58,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Michael P. Donnelly (DEM)": 490,
+      "Megan E. Shanahan (REP)": 181,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Michael P. Donnelly (DEM)": 267,
+      "Megan E. Shanahan (REP)": 107,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Michael P. Donnelly (DEM)": 433,
+      "Megan E. Shanahan (REP)": 25,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Michael P. Donnelly (DEM)": 353,
+      "Megan E. Shanahan (REP)": 47,
+      "Total Votes Cast": 400,
+      "Overvotes": 1,
+      "Undervotes": 39,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Michael P. Donnelly (DEM)": 612,
+      "Megan E. Shanahan (REP)": 51,
+      "Total Votes Cast": 663,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Michael P. Donnelly (DEM)": 485,
+      "Megan E. Shanahan (REP)": 66,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Michael P. Donnelly (DEM)": 558,
+      "Megan E. Shanahan (REP)": 80,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Michael P. Donnelly (DEM)": 415,
+      "Megan E. Shanahan (REP)": 44,
+      "Total Votes Cast": 459,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Michael P. Donnelly (DEM)": 267,
+      "Megan E. Shanahan (REP)": 116,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Michael P. Donnelly (DEM)": 418,
+      "Megan E. Shanahan (REP)": 25,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Michael P. Donnelly (DEM)": 294,
+      "Megan E. Shanahan (REP)": 133,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Michael P. Donnelly (DEM)": 245,
+      "Megan E. Shanahan (REP)": 305,
+      "Total Votes Cast": 550,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Michael P. Donnelly (DEM)": 255,
+      "Megan E. Shanahan (REP)": 159,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Michael P. Donnelly (DEM)": 503,
+      "Megan E. Shanahan (REP)": 105,
+      "Total Votes Cast": 608,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Michael P. Donnelly (DEM)": 546,
+      "Megan E. Shanahan (REP)": 61,
+      "Total Votes Cast": 607,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Michael P. Donnelly (DEM)": 430,
+      "Megan E. Shanahan (REP)": 59,
+      "Total Votes Cast": 489,
+      "Overvotes": 1,
+      "Undervotes": 73,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Michael P. Donnelly (DEM)": 348,
+      "Megan E. Shanahan (REP)": 63,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Michael P. Donnelly (DEM)": 362,
+      "Megan E. Shanahan (REP)": 54,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Michael P. Donnelly (DEM)": 133,
+      "Megan E. Shanahan (REP)": 298,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Michael P. Donnelly (DEM)": 251,
+      "Megan E. Shanahan (REP)": 410,
+      "Total Votes Cast": 661,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Michael P. Donnelly (DEM)": 244,
+      "Megan E. Shanahan (REP)": 489,
+      "Total Votes Cast": 733,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Michael P. Donnelly (DEM)": 296,
+      "Megan E. Shanahan (REP)": 470,
+      "Total Votes Cast": 766,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Michael P. Donnelly (DEM)": 246,
+      "Megan E. Shanahan (REP)": 509,
+      "Total Votes Cast": 755,
+      "Overvotes": 2,
+      "Undervotes": 70,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Michael P. Donnelly (DEM)": 228,
+      "Megan E. Shanahan (REP)": 435,
+      "Total Votes Cast": 663,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Michael P. Donnelly (DEM)": 138,
+      "Megan E. Shanahan (REP)": 283,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Michael P. Donnelly (DEM)": 241,
+      "Megan E. Shanahan (REP)": 522,
+      "Total Votes Cast": 763,
+      "Overvotes": 1,
+      "Undervotes": 74,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Michael P. Donnelly (DEM)": 282,
+      "Megan E. Shanahan (REP)": 409,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Michael P. Donnelly (DEM)": 160,
+      "Megan E. Shanahan (REP)": 350,
+      "Total Votes Cast": 510,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Michael P. Donnelly (DEM)": 301,
+      "Megan E. Shanahan (REP)": 482,
+      "Total Votes Cast": 783,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Michael P. Donnelly (DEM)": 211,
+      "Megan E. Shanahan (REP)": 398,
+      "Total Votes Cast": 609,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Michael P. Donnelly (DEM)": 258,
+      "Megan E. Shanahan (REP)": 586,
+      "Total Votes Cast": 844,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Michael P. Donnelly (DEM)": 244,
+      "Megan E. Shanahan (REP)": 442,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Michael P. Donnelly (DEM)": 302,
+      "Megan E. Shanahan (REP)": 595,
+      "Total Votes Cast": 897,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Michael P. Donnelly (DEM)": 301,
+      "Megan E. Shanahan (REP)": 505,
+      "Total Votes Cast": 806,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Michael P. Donnelly (DEM)": 269,
+      "Megan E. Shanahan (REP)": 447,
+      "Total Votes Cast": 716,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Michael P. Donnelly (DEM)": 409,
+      "Megan E. Shanahan (REP)": 594,
+      "Total Votes Cast": 1003,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Michael P. Donnelly (DEM)": 355,
+      "Megan E. Shanahan (REP)": 485,
+      "Total Votes Cast": 840,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Michael P. Donnelly (DEM)": 258,
+      "Megan E. Shanahan (REP)": 363,
+      "Total Votes Cast": 621,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Michael P. Donnelly (DEM)": 374,
+      "Megan E. Shanahan (REP)": 496,
+      "Total Votes Cast": 870,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Michael P. Donnelly (DEM)": 237,
+      "Megan E. Shanahan (REP)": 314,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Michael P. Donnelly (DEM)": 425,
+      "Megan E. Shanahan (REP)": 504,
+      "Total Votes Cast": 929,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Michael P. Donnelly (DEM)": 308,
+      "Megan E. Shanahan (REP)": 439,
+      "Total Votes Cast": 747,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Michael P. Donnelly (DEM)": 333,
+      "Megan E. Shanahan (REP)": 296,
+      "Total Votes Cast": 629,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Michael P. Donnelly (DEM)": 368,
+      "Megan E. Shanahan (REP)": 421,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Michael P. Donnelly (DEM)": 309,
+      "Megan E. Shanahan (REP)": 465,
+      "Total Votes Cast": 774,
+      "Overvotes": 1,
+      "Undervotes": 44,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Michael P. Donnelly (DEM)": 346,
+      "Megan E. Shanahan (REP)": 325,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Michael P. Donnelly (DEM)": 341,
+      "Megan E. Shanahan (REP)": 518,
+      "Total Votes Cast": 859,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Michael P. Donnelly (DEM)": 405,
+      "Megan E. Shanahan (REP)": 367,
+      "Total Votes Cast": 772,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Michael P. Donnelly (DEM)": 382,
+      "Megan E. Shanahan (REP)": 429,
+      "Total Votes Cast": 811,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Michael P. Donnelly (DEM)": 381,
+      "Megan E. Shanahan (REP)": 548,
+      "Total Votes Cast": 929,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Michael P. Donnelly (DEM)": 423,
+      "Megan E. Shanahan (REP)": 473,
+      "Total Votes Cast": 896,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Michael P. Donnelly (DEM)": 290,
+      "Megan E. Shanahan (REP)": 370,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Michael P. Donnelly (DEM)": 297,
+      "Megan E. Shanahan (REP)": 387,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Michael P. Donnelly (DEM)": 377,
+      "Megan E. Shanahan (REP)": 311,
+      "Total Votes Cast": 688,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Michael P. Donnelly (DEM)": 357,
+      "Megan E. Shanahan (REP)": 467,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Michael P. Donnelly (DEM)": 336,
+      "Megan E. Shanahan (REP)": 455,
+      "Total Votes Cast": 791,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Michael P. Donnelly (DEM)": 271,
+      "Megan E. Shanahan (REP)": 278,
+      "Total Votes Cast": 549,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Michael P. Donnelly (DEM)": 276,
+      "Megan E. Shanahan (REP)": 362,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Michael P. Donnelly (DEM)": 485,
+      "Megan E. Shanahan (REP)": 540,
+      "Total Votes Cast": 1025,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Michael P. Donnelly (DEM)": 305,
+      "Megan E. Shanahan (REP)": 411,
+      "Total Votes Cast": 716,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Michael P. Donnelly (DEM)": 327,
+      "Megan E. Shanahan (REP)": 423,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Michael P. Donnelly (DEM)": 276,
+      "Megan E. Shanahan (REP)": 295,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Michael P. Donnelly (DEM)": 397,
+      "Megan E. Shanahan (REP)": 538,
+      "Total Votes Cast": 935,
+      "Overvotes": 0,
+      "Undervotes": 93,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Michael P. Donnelly (DEM)": 245,
+      "Megan E. Shanahan (REP)": 382,
+      "Total Votes Cast": 627,
+      "Overvotes": 1,
+      "Undervotes": 75,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Michael P. Donnelly (DEM)": 236,
+      "Megan E. Shanahan (REP)": 434,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Michael P. Donnelly (DEM)": 222,
+      "Megan E. Shanahan (REP)": 472,
+      "Total Votes Cast": 694,
+      "Overvotes": 1,
+      "Undervotes": 59,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Michael P. Donnelly (DEM)": 236,
+      "Megan E. Shanahan (REP)": 438,
+      "Total Votes Cast": 674,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Michael P. Donnelly (DEM)": 268,
+      "Megan E. Shanahan (REP)": 171,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Michael P. Donnelly (DEM)": 242,
+      "Megan E. Shanahan (REP)": 271,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Michael P. Donnelly (DEM)": 318,
+      "Megan E. Shanahan (REP)": 360,
+      "Total Votes Cast": 678,
+      "Overvotes": 1,
+      "Undervotes": 76,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Michael P. Donnelly (DEM)": 209,
+      "Megan E. Shanahan (REP)": 432,
+      "Total Votes Cast": 641,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Michael P. Donnelly (DEM)": 301,
+      "Megan E. Shanahan (REP)": 170,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 519
+    }
+  ]
+}

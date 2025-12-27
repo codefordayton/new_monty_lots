@@ -1,0 +1,116 @@
+{
+  "race": "New Lebanon Local School Board",
+  "precincts": 11,
+  "results": [
+    {
+      "Precinct": "JAKTWP-A1",
+      "Dawn Leonard": 126,
+      "Jeff Miller": 135,
+      "Elizabeth Powers": 119,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 214,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "JEFTWP-A2",
+      "Dawn Leonard": 18,
+      "Jeff Miller": 29,
+      "Elizabeth Powers": 17,
+      "Total Votes Cast": 64,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 120
+    },
+    {
+      "Precinct": "JNLB-A1",
+      "Dawn Leonard": 111,
+      "Jeff Miller": 98,
+      "Elizabeth Powers": 92,
+      "Total Votes Cast": 301,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "JNLB-A2",
+      "Dawn Leonard": 0,
+      "Jeff Miller": 1,
+      "Elizabeth Powers": 0,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Dawn Leonard": 151,
+      "Jeff Miller": 157,
+      "Elizabeth Powers": 148,
+      "Total Votes Cast": 456,
+      "Overvotes": 0,
+      "Undervotes": 267,
+      "Contest Total": 723
+    },
+    {
+      "Precinct": "PERTWP-A2",
+      "Dawn Leonard": 29,
+      "Jeff Miller": 31,
+      "Elizabeth Powers": 28,
+      "Total Votes Cast": 88,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 147
+    },
+    {
+      "Precinct": "PERTWP-B2",
+      "Dawn Leonard": 10,
+      "Jeff Miller": 10,
+      "Elizabeth Powers": 7,
+      "Total Votes Cast": 27,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 57
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Dawn Leonard": 151,
+      "Jeff Miller": 168,
+      "Elizabeth Powers": 149,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "PNLB1",
+      "Dawn Leonard": 80,
+      "Jeff Miller": 87,
+      "Elizabeth Powers": 73,
+      "Total Votes Cast": 240,
+      "Overvotes": 0,
+      "Undervotes": 126,
+      "Contest Total": 366
+    },
+    {
+      "Precinct": "PNLB2",
+      "Dawn Leonard": 0,
+      "Jeff Miller": 0,
+      "Elizabeth Powers": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "TR 3-B2",
+      "Dawn Leonard": 18,
+      "Jeff Miller": 17,
+      "Elizabeth Powers": 17,
+      "Total Votes Cast": 52,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 72
+    }
+  ]
+}

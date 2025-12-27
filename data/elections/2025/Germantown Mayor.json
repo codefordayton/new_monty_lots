@@ -1,0 +1,54 @@
+{
+  "race": "Germantown Mayor",
+  "precincts": 6,
+  "results": [
+    {
+      "Precinct": "GTN-A",
+      "Terry Johnson": 217,
+      "Total Votes Cast": 217,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 300
+    },
+    {
+      "Precinct": "GTN-B",
+      "Terry Johnson": 110,
+      "Total Votes Cast": 110,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 147
+    },
+    {
+      "Precinct": "GTN-C1",
+      "Terry Johnson": 193,
+      "Total Votes Cast": 193,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 284
+    },
+    {
+      "Precinct": "GTN-C2",
+      "Terry Johnson": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "GTN-D1",
+      "Terry Johnson": 172,
+      "Total Votes Cast": 172,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 236
+    },
+    {
+      "Precinct": "GTN-D2",
+      "Terry Johnson": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

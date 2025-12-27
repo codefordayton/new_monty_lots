@@ -1,0 +1,15 @@
+{
+  "race": "Village of Phillipsburg - Additional 3 mills - 5 yrs",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "PM",
+      "Yes": 55,
+      "No": 178,
+      "Total Votes Cast": 233,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 237
+    }
+  ]
+}

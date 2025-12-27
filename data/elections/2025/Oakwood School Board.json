@@ -1,0 +1,94 @@
+{
+  "race": "Oakwood School Board",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "OAK-A",
+      "Sarah Bourne": 140,
+      "Lauren Kawai": 238,
+      "Laura Middleton": 251,
+      "John R. Wilson": 240,
+      "Total Votes Cast": 869,
+      "Overvotes": 3,
+      "Undervotes": 253,
+      "Contest Total": 1125
+    },
+    {
+      "Precinct": "OAK-B",
+      "Sarah Bourne": 168,
+      "Lauren Kawai": 281,
+      "Laura Middleton": 314,
+      "John R. Wilson": 265,
+      "Total Votes Cast": 1028,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 1302
+    },
+    {
+      "Precinct": "OAK-C",
+      "Sarah Bourne": 147,
+      "Lauren Kawai": 231,
+      "Laura Middleton": 244,
+      "John R. Wilson": 219,
+      "Total Votes Cast": 841,
+      "Overvotes": 0,
+      "Undervotes": 212,
+      "Contest Total": 1053
+    },
+    {
+      "Precinct": "OAK-D",
+      "Sarah Bourne": 112,
+      "Lauren Kawai": 231,
+      "Laura Middleton": 227,
+      "John R. Wilson": 202,
+      "Total Votes Cast": 772,
+      "Overvotes": 0,
+      "Undervotes": 284,
+      "Contest Total": 1056
+    },
+    {
+      "Precinct": "OAK-E",
+      "Sarah Bourne": 134,
+      "Lauren Kawai": 252,
+      "Laura Middleton": 263,
+      "John R. Wilson": 241,
+      "Total Votes Cast": 890,
+      "Overvotes": 0,
+      "Undervotes": 211,
+      "Contest Total": 1101
+    },
+    {
+      "Precinct": "OAK-F",
+      "Sarah Bourne": 164,
+      "Lauren Kawai": 325,
+      "Laura Middleton": 361,
+      "John R. Wilson": 305,
+      "Total Votes Cast": 1155,
+      "Overvotes": 0,
+      "Undervotes": 291,
+      "Contest Total": 1446
+    },
+    {
+      "Precinct": "OAK-G",
+      "Sarah Bourne": 152,
+      "Lauren Kawai": 243,
+      "Laura Middleton": 270,
+      "John R. Wilson": 242,
+      "Total Votes Cast": 907,
+      "Overvotes": 0,
+      "Undervotes": 248,
+      "Contest Total": 1155
+    },
+    {
+      "Precinct": "OAK-H",
+      "Sarah Bourne": 127,
+      "Lauren Kawai": 194,
+      "Laura Middleton": 206,
+      "John R. Wilson": 195,
+      "Total Votes Cast": 722,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 942
+    }
+  ]
+}

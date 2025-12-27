@@ -1,0 +1,30 @@
+{
+  "race": "Beavercreek School Board",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "KT 1-E2",
+      "Nathan Boone": 42,
+      "Claire L. Chinske": 34,
+      "Carl Fischer IV": 32,
+      "Krista Hunt": 31,
+      "JoAnn Rigano": 34,
+      "Total Votes Cast": 173,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 240
+    },
+    {
+      "Precinct": "RV-D",
+      "Nathan Boone": 117,
+      "Claire L. Chinske": 64,
+      "Carl Fischer IV": 79,
+      "Krista Hunt": 115,
+      "JoAnn Rigano": 96,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 294,
+      "Contest Total": 765
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "race": "Vandalia-Butler School Board",
+  "precincts": 23,
+  "results": [
+    {
+      "Precinct": "BTLTWP-A",
+      "Ryan Chewning": 126,
+      "Scott Fullam": 146,
+      "Holly Herbst": 171,
+      "Mary Kay Smith": 160,
+      "Total Votes Cast": 603,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 921
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Ryan Chewning": 123,
+      "Scott Fullam": 150,
+      "Holly Herbst": 167,
+      "Mary Kay Smith": 168,
+      "Total Votes Cast": 608,
+      "Overvotes": 0,
+      "Undervotes": 310,
+      "Contest Total": 918
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Ryan Chewning": 174,
+      "Scott Fullam": 189,
+      "Holly Herbst": 223,
+      "Mary Kay Smith": 238,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 364,
+      "Contest Total": 1188
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Ryan Chewning": 138,
+      "Scott Fullam": 155,
+      "Holly Herbst": 200,
+      "Mary Kay Smith": 187,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 364,
+      "Contest Total": 1044
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Ryan Chewning": 102,
+      "Scott Fullam": 152,
+      "Holly Herbst": 157,
+      "Mary Kay Smith": 164,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 178,
+      "Contest Total": 753
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Ryan Chewning": 110,
+      "Scott Fullam": 182,
+      "Holly Herbst": 188,
+      "Mary Kay Smith": 162,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 258,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Ryan Chewning": 72,
+      "Scott Fullam": 90,
+      "Holly Herbst": 101,
+      "Mary Kay Smith": 106,
+      "Total Votes Cast": 369,
+      "Overvotes": 0,
+      "Undervotes": 123,
+      "Contest Total": 492
+    },
+    {
+      "Precinct": "DAY 3-B2",
+      "Ryan Chewning": 12,
+      "Scott Fullam": 8,
+      "Holly Herbst": 17,
+      "Mary Kay Smith": 19,
+      "Total Votes Cast": 56,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 102
+    },
+    {
+      "Precinct": "DAY 3-B3",
+      "Ryan Chewning": 0,
+      "Scott Fullam": 0,
+      "Holly Herbst": 0,
+      "Mary Kay Smith": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 1-D2",
+      "Ryan Chewning": 0,
+      "Scott Fullam": 0,
+      "Holly Herbst": 0,
+      "Mary Kay Smith": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "UN-C2",
+      "Ryan Chewning": 34,
+      "Scott Fullam": 44,
+      "Holly Herbst": 52,
+      "Mary Kay Smith": 55,
+      "Total Votes Cast": 185,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 273
+    },
+    {
+      "Precinct": "UN-C3",
+      "Ryan Chewning": 0,
+      "Scott Fullam": 1,
+      "Holly Herbst": 1,
+      "Mary Kay Smith": 1,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "VD-A",
+      "Ryan Chewning": 83,
+      "Scott Fullam": 75,
+      "Holly Herbst": 104,
+      "Mary Kay Smith": 86,
+      "Total Votes Cast": 348,
+      "Overvotes": 0,
+      "Undervotes": 159,
+      "Contest Total": 507
+    },
+    {
+      "Precinct": "VD-B",
+      "Ryan Chewning": 57,
+      "Scott Fullam": 57,
+      "Holly Herbst": 70,
+      "Mary Kay Smith": 69,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 327
+    },
+    {
+      "Precinct": "VD-C",
+      "Ryan Chewning": 113,
+      "Scott Fullam": 122,
+      "Holly Herbst": 152,
+      "Mary Kay Smith": 139,
+      "Total Votes Cast": 526,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 759
+    },
+    {
+      "Precinct": "VD-D",
+      "Ryan Chewning": 131,
+      "Scott Fullam": 154,
+      "Holly Herbst": 169,
+      "Mary Kay Smith": 184,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 831
+    },
+    {
+      "Precinct": "VD-E",
+      "Ryan Chewning": 66,
+      "Scott Fullam": 88,
+      "Holly Herbst": 89,
+      "Mary Kay Smith": 94,
+      "Total Votes Cast": 337,
+      "Overvotes": 0,
+      "Undervotes": 119,
+      "Contest Total": 456
+    },
+    {
+      "Precinct": "VD-F",
+      "Ryan Chewning": 130,
+      "Scott Fullam": 169,
+      "Holly Herbst": 196,
+      "Mary Kay Smith": 196,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 275,
+      "Contest Total": 966
+    },
+    {
+      "Precinct": "VD-G",
+      "Ryan Chewning": 122,
+      "Scott Fullam": 146,
+      "Holly Herbst": 165,
+      "Mary Kay Smith": 139,
+      "Total Votes Cast": 572,
+      "Overvotes": 0,
+      "Undervotes": 217,
+      "Contest Total": 789
+    },
+    {
+      "Precinct": "VD-H",
+      "Ryan Chewning": 139,
+      "Scott Fullam": 218,
+      "Holly Herbst": 240,
+      "Mary Kay Smith": 242,
+      "Total Votes Cast": 839,
+      "Overvotes": 0,
+      "Undervotes": 241,
+      "Contest Total": 1080
+    },
+    {
+      "Precinct": "VD-I",
+      "Ryan Chewning": 130,
+      "Scott Fullam": 148,
+      "Holly Herbst": 156,
+      "Mary Kay Smith": 147,
+      "Total Votes Cast": 581,
+      "Overvotes": 0,
+      "Undervotes": 187,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "VD-J",
+      "Ryan Chewning": 174,
+      "Scott Fullam": 207,
+      "Holly Herbst": 219,
+      "Mary Kay Smith": 235,
+      "Total Votes Cast": 835,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 1221
+    },
+    {
+      "Precinct": "VD-K",
+      "Ryan Chewning": 101,
+      "Scott Fullam": 114,
+      "Holly Herbst": 125,
+      "Mary Kay Smith": 123,
+      "Total Votes Cast": 463,
+      "Overvotes": 0,
+      "Undervotes": 194,
+      "Contest Total": 657
+    }
+  ]
+}

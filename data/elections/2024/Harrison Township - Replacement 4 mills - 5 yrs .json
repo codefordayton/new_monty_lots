@@ -1,0 +1,168 @@
+{
+  "race": "Harrison Township - Replacement 4 mills - 5 yrs ",
+  "precincts": 18,
+  "results": [
+    {
+      "Precinct": "DAY 3-G",
+      "For the Tax Levy": 0,
+      "Against the Tax Levy": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "For the Tax Levy": 0,
+      "Against the Tax Levy": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "For the Tax Levy": 3,
+      "Against the Tax Levy": 1,
+      "Total Votes Cast": 4,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 4
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "For the Tax Levy": 139,
+      "Against the Tax Levy": 261,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "For the Tax Levy": 215,
+      "Against the Tax Levy": 289,
+      "Total Votes Cast": 504,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "For the Tax Levy": 193,
+      "Against the Tax Levy": 340,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 566
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "For the Tax Levy": 368,
+      "Against the Tax Levy": 380,
+      "Total Votes Cast": 748,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 797
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "For the Tax Levy": 132,
+      "Against the Tax Levy": 183,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 341
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "For the Tax Levy": 167,
+      "Against the Tax Levy": 133,
+      "Total Votes Cast": 300,
+      "Overvotes": 1,
+      "Undervotes": 20,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "For the Tax Levy": 268,
+      "Against the Tax Levy": 238,
+      "Total Votes Cast": 506,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "For the Tax Levy": 289,
+      "Against the Tax Levy": 243,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "For the Tax Levy": 282,
+      "Against the Tax Levy": 224,
+      "Total Votes Cast": 506,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "For the Tax Levy": 277,
+      "Against the Tax Levy": 218,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "For the Tax Levy": 259,
+      "Against the Tax Levy": 215,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "For the Tax Levy": 377,
+      "Against the Tax Levy": 351,
+      "Total Votes Cast": 728,
+      "Overvotes": 1,
+      "Undervotes": 33,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "For the Tax Levy": 458,
+      "Against the Tax Levy": 345,
+      "Total Votes Cast": 803,
+      "Overvotes": 1,
+      "Undervotes": 50,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "For the Tax Levy": 202,
+      "Against the Tax Levy": 268,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "For the Tax Levy": 378,
+      "Against the Tax Levy": 297,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 745
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "race": "Carlisle Local School Board",
+  "precincts": 3,
+  "results": [
+    {
+      "Precinct": "MBG 1-A2",
+      "William Bicknell": 0,
+      "Craig Harris": 0,
+      "Mollie McIntosh": 0,
+      "Amanda Morris": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MIATWP-J1",
+      "William Bicknell": 71,
+      "Craig Harris": 149,
+      "Mollie McIntosh": 145,
+      "Amanda Morris": 115,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 201,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "MIATWP-J2",
+      "William Bicknell": 19,
+      "Craig Harris": 43,
+      "Mollie McIntosh": 41,
+      "Amanda Morris": 38,
+      "Total Votes Cast": 141,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 198
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "race": "State Rep District 38",
+  "precincts": 90,
+  "results": [
+    {
+      "Precincts": "DAY 1-A",
+      "Desiree Tims (DEM)": 132,
+      "Total Votes Cast": 132,
+      "Overvotes": 0,
+      "Undervotes": 81,
+      "Contest Total": 213
+    },
+    {
+      "Precincts": "DAY 1-C",
+      "Desiree Tims (DEM)": 114,
+      "Total Votes Cast": 114,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 137
+    },
+    {
+      "Precincts": "DAY 1-D",
+      "Desiree Tims (DEM)": 258,
+      "Total Votes Cast": 258,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 333
+    },
+    {
+      "Precincts": "DAY 1-E",
+      "Desiree Tims (DEM)": 495,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 146,
+      "Contest Total": 641
+    },
+    {
+      "Precincts": "DAY 3-A",
+      "Desiree Tims (DEM)": 139,
+      "Total Votes Cast": 139,
+      "Overvotes": 0,
+      "Undervotes": 132,
+      "Contest Total": 271
+    },
+    {
+      "Precincts": "DAY 3-B",
+      "Desiree Tims (DEM)": 209,
+      "Total Votes Cast": 209,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 388
+    },
+    {
+      "Precincts": "DAY 3-D",
+      "Desiree Tims (DEM)": 307,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 192,
+      "Contest Total": 499
+    },
+    {
+      "Precincts": "DAY 3-F",
+      "Desiree Tims (DEM)": 448,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 281,
+      "Contest Total": 729
+    },
+    {
+      "Precincts": "DAY 3-G",
+      "Desiree Tims (DEM)": 248,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 236,
+      "Contest Total": 484
+    },
+    {
+      "Precincts": "DAY 4-A",
+      "Desiree Tims (DEM)": 428,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 513
+    },
+    {
+      "Precincts": "DAY 4-B",
+      "Desiree Tims (DEM)": 314,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 398
+    },
+    {
+      "Precincts": "DAY 4-C",
+      "Desiree Tims (DEM)": 332,
+      "Total Votes Cast": 332,
+      "Overvotes": 0,
+      "Undervotes": 97,
+      "Contest Total": 429
+    },
+    {
+      "Precincts": "DAY 5-A",
+      "Desiree Tims (DEM)": 314,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 367
+    },
+    {
+      "Precincts": "DAY 5-B",
+      "Desiree Tims (DEM)": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 385
+    },
+    {
+      "Precincts": "DAY 5-C",
+      "Desiree Tims (DEM)": 261,
+      "Total Votes Cast": 261,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 321
+    },
+    {
+      "Precincts": "DAY 5-D",
+      "Desiree Tims (DEM)": 387,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 443
+    },
+    {
+      "Precincts": "DAY 6-A",
+      "Desiree Tims (DEM)": 401,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 446
+    },
+    {
+      "Precincts": "DAY 6-B",
+      "Desiree Tims (DEM)": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 434
+    },
+    {
+      "Precincts": "DAY 6-C",
+      "Desiree Tims (DEM)": 352,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 388
+    },
+    {
+      "Precincts": "DAY 7-A",
+      "Desiree Tims (DEM)": 336,
+      "Total Votes Cast": 336,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 380
+    },
+    {
+      "Precincts": "DAY 7-B",
+      "Desiree Tims (DEM)": 269,
+      "Total Votes Cast": 269,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 299
+    },
+    {
+      "Precincts": "DAY 8-A",
+      "Desiree Tims (DEM)": 438,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 266,
+      "Contest Total": 704
+    },
+    {
+      "Precincts": "DAY 8-B",
+      "Desiree Tims (DEM)": 476,
+      "Total Votes Cast": 476,
+      "Overvotes": 0,
+      "Undervotes": 201,
+      "Contest Total": 677
+    },
+    {
+      "Precincts": "DAY 8-C",
+      "Desiree Tims (DEM)": 470,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 222,
+      "Contest Total": 692
+    },
+    {
+      "Precincts": "DAY 8-D",
+      "Desiree Tims (DEM)": 434,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 676
+    },
+    {
+      "Precincts": "DAY 9-A",
+      "Desiree Tims (DEM)": 564,
+      "Total Votes Cast": 564,
+      "Overvotes": 0,
+      "Undervotes": 294,
+      "Contest Total": 858
+    },
+    {
+      "Precincts": "DAY 9-B",
+      "Desiree Tims (DEM)": 521,
+      "Total Votes Cast": 521,
+      "Overvotes": 0,
+      "Undervotes": 275,
+      "Contest Total": 796
+    },
+    {
+      "Precincts": "DAY 9-C",
+      "Desiree Tims (DEM)": 542,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 324,
+      "Contest Total": 866
+    },
+    {
+      "Precincts": "DAY 9-D",
+      "Desiree Tims (DEM)": 418,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 670
+    },
+    {
+      "Precincts": "DAY 10-A",
+      "Desiree Tims (DEM)": 362,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 229,
+      "Contest Total": 591
+    },
+    {
+      "Precincts": "DAY 10-C",
+      "Desiree Tims (DEM)": 317,
+      "Total Votes Cast": 317,
+      "Overvotes": 0,
+      "Undervotes": 163,
+      "Contest Total": 480
+    },
+    {
+      "Precincts": "DAY 10-D",
+      "Desiree Tims (DEM)": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 257,
+      "Contest Total": 615
+    },
+    {
+      "Precincts": "DAY 10-E",
+      "Desiree Tims (DEM)": 313,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 533
+    },
+    {
+      "Precincts": "DAY 12-A",
+      "Desiree Tims (DEM)": 442,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 249,
+      "Contest Total": 691
+    },
+    {
+      "Precincts": "DAY 12-C",
+      "Desiree Tims (DEM)": 342,
+      "Total Votes Cast": 342,
+      "Overvotes": 0,
+      "Undervotes": 189,
+      "Contest Total": 531
+    },
+    {
+      "Precincts": "DAY 12-D",
+      "Desiree Tims (DEM)": 249,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 156,
+      "Contest Total": 405
+    },
+    {
+      "Precincts": "DAY 13-A",
+      "Desiree Tims (DEM)": 376,
+      "Total Votes Cast": 376,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 426
+    },
+    {
+      "Precincts": "DAY 13-B",
+      "Desiree Tims (DEM)": 237,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 267
+    },
+    {
+      "Precincts": "DAY 14-A",
+      "Desiree Tims (DEM)": 455,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 514
+    },
+    {
+      "Precincts": "DAY 14-B",
+      "Desiree Tims (DEM)": 180,
+      "Total Votes Cast": 180,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 205
+    },
+    {
+      "Precincts": "DAY 14-D",
+      "Desiree Tims (DEM)": 497,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 559
+    },
+    {
+      "Precincts": "DAY 15-A",
+      "Desiree Tims (DEM)": 422,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 473
+    },
+    {
+      "Precincts": "DAY 15-B",
+      "Desiree Tims (DEM)": 477,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 536
+    },
+    {
+      "Precincts": "DAY 15-C",
+      "Desiree Tims (DEM)": 334,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 379
+    },
+    {
+      "Precincts": "DAY 15-D",
+      "Desiree Tims (DEM)": 388,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 448
+    },
+    {
+      "Precincts": "DAY 16-A",
+      "Desiree Tims (DEM)": 404,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 454
+    },
+    {
+      "Precincts": "DAY 16-B",
+      "Desiree Tims (DEM)": 314,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 350
+    },
+    {
+      "Precincts": "DAY 16-C",
+      "Desiree Tims (DEM)": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 399
+    },
+    {
+      "Precincts": "DAY 16-D",
+      "Desiree Tims (DEM)": 686,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 752
+    },
+    {
+      "Precincts": "DAY 16-E",
+      "Desiree Tims (DEM)": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 451
+    },
+    {
+      "Precincts": "DAY 17-A",
+      "Desiree Tims (DEM)": 281,
+      "Total Votes Cast": 281,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 347
+    },
+    {
+      "Precincts": "DAY 17-B",
+      "Desiree Tims (DEM)": 369,
+      "Total Votes Cast": 369,
+      "Overvotes": 0,
+      "Undervotes": 97,
+      "Contest Total": 466
+    },
+    {
+      "Precincts": "DAY 17-C",
+      "Desiree Tims (DEM)": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 495
+    },
+    {
+      "Precincts": "DAY 17-D",
+      "Desiree Tims (DEM)": 268,
+      "Total Votes Cast": 268,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 313
+    },
+    {
+      "Precincts": "DAY 18-A",
+      "Desiree Tims (DEM)": 295,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 337
+    },
+    {
+      "Precincts": "DAY 18-B",
+      "Desiree Tims (DEM)": 473,
+      "Total Votes Cast": 473,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 571
+    },
+    {
+      "Precincts": "DAY 18-C",
+      "Desiree Tims (DEM)": 341,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 415
+    },
+    {
+      "Precincts": "DAY 18-D",
+      "Desiree Tims (DEM)": 328,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 407
+    },
+    {
+      "Precincts": "DAY 19-A",
+      "Desiree Tims (DEM)": 184,
+      "Total Votes Cast": 184,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 202
+    },
+    {
+      "Precincts": "DAY 19-B",
+      "Desiree Tims (DEM)": 451,
+      "Total Votes Cast": 451,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 493
+    },
+    {
+      "Precincts": "DAY 19-C",
+      "Desiree Tims (DEM)": 357,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 392
+    },
+    {
+      "Precincts": "DAY 20-A",
+      "Desiree Tims (DEM)": 456,
+      "Total Votes Cast": 456,
+      "Overvotes": 0,
+      "Undervotes": 357,
+      "Contest Total": 813
+    },
+    {
+      "Precincts": "DAY 20-B",
+      "Desiree Tims (DEM)": 489,
+      "Total Votes Cast": 489,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 874
+    },
+    {
+      "Precincts": "DAY 20-C",
+      "Desiree Tims (DEM)": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 573
+    },
+    {
+      "Precincts": "DAY 20-D",
+      "Desiree Tims (DEM)": 322,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 620
+    },
+    {
+      "Precincts": "DAY 21-A",
+      "Desiree Tims (DEM)": 336,
+      "Total Votes Cast": 336,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 374
+    },
+    {
+      "Precincts": "DAY 21-B",
+      "Desiree Tims (DEM)": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 372
+    },
+    {
+      "Precincts": "DAY 21-C",
+      "Desiree Tims (DEM)": 511,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 573
+    },
+    {
+      "Precincts": "DAY 22-A",
+      "Desiree Tims (DEM)": 627,
+      "Total Votes Cast": 627,
+      "Overvotes": 0,
+      "Undervotes": 93,
+      "Contest Total": 720
+    },
+    {
+      "Precincts": "DAY 22-B",
+      "Desiree Tims (DEM)": 481,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 556
+    },
+    {
+      "Precincts": "DAY 22-C",
+      "Desiree Tims (DEM)": 746,
+      "Total Votes Cast": 746,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 812
+    },
+    {
+      "Precincts": "JEFTWP-B",
+      "Desiree Tims (DEM)": 84,
+      "Total Votes Cast": 84,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 97
+    },
+    {
+      "Precincts": "TR 1-A",
+      "Desiree Tims (DEM)": 559,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 734
+    },
+    {
+      "Precincts": "TR 1-B",
+      "Desiree Tims (DEM)": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 101,
+      "Contest Total": 406
+    },
+    {
+      "Precincts": "TR 1-C",
+      "Desiree Tims (DEM)": 484,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 535
+    },
+    {
+      "Precincts": "TR 1-D",
+      "Desiree Tims (DEM)": 386,
+      "Total Votes Cast": 386,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 440
+    },
+    {
+      "Precincts": "TR 1-E",
+      "Desiree Tims (DEM)": 657,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 731
+    },
+    {
+      "Precincts": "TR 2-A",
+      "Desiree Tims (DEM)": 529,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 612
+    },
+    {
+      "Precincts": "TR 2-B",
+      "Desiree Tims (DEM)": 612,
+      "Total Votes Cast": 612,
+      "Overvotes": 0,
+      "Undervotes": 97,
+      "Contest Total": 709
+    },
+    {
+      "Precincts": "TR 2-C",
+      "Desiree Tims (DEM)": 449,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 519
+    },
+    {
+      "Precincts": "TR 2-D",
+      "Desiree Tims (DEM)": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 107,
+      "Contest Total": 431
+    },
+    {
+      "Precincts": "TR 2-E",
+      "Desiree Tims (DEM)": 455,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 506
+    },
+    {
+      "Precincts": "TR 3-A",
+      "Desiree Tims (DEM)": 331,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 141,
+      "Contest Total": 472
+    },
+    {
+      "Precincts": "TR 3-B",
+      "Desiree Tims (DEM)": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 261,
+      "Contest Total": 610
+    },
+    {
+      "Precincts": "TR 3-C",
+      "Desiree Tims (DEM)": 311,
+      "Total Votes Cast": 311,
+      "Overvotes": 0,
+      "Undervotes": 159,
+      "Contest Total": 470
+    },
+    {
+      "Precincts": "TR 3-D",
+      "Desiree Tims (DEM)": 569,
+      "Total Votes Cast": 569,
+      "Overvotes": 0,
+      "Undervotes": 114,
+      "Contest Total": 683
+    },
+    {
+      "Precincts": "TR 4-A",
+      "Desiree Tims (DEM)": 591,
+      "Total Votes Cast": 591,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 670
+    },
+    {
+      "Precincts": "TR 4-B",
+      "Desiree Tims (DEM)": 479,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 563
+    },
+    {
+      "Precincts": "TR 4-C",
+      "Desiree Tims (DEM)": 379,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 449
+    },
+    {
+      "Precincts": "TR 4-D",
+      "Desiree Tims (DEM)": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 470
+    }
+  ]
+}

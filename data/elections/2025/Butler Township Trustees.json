@@ -1,0 +1,86 @@
+{
+  "race": "Butler Township Trustees",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "BTLTWP-A",
+      "Ken Betz": 146,
+      "Bryson Jackson": 147,
+      "Mike Thein": 171,
+      "Total Votes Cast": 464,
+      "Overvotes": 0,
+      "Undervotes": 150,
+      "Contest Total": 614
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Ken Betz": 130,
+      "Bryson Jackson": 164,
+      "Mike Thein": 187,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 131,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Ken Betz": 182,
+      "Bryson Jackson": 219,
+      "Mike Thein": 243,
+      "Total Votes Cast": 644,
+      "Overvotes": 0,
+      "Undervotes": 148,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Ken Betz": 164,
+      "Bryson Jackson": 165,
+      "Mike Thein": 193,
+      "Total Votes Cast": 522,
+      "Overvotes": 0,
+      "Undervotes": 174,
+      "Contest Total": 696
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Ken Betz": 126,
+      "Bryson Jackson": 144,
+      "Mike Thein": 155,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 502
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Ken Betz": 139,
+      "Bryson Jackson": 165,
+      "Mike Thein": 179,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 117,
+      "Contest Total": 600
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Ken Betz": 69,
+      "Bryson Jackson": 91,
+      "Mike Thein": 99,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 328
+    },
+    {
+      "Precinct": "UN-C3",
+      "Ken Betz": 1,
+      "Bryson Jackson": 1,
+      "Mike Thein": 0,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 2
+    }
+  ]
+}

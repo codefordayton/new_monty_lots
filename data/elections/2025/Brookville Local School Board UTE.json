@@ -1,0 +1,102 @@
+{
+  "race": "Brookville Local School Board UTE",
+  "precincts": 12,
+  "results": [
+    {
+      "Precinct": "BRK-A1",
+      "Rodney C Stark": 212,
+      "Total Votes Cast": 212,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 316
+    },
+    {
+      "Precinct": "BRK-A2",
+      "Rodney C Stark": 2,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "BRK-B",
+      "Rodney C Stark": 145,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 207
+    },
+    {
+      "Precinct": "BRK-C",
+      "Rodney C Stark": 181,
+      "Total Votes Cast": 181,
+      "Overvotes": 0,
+      "Undervotes": 109,
+      "Contest Total": 290
+    },
+    {
+      "Precinct": "BRK-D1",
+      "Rodney C Stark": 139,
+      "Total Votes Cast": 139,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 216
+    },
+    {
+      "Precinct": "BRK-D2",
+      "Rodney C Stark": 3,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "CLATWP-B1",
+      "Rodney C Stark": 90,
+      "Total Votes Cast": 90,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 175
+    },
+    {
+      "Precinct": "CLATWP-C1",
+      "Rodney C Stark": 93,
+      "Total Votes Cast": 93,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 163
+    },
+    {
+      "Precinct": "CTN 1-B2",
+      "Rodney C Stark": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "PERTWP-A1",
+      "Rodney C Stark": 91,
+      "Total Votes Cast": 91,
+      "Overvotes": 0,
+      "Undervotes": 82,
+      "Contest Total": 173
+    },
+    {
+      "Precinct": "PERTWP-B1",
+      "Rodney C Stark": 136,
+      "Total Votes Cast": 136,
+      "Overvotes": 0,
+      "Undervotes": 99,
+      "Contest Total": 235
+    },
+    {
+      "Precinct": "TR 1-A2",
+      "Rodney C Stark": 7,
+      "Total Votes Cast": 7,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 11
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "race": "City of Huber Heights - Charter Amendment Sec. ",
+  "precincts": 23,
+  "results": [
+    {
+      "Precinct": "HUB 1-A",
+      "Yes": 499,
+      "No": 188,
+      "Total Votes Cast": 687,
+      "Overvotes": 0,
+      "Undervotes": 124,
+      "Contest Total": 811
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Yes": 646,
+      "No": 192,
+      "Total Votes Cast": 838,
+      "Overvotes": 0,
+      "Undervotes": 132,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Yes": 480,
+      "No": 128,
+      "Total Votes Cast": 608,
+      "Overvotes": 0,
+      "Undervotes": 126,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Yes": 576,
+      "No": 177,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 148,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Yes": 533,
+      "No": 168,
+      "Total Votes Cast": 701,
+      "Overvotes": 0,
+      "Undervotes": 132,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Yes": 556,
+      "No": 193,
+      "Total Votes Cast": 749,
+      "Overvotes": 0,
+      "Undervotes": 136,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Yes": 401,
+      "No": 125,
+      "Total Votes Cast": 526,
+      "Overvotes": 0,
+      "Undervotes": 103,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Yes": 365,
+      "No": 114,
+      "Total Votes Cast": 479,
+      "Overvotes": 2,
+      "Undervotes": 98,
+      "Contest Total": 579
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Yes": 364,
+      "No": 129,
+      "Total Votes Cast": 493,
+      "Overvotes": 0,
+      "Undervotes": 96,
+      "Contest Total": 589
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Yes": 491,
+      "No": 204,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 149,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Yes": 422,
+      "No": 108,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 119,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Yes": 475,
+      "No": 196,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 132,
+      "Contest Total": 803
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Yes": 459,
+      "No": 171,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 124,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Yes": 513,
+      "No": 193,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 130,
+      "Contest Total": 836
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Yes": 524,
+      "No": 153,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 120,
+      "Contest Total": 797
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Yes": 442,
+      "No": 180,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 122,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Yes": 473,
+      "No": 147,
+      "Total Votes Cast": 620,
+      "Overvotes": 0,
+      "Undervotes": 124,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Yes": 449,
+      "No": 183,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 117,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Yes": 479,
+      "No": 165,
+      "Total Votes Cast": 644,
+      "Overvotes": 0,
+      "Undervotes": 126,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Yes": 420,
+      "No": 120,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 97,
+      "Contest Total": 637
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Yes": 516,
+      "No": 220,
+      "Total Votes Cast": 736,
+      "Overvotes": 1,
+      "Undervotes": 127,
+      "Contest Total": 864
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Yes": 488,
+      "No": 187,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 132,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Yes": 454,
+      "No": 181,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 122,
+      "Contest Total": 757
+    }
+  ]
+}

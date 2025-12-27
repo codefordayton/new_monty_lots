@@ -1,0 +1,26 @@
+{
+  "race": "Tri-County North Local School Board",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "CLATWP-C2",
+      "Clint Baughman": 20,
+      "Adam Brown": 20,
+      "Bill Hapner": 24,
+      "Total Votes Cast": 64,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 110
+    },
+    {
+      "Precinct": "CLATWP-C4",
+      "Clint Baughman": 3,
+      "Adam Brown": 5,
+      "Bill Hapner": 4,
+      "Total Votes Cast": 12,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 20
+    }
+  ]
+}

@@ -1,0 +1,3054 @@
+{
+  "race": "Judge of the Common Pleas Court FTC 010625",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Gerald Parker": 456,
+      "Total Votes Cast": 456,
+      "Overvotes": 0,
+      "Undervotes": 467,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Gerald Parker": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 369,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Gerald Parker": 404,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 507,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Gerald Parker": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 424,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Gerald Parker": 394,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 435,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Gerald Parker": 316,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 411,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Gerald Parker": 457,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 468,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Gerald Parker": 439,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Gerald Parker": 316,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 281,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Gerald Parker": 318,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 369,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Gerald Parker": 263,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 258,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Gerald Parker": 262,
+      "Total Votes Cast": 262,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Gerald Parker": 263,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 357,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Gerald Parker": 381,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 550,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Gerald Parker": 269,
+      "Total Votes Cast": 269,
+      "Overvotes": 0,
+      "Undervotes": 339,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Gerald Parker": 378,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 315,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Gerald Parker": 466,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 475,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Gerald Parker": 341,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 258,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Gerald Parker": 309,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Gerald Parker": 478,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 380,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Gerald Parker": 488,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 409,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Gerald Parker": 444,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Gerald Parker": 418,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 410,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Gerald Parker": 388,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 350,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Gerald Parker": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Gerald Parker": 435,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 446,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Gerald Parker": 263,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 302,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Gerald Parker": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 325,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Gerald Parker": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 434,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Gerald Parker": 453,
+      "Total Votes Cast": 453,
+      "Overvotes": 0,
+      "Undervotes": 483,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Gerald Parker": 503,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 502,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Gerald Parker": 502,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 507,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Gerald Parker": 520,
+      "Total Votes Cast": 520,
+      "Overvotes": 0,
+      "Undervotes": 571,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Gerald Parker": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 468,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Gerald Parker": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 496,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Gerald Parker": 517,
+      "Total Votes Cast": 517,
+      "Overvotes": 0,
+      "Undervotes": 515,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Gerald Parker": 425,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 438,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Gerald Parker": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 383,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Gerald Parker": 544,
+      "Total Votes Cast": 544,
+      "Overvotes": 0,
+      "Undervotes": 562,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Gerald Parker": 472,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 492,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Gerald Parker": 412,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 469,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Gerald Parker": 428,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 453,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Gerald Parker": 97,
+      "Total Votes Cast": 97,
+      "Overvotes": 0,
+      "Undervotes": 116,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Gerald Parker": 391,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 348,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Gerald Parker": 287,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 235,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Gerald Parker": 150,
+      "Total Votes Cast": 150,
+      "Overvotes": 0,
+      "Undervotes": 183,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Gerald Parker": 318,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 323,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Gerald Parker": 198,
+      "Total Votes Cast": 198,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Gerald Parker": 251,
+      "Total Votes Cast": 251,
+      "Overvotes": 0,
+      "Undervotes": 260,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Gerald Parker": 242,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 297,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Gerald Parker": 172,
+      "Total Votes Cast": 172,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Gerald Parker": 102,
+      "Total Votes Cast": 102,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Gerald Parker": 157,
+      "Total Votes Cast": 157,
+      "Overvotes": 0,
+      "Undervotes": 231,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Gerald Parker": 478,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Gerald Parker": 224,
+      "Total Votes Cast": 224,
+      "Overvotes": 0,
+      "Undervotes": 275,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Gerald Parker": 148,
+      "Total Votes Cast": 148,
+      "Overvotes": 0,
+      "Undervotes": 129,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Gerald Parker": 345,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Gerald Parker": 216,
+      "Total Votes Cast": 216,
+      "Overvotes": 0,
+      "Undervotes": 268,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Gerald Parker": 207,
+      "Total Votes Cast": 207,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Gerald Parker": 427,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Gerald Parker": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Gerald Parker": 452,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 442,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Gerald Parker": 398,
+      "Total Votes Cast": 398,
+      "Overvotes": 0,
+      "Undervotes": 421,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Gerald Parker": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 235,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Gerald Parker": 204,
+      "Total Votes Cast": 204,
+      "Overvotes": 0,
+      "Undervotes": 194,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Gerald Parker": 211,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Gerald Parker": 183,
+      "Total Votes Cast": 183,
+      "Overvotes": 0,
+      "Undervotes": 184,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Gerald Parker": 202,
+      "Total Votes Cast": 202,
+      "Overvotes": 0,
+      "Undervotes": 183,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Gerald Parker": 145,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 176,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Gerald Parker": 234,
+      "Total Votes Cast": 234,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Gerald Parker": 227,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 219,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Gerald Parker": 238,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 196,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Gerald Parker": 202,
+      "Total Votes Cast": 202,
+      "Overvotes": 0,
+      "Undervotes": 186,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Gerald Parker": 175,
+      "Total Votes Cast": 175,
+      "Overvotes": 0,
+      "Undervotes": 205,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Gerald Parker": 186,
+      "Total Votes Cast": 186,
+      "Overvotes": 0,
+      "Undervotes": 113,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Gerald Parker": 328,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 376,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Gerald Parker": 335,
+      "Total Votes Cast": 335,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Gerald Parker": 315,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 377,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Gerald Parker": 322,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Gerald Parker": 431,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 427,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Gerald Parker": 380,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 416,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Gerald Parker": 392,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 474,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Gerald Parker": 290,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 380,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Gerald Parker": 271,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 320,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Gerald Parker": 216,
+      "Total Votes Cast": 216,
+      "Overvotes": 0,
+      "Undervotes": 288,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Gerald Parker": 227,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 253,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Gerald Parker": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 332,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Gerald Parker": 225,
+      "Total Votes Cast": 225,
+      "Overvotes": 0,
+      "Undervotes": 308,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Gerald Parker": 176,
+      "Total Votes Cast": 176,
+      "Overvotes": 0,
+      "Undervotes": 206,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Gerald Parker": 210,
+      "Total Votes Cast": 210,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Gerald Parker": 237,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 196,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Gerald Parker": 280,
+      "Total Votes Cast": 280,
+      "Overvotes": 0,
+      "Undervotes": 314,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Gerald Parker": 213,
+      "Total Votes Cast": 213,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Gerald Parker": 345,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Gerald Parker": 205,
+      "Total Votes Cast": 205,
+      "Overvotes": 0,
+      "Undervotes": 253,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Gerald Parker": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 253,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Gerald Parker": 179,
+      "Total Votes Cast": 179,
+      "Overvotes": 0,
+      "Undervotes": 226,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Gerald Parker": 226,
+      "Total Votes Cast": 226,
+      "Overvotes": 0,
+      "Undervotes": 200,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Gerald Parker": 134,
+      "Total Votes Cast": 134,
+      "Overvotes": 0,
+      "Undervotes": 133,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Gerald Parker": 295,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 219,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Gerald Parker": 110,
+      "Total Votes Cast": 110,
+      "Overvotes": 0,
+      "Undervotes": 95,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Gerald Parker": 149,
+      "Total Votes Cast": 149,
+      "Overvotes": 0,
+      "Undervotes": 153,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Gerald Parker": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Gerald Parker": 242,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 231,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Gerald Parker": 282,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Gerald Parker": 184,
+      "Total Votes Cast": 184,
+      "Overvotes": 0,
+      "Undervotes": 195,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Gerald Parker": 222,
+      "Total Votes Cast": 222,
+      "Overvotes": 0,
+      "Undervotes": 226,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Gerald Parker": 239,
+      "Total Votes Cast": 239,
+      "Overvotes": 0,
+      "Undervotes": 215,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Gerald Parker": 188,
+      "Total Votes Cast": 188,
+      "Overvotes": 0,
+      "Undervotes": 162,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Gerald Parker": 217,
+      "Total Votes Cast": 217,
+      "Overvotes": 0,
+      "Undervotes": 182,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Gerald Parker": 416,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 336,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Gerald Parker": 253,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 198,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Gerald Parker": 175,
+      "Total Votes Cast": 175,
+      "Overvotes": 0,
+      "Undervotes": 172,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Gerald Parker": 216,
+      "Total Votes Cast": 216,
+      "Overvotes": 0,
+      "Undervotes": 250,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Gerald Parker": 276,
+      "Total Votes Cast": 276,
+      "Overvotes": 0,
+      "Undervotes": 219,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Gerald Parker": 157,
+      "Total Votes Cast": 157,
+      "Overvotes": 0,
+      "Undervotes": 156,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Gerald Parker": 190,
+      "Total Votes Cast": 190,
+      "Overvotes": 0,
+      "Undervotes": 147,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Gerald Parker": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Gerald Parker": 210,
+      "Total Votes Cast": 210,
+      "Overvotes": 0,
+      "Undervotes": 205,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Gerald Parker": 220,
+      "Total Votes Cast": 220,
+      "Overvotes": 0,
+      "Undervotes": 187,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Gerald Parker": 104,
+      "Total Votes Cast": 104,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Gerald Parker": 240,
+      "Total Votes Cast": 240,
+      "Overvotes": 0,
+      "Undervotes": 253,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Gerald Parker": 215,
+      "Total Votes Cast": 215,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Gerald Parker": 359,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 454,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Gerald Parker": 386,
+      "Total Votes Cast": 386,
+      "Overvotes": 0,
+      "Undervotes": 488,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Gerald Parker": 270,
+      "Total Votes Cast": 270,
+      "Overvotes": 0,
+      "Undervotes": 303,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Gerald Parker": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Gerald Parker": 204,
+      "Total Votes Cast": 204,
+      "Overvotes": 0,
+      "Undervotes": 170,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Gerald Parker": 207,
+      "Total Votes Cast": 207,
+      "Overvotes": 0,
+      "Undervotes": 165,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Gerald Parker": 296,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Gerald Parker": 407,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Gerald Parker": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 229,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Gerald Parker": 468,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 344,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Gerald Parker": 264,
+      "Total Votes Cast": 264,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Gerald Parker": 443,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Gerald Parker": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Gerald Parker": 394,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 343,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Gerald Parker": 477,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 408,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Gerald Parker": 443,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 409,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Gerald Parker": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 360,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Gerald Parker": 431,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Gerald Parker": 331,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Gerald Parker": 298,
+      "Total Votes Cast": 298,
+      "Overvotes": 0,
+      "Undervotes": 288,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Gerald Parker": 376,
+      "Total Votes Cast": 376,
+      "Overvotes": 0,
+      "Undervotes": 339,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Gerald Parker": 254,
+      "Total Votes Cast": 254,
+      "Overvotes": 0,
+      "Undervotes": 303,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Gerald Parker": 391,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 586,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Gerald Parker": 418,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 533,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Gerald Parker": 352,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 448,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Gerald Parker": 354,
+      "Total Votes Cast": 354,
+      "Overvotes": 0,
+      "Undervotes": 393,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Gerald Parker": 366,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 403,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Gerald Parker": 369,
+      "Total Votes Cast": 369,
+      "Overvotes": 0,
+      "Undervotes": 463,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Gerald Parker": 191,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Gerald Parker": 254,
+      "Total Votes Cast": 254,
+      "Overvotes": 0,
+      "Undervotes": 286,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Gerald Parker": 252,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Gerald Parker": 438,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 360,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Gerald Parker": 156,
+      "Total Votes Cast": 156,
+      "Overvotes": 0,
+      "Undervotes": 187,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Gerald Parker": 195,
+      "Total Votes Cast": 195,
+      "Overvotes": 0,
+      "Undervotes": 126,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Gerald Parker": 281,
+      "Total Votes Cast": 281,
+      "Overvotes": 0,
+      "Undervotes": 264,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Gerald Parker": 295,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Gerald Parker": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 263,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Gerald Parker": 265,
+      "Total Votes Cast": 265,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Gerald Parker": 296,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 235,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Gerald Parker": 433,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 329,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Gerald Parker": 483,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 371,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Gerald Parker": 243,
+      "Total Votes Cast": 243,
+      "Overvotes": 0,
+      "Undervotes": 262,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Gerald Parker": 407,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Gerald Parker": 374,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 442,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Gerald Parker": 512,
+      "Total Votes Cast": 512,
+      "Overvotes": 0,
+      "Undervotes": 459,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Gerald Parker": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 376,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Gerald Parker": 445,
+      "Total Votes Cast": 445,
+      "Overvotes": 0,
+      "Undervotes": 459,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Gerald Parker": 420,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 412,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Gerald Parker": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 459,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Gerald Parker": 317,
+      "Total Votes Cast": 317,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Gerald Parker": 308,
+      "Total Votes Cast": 308,
+      "Overvotes": 0,
+      "Undervotes": 272,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Gerald Parker": 275,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 315,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Gerald Parker": 424,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Gerald Parker": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Gerald Parker": 377,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 427,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Gerald Parker": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 383,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Gerald Parker": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 407,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Gerald Parker": 413,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 383,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Gerald Parker": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 344,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Gerald Parker": 387,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Gerald Parker": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 389,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Gerald Parker": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 382,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Gerald Parker": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 315,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Gerald Parker": 443,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Gerald Parker": 416,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Gerald Parker": 367,
+      "Total Votes Cast": 367,
+      "Overvotes": 0,
+      "Undervotes": 394,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Gerald Parker": 375,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 584,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Gerald Parker": 275,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 397,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Gerald Parker": 427,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 512,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Gerald Parker": 279,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 271,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Gerald Parker": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Gerald Parker": 376,
+      "Total Votes Cast": 376,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Gerald Parker": 204,
+      "Total Votes Cast": 204,
+      "Overvotes": 0,
+      "Undervotes": 275,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Gerald Parker": 315,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 432,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Gerald Parker": 334,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 323,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Gerald Parker": 291,
+      "Total Votes Cast": 291,
+      "Overvotes": 0,
+      "Undervotes": 361,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Gerald Parker": 405,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 469,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Gerald Parker": 443,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 400,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Gerald Parker": 336,
+      "Total Votes Cast": 336,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Gerald Parker": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 343,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Gerald Parker": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Gerald Parker": 449,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 463,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Gerald Parker": 391,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Gerald Parker": 355,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 411,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Gerald Parker": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 357,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Gerald Parker": 392,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 401,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Gerald Parker": 452,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 421,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Gerald Parker": 424,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Gerald Parker": 355,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Gerald Parker": 481,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 549,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Gerald Parker": 409,
+      "Total Votes Cast": 409,
+      "Overvotes": 0,
+      "Undervotes": 464,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Gerald Parker": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 333,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Gerald Parker": 293,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 261,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Gerald Parker": 412,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 416,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Gerald Parker": 432,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Gerald Parker": 388,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 404,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Gerald Parker": 355,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 347,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Gerald Parker": 407,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 439,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Gerald Parker": 331,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Gerald Parker": 386,
+      "Total Votes Cast": 386,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Gerald Parker": 423,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Gerald Parker": 334,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Gerald Parker": 362,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Gerald Parker": 458,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 488,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Gerald Parker": 478,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 444,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Gerald Parker": 479,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 460,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Gerald Parker": 265,
+      "Total Votes Cast": 265,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Gerald Parker": 422,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Gerald Parker": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 408,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Gerald Parker": 386,
+      "Total Votes Cast": 386,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Gerald Parker": 500,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 496,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Gerald Parker": 343,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 336,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Gerald Parker": 432,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 416,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Gerald Parker": 393,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 373,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Gerald Parker": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Gerald Parker": 394,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 506,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Gerald Parker": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 457,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Gerald Parker": 407,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 369,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Gerald Parker": 275,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Gerald Parker": 380,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 427,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Gerald Parker": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 459,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Gerald Parker": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 291,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Gerald Parker": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 435,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Gerald Parker": 341,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Gerald Parker": 416,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 427,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Gerald Parker": 356,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Gerald Parker": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 339,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Gerald Parker": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Gerald Parker": 533,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 567,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Gerald Parker": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 431,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Gerald Parker": 334,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Gerald Parker": 363,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 478,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Gerald Parker": 311,
+      "Total Votes Cast": 311,
+      "Overvotes": 0,
+      "Undervotes": 398,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Gerald Parker": 459,
+      "Total Votes Cast": 459,
+      "Overvotes": 0,
+      "Undervotes": 512,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Gerald Parker": 404,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 351,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Gerald Parker": 317,
+      "Total Votes Cast": 317,
+      "Overvotes": 0,
+      "Undervotes": 363,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Gerald Parker": 344,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Gerald Parker": 209,
+      "Total Votes Cast": 209,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Gerald Parker": 274,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Gerald Parker": 440,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 499,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Gerald Parker": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Gerald Parker": 364,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 337,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Gerald Parker": 391,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 410,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Gerald Parker": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Gerald Parker": 273,
+      "Total Votes Cast": 273,
+      "Overvotes": 0,
+      "Undervotes": 251,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Gerald Parker": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 370,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Gerald Parker": 213,
+      "Total Votes Cast": 213,
+      "Overvotes": 0,
+      "Undervotes": 215,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Gerald Parker": 345,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 406,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Gerald Parker": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 320,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Gerald Parker": 297,
+      "Total Votes Cast": 297,
+      "Overvotes": 0,
+      "Undervotes": 306,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Gerald Parker": 339,
+      "Total Votes Cast": 339,
+      "Overvotes": 0,
+      "Undervotes": 398,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Gerald Parker": 202,
+      "Total Votes Cast": 202,
+      "Overvotes": 0,
+      "Undervotes": 262,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Gerald Parker": 412,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Gerald Parker": 227,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 300,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Gerald Parker": 229,
+      "Total Votes Cast": 229,
+      "Overvotes": 0,
+      "Undervotes": 238,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Gerald Parker": 195,
+      "Total Votes Cast": 195,
+      "Overvotes": 0,
+      "Undervotes": 189,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Gerald Parker": 449,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Gerald Parker": 437,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Gerald Parker": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 348,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Gerald Parker": 359,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 325,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Gerald Parker": 356,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Gerald Parker": 477,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Gerald Parker": 396,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 358,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Gerald Parker": 303,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Gerald Parker": 238,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 360,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Gerald Parker": 285,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 368,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Gerald Parker": 304,
+      "Total Votes Cast": 304,
+      "Overvotes": 0,
+      "Undervotes": 464,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Gerald Parker": 123,
+      "Total Votes Cast": 123,
+      "Overvotes": 0,
+      "Undervotes": 114,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Gerald Parker": 275,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Gerald Parker": 246,
+      "Total Votes Cast": 246,
+      "Overvotes": 0,
+      "Undervotes": 285,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Gerald Parker": 334,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 336,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Gerald Parker": 235,
+      "Total Votes Cast": 235,
+      "Overvotes": 0,
+      "Undervotes": 325,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Gerald Parker": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Gerald Parker": 313,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 415,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Gerald Parker": 279,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 341,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Gerald Parker": 290,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Gerald Parker": 249,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 290,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Gerald Parker": 176,
+      "Total Votes Cast": 176,
+      "Overvotes": 0,
+      "Undervotes": 186,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Gerald Parker": 241,
+      "Total Votes Cast": 241,
+      "Overvotes": 0,
+      "Undervotes": 285,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Gerald Parker": 259,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 253,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Gerald Parker": 343,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 348,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Gerald Parker": 192,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 229,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Gerald Parker": 375,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 341,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Gerald Parker": 243,
+      "Total Votes Cast": 243,
+      "Overvotes": 0,
+      "Undervotes": 279,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Gerald Parker": 343,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 374,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Gerald Parker": 398,
+      "Total Votes Cast": 398,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Gerald Parker": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 328,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Gerald Parker": 214,
+      "Total Votes Cast": 214,
+      "Overvotes": 0,
+      "Undervotes": 192,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Gerald Parker": 307,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Gerald Parker": 259,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 181,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Gerald Parker": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 314,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Gerald Parker": 348,
+      "Total Votes Cast": 348,
+      "Overvotes": 0,
+      "Undervotes": 264,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Gerald Parker": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 325,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Gerald Parker": 276,
+      "Total Votes Cast": 276,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Gerald Parker": 227,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 204,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Gerald Parker": 295,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 211,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Gerald Parker": 240,
+      "Total Votes Cast": 240,
+      "Overvotes": 0,
+      "Undervotes": 232,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Gerald Parker": 285,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 325,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Gerald Parker": 242,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Gerald Parker": 341,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Gerald Parker": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 286,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Gerald Parker": 267,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 296,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Gerald Parker": 249,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 200,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Gerald Parker": 262,
+      "Total Votes Cast": 262,
+      "Overvotes": 0,
+      "Undervotes": 208,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Gerald Parker": 240,
+      "Total Votes Cast": 240,
+      "Overvotes": 0,
+      "Undervotes": 239,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Gerald Parker": 344,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 373,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Gerald Parker": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 416,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Gerald Parker": 459,
+      "Total Votes Cast": 459,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Gerald Parker": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 455,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Gerald Parker": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Gerald Parker": 236,
+      "Total Votes Cast": 236,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Gerald Parker": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 421,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Gerald Parker": 378,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 363,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Gerald Parker": 264,
+      "Total Votes Cast": 264,
+      "Overvotes": 0,
+      "Undervotes": 286,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Gerald Parker": 432,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 418,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Gerald Parker": 293,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 370,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Gerald Parker": 456,
+      "Total Votes Cast": 456,
+      "Overvotes": 0,
+      "Undervotes": 449,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Gerald Parker": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 408,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Gerald Parker": 444,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 508,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Gerald Parker": 462,
+      "Total Votes Cast": 462,
+      "Overvotes": 0,
+      "Undervotes": 416,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Gerald Parker": 367,
+      "Total Votes Cast": 367,
+      "Overvotes": 0,
+      "Undervotes": 411,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Gerald Parker": 566,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 520,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Gerald Parker": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 478,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Gerald Parker": 331,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 326,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Gerald Parker": 466,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 454,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Gerald Parker": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 291,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Gerald Parker": 485,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 515,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Gerald Parker": 411,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 398,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Gerald Parker": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 340,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Gerald Parker": 436,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 432,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Gerald Parker": 391,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 428,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Gerald Parker": 340,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 388,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Gerald Parker": 437,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 500,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Gerald Parker": 435,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 409,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Gerald Parker": 438,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 443,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Gerald Parker": 527,
+      "Total Votes Cast": 527,
+      "Overvotes": 0,
+      "Undervotes": 463,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Gerald Parker": 473,
+      "Total Votes Cast": 473,
+      "Overvotes": 0,
+      "Undervotes": 497,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Gerald Parker": 387,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 324,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Gerald Parker": 325,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 417,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Gerald Parker": 368,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 372,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Gerald Parker": 437,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 442,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Gerald Parker": 394,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 446,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Gerald Parker": 297,
+      "Total Votes Cast": 297,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Gerald Parker": 363,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Gerald Parker": 590,
+      "Total Votes Cast": 590,
+      "Overvotes": 0,
+      "Undervotes": 518,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Gerald Parker": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 371,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Gerald Parker": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 426,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Gerald Parker": 306,
+      "Total Votes Cast": 306,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Gerald Parker": 449,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 579,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Gerald Parker": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 379,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Gerald Parker": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 387,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Gerald Parker": 343,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 411,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Gerald Parker": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 403,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Gerald Parker": 245,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 235,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Gerald Parker": 286,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 285,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Gerald Parker": 366,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 389,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Gerald Parker": 320,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 397,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Gerald Parker": 276,
+      "Total Votes Cast": 276,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 519
+    }
+  ]
+}

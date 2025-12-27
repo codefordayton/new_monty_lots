@@ -1,0 +1,54 @@
+{
+  "race": "Trotwood Council Ward 3",
+  "precincts": 6,
+  "results": [
+    {
+      "Precinct": "TR 3-A",
+      "Milton J. Pearson": 93,
+      "Total Votes Cast": 93,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 123
+    },
+    {
+      "Precinct": "TR 3-B1",
+      "Milton J. Pearson": 87,
+      "Total Votes Cast": 87,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 120
+    },
+    {
+      "Precinct": "TR 3-B2",
+      "Milton J. Pearson": 21,
+      "Total Votes Cast": 21,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 24
+    },
+    {
+      "Precinct": "TR 3-C1",
+      "Milton J. Pearson": 60,
+      "Total Votes Cast": 60,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 80
+    },
+    {
+      "Precinct": "TR 3-C2",
+      "Milton J. Pearson": 22,
+      "Total Votes Cast": 22,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 31
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Milton J. Pearson": 161,
+      "Total Votes Cast": 161,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 214
+    }
+  ]
+}

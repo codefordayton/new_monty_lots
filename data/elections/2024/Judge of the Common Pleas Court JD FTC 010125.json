@@ -1,0 +1,3054 @@
+{
+  "race": "Judge of the Common Pleas Court JD FTC 010125",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Helen Wallace": 454,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 469,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Helen Wallace": 335,
+      "Total Votes Cast": 335,
+      "Overvotes": 0,
+      "Undervotes": 364,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Helen Wallace": 401,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 510,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Helen Wallace": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 426,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Helen Wallace": 397,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 432,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Helen Wallace": 328,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Helen Wallace": 469,
+      "Total Votes Cast": 469,
+      "Overvotes": 0,
+      "Undervotes": 456,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Helen Wallace": 434,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 427,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Helen Wallace": 315,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 282,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Helen Wallace": 328,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Helen Wallace": 272,
+      "Total Votes Cast": 272,
+      "Overvotes": 0,
+      "Undervotes": 249,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Helen Wallace": 263,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 334,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Helen Wallace": 262,
+      "Total Votes Cast": 262,
+      "Overvotes": 0,
+      "Undervotes": 358,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Helen Wallace": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 546,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Helen Wallace": 277,
+      "Total Votes Cast": 277,
+      "Overvotes": 0,
+      "Undervotes": 331,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Helen Wallace": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Helen Wallace": 470,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 471,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Helen Wallace": 343,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Helen Wallace": 325,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 330,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Helen Wallace": 484,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 374,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Helen Wallace": 498,
+      "Total Votes Cast": 498,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Helen Wallace": 440,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Helen Wallace": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 402,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Helen Wallace": 420,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Helen Wallace": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 280,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Helen Wallace": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 451,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Helen Wallace": 273,
+      "Total Votes Cast": 273,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Helen Wallace": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 322,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Helen Wallace": 388,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 431,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Helen Wallace": 454,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 482,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Helen Wallace": 515,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 490,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Helen Wallace": 503,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 506,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Helen Wallace": 514,
+      "Total Votes Cast": 514,
+      "Overvotes": 0,
+      "Undervotes": 577,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Helen Wallace": 431,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 484,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Helen Wallace": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 496,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Helen Wallace": 516,
+      "Total Votes Cast": 516,
+      "Overvotes": 0,
+      "Undervotes": 516,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Helen Wallace": 435,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 428,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Helen Wallace": 401,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Helen Wallace": 561,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 545,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Helen Wallace": 488,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 476,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Helen Wallace": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 464,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Helen Wallace": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 451,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Helen Wallace": 90,
+      "Total Votes Cast": 90,
+      "Overvotes": 0,
+      "Undervotes": 123,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Helen Wallace": 397,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Helen Wallace": 285,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Helen Wallace": 148,
+      "Total Votes Cast": 148,
+      "Overvotes": 0,
+      "Undervotes": 185,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Helen Wallace": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Helen Wallace": 225,
+      "Total Votes Cast": 225,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Helen Wallace": 267,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 244,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Helen Wallace": 252,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Helen Wallace": 180,
+      "Total Votes Cast": 180,
+      "Overvotes": 0,
+      "Undervotes": 210,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Helen Wallace": 117,
+      "Total Votes Cast": 117,
+      "Overvotes": 0,
+      "Undervotes": 154,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Helen Wallace": 165,
+      "Total Votes Cast": 165,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Helen Wallace": 479,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Helen Wallace": 234,
+      "Total Votes Cast": 234,
+      "Overvotes": 0,
+      "Undervotes": 265,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Helen Wallace": 157,
+      "Total Votes Cast": 157,
+      "Overvotes": 0,
+      "Undervotes": 120,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Helen Wallace": 355,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 374,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Helen Wallace": 235,
+      "Total Votes Cast": 235,
+      "Overvotes": 0,
+      "Undervotes": 249,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Helen Wallace": 225,
+      "Total Votes Cast": 225,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Helen Wallace": 442,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 404,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Helen Wallace": 340,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 379,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Helen Wallace": 466,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 428,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Helen Wallace": 391,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 428,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Helen Wallace": 299,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 214,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Helen Wallace": 217,
+      "Total Votes Cast": 217,
+      "Overvotes": 0,
+      "Undervotes": 181,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Helen Wallace": 211,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Helen Wallace": 198,
+      "Total Votes Cast": 198,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Helen Wallace": 221,
+      "Total Votes Cast": 221,
+      "Overvotes": 0,
+      "Undervotes": 164,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Helen Wallace": 172,
+      "Total Votes Cast": 172,
+      "Overvotes": 0,
+      "Undervotes": 149,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Helen Wallace": 255,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 188,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Helen Wallace": 248,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 198,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Helen Wallace": 254,
+      "Total Votes Cast": 254,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Helen Wallace": 209,
+      "Total Votes Cast": 209,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Helen Wallace": 204,
+      "Total Votes Cast": 204,
+      "Overvotes": 0,
+      "Undervotes": 176,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Helen Wallace": 194,
+      "Total Votes Cast": 194,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Helen Wallace": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 358,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Helen Wallace": 347,
+      "Total Votes Cast": 347,
+      "Overvotes": 0,
+      "Undervotes": 330,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Helen Wallace": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Helen Wallace": 341,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Helen Wallace": 443,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 415,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Helen Wallace": 394,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 402,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Helen Wallace": 395,
+      "Total Votes Cast": 395,
+      "Overvotes": 0,
+      "Undervotes": 471,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Helen Wallace": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 360,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Helen Wallace": 275,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 316,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Helen Wallace": 230,
+      "Total Votes Cast": 230,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Helen Wallace": 237,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Helen Wallace": 288,
+      "Total Votes Cast": 288,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Helen Wallace": 238,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 295,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Helen Wallace": 178,
+      "Total Votes Cast": 178,
+      "Overvotes": 0,
+      "Undervotes": 204,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Helen Wallace": 223,
+      "Total Votes Cast": 223,
+      "Overvotes": 0,
+      "Undervotes": 208,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Helen Wallace": 249,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 184,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Helen Wallace": 299,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 295,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Helen Wallace": 217,
+      "Total Votes Cast": 217,
+      "Overvotes": 0,
+      "Undervotes": 248,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Helen Wallace": 350,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 341,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Helen Wallace": 208,
+      "Total Votes Cast": 208,
+      "Overvotes": 0,
+      "Undervotes": 250,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Helen Wallace": 290,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 241,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Helen Wallace": 196,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Helen Wallace": 238,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 188,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Helen Wallace": 157,
+      "Total Votes Cast": 157,
+      "Overvotes": 0,
+      "Undervotes": 110,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Helen Wallace": 300,
+      "Total Votes Cast": 300,
+      "Overvotes": 0,
+      "Undervotes": 214,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Helen Wallace": 119,
+      "Total Votes Cast": 119,
+      "Overvotes": 0,
+      "Undervotes": 86,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Helen Wallace": 155,
+      "Total Votes Cast": 155,
+      "Overvotes": 0,
+      "Undervotes": 147,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Helen Wallace": 343,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 216,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Helen Wallace": 257,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 216,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Helen Wallace": 315,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Helen Wallace": 202,
+      "Total Votes Cast": 202,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Helen Wallace": 239,
+      "Total Votes Cast": 239,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Helen Wallace": 255,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 199,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Helen Wallace": 206,
+      "Total Votes Cast": 206,
+      "Overvotes": 0,
+      "Undervotes": 144,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Helen Wallace": 227,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 172,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Helen Wallace": 438,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 314,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Helen Wallace": 275,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 176,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Helen Wallace": 196,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 151,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Helen Wallace": 245,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Helen Wallace": 291,
+      "Total Votes Cast": 291,
+      "Overvotes": 0,
+      "Undervotes": 204,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Helen Wallace": 177,
+      "Total Votes Cast": 177,
+      "Overvotes": 0,
+      "Undervotes": 136,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Helen Wallace": 196,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 141,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Helen Wallace": 347,
+      "Total Votes Cast": 347,
+      "Overvotes": 0,
+      "Undervotes": 224,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Helen Wallace": 220,
+      "Total Votes Cast": 220,
+      "Overvotes": 0,
+      "Undervotes": 195,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Helen Wallace": 244,
+      "Total Votes Cast": 244,
+      "Overvotes": 0,
+      "Undervotes": 163,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Helen Wallace": 114,
+      "Total Votes Cast": 114,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Helen Wallace": 268,
+      "Total Votes Cast": 268,
+      "Overvotes": 0,
+      "Undervotes": 225,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Helen Wallace": 242,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 150,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Helen Wallace": 379,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 434,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Helen Wallace": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 472,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Helen Wallace": 272,
+      "Total Votes Cast": 272,
+      "Overvotes": 0,
+      "Undervotes": 301,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Helen Wallace": 296,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 324,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Helen Wallace": 221,
+      "Total Votes Cast": 221,
+      "Overvotes": 0,
+      "Undervotes": 153,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Helen Wallace": 218,
+      "Total Votes Cast": 218,
+      "Overvotes": 0,
+      "Undervotes": 154,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Helen Wallace": 309,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 264,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Helen Wallace": 422,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Helen Wallace": 325,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 231,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Helen Wallace": 500,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 312,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Helen Wallace": 269,
+      "Total Votes Cast": 269,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Helen Wallace": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Helen Wallace": 396,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 379,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Helen Wallace": 403,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 334,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Helen Wallace": 484,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 401,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Helen Wallace": 460,
+      "Total Votes Cast": 460,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Helen Wallace": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 352,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Helen Wallace": 428,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 389,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Helen Wallace": 340,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 289,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Helen Wallace": 313,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 273,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Helen Wallace": 388,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Helen Wallace": 249,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 308,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Helen Wallace": 393,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 584,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Helen Wallace": 412,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 539,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Helen Wallace": 366,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 434,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Helen Wallace": 364,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 383,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Helen Wallace": 365,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 404,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Helen Wallace": 367,
+      "Total Votes Cast": 367,
+      "Overvotes": 0,
+      "Undervotes": 465,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Helen Wallace": 199,
+      "Total Votes Cast": 199,
+      "Overvotes": 0,
+      "Undervotes": 234,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Helen Wallace": 271,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 269,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Helen Wallace": 260,
+      "Total Votes Cast": 260,
+      "Overvotes": 0,
+      "Undervotes": 305,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Helen Wallace": 449,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 349,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Helen Wallace": 165,
+      "Total Votes Cast": 165,
+      "Overvotes": 0,
+      "Undervotes": 178,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Helen Wallace": 199,
+      "Total Votes Cast": 199,
+      "Overvotes": 0,
+      "Undervotes": 122,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Helen Wallace": 291,
+      "Total Votes Cast": 291,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Helen Wallace": 317,
+      "Total Votes Cast": 317,
+      "Overvotes": 0,
+      "Undervotes": 265,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Helen Wallace": 303,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Helen Wallace": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 257,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Helen Wallace": 311,
+      "Total Votes Cast": 311,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Helen Wallace": 451,
+      "Total Votes Cast": 451,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Helen Wallace": 503,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 351,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Helen Wallace": 253,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Helen Wallace": 419,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 326,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Helen Wallace": 393,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Helen Wallace": 525,
+      "Total Votes Cast": 525,
+      "Overvotes": 0,
+      "Undervotes": 446,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Helen Wallace": 377,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Helen Wallace": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 457,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Helen Wallace": 421,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 411,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Helen Wallace": 436,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 449,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Helen Wallace": 319,
+      "Total Votes Cast": 319,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Helen Wallace": 329,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 251,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Helen Wallace": 294,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 296,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Helen Wallace": 433,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 413,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Helen Wallace": 329,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 321,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Helen Wallace": 387,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 417,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Helen Wallace": 371,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Helen Wallace": 438,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Helen Wallace": 431,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 365,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Helen Wallace": 409,
+      "Total Votes Cast": 409,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Helen Wallace": 392,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Helen Wallace": 375,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 374,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Helen Wallace": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 369,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Helen Wallace": 325,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Helen Wallace": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 418,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Helen Wallace": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Helen Wallace": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 377,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Helen Wallace": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 575,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Helen Wallace": 286,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Helen Wallace": 448,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 491,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Helen Wallace": 295,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 255,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Helen Wallace": 314,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 380,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Helen Wallace": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 281,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Helen Wallace": 195,
+      "Total Votes Cast": 195,
+      "Overvotes": 0,
+      "Undervotes": 284,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Helen Wallace": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Helen Wallace": 348,
+      "Total Votes Cast": 348,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Helen Wallace": 299,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Helen Wallace": 413,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 461,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Helen Wallace": 445,
+      "Total Votes Cast": 445,
+      "Overvotes": 0,
+      "Undervotes": 398,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Helen Wallace": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 336,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Helen Wallace": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 334,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Helen Wallace": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Helen Wallace": 460,
+      "Total Votes Cast": 460,
+      "Overvotes": 0,
+      "Undervotes": 452,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Helen Wallace": 411,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 372,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Helen Wallace": 370,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 396,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Helen Wallace": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 355,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Helen Wallace": 403,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Helen Wallace": 458,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 415,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Helen Wallace": 425,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Helen Wallace": 351,
+      "Total Votes Cast": 351,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Helen Wallace": 482,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 548,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Helen Wallace": 416,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 457,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Helen Wallace": 332,
+      "Total Votes Cast": 332,
+      "Overvotes": 0,
+      "Undervotes": 328,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Helen Wallace": 299,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 255,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Helen Wallace": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 402,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Helen Wallace": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Helen Wallace": 376,
+      "Total Votes Cast": 376,
+      "Overvotes": 0,
+      "Undervotes": 326,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Helen Wallace": 409,
+      "Total Votes Cast": 409,
+      "Overvotes": 0,
+      "Undervotes": 437,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Helen Wallace": 337,
+      "Total Votes Cast": 337,
+      "Overvotes": 0,
+      "Undervotes": 347,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Helen Wallace": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 290,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Helen Wallace": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 377,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Helen Wallace": 328,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 360,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Helen Wallace": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 348,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Helen Wallace": 474,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 472,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Helen Wallace": 478,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 444,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Helen Wallace": 488,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 451,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Helen Wallace": 277,
+      "Total Votes Cast": 277,
+      "Overvotes": 0,
+      "Undervotes": 286,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Helen Wallace": 418,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 396,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Helen Wallace": 329,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 402,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Helen Wallace": 391,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 379,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Helen Wallace": 503,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 493,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Helen Wallace": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 321,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Helen Wallace": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 418,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Helen Wallace": 403,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 363,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Helen Wallace": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Helen Wallace": 405,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 495,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Helen Wallace": 410,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 449,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Helen Wallace": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 370,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Helen Wallace": 432,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Helen Wallace": 281,
+      "Total Votes Cast": 281,
+      "Overvotes": 0,
+      "Undervotes": 329,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Helen Wallace": 387,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 420,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Helen Wallace": 407,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 454,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Helen Wallace": 301,
+      "Total Votes Cast": 301,
+      "Overvotes": 0,
+      "Undervotes": 295,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Helen Wallace": 369,
+      "Total Votes Cast": 369,
+      "Overvotes": 0,
+      "Undervotes": 426,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Helen Wallace": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 349,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Helen Wallace": 411,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 432,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Helen Wallace": 359,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Helen Wallace": 313,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 349,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Helen Wallace": 299,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Helen Wallace": 546,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 554,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Helen Wallace": 387,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 429,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Helen Wallace": 336,
+      "Total Votes Cast": 336,
+      "Overvotes": 0,
+      "Undervotes": 382,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Helen Wallace": 362,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 479,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Helen Wallace": 316,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 393,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Helen Wallace": 465,
+      "Total Votes Cast": 465,
+      "Overvotes": 0,
+      "Undervotes": 506,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Helen Wallace": 420,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Helen Wallace": 331,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 349,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Helen Wallace": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 345,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Helen Wallace": 211,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Helen Wallace": 286,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 411,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Helen Wallace": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 492,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Helen Wallace": 281,
+      "Total Votes Cast": 281,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Helen Wallace": 377,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 324,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Helen Wallace": 401,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 400,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Helen Wallace": 378,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 372,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Helen Wallace": 279,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Helen Wallace": 425,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 371,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Helen Wallace": 219,
+      "Total Votes Cast": 219,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Helen Wallace": 345,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 406,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Helen Wallace": 299,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 326,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Helen Wallace": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Helen Wallace": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 388,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Helen Wallace": 214,
+      "Total Votes Cast": 214,
+      "Overvotes": 0,
+      "Undervotes": 250,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Helen Wallace": 425,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 409,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Helen Wallace": 231,
+      "Total Votes Cast": 231,
+      "Overvotes": 0,
+      "Undervotes": 296,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Helen Wallace": 239,
+      "Total Votes Cast": 239,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Helen Wallace": 203,
+      "Total Votes Cast": 203,
+      "Overvotes": 0,
+      "Undervotes": 181,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Helen Wallace": 440,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 393,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Helen Wallace": 431,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 396,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Helen Wallace": 339,
+      "Total Votes Cast": 339,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Helen Wallace": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 326,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Helen Wallace": 356,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Helen Wallace": 471,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 398,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Helen Wallace": 397,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 357,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Helen Wallace": 299,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Helen Wallace": 244,
+      "Total Votes Cast": 244,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Helen Wallace": 294,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Helen Wallace": 306,
+      "Total Votes Cast": 306,
+      "Overvotes": 0,
+      "Undervotes": 462,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Helen Wallace": 121,
+      "Total Votes Cast": 121,
+      "Overvotes": 0,
+      "Undervotes": 116,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Helen Wallace": 287,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 240,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Helen Wallace": 252,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 279,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Helen Wallace": 334,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 336,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Helen Wallace": 249,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Helen Wallace": 352,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 356,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Helen Wallace": 316,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 412,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Helen Wallace": 291,
+      "Total Votes Cast": 291,
+      "Overvotes": 0,
+      "Undervotes": 329,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Helen Wallace": 309,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Helen Wallace": 263,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 276,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Helen Wallace": 182,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Helen Wallace": 244,
+      "Total Votes Cast": 244,
+      "Overvotes": 0,
+      "Undervotes": 282,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Helen Wallace": 269,
+      "Total Votes Cast": 269,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Helen Wallace": 344,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 347,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Helen Wallace": 196,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 225,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Helen Wallace": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 334,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Helen Wallace": 257,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 265,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Helen Wallace": 353,
+      "Total Votes Cast": 353,
+      "Overvotes": 0,
+      "Undervotes": 364,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Helen Wallace": 410,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 347,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Helen Wallace": 421,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Helen Wallace": 223,
+      "Total Votes Cast": 223,
+      "Overvotes": 0,
+      "Undervotes": 183,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Helen Wallace": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 225,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Helen Wallace": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 157,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Helen Wallace": 442,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 289,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Helen Wallace": 375,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Helen Wallace": 411,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Helen Wallace": 307,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 212,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Helen Wallace": 246,
+      "Total Votes Cast": 246,
+      "Overvotes": 0,
+      "Undervotes": 185,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Helen Wallace": 311,
+      "Total Votes Cast": 311,
+      "Overvotes": 0,
+      "Undervotes": 195,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Helen Wallace": 252,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Helen Wallace": 296,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 314,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Helen Wallace": 241,
+      "Total Votes Cast": 241,
+      "Overvotes": 0,
+      "Undervotes": 229,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Helen Wallace": 369,
+      "Total Votes Cast": 369,
+      "Overvotes": 0,
+      "Undervotes": 314,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Helen Wallace": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 264,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Helen Wallace": 315,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 248,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Helen Wallace": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 171,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Helen Wallace": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 192,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Helen Wallace": 251,
+      "Total Votes Cast": 251,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Helen Wallace": 355,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 362,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Helen Wallace": 374,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 424,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Helen Wallace": 457,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 387,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Helen Wallace": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 445,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Helen Wallace": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Helen Wallace": 245,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 200,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Helen Wallace": 412,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 426,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Helen Wallace": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 358,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Helen Wallace": 267,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 283,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Helen Wallace": 435,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 415,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Helen Wallace": 293,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 370,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Helen Wallace": 450,
+      "Total Votes Cast": 450,
+      "Overvotes": 0,
+      "Undervotes": 455,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Helen Wallace": 362,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Helen Wallace": 451,
+      "Total Votes Cast": 451,
+      "Overvotes": 0,
+      "Undervotes": 501,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Helen Wallace": 466,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 412,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Helen Wallace": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 420,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Helen Wallace": 545,
+      "Total Votes Cast": 545,
+      "Overvotes": 0,
+      "Undervotes": 541,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Helen Wallace": 423,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 472,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Helen Wallace": 322,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Helen Wallace": 456,
+      "Total Votes Cast": 456,
+      "Overvotes": 0,
+      "Undervotes": 464,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Helen Wallace": 312,
+      "Total Votes Cast": 312,
+      "Overvotes": 0,
+      "Undervotes": 289,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Helen Wallace": 491,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 509,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Helen Wallace": 388,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 421,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Helen Wallace": 347,
+      "Total Votes Cast": 347,
+      "Overvotes": 0,
+      "Undervotes": 326,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Helen Wallace": 452,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 416,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Helen Wallace": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 436,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Helen Wallace": 343,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Helen Wallace": 441,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 496,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Helen Wallace": 453,
+      "Total Votes Cast": 453,
+      "Overvotes": 0,
+      "Undervotes": 391,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Helen Wallace": 422,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 459,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Helen Wallace": 503,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 487,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Helen Wallace": 487,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 483,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Helen Wallace": 386,
+      "Total Votes Cast": 386,
+      "Overvotes": 0,
+      "Undervotes": 325,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Helen Wallace": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 418,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Helen Wallace": 377,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 363,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Helen Wallace": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 453,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Helen Wallace": 395,
+      "Total Votes Cast": 395,
+      "Overvotes": 0,
+      "Undervotes": 445,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Helen Wallace": 302,
+      "Total Votes Cast": 302,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Helen Wallace": 371,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Helen Wallace": 579,
+      "Total Votes Cast": 579,
+      "Overvotes": 0,
+      "Undervotes": 529,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Helen Wallace": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 375,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Helen Wallace": 388,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 440,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Helen Wallace": 315,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Helen Wallace": 455,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 573,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Helen Wallace": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 373,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Helen Wallace": 351,
+      "Total Votes Cast": 351,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Helen Wallace": 353,
+      "Total Votes Cast": 353,
+      "Overvotes": 0,
+      "Undervotes": 401,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Helen Wallace": 322,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 414,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Helen Wallace": 254,
+      "Total Votes Cast": 254,
+      "Overvotes": 0,
+      "Undervotes": 226,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Helen Wallace": 292,
+      "Total Votes Cast": 292,
+      "Overvotes": 0,
+      "Undervotes": 279,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Helen Wallace": 374,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Helen Wallace": 326,
+      "Total Votes Cast": 326,
+      "Overvotes": 0,
+      "Undervotes": 391,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Helen Wallace": 277,
+      "Total Votes Cast": 277,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 519
+    }
+  ]
+}

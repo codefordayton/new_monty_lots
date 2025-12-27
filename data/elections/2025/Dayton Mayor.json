@@ -1,0 +1,1032 @@
+{
+  "race": "Dayton Mayor",
+  "precincts": 114,
+  "results": [
+    {
+      "Precinct": "DAY 1-A",
+      "Jeffrey J. Mims Jr.": 64,
+      "Shenise Turner-Sloss": 33,
+      "Total Votes Cast": 97,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 98
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Jeffrey J. Mims Jr.": 139,
+      "Shenise Turner-Sloss": 184,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 328
+    },
+    {
+      "Precinct": "DAY 1-C1",
+      "Jeffrey J. Mims Jr.": 53,
+      "Shenise Turner-Sloss": 58,
+      "Total Votes Cast": 111,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 113
+    },
+    {
+      "Precinct": "DAY 1-C2",
+      "Jeffrey J. Mims Jr.": 31,
+      "Shenise Turner-Sloss": 37,
+      "Total Votes Cast": 68,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 69
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Jeffrey J. Mims Jr.": 36,
+      "Shenise Turner-Sloss": 111,
+      "Total Votes Cast": 147,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 147
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Jeffrey J. Mims Jr.": 68,
+      "Shenise Turner-Sloss": 228,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Jeffrey J. Mims Jr.": 40,
+      "Shenise Turner-Sloss": 44,
+      "Total Votes Cast": 84,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 87
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Jeffrey J. Mims Jr.": 85,
+      "Shenise Turner-Sloss": 146,
+      "Total Votes Cast": 231,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 236
+    },
+    {
+      "Precinct": "DAY 2-C1",
+      "Jeffrey J. Mims Jr.": 48,
+      "Shenise Turner-Sloss": 72,
+      "Total Votes Cast": 120,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 127
+    },
+    {
+      "Precinct": "DAY 2-C2",
+      "Jeffrey J. Mims Jr.": 0,
+      "Shenise Turner-Sloss": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 2-D1",
+      "Jeffrey J. Mims Jr.": 43,
+      "Shenise Turner-Sloss": 29,
+      "Total Votes Cast": 72,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 75
+    },
+    {
+      "Precinct": "DAY 2-D2",
+      "Jeffrey J. Mims Jr.": 0,
+      "Shenise Turner-Sloss": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Jeffrey J. Mims Jr.": 28,
+      "Shenise Turner-Sloss": 19,
+      "Total Votes Cast": 47,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 50
+    },
+    {
+      "Precinct": "DAY 3-B1",
+      "Jeffrey J. Mims Jr.": 37,
+      "Shenise Turner-Sloss": 32,
+      "Total Votes Cast": 69,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 74
+    },
+    {
+      "Precinct": "DAY 3-B2",
+      "Jeffrey J. Mims Jr.": 18,
+      "Shenise Turner-Sloss": 13,
+      "Total Votes Cast": 31,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 34
+    },
+    {
+      "Precinct": "DAY 3-B3",
+      "Jeffrey J. Mims Jr.": 0,
+      "Shenise Turner-Sloss": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 3-C1",
+      "Jeffrey J. Mims Jr.": 155,
+      "Shenise Turner-Sloss": 102,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 273
+    },
+    {
+      "Precinct": "DAY 3-C2",
+      "Jeffrey J. Mims Jr.": 43,
+      "Shenise Turner-Sloss": 26,
+      "Total Votes Cast": 69,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 74
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Jeffrey J. Mims Jr.": 86,
+      "Shenise Turner-Sloss": 75,
+      "Total Votes Cast": 161,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 165
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Jeffrey J. Mims Jr.": 21,
+      "Shenise Turner-Sloss": 59,
+      "Total Votes Cast": 80,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 82
+    },
+    {
+      "Precinct": "DAY 3-F1",
+      "Jeffrey J. Mims Jr.": 181,
+      "Shenise Turner-Sloss": 140,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 3-F2",
+      "Jeffrey J. Mims Jr.": 2,
+      "Shenise Turner-Sloss": 0,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 2
+    },
+    {
+      "Precinct": "DAY 3-G1",
+      "Jeffrey J. Mims Jr.": 20,
+      "Shenise Turner-Sloss": 17,
+      "Total Votes Cast": 37,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 37
+    },
+    {
+      "Precinct": "DAY 3-G2",
+      "Jeffrey J. Mims Jr.": 26,
+      "Shenise Turner-Sloss": 25,
+      "Total Votes Cast": 51,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 55
+    },
+    {
+      "Precinct": "DAY 3-G3",
+      "Jeffrey J. Mims Jr.": 0,
+      "Shenise Turner-Sloss": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 3-G4",
+      "Jeffrey J. Mims Jr.": 0,
+      "Shenise Turner-Sloss": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Jeffrey J. Mims Jr.": 65,
+      "Shenise Turner-Sloss": 47,
+      "Total Votes Cast": 112,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 114
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Jeffrey J. Mims Jr.": 182,
+      "Shenise Turner-Sloss": 109,
+      "Total Votes Cast": 291,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 310
+    },
+    {
+      "Precinct": "DAY 3-J1",
+      "Jeffrey J. Mims Jr.": 17,
+      "Shenise Turner-Sloss": 13,
+      "Total Votes Cast": 30,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 31
+    },
+    {
+      "Precinct": "DAY 3-J2",
+      "Jeffrey J. Mims Jr.": 73,
+      "Shenise Turner-Sloss": 71,
+      "Total Votes Cast": 144,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 159
+    },
+    {
+      "Precinct": "DAY 3-J3",
+      "Jeffrey J. Mims Jr.": 8,
+      "Shenise Turner-Sloss": 4,
+      "Total Votes Cast": 12,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 13
+    },
+    {
+      "Precinct": "DAY 3-K1",
+      "Jeffrey J. Mims Jr.": 143,
+      "Shenise Turner-Sloss": 132,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 286
+    },
+    {
+      "Precinct": "DAY 3-K2",
+      "Jeffrey J. Mims Jr.": 16,
+      "Shenise Turner-Sloss": 20,
+      "Total Votes Cast": 36,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 37
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Jeffrey J. Mims Jr.": 163,
+      "Shenise Turner-Sloss": 105,
+      "Total Votes Cast": 268,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 276
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Jeffrey J. Mims Jr.": 93,
+      "Shenise Turner-Sloss": 114,
+      "Total Votes Cast": 207,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 209
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Jeffrey J. Mims Jr.": 62,
+      "Shenise Turner-Sloss": 82,
+      "Total Votes Cast": 144,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 146
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Jeffrey J. Mims Jr.": 69,
+      "Shenise Turner-Sloss": 122,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Jeffrey J. Mims Jr.": 73,
+      "Shenise Turner-Sloss": 100,
+      "Total Votes Cast": 173,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Jeffrey J. Mims Jr.": 73,
+      "Shenise Turner-Sloss": 96,
+      "Total Votes Cast": 169,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 170
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Jeffrey J. Mims Jr.": 40,
+      "Shenise Turner-Sloss": 68,
+      "Total Votes Cast": 108,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 108
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Jeffrey J. Mims Jr.": 92,
+      "Shenise Turner-Sloss": 99,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 191
+    },
+    {
+      "Precinct": "DAY 6-A1",
+      "Jeffrey J. Mims Jr.": 95,
+      "Shenise Turner-Sloss": 75,
+      "Total Votes Cast": 170,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 173
+    },
+    {
+      "Precinct": "DAY 6-A2",
+      "Jeffrey J. Mims Jr.": 0,
+      "Shenise Turner-Sloss": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 1
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Jeffrey J. Mims Jr.": 93,
+      "Shenise Turner-Sloss": 80,
+      "Total Votes Cast": 173,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Jeffrey J. Mims Jr.": 75,
+      "Shenise Turner-Sloss": 79,
+      "Total Votes Cast": 154,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 155
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Jeffrey J. Mims Jr.": 68,
+      "Shenise Turner-Sloss": 66,
+      "Total Votes Cast": 134,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 136
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Jeffrey J. Mims Jr.": 77,
+      "Shenise Turner-Sloss": 83,
+      "Total Votes Cast": 160,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 161
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Jeffrey J. Mims Jr.": 112,
+      "Shenise Turner-Sloss": 119,
+      "Total Votes Cast": 231,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 246
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Jeffrey J. Mims Jr.": 113,
+      "Shenise Turner-Sloss": 101,
+      "Total Votes Cast": 214,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 225
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Jeffrey J. Mims Jr.": 115,
+      "Shenise Turner-Sloss": 114,
+      "Total Votes Cast": 229,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 235
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Jeffrey J. Mims Jr.": 61,
+      "Shenise Turner-Sloss": 137,
+      "Total Votes Cast": 198,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 204
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Jeffrey J. Mims Jr.": 206,
+      "Shenise Turner-Sloss": 182,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 393
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Jeffrey J. Mims Jr.": 115,
+      "Shenise Turner-Sloss": 167,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 294
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Jeffrey J. Mims Jr.": 136,
+      "Shenise Turner-Sloss": 168,
+      "Total Votes Cast": 304,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 317
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Jeffrey J. Mims Jr.": 93,
+      "Shenise Turner-Sloss": 73,
+      "Total Votes Cast": 166,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 173
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Jeffrey J. Mims Jr.": 71,
+      "Shenise Turner-Sloss": 135,
+      "Total Votes Cast": 206,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 215
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Jeffrey J. Mims Jr.": 64,
+      "Shenise Turner-Sloss": 65,
+      "Total Votes Cast": 129,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 143
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Jeffrey J. Mims Jr.": 56,
+      "Shenise Turner-Sloss": 102,
+      "Total Votes Cast": 158,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 166
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Jeffrey J. Mims Jr.": 84,
+      "Shenise Turner-Sloss": 99,
+      "Total Votes Cast": 183,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 185
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Jeffrey J. Mims Jr.": 77,
+      "Shenise Turner-Sloss": 101,
+      "Total Votes Cast": 178,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 186
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Jeffrey J. Mims Jr.": 61,
+      "Shenise Turner-Sloss": 77,
+      "Total Votes Cast": 138,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 144
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Jeffrey J. Mims Jr.": 44,
+      "Shenise Turner-Sloss": 53,
+      "Total Votes Cast": 97,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 104
+    },
+    {
+      "Precinct": "DAY 11-C1",
+      "Jeffrey J. Mims Jr.": 52,
+      "Shenise Turner-Sloss": 59,
+      "Total Votes Cast": 111,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 115
+    },
+    {
+      "Precinct": "DAY 11-C2",
+      "Jeffrey J. Mims Jr.": 6,
+      "Shenise Turner-Sloss": 4,
+      "Total Votes Cast": 10,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 11
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Jeffrey J. Mims Jr.": 83,
+      "Shenise Turner-Sloss": 77,
+      "Total Votes Cast": 160,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 162
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Jeffrey J. Mims Jr.": 77,
+      "Shenise Turner-Sloss": 65,
+      "Total Votes Cast": 142,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 146
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Jeffrey J. Mims Jr.": 80,
+      "Shenise Turner-Sloss": 128,
+      "Total Votes Cast": 208,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Jeffrey J. Mims Jr.": 63,
+      "Shenise Turner-Sloss": 133,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 201
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Jeffrey J. Mims Jr.": 52,
+      "Shenise Turner-Sloss": 87,
+      "Total Votes Cast": 139,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 148
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Jeffrey J. Mims Jr.": 40,
+      "Shenise Turner-Sloss": 43,
+      "Total Votes Cast": 83,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 85
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Jeffrey J. Mims Jr.": 77,
+      "Shenise Turner-Sloss": 71,
+      "Total Votes Cast": 148,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 151
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Jeffrey J. Mims Jr.": 39,
+      "Shenise Turner-Sloss": 23,
+      "Total Votes Cast": 62,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 63
+    },
+    {
+      "Precinct": "DAY 14-A1",
+      "Jeffrey J. Mims Jr.": 75,
+      "Shenise Turner-Sloss": 63,
+      "Total Votes Cast": 138,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 140
+    },
+    {
+      "Precinct": "DAY 14-A2",
+      "Jeffrey J. Mims Jr.": 46,
+      "Shenise Turner-Sloss": 40,
+      "Total Votes Cast": 86,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 87
+    },
+    {
+      "Precinct": "DAY 14-A3",
+      "Jeffrey J. Mims Jr.": 4,
+      "Shenise Turner-Sloss": 4,
+      "Total Votes Cast": 8,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 8
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Jeffrey J. Mims Jr.": 33,
+      "Shenise Turner-Sloss": 28,
+      "Total Votes Cast": 61,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 62
+    },
+    {
+      "Precinct": "DAY 14-C1",
+      "Jeffrey J. Mims Jr.": 51,
+      "Shenise Turner-Sloss": 50,
+      "Total Votes Cast": 101,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 102
+    },
+    {
+      "Precinct": "DAY 14-C2",
+      "Jeffrey J. Mims Jr.": 14,
+      "Shenise Turner-Sloss": 9,
+      "Total Votes Cast": 23,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 23
+    },
+    {
+      "Precinct": "DAY 14-C3",
+      "Jeffrey J. Mims Jr.": 0,
+      "Shenise Turner-Sloss": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Jeffrey J. Mims Jr.": 111,
+      "Shenise Turner-Sloss": 75,
+      "Total Votes Cast": 186,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 186
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Jeffrey J. Mims Jr.": 77,
+      "Shenise Turner-Sloss": 100,
+      "Total Votes Cast": 177,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 179
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Jeffrey J. Mims Jr.": 105,
+      "Shenise Turner-Sloss": 94,
+      "Total Votes Cast": 199,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Jeffrey J. Mims Jr.": 58,
+      "Shenise Turner-Sloss": 64,
+      "Total Votes Cast": 122,
+      "Overvotes": 1,
+      "Undervotes": 0,
+      "Contest Total": 123
+    },
+    {
+      "Precinct": "DAY 15-D1",
+      "Jeffrey J. Mims Jr.": 57,
+      "Shenise Turner-Sloss": 30,
+      "Total Votes Cast": 87,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 90
+    },
+    {
+      "Precinct": "DAY 15-D2",
+      "Jeffrey J. Mims Jr.": 52,
+      "Shenise Turner-Sloss": 33,
+      "Total Votes Cast": 85,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 85
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Jeffrey J. Mims Jr.": 91,
+      "Shenise Turner-Sloss": 84,
+      "Total Votes Cast": 175,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 177
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Jeffrey J. Mims Jr.": 57,
+      "Shenise Turner-Sloss": 61,
+      "Total Votes Cast": 118,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 120
+    },
+    {
+      "Precinct": "DAY 16-C1",
+      "Jeffrey J. Mims Jr.": 54,
+      "Shenise Turner-Sloss": 87,
+      "Total Votes Cast": 141,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 144
+    },
+    {
+      "Precinct": "DAY 16-C2",
+      "Jeffrey J. Mims Jr.": 0,
+      "Shenise Turner-Sloss": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Jeffrey J. Mims Jr.": 161,
+      "Shenise Turner-Sloss": 166,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 332
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Jeffrey J. Mims Jr.": 102,
+      "Shenise Turner-Sloss": 97,
+      "Total Votes Cast": 199,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 200
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Jeffrey J. Mims Jr.": 56,
+      "Shenise Turner-Sloss": 56,
+      "Total Votes Cast": 112,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 112
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Jeffrey J. Mims Jr.": 48,
+      "Shenise Turner-Sloss": 74,
+      "Total Votes Cast": 122,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 122
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Jeffrey J. Mims Jr.": 91,
+      "Shenise Turner-Sloss": 82,
+      "Total Votes Cast": 173,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Jeffrey J. Mims Jr.": 65,
+      "Shenise Turner-Sloss": 54,
+      "Total Votes Cast": 119,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 123
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Jeffrey J. Mims Jr.": 55,
+      "Shenise Turner-Sloss": 86,
+      "Total Votes Cast": 141,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 142
+    },
+    {
+      "Precinct": "DAY 18-B1",
+      "Jeffrey J. Mims Jr.": 139,
+      "Shenise Turner-Sloss": 119,
+      "Total Votes Cast": 258,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 265
+    },
+    {
+      "Precinct": "DAY 18-B2",
+      "Jeffrey J. Mims Jr.": 2,
+      "Shenise Turner-Sloss": 1,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Jeffrey J. Mims Jr.": 50,
+      "Shenise Turner-Sloss": 60,
+      "Total Votes Cast": 110,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 112
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Jeffrey J. Mims Jr.": 58,
+      "Shenise Turner-Sloss": 64,
+      "Total Votes Cast": 122,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 125
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Jeffrey J. Mims Jr.": 38,
+      "Shenise Turner-Sloss": 26,
+      "Total Votes Cast": 64,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 66
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Jeffrey J. Mims Jr.": 73,
+      "Shenise Turner-Sloss": 81,
+      "Total Votes Cast": 154,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 154
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Jeffrey J. Mims Jr.": 88,
+      "Shenise Turner-Sloss": 74,
+      "Total Votes Cast": 162,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 163
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Jeffrey J. Mims Jr.": 123,
+      "Shenise Turner-Sloss": 110,
+      "Total Votes Cast": 233,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 252
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Jeffrey J. Mims Jr.": 123,
+      "Shenise Turner-Sloss": 122,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 253
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Jeffrey J. Mims Jr.": 86,
+      "Shenise Turner-Sloss": 87,
+      "Total Votes Cast": 173,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 187
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Jeffrey J. Mims Jr.": 74,
+      "Shenise Turner-Sloss": 70,
+      "Total Votes Cast": 144,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 150
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Jeffrey J. Mims Jr.": 58,
+      "Shenise Turner-Sloss": 75,
+      "Total Votes Cast": 133,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 135
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Jeffrey J. Mims Jr.": 53,
+      "Shenise Turner-Sloss": 65,
+      "Total Votes Cast": 118,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 118
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Jeffrey J. Mims Jr.": 126,
+      "Shenise Turner-Sloss": 107,
+      "Total Votes Cast": 233,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 235
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Jeffrey J. Mims Jr.": 170,
+      "Shenise Turner-Sloss": 187,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 363
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Jeffrey J. Mims Jr.": 127,
+      "Shenise Turner-Sloss": 144,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 274
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Jeffrey J. Mims Jr.": 199,
+      "Shenise Turner-Sloss": 167,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 368
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Jeffrey J. Mims Jr.": 98,
+      "Shenise Turner-Sloss": 146,
+      "Total Votes Cast": 244,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 251
+    }
+  ]
+}

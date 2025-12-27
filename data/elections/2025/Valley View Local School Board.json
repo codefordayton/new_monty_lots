@@ -1,0 +1,136 @@
+{
+  "race": "Valley View Local School Board",
+  "precincts": 13,
+  "results": [
+    {
+      "Precinct": "FARM",
+      "Timothy R. Rudd": 126,
+      "W. Joe Scholler Sr.": 113,
+      "Stephanie J. Smith": 123,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 322,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "GERTWP-A1",
+      "Timothy R. Rudd": 152,
+      "W. Joe Scholler Sr.": 128,
+      "Stephanie J. Smith": 128,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 396,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "GERTWP-B1",
+      "Timothy R. Rudd": 168,
+      "W. Joe Scholler Sr.": 156,
+      "Stephanie J. Smith": 142,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 506,
+      "Contest Total": 972
+    },
+    {
+      "Precinct": "GTN-A",
+      "Timothy R. Rudd": 147,
+      "W. Joe Scholler Sr.": 144,
+      "Stephanie J. Smith": 151,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 458,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "GTN-B",
+      "Timothy R. Rudd": 87,
+      "W. Joe Scholler Sr.": 73,
+      "Stephanie J. Smith": 83,
+      "Total Votes Cast": 243,
+      "Overvotes": 0,
+      "Undervotes": 198,
+      "Contest Total": 441
+    },
+    {
+      "Precinct": "GTN-C1",
+      "Timothy R. Rudd": 162,
+      "W. Joe Scholler Sr.": 160,
+      "Stephanie J. Smith": 155,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 375,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "GTN-C2",
+      "Timothy R. Rudd": 0,
+      "W. Joe Scholler Sr.": 0,
+      "Stephanie J. Smith": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "GTN-D1",
+      "Timothy R. Rudd": 140,
+      "W. Joe Scholler Sr.": 114,
+      "Stephanie J. Smith": 126,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 328,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "GTN-D2",
+      "Timothy R. Rudd": 0,
+      "W. Joe Scholler Sr.": 0,
+      "Stephanie J. Smith": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "JAKTWP-A2",
+      "Timothy R. Rudd": 95,
+      "W. Joe Scholler Sr.": 83,
+      "Stephanie J. Smith": 82,
+      "Total Votes Cast": 260,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 537
+    },
+    {
+      "Precinct": "JAKTWP-B1",
+      "Timothy R. Rudd": 157,
+      "W. Joe Scholler Sr.": 141,
+      "Stephanie J. Smith": 134,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 426,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "JEFTWP-C2",
+      "Timothy R. Rudd": 0,
+      "W. Joe Scholler Sr.": 0,
+      "Stephanie J. Smith": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MIATWP-J3",
+      "Timothy R. Rudd": 0,
+      "W. Joe Scholler Sr.": 0,
+      "Stephanie J. Smith": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

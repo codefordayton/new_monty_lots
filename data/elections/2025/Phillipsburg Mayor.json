@@ -1,0 +1,14 @@
+{
+  "race": "Phillipsburg Mayor",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "PHBG",
+      "Joshua V. Simpson": 70,
+      "Total Votes Cast": 70,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 89
+    }
+  ]
+}

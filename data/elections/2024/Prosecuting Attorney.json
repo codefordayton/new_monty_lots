@@ -1,0 +1,3054 @@
+{
+  "race": "Prosecuting Attorney",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Mat Heck Jr. (DEM)": 588,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Mat Heck Jr. (DEM)": 424,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 275,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Mat Heck Jr. (DEM)": 553,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 358,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Mat Heck Jr. (DEM)": 443,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 341,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Mat Heck Jr. (DEM)": 475,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Mat Heck Jr. (DEM)": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 297,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Mat Heck Jr. (DEM)": 553,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 372,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Mat Heck Jr. (DEM)": 544,
+      "Total Votes Cast": 544,
+      "Overvotes": 0,
+      "Undervotes": 317,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Mat Heck Jr. (DEM)": 410,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 187,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Mat Heck Jr. (DEM)": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Mat Heck Jr. (DEM)": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Mat Heck Jr. (DEM)": 320,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Mat Heck Jr. (DEM)": 345,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 275,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Mat Heck Jr. (DEM)": 458,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 473,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Mat Heck Jr. (DEM)": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 262,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Mat Heck Jr. (DEM)": 518,
+      "Total Votes Cast": 518,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Mat Heck Jr. (DEM)": 633,
+      "Total Votes Cast": 633,
+      "Overvotes": 0,
+      "Undervotes": 308,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Mat Heck Jr. (DEM)": 446,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 153,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Mat Heck Jr. (DEM)": 451,
+      "Total Votes Cast": 451,
+      "Overvotes": 0,
+      "Undervotes": 204,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Mat Heck Jr. (DEM)": 644,
+      "Total Votes Cast": 644,
+      "Overvotes": 0,
+      "Undervotes": 214,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Mat Heck Jr. (DEM)": 656,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 241,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Mat Heck Jr. (DEM)": 601,
+      "Total Votes Cast": 601,
+      "Overvotes": 0,
+      "Undervotes": 262,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Mat Heck Jr. (DEM)": 588,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 240,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Mat Heck Jr. (DEM)": 559,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Mat Heck Jr. (DEM)": 445,
+      "Total Votes Cast": 445,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Mat Heck Jr. (DEM)": 525,
+      "Total Votes Cast": 525,
+      "Overvotes": 0,
+      "Undervotes": 356,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Mat Heck Jr. (DEM)": 318,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 247,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Mat Heck Jr. (DEM)": 412,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Mat Heck Jr. (DEM)": 488,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 331,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Mat Heck Jr. (DEM)": 546,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Mat Heck Jr. (DEM)": 645,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 360,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Mat Heck Jr. (DEM)": 637,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 372,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Mat Heck Jr. (DEM)": 639,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 452,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Mat Heck Jr. (DEM)": 531,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Mat Heck Jr. (DEM)": 581,
+      "Total Votes Cast": 581,
+      "Overvotes": 0,
+      "Undervotes": 362,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Mat Heck Jr. (DEM)": 625,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 407,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Mat Heck Jr. (DEM)": 550,
+      "Total Votes Cast": 550,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Mat Heck Jr. (DEM)": 493,
+      "Total Votes Cast": 493,
+      "Overvotes": 0,
+      "Undervotes": 289,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Mat Heck Jr. (DEM)": 678,
+      "Total Votes Cast": 678,
+      "Overvotes": 0,
+      "Undervotes": 428,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Mat Heck Jr. (DEM)": 575,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 389,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Mat Heck Jr. (DEM)": 519,
+      "Total Votes Cast": 519,
+      "Overvotes": 0,
+      "Undervotes": 362,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Mat Heck Jr. (DEM)": 546,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Mat Heck Jr. (DEM)": 122,
+      "Total Votes Cast": 122,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Mat Heck Jr. (DEM)": 555,
+      "Total Votes Cast": 555,
+      "Overvotes": 0,
+      "Undervotes": 184,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Mat Heck Jr. (DEM)": 407,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 115,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Mat Heck Jr. (DEM)": 244,
+      "Total Votes Cast": 244,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Mat Heck Jr. (DEM)": 476,
+      "Total Votes Cast": 476,
+      "Overvotes": 0,
+      "Undervotes": 165,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Mat Heck Jr. (DEM)": 274,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Mat Heck Jr. (DEM)": 378,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 133,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Mat Heck Jr. (DEM)": 359,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Mat Heck Jr. (DEM)": 245,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 145,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Mat Heck Jr. (DEM)": 160,
+      "Total Votes Cast": 160,
+      "Overvotes": 0,
+      "Undervotes": 111,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Mat Heck Jr. (DEM)": 230,
+      "Total Votes Cast": 230,
+      "Overvotes": 0,
+      "Undervotes": 158,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Mat Heck Jr. (DEM)": 578,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 323,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Mat Heck Jr. (DEM)": 329,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 170,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Mat Heck Jr. (DEM)": 191,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 86,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Mat Heck Jr. (DEM)": 475,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Mat Heck Jr. (DEM)": 287,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 197,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Mat Heck Jr. (DEM)": 292,
+      "Total Votes Cast": 292,
+      "Overvotes": 0,
+      "Undervotes": 207,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Mat Heck Jr. (DEM)": 553,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Mat Heck Jr. (DEM)": 445,
+      "Total Votes Cast": 445,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Mat Heck Jr. (DEM)": 594,
+      "Total Votes Cast": 594,
+      "Overvotes": 0,
+      "Undervotes": 300,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Mat Heck Jr. (DEM)": 492,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Mat Heck Jr. (DEM)": 416,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 97,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Mat Heck Jr. (DEM)": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Mat Heck Jr. (DEM)": 319,
+      "Total Votes Cast": 319,
+      "Overvotes": 0,
+      "Undervotes": 110,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Mat Heck Jr. (DEM)": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Mat Heck Jr. (DEM)": 321,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Mat Heck Jr. (DEM)": 260,
+      "Total Votes Cast": 260,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Mat Heck Jr. (DEM)": 380,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Mat Heck Jr. (DEM)": 395,
+      "Total Votes Cast": 395,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Mat Heck Jr. (DEM)": 378,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Mat Heck Jr. (DEM)": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Mat Heck Jr. (DEM)": 325,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Mat Heck Jr. (DEM)": 253,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Mat Heck Jr. (DEM)": 462,
+      "Total Votes Cast": 462,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Mat Heck Jr. (DEM)": 484,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Mat Heck Jr. (DEM)": 466,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 226,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Mat Heck Jr. (DEM)": 452,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 224,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Mat Heck Jr. (DEM)": 582,
+      "Total Votes Cast": 582,
+      "Overvotes": 0,
+      "Undervotes": 276,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Mat Heck Jr. (DEM)": 531,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 265,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Mat Heck Jr. (DEM)": 574,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Mat Heck Jr. (DEM)": 449,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Mat Heck Jr. (DEM)": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Mat Heck Jr. (DEM)": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 199,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Mat Heck Jr. (DEM)": 329,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 151,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Mat Heck Jr. (DEM)": 387,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Mat Heck Jr. (DEM)": 329,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 204,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Mat Heck Jr. (DEM)": 256,
+      "Total Votes Cast": 256,
+      "Overvotes": 0,
+      "Undervotes": 126,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Mat Heck Jr. (DEM)": 272,
+      "Total Votes Cast": 272,
+      "Overvotes": 0,
+      "Undervotes": 159,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Mat Heck Jr. (DEM)": 313,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 120,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Mat Heck Jr. (DEM)": 363,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 231,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Mat Heck Jr. (DEM)": 296,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Mat Heck Jr. (DEM)": 463,
+      "Total Votes Cast": 463,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Mat Heck Jr. (DEM)": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 134,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Mat Heck Jr. (DEM)": 370,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 161,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Mat Heck Jr. (DEM)": 270,
+      "Total Votes Cast": 270,
+      "Overvotes": 0,
+      "Undervotes": 135,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Mat Heck Jr. (DEM)": 364,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Mat Heck Jr. (DEM)": 227,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Mat Heck Jr. (DEM)": 423,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Mat Heck Jr. (DEM)": 171,
+      "Total Votes Cast": 171,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Mat Heck Jr. (DEM)": 252,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Mat Heck Jr. (DEM)": 500,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Mat Heck Jr. (DEM)": 407,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Mat Heck Jr. (DEM)": 469,
+      "Total Votes Cast": 469,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Mat Heck Jr. (DEM)": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Mat Heck Jr. (DEM)": 391,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Mat Heck Jr. (DEM)": 386,
+      "Total Votes Cast": 386,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Mat Heck Jr. (DEM)": 313,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Mat Heck Jr. (DEM)": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Mat Heck Jr. (DEM)": 667,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Mat Heck Jr. (DEM)": 401,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Mat Heck Jr. (DEM)": 284,
+      "Total Votes Cast": 284,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Mat Heck Jr. (DEM)": 377,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Mat Heck Jr. (DEM)": 424,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Mat Heck Jr. (DEM)": 249,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Mat Heck Jr. (DEM)": 292,
+      "Total Votes Cast": 292,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Mat Heck Jr. (DEM)": 475,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 96,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Mat Heck Jr. (DEM)": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Mat Heck Jr. (DEM)": 326,
+      "Total Votes Cast": 326,
+      "Overvotes": 0,
+      "Undervotes": 81,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Mat Heck Jr. (DEM)": 175,
+      "Total Votes Cast": 175,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Mat Heck Jr. (DEM)": 437,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Mat Heck Jr. (DEM)": 341,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Mat Heck Jr. (DEM)": 493,
+      "Total Votes Cast": 493,
+      "Overvotes": 0,
+      "Undervotes": 320,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Mat Heck Jr. (DEM)": 532,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Mat Heck Jr. (DEM)": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 213,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Mat Heck Jr. (DEM)": 366,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Mat Heck Jr. (DEM)": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Mat Heck Jr. (DEM)": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Mat Heck Jr. (DEM)": 500,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Mat Heck Jr. (DEM)": 609,
+      "Total Votes Cast": 609,
+      "Overvotes": 0,
+      "Undervotes": 111,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Mat Heck Jr. (DEM)": 462,
+      "Total Votes Cast": 462,
+      "Overvotes": 0,
+      "Undervotes": 94,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Mat Heck Jr. (DEM)": 731,
+      "Total Votes Cast": 731,
+      "Overvotes": 0,
+      "Undervotes": 81,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Mat Heck Jr. (DEM)": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 130,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Mat Heck Jr. (DEM)": 597,
+      "Total Votes Cast": 597,
+      "Overvotes": 0,
+      "Undervotes": 236,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Mat Heck Jr. (DEM)": 520,
+      "Total Votes Cast": 520,
+      "Overvotes": 0,
+      "Undervotes": 255,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Mat Heck Jr. (DEM)": 543,
+      "Total Votes Cast": 543,
+      "Overvotes": 0,
+      "Undervotes": 194,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Mat Heck Jr. (DEM)": 608,
+      "Total Votes Cast": 608,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Mat Heck Jr. (DEM)": 628,
+      "Total Votes Cast": 628,
+      "Overvotes": 0,
+      "Undervotes": 224,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Mat Heck Jr. (DEM)": 466,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 232,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Mat Heck Jr. (DEM)": 577,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 240,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Mat Heck Jr. (DEM)": 444,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 185,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Mat Heck Jr. (DEM)": 416,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 170,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Mat Heck Jr. (DEM)": 532,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 183,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Mat Heck Jr. (DEM)": 284,
+      "Total Votes Cast": 284,
+      "Overvotes": 0,
+      "Undervotes": 273,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Mat Heck Jr. (DEM)": 432,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 545,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Mat Heck Jr. (DEM)": 440,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 511,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Mat Heck Jr. (DEM)": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 370,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Mat Heck Jr. (DEM)": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 347,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Mat Heck Jr. (DEM)": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 363,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Mat Heck Jr. (DEM)": 418,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 414,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Mat Heck Jr. (DEM)": 254,
+      "Total Votes Cast": 254,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Mat Heck Jr. (DEM)": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 210,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Mat Heck Jr. (DEM)": 345,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Mat Heck Jr. (DEM)": 621,
+      "Total Votes Cast": 621,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Mat Heck Jr. (DEM)": 218,
+      "Total Votes Cast": 218,
+      "Overvotes": 0,
+      "Undervotes": 125,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Mat Heck Jr. (DEM)": 272,
+      "Total Votes Cast": 272,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Mat Heck Jr. (DEM)": 456,
+      "Total Votes Cast": 456,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Mat Heck Jr. (DEM)": 491,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Mat Heck Jr. (DEM)": 448,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Mat Heck Jr. (DEM)": 452,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Mat Heck Jr. (DEM)": 428,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 103,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Mat Heck Jr. (DEM)": 603,
+      "Total Votes Cast": 603,
+      "Overvotes": 0,
+      "Undervotes": 159,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Mat Heck Jr. (DEM)": 749,
+      "Total Votes Cast": 749,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Mat Heck Jr. (DEM)": 304,
+      "Total Votes Cast": 304,
+      "Overvotes": 0,
+      "Undervotes": 201,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Mat Heck Jr. (DEM)": 625,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 120,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Mat Heck Jr. (DEM)": 495,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 321,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Mat Heck Jr. (DEM)": 668,
+      "Total Votes Cast": 668,
+      "Overvotes": 0,
+      "Undervotes": 303,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Mat Heck Jr. (DEM)": 524,
+      "Total Votes Cast": 524,
+      "Overvotes": 0,
+      "Undervotes": 212,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Mat Heck Jr. (DEM)": 588,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 316,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Mat Heck Jr. (DEM)": 539,
+      "Total Votes Cast": 539,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Mat Heck Jr. (DEM)": 555,
+      "Total Votes Cast": 555,
+      "Overvotes": 0,
+      "Undervotes": 330,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Mat Heck Jr. (DEM)": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 224,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Mat Heck Jr. (DEM)": 421,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 159,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Mat Heck Jr. (DEM)": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Mat Heck Jr. (DEM)": 539,
+      "Total Votes Cast": 539,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Mat Heck Jr. (DEM)": 427,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Mat Heck Jr. (DEM)": 524,
+      "Total Votes Cast": 524,
+      "Overvotes": 0,
+      "Undervotes": 280,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Mat Heck Jr. (DEM)": 473,
+      "Total Votes Cast": 473,
+      "Overvotes": 0,
+      "Undervotes": 282,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Mat Heck Jr. (DEM)": 548,
+      "Total Votes Cast": 548,
+      "Overvotes": 0,
+      "Undervotes": 289,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Mat Heck Jr. (DEM)": 575,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Mat Heck Jr. (DEM)": 484,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 260,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Mat Heck Jr. (DEM)": 503,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Mat Heck Jr. (DEM)": 490,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 259,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Mat Heck Jr. (DEM)": 502,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 269,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Mat Heck Jr. (DEM)": 414,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 224,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Mat Heck Jr. (DEM)": 531,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 334,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Mat Heck Jr. (DEM)": 517,
+      "Total Votes Cast": 517,
+      "Overvotes": 0,
+      "Undervotes": 291,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Mat Heck Jr. (DEM)": 466,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 295,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Mat Heck Jr. (DEM)": 482,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 477,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Mat Heck Jr. (DEM)": 273,
+      "Total Votes Cast": 273,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Mat Heck Jr. (DEM)": 586,
+      "Total Votes Cast": 586,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Mat Heck Jr. (DEM)": 397,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 153,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Mat Heck Jr. (DEM)": 387,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Mat Heck Jr. (DEM)": 596,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Mat Heck Jr. (DEM)": 245,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 234,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Mat Heck Jr. (DEM)": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 345,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Mat Heck Jr. (DEM)": 457,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 200,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Mat Heck Jr. (DEM)": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 280,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Mat Heck Jr. (DEM)": 524,
+      "Total Votes Cast": 524,
+      "Overvotes": 0,
+      "Undervotes": 350,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Mat Heck Jr. (DEM)": 533,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 310,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Mat Heck Jr. (DEM)": 418,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 264,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Mat Heck Jr. (DEM)": 415,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Mat Heck Jr. (DEM)": 416,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Mat Heck Jr. (DEM)": 575,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 337,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Mat Heck Jr. (DEM)": 500,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 283,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Mat Heck Jr. (DEM)": 466,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 300,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Mat Heck Jr. (DEM)": 471,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 268,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Mat Heck Jr. (DEM)": 515,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Mat Heck Jr. (DEM)": 575,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Mat Heck Jr. (DEM)": 487,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 322,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Mat Heck Jr. (DEM)": 413,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 251,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Mat Heck Jr. (DEM)": 586,
+      "Total Votes Cast": 586,
+      "Overvotes": 0,
+      "Undervotes": 444,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Mat Heck Jr. (DEM)": 538,
+      "Total Votes Cast": 538,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Mat Heck Jr. (DEM)": 408,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Mat Heck Jr. (DEM)": 375,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Mat Heck Jr. (DEM)": 551,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Mat Heck Jr. (DEM)": 571,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Mat Heck Jr. (DEM)": 480,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 312,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Mat Heck Jr. (DEM)": 491,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 211,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Mat Heck Jr. (DEM)": 539,
+      "Total Votes Cast": 539,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Mat Heck Jr. (DEM)": 439,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Mat Heck Jr. (DEM)": 440,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 239,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Mat Heck Jr. (DEM)": 540,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 267,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Mat Heck Jr. (DEM)": 432,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Mat Heck Jr. (DEM)": 422,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 249,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Mat Heck Jr. (DEM)": 616,
+      "Total Votes Cast": 616,
+      "Overvotes": 0,
+      "Undervotes": 330,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Mat Heck Jr. (DEM)": 626,
+      "Total Votes Cast": 626,
+      "Overvotes": 0,
+      "Undervotes": 296,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Mat Heck Jr. (DEM)": 677,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 262,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Mat Heck Jr. (DEM)": 345,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Mat Heck Jr. (DEM)": 536,
+      "Total Votes Cast": 536,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Mat Heck Jr. (DEM)": 472,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 259,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Mat Heck Jr. (DEM)": 503,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 267,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Mat Heck Jr. (DEM)": 622,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 374,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Mat Heck Jr. (DEM)": 446,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Mat Heck Jr. (DEM)": 576,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 272,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Mat Heck Jr. (DEM)": 522,
+      "Total Votes Cast": 522,
+      "Overvotes": 0,
+      "Undervotes": 244,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Mat Heck Jr. (DEM)": 531,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 260,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Mat Heck Jr. (DEM)": 484,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 416,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Mat Heck Jr. (DEM)": 472,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 387,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Mat Heck Jr. (DEM)": 483,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Mat Heck Jr. (DEM)": 354,
+      "Total Votes Cast": 354,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Mat Heck Jr. (DEM)": 448,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Mat Heck Jr. (DEM)": 461,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 400,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Mat Heck Jr. (DEM)": 377,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 219,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Mat Heck Jr. (DEM)": 455,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 340,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Mat Heck Jr. (DEM)": 434,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 261,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Mat Heck Jr. (DEM)": 482,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 361,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Mat Heck Jr. (DEM)": 431,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Mat Heck Jr. (DEM)": 378,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 284,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Mat Heck Jr. (DEM)": 377,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Mat Heck Jr. (DEM)": 656,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 444,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Mat Heck Jr. (DEM)": 488,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 328,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Mat Heck Jr. (DEM)": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 288,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Mat Heck Jr. (DEM)": 392,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 449,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Mat Heck Jr. (DEM)": 431,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Mat Heck Jr. (DEM)": 568,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 403,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Mat Heck Jr. (DEM)": 502,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 253,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Mat Heck Jr. (DEM)": 410,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Mat Heck Jr. (DEM)": 445,
+      "Total Votes Cast": 445,
+      "Overvotes": 0,
+      "Undervotes": 258,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Mat Heck Jr. (DEM)": 282,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 147,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Mat Heck Jr. (DEM)": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 414,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Mat Heck Jr. (DEM)": 533,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 406,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Mat Heck Jr. (DEM)": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Mat Heck Jr. (DEM)": 438,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 263,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Mat Heck Jr. (DEM)": 494,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Mat Heck Jr. (DEM)": 437,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Mat Heck Jr. (DEM)": 361,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 163,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Mat Heck Jr. (DEM)": 527,
+      "Total Votes Cast": 527,
+      "Overvotes": 0,
+      "Undervotes": 269,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Mat Heck Jr. (DEM)": 274,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 154,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Mat Heck Jr. (DEM)": 379,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 372,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Mat Heck Jr. (DEM)": 343,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 282,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Mat Heck Jr. (DEM)": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Mat Heck Jr. (DEM)": 409,
+      "Total Votes Cast": 409,
+      "Overvotes": 0,
+      "Undervotes": 328,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Mat Heck Jr. (DEM)": 264,
+      "Total Votes Cast": 264,
+      "Overvotes": 0,
+      "Undervotes": 200,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Mat Heck Jr. (DEM)": 484,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 350,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Mat Heck Jr. (DEM)": 282,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Mat Heck Jr. (DEM)": 301,
+      "Total Votes Cast": 301,
+      "Overvotes": 0,
+      "Undervotes": 166,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Mat Heck Jr. (DEM)": 285,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 99,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Mat Heck Jr. (DEM)": 577,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Mat Heck Jr. (DEM)": 557,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Mat Heck Jr. (DEM)": 459,
+      "Total Votes Cast": 459,
+      "Overvotes": 0,
+      "Undervotes": 222,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Mat Heck Jr. (DEM)": 480,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 204,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Mat Heck Jr. (DEM)": 502,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 200,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Mat Heck Jr. (DEM)": 621,
+      "Total Votes Cast": 621,
+      "Overvotes": 0,
+      "Undervotes": 248,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Mat Heck Jr. (DEM)": 524,
+      "Total Votes Cast": 524,
+      "Overvotes": 0,
+      "Undervotes": 230,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Mat Heck Jr. (DEM)": 412,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 198,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Mat Heck Jr. (DEM)": 309,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 289,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Mat Heck Jr. (DEM)": 351,
+      "Total Votes Cast": 351,
+      "Overvotes": 0,
+      "Undervotes": 302,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Mat Heck Jr. (DEM)": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Mat Heck Jr. (DEM)": 149,
+      "Total Votes Cast": 149,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Mat Heck Jr. (DEM)": 326,
+      "Total Votes Cast": 326,
+      "Overvotes": 0,
+      "Undervotes": 201,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Mat Heck Jr. (DEM)": 304,
+      "Total Votes Cast": 304,
+      "Overvotes": 0,
+      "Undervotes": 227,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Mat Heck Jr. (DEM)": 386,
+      "Total Votes Cast": 386,
+      "Overvotes": 0,
+      "Undervotes": 284,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Mat Heck Jr. (DEM)": 312,
+      "Total Votes Cast": 312,
+      "Overvotes": 0,
+      "Undervotes": 248,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Mat Heck Jr. (DEM)": 440,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 268,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Mat Heck Jr. (DEM)": 373,
+      "Total Votes Cast": 373,
+      "Overvotes": 0,
+      "Undervotes": 355,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Mat Heck Jr. (DEM)": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 271,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Mat Heck Jr. (DEM)": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 212,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Mat Heck Jr. (DEM)": 308,
+      "Total Votes Cast": 308,
+      "Overvotes": 0,
+      "Undervotes": 231,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Mat Heck Jr. (DEM)": 228,
+      "Total Votes Cast": 228,
+      "Overvotes": 0,
+      "Undervotes": 134,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Mat Heck Jr. (DEM)": 288,
+      "Total Votes Cast": 288,
+      "Overvotes": 0,
+      "Undervotes": 238,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Mat Heck Jr. (DEM)": 318,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 194,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Mat Heck Jr. (DEM)": 428,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 263,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Mat Heck Jr. (DEM)": 223,
+      "Total Votes Cast": 223,
+      "Overvotes": 0,
+      "Undervotes": 198,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Mat Heck Jr. (DEM)": 440,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 276,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Mat Heck Jr. (DEM)": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 192,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Mat Heck Jr. (DEM)": 435,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 282,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Mat Heck Jr. (DEM)": 501,
+      "Total Votes Cast": 501,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Mat Heck Jr. (DEM)": 594,
+      "Total Votes Cast": 594,
+      "Overvotes": 0,
+      "Undervotes": 140,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Mat Heck Jr. (DEM)": 314,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 92,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Mat Heck Jr. (DEM)": 466,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Mat Heck Jr. (DEM)": 378,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Mat Heck Jr. (DEM)": 654,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Mat Heck Jr. (DEM)": 546,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Mat Heck Jr. (DEM)": 602,
+      "Total Votes Cast": 602,
+      "Overvotes": 0,
+      "Undervotes": 107,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Mat Heck Jr. (DEM)": 453,
+      "Total Votes Cast": 453,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Mat Heck Jr. (DEM)": 342,
+      "Total Votes Cast": 342,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Mat Heck Jr. (DEM)": 457,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Mat Heck Jr. (DEM)": 353,
+      "Total Votes Cast": 353,
+      "Overvotes": 0,
+      "Undervotes": 119,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Mat Heck Jr. (DEM)": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Mat Heck Jr. (DEM)": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 137,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Mat Heck Jr. (DEM)": 574,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 109,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Mat Heck Jr. (DEM)": 582,
+      "Total Votes Cast": 582,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Mat Heck Jr. (DEM)": 472,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Mat Heck Jr. (DEM)": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Mat Heck Jr. (DEM)": 405,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Mat Heck Jr. (DEM)": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Mat Heck Jr. (DEM)": 457,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 260,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Mat Heck Jr. (DEM)": 479,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 319,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Mat Heck Jr. (DEM)": 547,
+      "Total Votes Cast": 547,
+      "Overvotes": 0,
+      "Undervotes": 297,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Mat Heck Jr. (DEM)": 481,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Mat Heck Jr. (DEM)": 414,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 302,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Mat Heck Jr. (DEM)": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 162,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Mat Heck Jr. (DEM)": 479,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Mat Heck Jr. (DEM)": 461,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 280,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Mat Heck Jr. (DEM)": 317,
+      "Total Votes Cast": 317,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Mat Heck Jr. (DEM)": 511,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 339,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Mat Heck Jr. (DEM)": 396,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 267,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Mat Heck Jr. (DEM)": 531,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 374,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Mat Heck Jr. (DEM)": 435,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 319,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Mat Heck Jr. (DEM)": 552,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 400,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Mat Heck Jr. (DEM)": 547,
+      "Total Votes Cast": 547,
+      "Overvotes": 0,
+      "Undervotes": 331,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Mat Heck Jr. (DEM)": 457,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 321,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Mat Heck Jr. (DEM)": 652,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 434,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Mat Heck Jr. (DEM)": 518,
+      "Total Votes Cast": 518,
+      "Overvotes": 0,
+      "Undervotes": 377,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Mat Heck Jr. (DEM)": 405,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Mat Heck Jr. (DEM)": 583,
+      "Total Votes Cast": 583,
+      "Overvotes": 0,
+      "Undervotes": 337,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Mat Heck Jr. (DEM)": 359,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Mat Heck Jr. (DEM)": 601,
+      "Total Votes Cast": 601,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Mat Heck Jr. (DEM)": 457,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 352,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Mat Heck Jr. (DEM)": 437,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 236,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Mat Heck Jr. (DEM)": 542,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 326,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Mat Heck Jr. (DEM)": 465,
+      "Total Votes Cast": 465,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Mat Heck Jr. (DEM)": 444,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 284,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Mat Heck Jr. (DEM)": 534,
+      "Total Votes Cast": 534,
+      "Overvotes": 0,
+      "Undervotes": 403,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Mat Heck Jr. (DEM)": 565,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 279,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Mat Heck Jr. (DEM)": 515,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 366,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Mat Heck Jr. (DEM)": 580,
+      "Total Votes Cast": 580,
+      "Overvotes": 0,
+      "Undervotes": 410,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Mat Heck Jr. (DEM)": 621,
+      "Total Votes Cast": 621,
+      "Overvotes": 0,
+      "Undervotes": 349,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Mat Heck Jr. (DEM)": 441,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Mat Heck Jr. (DEM)": 433,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Mat Heck Jr. (DEM)": 471,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 269,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Mat Heck Jr. (DEM)": 518,
+      "Total Votes Cast": 518,
+      "Overvotes": 0,
+      "Undervotes": 361,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Mat Heck Jr. (DEM)": 471,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 369,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Mat Heck Jr. (DEM)": 363,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 232,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Mat Heck Jr. (DEM)": 422,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Mat Heck Jr. (DEM)": 686,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Mat Heck Jr. (DEM)": 442,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Mat Heck Jr. (DEM)": 482,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Mat Heck Jr. (DEM)": 379,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Mat Heck Jr. (DEM)": 606,
+      "Total Votes Cast": 606,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Mat Heck Jr. (DEM)": 423,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 280,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Mat Heck Jr. (DEM)": 423,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Mat Heck Jr. (DEM)": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 328,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Mat Heck Jr. (DEM)": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 330,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Mat Heck Jr. (DEM)": 340,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 140,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Mat Heck Jr. (DEM)": 359,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 212,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Mat Heck Jr. (DEM)": 484,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 271,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Mat Heck Jr. (DEM)": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Mat Heck Jr. (DEM)": 376,
+      "Total Votes Cast": 376,
+      "Overvotes": 0,
+      "Undervotes": 143,
+      "Contest Total": 519
+    }
+  ]
+}

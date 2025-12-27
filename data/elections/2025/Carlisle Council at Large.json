@@ -1,0 +1,18 @@
+{
+  "race": "Carlisle Council at Large",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MIATWP-J2",
+      "Denise Eagle": 36,
+      "Jason Faulkner": 37,
+      "Glenna Griffin": 28,
+      "Tim Humphries": 29,
+      "Michael Kilpatrick": 44,
+      "Total Votes Cast": 174,
+      "Overvotes": 0,
+      "Undervotes": 90,
+      "Contest Total": 264
+    }
+  ]
+}

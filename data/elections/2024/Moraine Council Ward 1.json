@@ -1,0 +1,14 @@
+{
+  "race": "Moraine Council Ward 1",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MOR 1-A",
+      "Michael Daugherty": 298,
+      "Total Votes Cast": 298,
+      "Overvotes": 0,
+      "Undervotes": 166,
+      "Contest Total": 464
+    }
+  ]
+}

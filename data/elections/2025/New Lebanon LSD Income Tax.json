@@ -1,0 +1,105 @@
+{
+  "race": "New Lebanon LSD Income Tax",
+  "precincts": 11,
+  "results": [
+    {
+      "Precinct": "JAKTWP-A1",
+      "FOR THE INCOME TAX": 98,
+      "AGAINST THE INCOME TAX": 99,
+      "Total Votes Cast": 197,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 198
+    },
+    {
+      "Precinct": "JEFTWP-A2",
+      "FOR THE INCOME TAX": 13,
+      "AGAINST THE INCOME TAX": 27,
+      "Total Votes Cast": 40,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 40
+    },
+    {
+      "Precinct": "JNLB-A1",
+      "FOR THE INCOME TAX": 77,
+      "AGAINST THE INCOME TAX": 80,
+      "Total Votes Cast": 157,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 160
+    },
+    {
+      "Precinct": "JNLB-A2",
+      "FOR THE INCOME TAX": 0,
+      "AGAINST THE INCOME TAX": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 1
+    },
+    {
+      "Precinct": "JNLB-B",
+      "FOR THE INCOME TAX": 139,
+      "AGAINST THE INCOME TAX": 101,
+      "Total Votes Cast": 240,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 241
+    },
+    {
+      "Precinct": "PERTWP-A2",
+      "FOR THE INCOME TAX": 24,
+      "AGAINST THE INCOME TAX": 22,
+      "Total Votes Cast": 46,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 49
+    },
+    {
+      "Precinct": "PERTWP-B2",
+      "FOR THE INCOME TAX": 8,
+      "AGAINST THE INCOME TAX": 11,
+      "Total Votes Cast": 19,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 19
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "FOR THE INCOME TAX": 141,
+      "AGAINST THE INCOME TAX": 120,
+      "Total Votes Cast": 261,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 265
+    },
+    {
+      "Precinct": "PNLB1",
+      "FOR THE INCOME TAX": 67,
+      "AGAINST THE INCOME TAX": 54,
+      "Total Votes Cast": 121,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 122
+    },
+    {
+      "Precinct": "PNLB2",
+      "FOR THE INCOME TAX": 0,
+      "AGAINST THE INCOME TAX": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "TR 3-B2",
+      "FOR THE INCOME TAX": 15,
+      "AGAINST THE INCOME TAX": 9,
+      "Total Votes Cast": 24,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 24
+    }
+  ]
+}

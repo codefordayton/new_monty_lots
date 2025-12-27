@@ -1,0 +1,3435 @@
+{
+  "race": "County Commissioner",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Judy Dodge (DEM)": 273,
+      "Kate Baker (REP)": 598,
+      "Total Votes Cast": 871,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Judy Dodge (DEM)": 186,
+      "Kate Baker (REP)": 473,
+      "Total Votes Cast": 659,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Judy Dodge (DEM)": 225,
+      "Kate Baker (REP)": 619,
+      "Total Votes Cast": 844,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Judy Dodge (DEM)": 169,
+      "Kate Baker (REP)": 561,
+      "Total Votes Cast": 730,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Judy Dodge (DEM)": 235,
+      "Kate Baker (REP)": 547,
+      "Total Votes Cast": 782,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Judy Dodge (DEM)": 239,
+      "Kate Baker (REP)": 451,
+      "Total Votes Cast": 690,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Judy Dodge (DEM)": 300,
+      "Kate Baker (REP)": 591,
+      "Total Votes Cast": 891,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Judy Dodge (DEM)": 323,
+      "Kate Baker (REP)": 504,
+      "Total Votes Cast": 827,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Judy Dodge (DEM)": 219,
+      "Kate Baker (REP)": 362,
+      "Total Votes Cast": 581,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Judy Dodge (DEM)": 251,
+      "Kate Baker (REP)": 402,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Judy Dodge (DEM)": 233,
+      "Kate Baker (REP)": 265,
+      "Total Votes Cast": 498,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Judy Dodge (DEM)": 124,
+      "Kate Baker (REP)": 443,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Judy Dodge (DEM)": 122,
+      "Kate Baker (REP)": 460,
+      "Total Votes Cast": 582,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Judy Dodge (DEM)": 153,
+      "Kate Baker (REP)": 722,
+      "Total Votes Cast": 875,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Judy Dodge (DEM)": 159,
+      "Kate Baker (REP)": 423,
+      "Total Votes Cast": 582,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Judy Dodge (DEM)": 354,
+      "Kate Baker (REP)": 315,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Judy Dodge (DEM)": 372,
+      "Kate Baker (REP)": 501,
+      "Total Votes Cast": 873,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Judy Dodge (DEM)": 332,
+      "Kate Baker (REP)": 242,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Judy Dodge (DEM)": 317,
+      "Kate Baker (REP)": 304,
+      "Total Votes Cast": 621,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Judy Dodge (DEM)": 469,
+      "Kate Baker (REP)": 358,
+      "Total Votes Cast": 827,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Judy Dodge (DEM)": 535,
+      "Kate Baker (REP)": 311,
+      "Total Votes Cast": 846,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Judy Dodge (DEM)": 472,
+      "Kate Baker (REP)": 349,
+      "Total Votes Cast": 821,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Judy Dodge (DEM)": 433,
+      "Kate Baker (REP)": 352,
+      "Total Votes Cast": 785,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Judy Dodge (DEM)": 445,
+      "Kate Baker (REP)": 269,
+      "Total Votes Cast": 714,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Judy Dodge (DEM)": 334,
+      "Kate Baker (REP)": 264,
+      "Total Votes Cast": 598,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Judy Dodge (DEM)": 386,
+      "Kate Baker (REP)": 437,
+      "Total Votes Cast": 823,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Judy Dodge (DEM)": 226,
+      "Kate Baker (REP)": 306,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Judy Dodge (DEM)": 282,
+      "Kate Baker (REP)": 306,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Judy Dodge (DEM)": 316,
+      "Kate Baker (REP)": 451,
+      "Total Votes Cast": 767,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Judy Dodge (DEM)": 381,
+      "Kate Baker (REP)": 492,
+      "Total Votes Cast": 873,
+      "Overvotes": 1,
+      "Undervotes": 62,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Judy Dodge (DEM)": 449,
+      "Kate Baker (REP)": 492,
+      "Total Votes Cast": 941,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Judy Dodge (DEM)": 455,
+      "Kate Baker (REP)": 485,
+      "Total Votes Cast": 940,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Judy Dodge (DEM)": 381,
+      "Kate Baker (REP)": 643,
+      "Total Votes Cast": 1024,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Judy Dodge (DEM)": 344,
+      "Kate Baker (REP)": 506,
+      "Total Votes Cast": 850,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Judy Dodge (DEM)": 403,
+      "Kate Baker (REP)": 463,
+      "Total Votes Cast": 866,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Judy Dodge (DEM)": 420,
+      "Kate Baker (REP)": 551,
+      "Total Votes Cast": 971,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Judy Dodge (DEM)": 370,
+      "Kate Baker (REP)": 453,
+      "Total Votes Cast": 823,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Judy Dodge (DEM)": 352,
+      "Kate Baker (REP)": 381,
+      "Total Votes Cast": 733,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Judy Dodge (DEM)": 462,
+      "Kate Baker (REP)": 565,
+      "Total Votes Cast": 1027,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Judy Dodge (DEM)": 405,
+      "Kate Baker (REP)": 494,
+      "Total Votes Cast": 899,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Judy Dodge (DEM)": 384,
+      "Kate Baker (REP)": 420,
+      "Total Votes Cast": 804,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Judy Dodge (DEM)": 398,
+      "Kate Baker (REP)": 425,
+      "Total Votes Cast": 823,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Judy Dodge (DEM)": 129,
+      "Kate Baker (REP)": 58,
+      "Total Votes Cast": 187,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Judy Dodge (DEM)": 513,
+      "Kate Baker (REP)": 186,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Judy Dodge (DEM)": 386,
+      "Kate Baker (REP)": 110,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Judy Dodge (DEM)": 244,
+      "Kate Baker (REP)": 76,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Judy Dodge (DEM)": 466,
+      "Kate Baker (REP)": 143,
+      "Total Votes Cast": 609,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Judy Dodge (DEM)": 195,
+      "Kate Baker (REP)": 212,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Judy Dodge (DEM)": 337,
+      "Kate Baker (REP)": 148,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Judy Dodge (DEM)": 288,
+      "Kate Baker (REP)": 206,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Judy Dodge (DEM)": 186,
+      "Kate Baker (REP)": 181,
+      "Total Votes Cast": 367,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Judy Dodge (DEM)": 119,
+      "Kate Baker (REP)": 129,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Judy Dodge (DEM)": 180,
+      "Kate Baker (REP)": 175,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Judy Dodge (DEM)": 405,
+      "Kate Baker (REP)": 446,
+      "Total Votes Cast": 851,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Judy Dodge (DEM)": 268,
+      "Kate Baker (REP)": 198,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Judy Dodge (DEM)": 130,
+      "Kate Baker (REP)": 124,
+      "Total Votes Cast": 254,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Judy Dodge (DEM)": 386,
+      "Kate Baker (REP)": 306,
+      "Total Votes Cast": 692,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Judy Dodge (DEM)": 174,
+      "Kate Baker (REP)": 265,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Judy Dodge (DEM)": 197,
+      "Kate Baker (REP)": 261,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Judy Dodge (DEM)": 447,
+      "Kate Baker (REP)": 334,
+      "Total Votes Cast": 781,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Judy Dodge (DEM)": 347,
+      "Kate Baker (REP)": 317,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Judy Dodge (DEM)": 445,
+      "Kate Baker (REP)": 399,
+      "Total Votes Cast": 844,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Judy Dodge (DEM)": 359,
+      "Kate Baker (REP)": 420,
+      "Total Votes Cast": 779,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Judy Dodge (DEM)": 391,
+      "Kate Baker (REP)": 98,
+      "Total Votes Cast": 489,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Judy Dodge (DEM)": 302,
+      "Kate Baker (REP)": 82,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Judy Dodge (DEM)": 313,
+      "Kate Baker (REP)": 87,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Judy Dodge (DEM)": 316,
+      "Kate Baker (REP)": 25,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Judy Dodge (DEM)": 311,
+      "Kate Baker (REP)": 50,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Judy Dodge (DEM)": 254,
+      "Kate Baker (REP)": 40,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Judy Dodge (DEM)": 389,
+      "Kate Baker (REP)": 32,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Judy Dodge (DEM)": 389,
+      "Kate Baker (REP)": 24,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Judy Dodge (DEM)": 384,
+      "Kate Baker (REP)": 33,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Judy Dodge (DEM)": 348,
+      "Kate Baker (REP)": 22,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Judy Dodge (DEM)": 337,
+      "Kate Baker (REP)": 23,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Judy Dodge (DEM)": 259,
+      "Kate Baker (REP)": 28,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Judy Dodge (DEM)": 362,
+      "Kate Baker (REP)": 293,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Judy Dodge (DEM)": 420,
+      "Kate Baker (REP)": 227,
+      "Total Votes Cast": 647,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Judy Dodge (DEM)": 404,
+      "Kate Baker (REP)": 244,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Judy Dodge (DEM)": 376,
+      "Kate Baker (REP)": 256,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Judy Dodge (DEM)": 482,
+      "Kate Baker (REP)": 335,
+      "Total Votes Cast": 817,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Judy Dodge (DEM)": 430,
+      "Kate Baker (REP)": 313,
+      "Total Votes Cast": 743,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Judy Dodge (DEM)": 469,
+      "Kate Baker (REP)": 343,
+      "Total Votes Cast": 812,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Judy Dodge (DEM)": 345,
+      "Kate Baker (REP)": 285,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Judy Dodge (DEM)": 301,
+      "Kate Baker (REP)": 250,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Judy Dodge (DEM)": 209,
+      "Kate Baker (REP)": 258,
+      "Total Votes Cast": 467,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Judy Dodge (DEM)": 265,
+      "Kate Baker (REP)": 193,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Judy Dodge (DEM)": 285,
+      "Kate Baker (REP)": 288,
+      "Total Votes Cast": 573,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Judy Dodge (DEM)": 268,
+      "Kate Baker (REP)": 232,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Judy Dodge (DEM)": 207,
+      "Kate Baker (REP)": 150,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Judy Dodge (DEM)": 199,
+      "Kate Baker (REP)": 201,
+      "Total Votes Cast": 400,
+      "Overvotes": 1,
+      "Undervotes": 30,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Judy Dodge (DEM)": 237,
+      "Kate Baker (REP)": 163,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Judy Dodge (DEM)": 261,
+      "Kate Baker (REP)": 288,
+      "Total Votes Cast": 549,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Judy Dodge (DEM)": 202,
+      "Kate Baker (REP)": 241,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Judy Dodge (DEM)": 363,
+      "Kate Baker (REP)": 285,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Judy Dodge (DEM)": 314,
+      "Kate Baker (REP)": 124,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Judy Dodge (DEM)": 274,
+      "Kate Baker (REP)": 229,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Judy Dodge (DEM)": 220,
+      "Kate Baker (REP)": 150,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Judy Dodge (DEM)": 367,
+      "Kate Baker (REP)": 26,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Judy Dodge (DEM)": 231,
+      "Kate Baker (REP)": 17,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Judy Dodge (DEM)": 416,
+      "Kate Baker (REP)": 59,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Judy Dodge (DEM)": 173,
+      "Kate Baker (REP)": 19,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Judy Dodge (DEM)": 248,
+      "Kate Baker (REP)": 34,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Judy Dodge (DEM)": 497,
+      "Kate Baker (REP)": 38,
+      "Total Votes Cast": 535,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Judy Dodge (DEM)": 408,
+      "Kate Baker (REP)": 38,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Judy Dodge (DEM)": 476,
+      "Kate Baker (REP)": 31,
+      "Total Votes Cast": 507,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Judy Dodge (DEM)": 336,
+      "Kate Baker (REP)": 19,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Judy Dodge (DEM)": 385,
+      "Kate Baker (REP)": 25,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Judy Dodge (DEM)": 393,
+      "Kate Baker (REP)": 38,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Judy Dodge (DEM)": 304,
+      "Kate Baker (REP)": 29,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Judy Dodge (DEM)": 340,
+      "Kate Baker (REP)": 41,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Judy Dodge (DEM)": 670,
+      "Kate Baker (REP)": 50,
+      "Total Votes Cast": 720,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Judy Dodge (DEM)": 401,
+      "Kate Baker (REP)": 29,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Judy Dodge (DEM)": 276,
+      "Kate Baker (REP)": 55,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Judy Dodge (DEM)": 351,
+      "Kate Baker (REP)": 83,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Judy Dodge (DEM)": 410,
+      "Kate Baker (REP)": 60,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Judy Dodge (DEM)": 242,
+      "Kate Baker (REP)": 58,
+      "Total Votes Cast": 300,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Judy Dodge (DEM)": 293,
+      "Kate Baker (REP)": 32,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Judy Dodge (DEM)": 444,
+      "Kate Baker (REP)": 97,
+      "Total Votes Cast": 541,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Judy Dodge (DEM)": 327,
+      "Kate Baker (REP)": 64,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Judy Dodge (DEM)": 305,
+      "Kate Baker (REP)": 85,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Judy Dodge (DEM)": 185,
+      "Kate Baker (REP)": 8,
+      "Total Votes Cast": 193,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Judy Dodge (DEM)": 431,
+      "Kate Baker (REP)": 33,
+      "Total Votes Cast": 464,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Judy Dodge (DEM)": 354,
+      "Kate Baker (REP)": 20,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Judy Dodge (DEM)": 362,
+      "Kate Baker (REP)": 405,
+      "Total Votes Cast": 767,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Judy Dodge (DEM)": 403,
+      "Kate Baker (REP)": 400,
+      "Total Votes Cast": 803,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Judy Dodge (DEM)": 234,
+      "Kate Baker (REP)": 312,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Judy Dodge (DEM)": 245,
+      "Kate Baker (REP)": 329,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Judy Dodge (DEM)": 314,
+      "Kate Baker (REP)": 39,
+      "Total Votes Cast": 353,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Judy Dodge (DEM)": 324,
+      "Kate Baker (REP)": 25,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Judy Dodge (DEM)": 506,
+      "Kate Baker (REP)": 41,
+      "Total Votes Cast": 547,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Judy Dodge (DEM)": 605,
+      "Kate Baker (REP)": 76,
+      "Total Votes Cast": 681,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Judy Dodge (DEM)": 458,
+      "Kate Baker (REP)": 67,
+      "Total Votes Cast": 525,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Judy Dodge (DEM)": 734,
+      "Kate Baker (REP)": 32,
+      "Total Votes Cast": 766,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Judy Dodge (DEM)": 419,
+      "Kate Baker (REP)": 105,
+      "Total Votes Cast": 524,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Judy Dodge (DEM)": 412,
+      "Kate Baker (REP)": 367,
+      "Total Votes Cast": 779,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Judy Dodge (DEM)": 305,
+      "Kate Baker (REP)": 423,
+      "Total Votes Cast": 728,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Judy Dodge (DEM)": 398,
+      "Kate Baker (REP)": 293,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Judy Dodge (DEM)": 367,
+      "Kate Baker (REP)": 479,
+      "Total Votes Cast": 846,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Judy Dodge (DEM)": 477,
+      "Kate Baker (REP)": 340,
+      "Total Votes Cast": 817,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Judy Dodge (DEM)": 277,
+      "Kate Baker (REP)": 390,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Judy Dodge (DEM)": 362,
+      "Kate Baker (REP)": 404,
+      "Total Votes Cast": 766,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Judy Dodge (DEM)": 281,
+      "Kate Baker (REP)": 308,
+      "Total Votes Cast": 589,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Judy Dodge (DEM)": 303,
+      "Kate Baker (REP)": 258,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Judy Dodge (DEM)": 391,
+      "Kate Baker (REP)": 288,
+      "Total Votes Cast": 679,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Judy Dodge (DEM)": 121,
+      "Kate Baker (REP)": 390,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Judy Dodge (DEM)": 173,
+      "Kate Baker (REP)": 757,
+      "Total Votes Cast": 930,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Judy Dodge (DEM)": 196,
+      "Kate Baker (REP)": 697,
+      "Total Votes Cast": 893,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Judy Dodge (DEM)": 237,
+      "Kate Baker (REP)": 510,
+      "Total Votes Cast": 747,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Judy Dodge (DEM)": 219,
+      "Kate Baker (REP)": 484,
+      "Total Votes Cast": 703,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Judy Dodge (DEM)": 191,
+      "Kate Baker (REP)": 524,
+      "Total Votes Cast": 715,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Judy Dodge (DEM)": 192,
+      "Kate Baker (REP)": 580,
+      "Total Votes Cast": 772,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Judy Dodge (DEM)": 137,
+      "Kate Baker (REP)": 264,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Judy Dodge (DEM)": 177,
+      "Kate Baker (REP)": 326,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Judy Dodge (DEM)": 199,
+      "Kate Baker (REP)": 315,
+      "Total Votes Cast": 514,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Judy Dodge (DEM)": 513,
+      "Kate Baker (REP)": 249,
+      "Total Votes Cast": 762,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Judy Dodge (DEM)": 123,
+      "Kate Baker (REP)": 201,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Judy Dodge (DEM)": 261,
+      "Kate Baker (REP)": 51,
+      "Total Votes Cast": 312,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Judy Dodge (DEM)": 427,
+      "Kate Baker (REP)": 92,
+      "Total Votes Cast": 519,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Judy Dodge (DEM)": 479,
+      "Kate Baker (REP)": 74,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Judy Dodge (DEM)": 392,
+      "Kate Baker (REP)": 126,
+      "Total Votes Cast": 518,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Judy Dodge (DEM)": 432,
+      "Kate Baker (REP)": 72,
+      "Total Votes Cast": 504,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Judy Dodge (DEM)": 406,
+      "Kate Baker (REP)": 97,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Judy Dodge (DEM)": 549,
+      "Kate Baker (REP)": 191,
+      "Total Votes Cast": 740,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Judy Dodge (DEM)": 734,
+      "Kate Baker (REP)": 84,
+      "Total Votes Cast": 818,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Judy Dodge (DEM)": 174,
+      "Kate Baker (REP)": 297,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Judy Dodge (DEM)": 551,
+      "Kate Baker (REP)": 148,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Judy Dodge (DEM)": 310,
+      "Kate Baker (REP)": 462,
+      "Total Votes Cast": 772,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Judy Dodge (DEM)": 457,
+      "Kate Baker (REP)": 467,
+      "Total Votes Cast": 924,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Judy Dodge (DEM)": 416,
+      "Kate Baker (REP)": 276,
+      "Total Votes Cast": 692,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Judy Dodge (DEM)": 368,
+      "Kate Baker (REP)": 488,
+      "Total Votes Cast": 856,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Judy Dodge (DEM)": 361,
+      "Kate Baker (REP)": 416,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Judy Dodge (DEM)": 346,
+      "Kate Baker (REP)": 482,
+      "Total Votes Cast": 828,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Judy Dodge (DEM)": 252,
+      "Kate Baker (REP)": 350,
+      "Total Votes Cast": 602,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Judy Dodge (DEM)": 339,
+      "Kate Baker (REP)": 212,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Judy Dodge (DEM)": 235,
+      "Kate Baker (REP)": 321,
+      "Total Votes Cast": 556,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Judy Dodge (DEM)": 303,
+      "Kate Baker (REP)": 498,
+      "Total Votes Cast": 801,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Judy Dodge (DEM)": 316,
+      "Kate Baker (REP)": 298,
+      "Total Votes Cast": 614,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Judy Dodge (DEM)": 313,
+      "Kate Baker (REP)": 439,
+      "Total Votes Cast": 752,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Judy Dodge (DEM)": 281,
+      "Kate Baker (REP)": 414,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Judy Dodge (DEM)": 385,
+      "Kate Baker (REP)": 403,
+      "Total Votes Cast": 788,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Judy Dodge (DEM)": 396,
+      "Kate Baker (REP)": 367,
+      "Total Votes Cast": 763,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Judy Dodge (DEM)": 308,
+      "Kate Baker (REP)": 394,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Judy Dodge (DEM)": 348,
+      "Kate Baker (REP)": 356,
+      "Total Votes Cast": 704,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Judy Dodge (DEM)": 318,
+      "Kate Baker (REP)": 392,
+      "Total Votes Cast": 710,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Judy Dodge (DEM)": 324,
+      "Kate Baker (REP)": 408,
+      "Total Votes Cast": 732,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Judy Dodge (DEM)": 274,
+      "Kate Baker (REP)": 331,
+      "Total Votes Cast": 605,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Judy Dodge (DEM)": 325,
+      "Kate Baker (REP)": 494,
+      "Total Votes Cast": 819,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Judy Dodge (DEM)": 352,
+      "Kate Baker (REP)": 409,
+      "Total Votes Cast": 761,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Judy Dodge (DEM)": 273,
+      "Kate Baker (REP)": 448,
+      "Total Votes Cast": 721,
+      "Overvotes": 1,
+      "Undervotes": 39,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Judy Dodge (DEM)": 187,
+      "Kate Baker (REP)": 716,
+      "Total Votes Cast": 903,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Judy Dodge (DEM)": 135,
+      "Kate Baker (REP)": 482,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Judy Dodge (DEM)": 459,
+      "Kate Baker (REP)": 424,
+      "Total Votes Cast": 883,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Judy Dodge (DEM)": 338,
+      "Kate Baker (REP)": 175,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Judy Dodge (DEM)": 259,
+      "Kate Baker (REP)": 395,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Judy Dodge (DEM)": 609,
+      "Kate Baker (REP)": 40,
+      "Total Votes Cast": 649,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Judy Dodge (DEM)": 108,
+      "Kate Baker (REP)": 324,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Judy Dodge (DEM)": 170,
+      "Kate Baker (REP)": 519,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Judy Dodge (DEM)": 341,
+      "Kate Baker (REP)": 274,
+      "Total Votes Cast": 615,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Judy Dodge (DEM)": 232,
+      "Kate Baker (REP)": 376,
+      "Total Votes Cast": 608,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Judy Dodge (DEM)": 350,
+      "Kate Baker (REP)": 465,
+      "Total Votes Cast": 815,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Judy Dodge (DEM)": 382,
+      "Kate Baker (REP)": 404,
+      "Total Votes Cast": 786,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Judy Dodge (DEM)": 280,
+      "Kate Baker (REP)": 359,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Judy Dodge (DEM)": 284,
+      "Kate Baker (REP)": 342,
+      "Total Votes Cast": 626,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Judy Dodge (DEM)": 298,
+      "Kate Baker (REP)": 363,
+      "Total Votes Cast": 661,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Judy Dodge (DEM)": 391,
+      "Kate Baker (REP)": 469,
+      "Total Votes Cast": 860,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Judy Dodge (DEM)": 353,
+      "Kate Baker (REP)": 381,
+      "Total Votes Cast": 734,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Judy Dodge (DEM)": 356,
+      "Kate Baker (REP)": 358,
+      "Total Votes Cast": 714,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Judy Dodge (DEM)": 328,
+      "Kate Baker (REP)": 365,
+      "Total Votes Cast": 693,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Judy Dodge (DEM)": 366,
+      "Kate Baker (REP)": 368,
+      "Total Votes Cast": 734,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Judy Dodge (DEM)": 389,
+      "Kate Baker (REP)": 430,
+      "Total Votes Cast": 819,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Judy Dodge (DEM)": 321,
+      "Kate Baker (REP)": 430,
+      "Total Votes Cast": 751,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Judy Dodge (DEM)": 266,
+      "Kate Baker (REP)": 348,
+      "Total Votes Cast": 614,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Judy Dodge (DEM)": 386,
+      "Kate Baker (REP)": 575,
+      "Total Votes Cast": 961,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Judy Dodge (DEM)": 370,
+      "Kate Baker (REP)": 445,
+      "Total Votes Cast": 815,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Judy Dodge (DEM)": 286,
+      "Kate Baker (REP)": 340,
+      "Total Votes Cast": 626,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Judy Dodge (DEM)": 277,
+      "Kate Baker (REP)": 237,
+      "Total Votes Cast": 514,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Judy Dodge (DEM)": 399,
+      "Kate Baker (REP)": 381,
+      "Total Votes Cast": 780,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Judy Dodge (DEM)": 432,
+      "Kate Baker (REP)": 341,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Judy Dodge (DEM)": 316,
+      "Kate Baker (REP)": 440,
+      "Total Votes Cast": 756,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Judy Dodge (DEM)": 408,
+      "Kate Baker (REP)": 243,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Judy Dodge (DEM)": 380,
+      "Kate Baker (REP)": 415,
+      "Total Votes Cast": 795,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Judy Dodge (DEM)": 327,
+      "Kate Baker (REP)": 303,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Judy Dodge (DEM)": 308,
+      "Kate Baker (REP)": 347,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Judy Dodge (DEM)": 381,
+      "Kate Baker (REP)": 382,
+      "Total Votes Cast": 763,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Judy Dodge (DEM)": 300,
+      "Kate Baker (REP)": 357,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Judy Dodge (DEM)": 323,
+      "Kate Baker (REP)": 323,
+      "Total Votes Cast": 646,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Judy Dodge (DEM)": 440,
+      "Kate Baker (REP)": 454,
+      "Total Votes Cast": 894,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Judy Dodge (DEM)": 508,
+      "Kate Baker (REP)": 370,
+      "Total Votes Cast": 878,
+      "Overvotes": 1,
+      "Undervotes": 43,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Judy Dodge (DEM)": 572,
+      "Kate Baker (REP)": 307,
+      "Total Votes Cast": 879,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Judy Dodge (DEM)": 251,
+      "Kate Baker (REP)": 279,
+      "Total Votes Cast": 530,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Judy Dodge (DEM)": 397,
+      "Kate Baker (REP)": 372,
+      "Total Votes Cast": 769,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Judy Dodge (DEM)": 353,
+      "Kate Baker (REP)": 331,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Judy Dodge (DEM)": 391,
+      "Kate Baker (REP)": 336,
+      "Total Votes Cast": 727,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Judy Dodge (DEM)": 434,
+      "Kate Baker (REP)": 505,
+      "Total Votes Cast": 939,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Judy Dodge (DEM)": 303,
+      "Kate Baker (REP)": 330,
+      "Total Votes Cast": 633,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Judy Dodge (DEM)": 453,
+      "Kate Baker (REP)": 337,
+      "Total Votes Cast": 790,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Judy Dodge (DEM)": 440,
+      "Kate Baker (REP)": 281,
+      "Total Votes Cast": 721,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Judy Dodge (DEM)": 387,
+      "Kate Baker (REP)": 347,
+      "Total Votes Cast": 734,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Judy Dodge (DEM)": 312,
+      "Kate Baker (REP)": 516,
+      "Total Votes Cast": 828,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Judy Dodge (DEM)": 252,
+      "Kate Baker (REP)": 545,
+      "Total Votes Cast": 797,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Judy Dodge (DEM)": 295,
+      "Kate Baker (REP)": 442,
+      "Total Votes Cast": 737,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Judy Dodge (DEM)": 226,
+      "Kate Baker (REP)": 341,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Judy Dodge (DEM)": 262,
+      "Kate Baker (REP)": 480,
+      "Total Votes Cast": 742,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Judy Dodge (DEM)": 259,
+      "Kate Baker (REP)": 545,
+      "Total Votes Cast": 804,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Judy Dodge (DEM)": 228,
+      "Kate Baker (REP)": 332,
+      "Total Votes Cast": 560,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Judy Dodge (DEM)": 297,
+      "Kate Baker (REP)": 440,
+      "Total Votes Cast": 737,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Judy Dodge (DEM)": 280,
+      "Kate Baker (REP)": 368,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Judy Dodge (DEM)": 257,
+      "Kate Baker (REP)": 542,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Judy Dodge (DEM)": 238,
+      "Kate Baker (REP)": 455,
+      "Total Votes Cast": 693,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Judy Dodge (DEM)": 199,
+      "Kate Baker (REP)": 422,
+      "Total Votes Cast": 621,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Judy Dodge (DEM)": 216,
+      "Kate Baker (REP)": 350,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Judy Dodge (DEM)": 394,
+      "Kate Baker (REP)": 641,
+      "Total Votes Cast": 1035,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Judy Dodge (DEM)": 327,
+      "Kate Baker (REP)": 434,
+      "Total Votes Cast": 761,
+      "Overvotes": 1,
+      "Undervotes": 54,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Judy Dodge (DEM)": 312,
+      "Kate Baker (REP)": 339,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Judy Dodge (DEM)": 168,
+      "Kate Baker (REP)": 616,
+      "Total Votes Cast": 784,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Judy Dodge (DEM)": 328,
+      "Kate Baker (REP)": 339,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Judy Dodge (DEM)": 357,
+      "Kate Baker (REP)": 564,
+      "Total Votes Cast": 921,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Judy Dodge (DEM)": 342,
+      "Kate Baker (REP)": 356,
+      "Total Votes Cast": 698,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Judy Dodge (DEM)": 260,
+      "Kate Baker (REP)": 370,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Judy Dodge (DEM)": 305,
+      "Kate Baker (REP)": 353,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Judy Dodge (DEM)": 207,
+      "Kate Baker (REP)": 195,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Judy Dodge (DEM)": 146,
+      "Kate Baker (REP)": 512,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Judy Dodge (DEM)": 340,
+      "Kate Baker (REP)": 544,
+      "Total Votes Cast": 884,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Judy Dodge (DEM)": 249,
+      "Kate Baker (REP)": 325,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Judy Dodge (DEM)": 286,
+      "Kate Baker (REP)": 379,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Judy Dodge (DEM)": 313,
+      "Kate Baker (REP)": 450,
+      "Total Votes Cast": 763,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Judy Dodge (DEM)": 293,
+      "Kate Baker (REP)": 408,
+      "Total Votes Cast": 701,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Judy Dodge (DEM)": 271,
+      "Kate Baker (REP)": 226,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Judy Dodge (DEM)": 387,
+      "Kate Baker (REP)": 365,
+      "Total Votes Cast": 752,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Judy Dodge (DEM)": 198,
+      "Kate Baker (REP)": 203,
+      "Total Votes Cast": 401,
+      "Overvotes": 1,
+      "Undervotes": 26,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Judy Dodge (DEM)": 231,
+      "Kate Baker (REP)": 473,
+      "Total Votes Cast": 704,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Judy Dodge (DEM)": 227,
+      "Kate Baker (REP)": 347,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Judy Dodge (DEM)": 278,
+      "Kate Baker (REP)": 292,
+      "Total Votes Cast": 570,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Judy Dodge (DEM)": 248,
+      "Kate Baker (REP)": 428,
+      "Total Votes Cast": 676,
+      "Overvotes": 1,
+      "Undervotes": 60,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Judy Dodge (DEM)": 147,
+      "Kate Baker (REP)": 287,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Judy Dodge (DEM)": 298,
+      "Kate Baker (REP)": 471,
+      "Total Votes Cast": 769,
+      "Overvotes": 1,
+      "Undervotes": 64,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Judy Dodge (DEM)": 177,
+      "Kate Baker (REP)": 309,
+      "Total Votes Cast": 486,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Judy Dodge (DEM)": 206,
+      "Kate Baker (REP)": 227,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Judy Dodge (DEM)": 231,
+      "Kate Baker (REP)": 121,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Judy Dodge (DEM)": 474,
+      "Kate Baker (REP)": 316,
+      "Total Votes Cast": 790,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Judy Dodge (DEM)": 442,
+      "Kate Baker (REP)": 349,
+      "Total Votes Cast": 791,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Judy Dodge (DEM)": 407,
+      "Kate Baker (REP)": 226,
+      "Total Votes Cast": 633,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Judy Dodge (DEM)": 416,
+      "Kate Baker (REP)": 234,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Judy Dodge (DEM)": 462,
+      "Kate Baker (REP)": 205,
+      "Total Votes Cast": 667,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Judy Dodge (DEM)": 567,
+      "Kate Baker (REP)": 260,
+      "Total Votes Cast": 827,
+      "Overvotes": 2,
+      "Undervotes": 40,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Judy Dodge (DEM)": 414,
+      "Kate Baker (REP)": 300,
+      "Total Votes Cast": 714,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Judy Dodge (DEM)": 319,
+      "Kate Baker (REP)": 252,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Judy Dodge (DEM)": 102,
+      "Kate Baker (REP)": 449,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Judy Dodge (DEM)": 152,
+      "Kate Baker (REP)": 457,
+      "Total Votes Cast": 609,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Judy Dodge (DEM)": 154,
+      "Kate Baker (REP)": 563,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Judy Dodge (DEM)": 63,
+      "Kate Baker (REP)": 161,
+      "Total Votes Cast": 224,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Judy Dodge (DEM)": 237,
+      "Kate Baker (REP)": 261,
+      "Total Votes Cast": 498,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Judy Dodge (DEM)": 133,
+      "Kate Baker (REP)": 362,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Judy Dodge (DEM)": 250,
+      "Kate Baker (REP)": 388,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Judy Dodge (DEM)": 187,
+      "Kate Baker (REP)": 337,
+      "Total Votes Cast": 524,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Judy Dodge (DEM)": 316,
+      "Kate Baker (REP)": 338,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Judy Dodge (DEM)": 217,
+      "Kate Baker (REP)": 457,
+      "Total Votes Cast": 674,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Judy Dodge (DEM)": 177,
+      "Kate Baker (REP)": 398,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Judy Dodge (DEM)": 261,
+      "Kate Baker (REP)": 306,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Judy Dodge (DEM)": 187,
+      "Kate Baker (REP)": 307,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Judy Dodge (DEM)": 129,
+      "Kate Baker (REP)": 199,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Judy Dodge (DEM)": 176,
+      "Kate Baker (REP)": 318,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Judy Dodge (DEM)": 173,
+      "Kate Baker (REP)": 309,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Judy Dodge (DEM)": 296,
+      "Kate Baker (REP)": 359,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Judy Dodge (DEM)": 126,
+      "Kate Baker (REP)": 267,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Judy Dodge (DEM)": 282,
+      "Kate Baker (REP)": 395,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Judy Dodge (DEM)": 198,
+      "Kate Baker (REP)": 282,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Judy Dodge (DEM)": 283,
+      "Kate Baker (REP)": 384,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Judy Dodge (DEM)": 306,
+      "Kate Baker (REP)": 396,
+      "Total Votes Cast": 702,
+      "Overvotes": 1,
+      "Undervotes": 54,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Judy Dodge (DEM)": 515,
+      "Kate Baker (REP)": 177,
+      "Total Votes Cast": 692,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Judy Dodge (DEM)": 282,
+      "Kate Baker (REP)": 105,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Judy Dodge (DEM)": 478,
+      "Kate Baker (REP)": 29,
+      "Total Votes Cast": 507,
+      "Overvotes": 2,
+      "Undervotes": 26,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Judy Dodge (DEM)": 372,
+      "Kate Baker (REP)": 43,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Judy Dodge (DEM)": 643,
+      "Kate Baker (REP)": 51,
+      "Total Votes Cast": 694,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Judy Dodge (DEM)": 519,
+      "Kate Baker (REP)": 67,
+      "Total Votes Cast": 586,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Judy Dodge (DEM)": 589,
+      "Kate Baker (REP)": 83,
+      "Total Votes Cast": 672,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Judy Dodge (DEM)": 436,
+      "Kate Baker (REP)": 43,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Judy Dodge (DEM)": 296,
+      "Kate Baker (REP)": 112,
+      "Total Votes Cast": 408,
+      "Overvotes": 1,
+      "Undervotes": 22,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Judy Dodge (DEM)": 452,
+      "Kate Baker (REP)": 30,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Judy Dodge (DEM)": 298,
+      "Kate Baker (REP)": 138,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Judy Dodge (DEM)": 255,
+      "Kate Baker (REP)": 313,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Judy Dodge (DEM)": 268,
+      "Kate Baker (REP)": 170,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Judy Dodge (DEM)": 530,
+      "Kate Baker (REP)": 106,
+      "Total Votes Cast": 636,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Judy Dodge (DEM)": 587,
+      "Kate Baker (REP)": 49,
+      "Total Votes Cast": 636,
+      "Overvotes": 1,
+      "Undervotes": 33,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Judy Dodge (DEM)": 466,
+      "Kate Baker (REP)": 65,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Judy Dodge (DEM)": 367,
+      "Kate Baker (REP)": 66,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Judy Dodge (DEM)": 384,
+      "Kate Baker (REP)": 56,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Judy Dodge (DEM)": 149,
+      "Kate Baker (REP)": 301,
+      "Total Votes Cast": 450,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Judy Dodge (DEM)": 270,
+      "Kate Baker (REP)": 400,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Judy Dodge (DEM)": 248,
+      "Kate Baker (REP)": 513,
+      "Total Votes Cast": 761,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Judy Dodge (DEM)": 325,
+      "Kate Baker (REP)": 467,
+      "Total Votes Cast": 792,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Judy Dodge (DEM)": 244,
+      "Kate Baker (REP)": 524,
+      "Total Votes Cast": 768,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Judy Dodge (DEM)": 240,
+      "Kate Baker (REP)": 432,
+      "Total Votes Cast": 672,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Judy Dodge (DEM)": 138,
+      "Kate Baker (REP)": 282,
+      "Total Votes Cast": 420,
+      "Overvotes": 1,
+      "Undervotes": 24,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Judy Dodge (DEM)": 274,
+      "Kate Baker (REP)": 522,
+      "Total Votes Cast": 796,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Judy Dodge (DEM)": 290,
+      "Kate Baker (REP)": 411,
+      "Total Votes Cast": 701,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Judy Dodge (DEM)": 166,
+      "Kate Baker (REP)": 354,
+      "Total Votes Cast": 520,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Judy Dodge (DEM)": 317,
+      "Kate Baker (REP)": 491,
+      "Total Votes Cast": 808,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Judy Dodge (DEM)": 242,
+      "Kate Baker (REP)": 388,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Judy Dodge (DEM)": 272,
+      "Kate Baker (REP)": 592,
+      "Total Votes Cast": 864,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Judy Dodge (DEM)": 262,
+      "Kate Baker (REP)": 457,
+      "Total Votes Cast": 719,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Judy Dodge (DEM)": 329,
+      "Kate Baker (REP)": 582,
+      "Total Votes Cast": 911,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Judy Dodge (DEM)": 320,
+      "Kate Baker (REP)": 511,
+      "Total Votes Cast": 831,
+      "Overvotes": 1,
+      "Undervotes": 46,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Judy Dodge (DEM)": 281,
+      "Kate Baker (REP)": 444,
+      "Total Votes Cast": 725,
+      "Overvotes": 1,
+      "Undervotes": 52,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Judy Dodge (DEM)": 403,
+      "Kate Baker (REP)": 612,
+      "Total Votes Cast": 1015,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Judy Dodge (DEM)": 353,
+      "Kate Baker (REP)": 501,
+      "Total Votes Cast": 854,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Judy Dodge (DEM)": 260,
+      "Kate Baker (REP)": 365,
+      "Total Votes Cast": 625,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Judy Dodge (DEM)": 383,
+      "Kate Baker (REP)": 498,
+      "Total Votes Cast": 881,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Judy Dodge (DEM)": 239,
+      "Kate Baker (REP)": 318,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Judy Dodge (DEM)": 427,
+      "Kate Baker (REP)": 506,
+      "Total Votes Cast": 933,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Judy Dodge (DEM)": 319,
+      "Kate Baker (REP)": 435,
+      "Total Votes Cast": 754,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Judy Dodge (DEM)": 338,
+      "Kate Baker (REP)": 296,
+      "Total Votes Cast": 634,
+      "Overvotes": 1,
+      "Undervotes": 38,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Judy Dodge (DEM)": 372,
+      "Kate Baker (REP)": 435,
+      "Total Votes Cast": 807,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Judy Dodge (DEM)": 297,
+      "Kate Baker (REP)": 485,
+      "Total Votes Cast": 782,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Judy Dodge (DEM)": 342,
+      "Kate Baker (REP)": 317,
+      "Total Votes Cast": 659,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Judy Dodge (DEM)": 347,
+      "Kate Baker (REP)": 532,
+      "Total Votes Cast": 879,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Judy Dodge (DEM)": 427,
+      "Kate Baker (REP)": 369,
+      "Total Votes Cast": 796,
+      "Overvotes": 1,
+      "Undervotes": 47,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Judy Dodge (DEM)": 383,
+      "Kate Baker (REP)": 442,
+      "Total Votes Cast": 825,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Judy Dodge (DEM)": 380,
+      "Kate Baker (REP)": 544,
+      "Total Votes Cast": 924,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Judy Dodge (DEM)": 421,
+      "Kate Baker (REP)": 486,
+      "Total Votes Cast": 907,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Judy Dodge (DEM)": 272,
+      "Kate Baker (REP)": 393,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Judy Dodge (DEM)": 289,
+      "Kate Baker (REP)": 402,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Judy Dodge (DEM)": 369,
+      "Kate Baker (REP)": 326,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Judy Dodge (DEM)": 355,
+      "Kate Baker (REP)": 479,
+      "Total Votes Cast": 834,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Judy Dodge (DEM)": 324,
+      "Kate Baker (REP)": 460,
+      "Total Votes Cast": 784,
+      "Overvotes": 1,
+      "Undervotes": 55,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Judy Dodge (DEM)": 286,
+      "Kate Baker (REP)": 271,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Judy Dodge (DEM)": 290,
+      "Kate Baker (REP)": 378,
+      "Total Votes Cast": 668,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Judy Dodge (DEM)": 463,
+      "Kate Baker (REP)": 566,
+      "Total Votes Cast": 1029,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Judy Dodge (DEM)": 304,
+      "Kate Baker (REP)": 416,
+      "Total Votes Cast": 720,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Judy Dodge (DEM)": 337,
+      "Kate Baker (REP)": 428,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Judy Dodge (DEM)": 266,
+      "Kate Baker (REP)": 305,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Judy Dodge (DEM)": 414,
+      "Kate Baker (REP)": 543,
+      "Total Votes Cast": 957,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Judy Dodge (DEM)": 253,
+      "Kate Baker (REP)": 397,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Judy Dodge (DEM)": 245,
+      "Kate Baker (REP)": 432,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Judy Dodge (DEM)": 232,
+      "Kate Baker (REP)": 477,
+      "Total Votes Cast": 709,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Judy Dodge (DEM)": 264,
+      "Kate Baker (REP)": 424,
+      "Total Votes Cast": 688,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Judy Dodge (DEM)": 285,
+      "Kate Baker (REP)": 175,
+      "Total Votes Cast": 460,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Judy Dodge (DEM)": 253,
+      "Kate Baker (REP)": 273,
+      "Total Votes Cast": 526,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Judy Dodge (DEM)": 338,
+      "Kate Baker (REP)": 372,
+      "Total Votes Cast": 710,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Judy Dodge (DEM)": 217,
+      "Kate Baker (REP)": 439,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Judy Dodge (DEM)": 304,
+      "Kate Baker (REP)": 182,
+      "Total Votes Cast": 486,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 519
+    }
+  ]
+}

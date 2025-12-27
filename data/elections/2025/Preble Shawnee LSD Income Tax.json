@@ -1,0 +1,24 @@
+{
+  "race": "Preble Shawnee LSD Income Tax",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "GERTWP-A3",
+      "FOR THE INCOME TAX": 13,
+      "AGAINST THE INCOME TAX": 40,
+      "Total Votes Cast": 53,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 53
+    },
+    {
+      "Precinct": "JAKTWP-B2",
+      "FOR THE INCOME TAX": 0,
+      "AGAINST THE INCOME TAX": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

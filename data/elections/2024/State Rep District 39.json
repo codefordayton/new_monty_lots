@@ -1,0 +1,816 @@
+{
+  "race": "State Rep District 39",
+  "precincts": 81,
+  "results": [
+    {
+      "Precinct": "BTLTWP-A",
+      "Dion Green (DEM)": 188,
+      "Phil Plummer (REP)": 617,
+      "Total Votes Cast": 805,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 829,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Dion Green (DEM)": 196,
+      "Phil Plummer (REP)": 508,
+      "Total Votes Cast": 704,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 727,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Dion Green (DEM)": 240,
+      "Phil Plummer (REP)": 664,
+      "Total Votes Cast": 904,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 925,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Dion Green (DEM)": 259,
+      "Phil Plummer (REP)": 566,
+      "Total Votes Cast": 825,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 861,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Dion Green (DEM)": 159,
+      "Phil Plummer (REP)": 428,
+      "Total Votes Cast": 587,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 597,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Dion Green (DEM)": 189,
+      "Phil Plummer (REP)": 470,
+      "Total Votes Cast": 659,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 687,
+      "": null
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Dion Green (DEM)": 190,
+      "Phil Plummer (REP)": 306,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 521,
+      "": null
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Dion Green (DEM)": 1,
+      "Phil Plummer (REP)": 3,
+      "Total Votes Cast": 4,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 4,
+      "": null
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Dion Green (DEM)": 277,
+      "Phil Plummer (REP)": 292,
+      "Total Votes Cast": 569,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 588,
+      "": null
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Dion Green (DEM)": 307,
+      "Phil Plummer (REP)": 279,
+      "Total Votes Cast": 586,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 599,
+      "": null
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Dion Green (DEM)": 280,
+      "Phil Plummer (REP)": 350,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 655,
+      "": null
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Dion Green (DEM)": 405,
+      "Phil Plummer (REP)": 426,
+      "Total Votes Cast": 831,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 858,
+      "": null
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Dion Green (DEM)": 479,
+      "Phil Plummer (REP)": 377,
+      "Total Votes Cast": 856,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 897,
+      "": null
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Dion Green (DEM)": 417,
+      "Phil Plummer (REP)": 410,
+      "Total Votes Cast": 827,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 863,
+      "": null
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Dion Green (DEM)": 401,
+      "Phil Plummer (REP)": 405,
+      "Total Votes Cast": 806,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 828,
+      "": null
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Dion Green (DEM)": 402,
+      "Phil Plummer (REP)": 316,
+      "Total Votes Cast": 718,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 738,
+      "": null
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Dion Green (DEM)": 0,
+      "Phil Plummer (REP)": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0,
+      "": null
+    },
+    {
+      "Precinct": "ENG-A",
+      "Dion Green (DEM)": 369,
+      "Phil Plummer (REP)": 432,
+      "Total Votes Cast": 801,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 833,
+      "": null
+    },
+    {
+      "Precinct": "ENG-B",
+      "Dion Green (DEM)": 260,
+      "Phil Plummer (REP)": 477,
+      "Total Votes Cast": 737,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 775,
+      "": null
+    },
+    {
+      "Precinct": "ENG-C",
+      "Dion Green (DEM)": 346,
+      "Phil Plummer (REP)": 362,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 737,
+      "": null
+    },
+    {
+      "Precinct": "ENG-D",
+      "Dion Green (DEM)": 318,
+      "Phil Plummer (REP)": 539,
+      "Total Votes Cast": 857,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 885,
+      "": null
+    },
+    {
+      "Precinct": "ENG-E",
+      "Dion Green (DEM)": 406,
+      "Phil Plummer (REP)": 411,
+      "Total Votes Cast": 817,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 852,
+      "": null
+    },
+    {
+      "Precinct": "ENG-F",
+      "Dion Green (DEM)": 228,
+      "Phil Plummer (REP)": 449,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 698,
+      "": null
+    },
+    {
+      "Precinct": "ENG-G",
+      "Dion Green (DEM)": 305,
+      "Phil Plummer (REP)": 477,
+      "Total Votes Cast": 782,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 817,
+      "": null
+    },
+    {
+      "Precinct": "ENG-H",
+      "Dion Green (DEM)": 251,
+      "Phil Plummer (REP)": 356,
+      "Total Votes Cast": 607,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 629,
+      "": null
+    },
+    {
+      "Precinct": "ENG-I",
+      "Dion Green (DEM)": 255,
+      "Phil Plummer (REP)": 310,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 586,
+      "": null
+    },
+    {
+      "Precinct": "ENG-J",
+      "Dion Green (DEM)": 338,
+      "Phil Plummer (REP)": 353,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 715,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Dion Green (DEM)": 115,
+      "Phil Plummer (REP)": 300,
+      "Total Votes Cast": 415,
+      "Overvotes": 1,
+      "Undervotes": 17,
+      "Contest Total": 433,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Dion Green (DEM)": 140,
+      "Phil Plummer (REP)": 370,
+      "Total Votes Cast": 510,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 540,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Dion Green (DEM)": 179,
+      "Phil Plummer (REP)": 350,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 565,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Dion Green (DEM)": 473,
+      "Phil Plummer (REP)": 292,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 798,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Dion Green (DEM)": 95,
+      "Phil Plummer (REP)": 232,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 343,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Dion Green (DEM)": 242,
+      "Phil Plummer (REP)": 69,
+      "Total Votes Cast": 311,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 321,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Dion Green (DEM)": 374,
+      "Phil Plummer (REP)": 146,
+      "Total Votes Cast": 520,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 545,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Dion Green (DEM)": 436,
+      "Phil Plummer (REP)": 117,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 582,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Dion Green (DEM)": 366,
+      "Phil Plummer (REP)": 163,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 546,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Dion Green (DEM)": 415,
+      "Phil Plummer (REP)": 98,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 535,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Dion Green (DEM)": 381,
+      "Phil Plummer (REP)": 121,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 531,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Dion Green (DEM)": 488,
+      "Phil Plummer (REP)": 255,
+      "Total Votes Cast": 743,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 762,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Dion Green (DEM)": 676,
+      "Phil Plummer (REP)": 149,
+      "Total Votes Cast": 825,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 854,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Dion Green (DEM)": 129,
+      "Phil Plummer (REP)": 350,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 505,
+      "": null
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Dion Green (DEM)": 508,
+      "Phil Plummer (REP)": 197,
+      "Total Votes Cast": 705,
+      "Overvotes": 1,
+      "Undervotes": 39,
+      "Contest Total": 745,
+      "": null
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Dion Green (DEM)": 275,
+      "Phil Plummer (REP)": 510,
+      "Total Votes Cast": 785,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 816,
+      "": null
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Dion Green (DEM)": 388,
+      "Phil Plummer (REP)": 543,
+      "Total Votes Cast": 931,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 971,
+      "": null
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Dion Green (DEM)": 376,
+      "Phil Plummer (REP)": 322,
+      "Total Votes Cast": 698,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 736,
+      "": null
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Dion Green (DEM)": 319,
+      "Phil Plummer (REP)": 546,
+      "Total Votes Cast": 865,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 904,
+      "": null
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Dion Green (DEM)": 320,
+      "Phil Plummer (REP)": 466,
+      "Total Votes Cast": 786,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 832,
+      "": null
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Dion Green (DEM)": 314,
+      "Phil Plummer (REP)": 529,
+      "Total Votes Cast": 843,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 885,
+      "": null
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Dion Green (DEM)": 225,
+      "Phil Plummer (REP)": 381,
+      "Total Votes Cast": 606,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 630,
+      "": null
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Dion Green (DEM)": 309,
+      "Phil Plummer (REP)": 241,
+      "Total Votes Cast": 550,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 580,
+      "": null
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Dion Green (DEM)": 198,
+      "Phil Plummer (REP)": 362,
+      "Total Votes Cast": 560,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 590,
+      "": null
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Dion Green (DEM)": 259,
+      "Phil Plummer (REP)": 558,
+      "Total Votes Cast": 817,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 846,
+      "": null
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Dion Green (DEM)": 289,
+      "Phil Plummer (REP)": 333,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 650,
+      "": null
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Dion Green (DEM)": 281,
+      "Phil Plummer (REP)": 483,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 804,
+      "": null
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Dion Green (DEM)": 249,
+      "Phil Plummer (REP)": 470,
+      "Total Votes Cast": 719,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 755,
+      "": null
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Dion Green (DEM)": 336,
+      "Phil Plummer (REP)": 458,
+      "Total Votes Cast": 794,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 837,
+      "": null
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Dion Green (DEM)": 369,
+      "Phil Plummer (REP)": 408,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 796,
+      "": null
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Dion Green (DEM)": 265,
+      "Phil Plummer (REP)": 441,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 744,
+      "": null
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Dion Green (DEM)": 306,
+      "Phil Plummer (REP)": 402,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 746,
+      "": null
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Dion Green (DEM)": 261,
+      "Phil Plummer (REP)": 453,
+      "Total Votes Cast": 714,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 749,
+      "": null
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Dion Green (DEM)": 304,
+      "Phil Plummer (REP)": 435,
+      "Total Votes Cast": 739,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 771,
+      "": null
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Dion Green (DEM)": 248,
+      "Phil Plummer (REP)": 370,
+      "Total Votes Cast": 618,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 638,
+      "": null
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Dion Green (DEM)": 287,
+      "Phil Plummer (REP)": 540,
+      "Total Votes Cast": 827,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 865,
+      "": null
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Dion Green (DEM)": 309,
+      "Phil Plummer (REP)": 456,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 808,
+      "": null
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Dion Green (DEM)": 227,
+      "Phil Plummer (REP)": 504,
+      "Total Votes Cast": 731,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 761,
+      "": null
+    },
+    {
+      "Precinct": "UN-A",
+      "Dion Green (DEM)": 114,
+      "Phil Plummer (REP)": 344,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 479,
+      "": null
+    },
+    {
+      "Precinct": "UN-B",
+      "Dion Green (DEM)": 217,
+      "Phil Plummer (REP)": 474,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 717,
+      "": null
+    },
+    {
+      "Precinct": "UN-C",
+      "Dion Green (DEM)": 224,
+      "Phil Plummer (REP)": 542,
+      "Total Votes Cast": 766,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 798,
+      "": null
+    },
+    {
+      "Precinct": "UN-D",
+      "Dion Green (DEM)": 273,
+      "Phil Plummer (REP)": 542,
+      "Total Votes Cast": 815,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 844,
+      "": null
+    },
+    {
+      "Precinct": "UN-E",
+      "Dion Green (DEM)": 215,
+      "Phil Plummer (REP)": 574,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 827,
+      "": null
+    },
+    {
+      "Precinct": "VD-A",
+      "Dion Green (DEM)": 206,
+      "Phil Plummer (REP)": 478,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 716,
+      "": null
+    },
+    {
+      "Precinct": "VD-B",
+      "Dion Green (DEM)": 118,
+      "Phil Plummer (REP)": 313,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 445,
+      "": null
+    },
+    {
+      "Precinct": "VD-C",
+      "Dion Green (DEM)": 201,
+      "Phil Plummer (REP)": 606,
+      "Total Votes Cast": 807,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 838,
+      "": null
+    },
+    {
+      "Precinct": "VD-D",
+      "Dion Green (DEM)": 256,
+      "Phil Plummer (REP)": 463,
+      "Total Votes Cast": 719,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 741,
+      "": null
+    },
+    {
+      "Precinct": "VD-E",
+      "Dion Green (DEM)": 139,
+      "Phil Plummer (REP)": 386,
+      "Total Votes Cast": 525,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 550,
+      "": null
+    },
+    {
+      "Precinct": "VD-F",
+      "Dion Green (DEM)": 271,
+      "Phil Plummer (REP)": 551,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 850,
+      "": null
+    },
+    {
+      "Precinct": "VD-G",
+      "Dion Green (DEM)": 185,
+      "Phil Plummer (REP)": 459,
+      "Total Votes Cast": 644,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 663,
+      "": null
+    },
+    {
+      "Precinct": "VD-H",
+      "Dion Green (DEM)": 214,
+      "Phil Plummer (REP)": 667,
+      "Total Votes Cast": 881,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 905,
+      "": null
+    },
+    {
+      "Precinct": "VD-I",
+      "Dion Green (DEM)": 206,
+      "Phil Plummer (REP)": 524,
+      "Total Votes Cast": 730,
+      "Overvotes": 1,
+      "Undervotes": 23,
+      "Contest Total": 754,
+      "": null
+    },
+    {
+      "Precinct": "VD-J",
+      "Dion Green (DEM)": 244,
+      "Phil Plummer (REP)": 676,
+      "Total Votes Cast": 920,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 952,
+      "": null
+    },
+    {
+      "Precinct": "VD-K",
+      "Dion Green (DEM)": 261,
+      "Phil Plummer (REP)": 589,
+      "Total Votes Cast": 850,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 878,
+      "": null
+    }
+  ]
+}

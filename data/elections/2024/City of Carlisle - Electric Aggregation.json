@@ -1,0 +1,15 @@
+{
+  "race": "City of Carlisle - Electric Aggregation",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MIATWP-J",
+      "Yes": 53,
+      "No": 81,
+      "Total Votes Cast": 134,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 152
+    }
+  ]
+}

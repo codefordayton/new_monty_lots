@@ -1,0 +1,38 @@
+{
+  "race": "Miamisburg Council Ward 3",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "MBG 3-A",
+      "REP Rick Melton": 119,
+      "Total Votes Cast": 119,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 172
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "REP Rick Melton": 186,
+      "Total Votes Cast": 186,
+      "Overvotes": 0,
+      "Undervotes": 108,
+      "Contest Total": 294
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "REP Rick Melton": 128,
+      "Total Votes Cast": 128,
+      "Overvotes": 0,
+      "Undervotes": 101,
+      "Contest Total": 229
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "REP Rick Melton": 175,
+      "Total Votes Cast": 175,
+      "Overvotes": 0,
+      "Undervotes": 101,
+      "Contest Total": 276
+    }
+  ]
+}

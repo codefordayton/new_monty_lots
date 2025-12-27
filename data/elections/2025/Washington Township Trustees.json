@@ -1,0 +1,486 @@
+{
+  "race": "Washington Township Trustees",
+  "precincts": 48,
+  "results": [
+    {
+      "Precinct": "CV-A",
+      "Sharon A. Lowry": 59,
+      "Scott R. Paulson": 35,
+      "Luke Trubee": 23,
+      "Total Votes Cast": 117,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 172
+    },
+    {
+      "Precinct": "CV-B",
+      "Sharon A. Lowry": 129,
+      "Scott R. Paulson": 124,
+      "Luke Trubee": 62,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 183,
+      "Contest Total": 498
+    },
+    {
+      "Precinct": "CV-C",
+      "Sharon A. Lowry": 87,
+      "Scott R. Paulson": 79,
+      "Luke Trubee": 42,
+      "Total Votes Cast": 208,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 286
+    },
+    {
+      "Precinct": "CV-D",
+      "Sharon A. Lowry": 70,
+      "Scott R. Paulson": 54,
+      "Luke Trubee": 41,
+      "Total Votes Cast": 165,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 238
+    },
+    {
+      "Precinct": "CV-E",
+      "Sharon A. Lowry": 136,
+      "Scott R. Paulson": 142,
+      "Luke Trubee": 60,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 166,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "CV-F",
+      "Sharon A. Lowry": 153,
+      "Scott R. Paulson": 143,
+      "Luke Trubee": 76,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 172,
+      "Contest Total": 544
+    },
+    {
+      "Precinct": "CV-G",
+      "Sharon A. Lowry": 169,
+      "Scott R. Paulson": 142,
+      "Luke Trubee": 76,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "CV-H",
+      "Sharon A. Lowry": 229,
+      "Scott R. Paulson": 218,
+      "Luke Trubee": 97,
+      "Total Votes Cast": 544,
+      "Overvotes": 0,
+      "Undervotes": 268,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "CV-I1",
+      "Sharon A. Lowry": 192,
+      "Scott R. Paulson": 195,
+      "Luke Trubee": 84,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 185,
+      "Contest Total": 656
+    },
+    {
+      "Precinct": "CV-I2",
+      "Sharon A. Lowry": 0,
+      "Scott R. Paulson": 0,
+      "Luke Trubee": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "CV-J",
+      "Sharon A. Lowry": 157,
+      "Scott R. Paulson": 129,
+      "Luke Trubee": 77,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 133,
+      "Contest Total": 496
+    },
+    {
+      "Precinct": "CV-K",
+      "Sharon A. Lowry": 166,
+      "Scott R. Paulson": 150,
+      "Luke Trubee": 67,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 576
+    },
+    {
+      "Precinct": "CV-L",
+      "Sharon A. Lowry": 187,
+      "Scott R. Paulson": 166,
+      "Luke Trubee": 88,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 225,
+      "Contest Total": 666
+    },
+    {
+      "Precinct": "CV-M",
+      "Sharon A. Lowry": 141,
+      "Scott R. Paulson": 118,
+      "Luke Trubee": 70,
+      "Total Votes Cast": 329,
+      "Overvotes": 2,
+      "Undervotes": 159,
+      "Contest Total": 490
+    },
+    {
+      "Precinct": "CV-N",
+      "Sharon A. Lowry": 147,
+      "Scott R. Paulson": 148,
+      "Luke Trubee": 52,
+      "Total Votes Cast": 347,
+      "Overvotes": 0,
+      "Undervotes": 147,
+      "Contest Total": 494
+    },
+    {
+      "Precinct": "CV-O",
+      "Sharon A. Lowry": 211,
+      "Scott R. Paulson": 182,
+      "Luke Trubee": 75,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 170,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-P",
+      "Sharon A. Lowry": 172,
+      "Scott R. Paulson": 180,
+      "Luke Trubee": 71,
+      "Total Votes Cast": 423,
+      "Overvotes": 2,
+      "Undervotes": 171,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "CV-Q",
+      "Sharon A. Lowry": 130,
+      "Scott R. Paulson": 132,
+      "Luke Trubee": 60,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 164,
+      "Contest Total": 486
+    },
+    {
+      "Precinct": "CV-R",
+      "Sharon A. Lowry": 113,
+      "Scott R. Paulson": 77,
+      "Luke Trubee": 46,
+      "Total Votes Cast": 236,
+      "Overvotes": 0,
+      "Undervotes": 124,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Sharon A. Lowry": 163,
+      "Scott R. Paulson": 161,
+      "Luke Trubee": 72,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 110,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Sharon A. Lowry": 179,
+      "Scott R. Paulson": 179,
+      "Luke Trubee": 97,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 123,
+      "Contest Total": 578
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Sharon A. Lowry": 171,
+      "Scott R. Paulson": 168,
+      "Luke Trubee": 68,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 195,
+      "Contest Total": 602
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Sharon A. Lowry": 142,
+      "Scott R. Paulson": 138,
+      "Luke Trubee": 51,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 107,
+      "Contest Total": 438
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Sharon A. Lowry": 182,
+      "Scott R. Paulson": 185,
+      "Luke Trubee": 87,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 146,
+      "Contest Total": 600
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Sharon A. Lowry": 126,
+      "Scott R. Paulson": 128,
+      "Luke Trubee": 54,
+      "Total Votes Cast": 308,
+      "Overvotes": 0,
+      "Undervotes": 118,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Sharon A. Lowry": 217,
+      "Scott R. Paulson": 179,
+      "Luke Trubee": 109,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 171,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Sharon A. Lowry": 164,
+      "Scott R. Paulson": 181,
+      "Luke Trubee": 84,
+      "Total Votes Cast": 429,
+      "Overvotes": 0,
+      "Undervotes": 111,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Sharon A. Lowry": 106,
+      "Scott R. Paulson": 92,
+      "Luke Trubee": 31,
+      "Total Votes Cast": 229,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 320
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Sharon A. Lowry": 144,
+      "Scott R. Paulson": 142,
+      "Luke Trubee": 60,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 112,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Sharon A. Lowry": 161,
+      "Scott R. Paulson": 166,
+      "Luke Trubee": 69,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 102,
+      "Contest Total": 498
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Sharon A. Lowry": 113,
+      "Scott R. Paulson": 99,
+      "Luke Trubee": 33,
+      "Total Votes Cast": 245,
+      "Overvotes": 2,
+      "Undervotes": 75,
+      "Contest Total": 322
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Sharon A. Lowry": 176,
+      "Scott R. Paulson": 175,
+      "Luke Trubee": 70,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 109,
+      "Contest Total": 530
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Sharon A. Lowry": 120,
+      "Scott R. Paulson": 93,
+      "Luke Trubee": 60,
+      "Total Votes Cast": 273,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 336
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Sharon A. Lowry": 128,
+      "Scott R. Paulson": 133,
+      "Luke Trubee": 72,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 107,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Sharon A. Lowry": 121,
+      "Scott R. Paulson": 146,
+      "Luke Trubee": 64,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 111,
+      "Contest Total": 442
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Sharon A. Lowry": 132,
+      "Scott R. Paulson": 138,
+      "Luke Trubee": 63,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 119,
+      "Contest Total": 452
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Sharon A. Lowry": 106,
+      "Scott R. Paulson": 126,
+      "Luke Trubee": 77,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 400
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Sharon A. Lowry": 145,
+      "Scott R. Paulson": 145,
+      "Luke Trubee": 52,
+      "Total Votes Cast": 342,
+      "Overvotes": 0,
+      "Undervotes": 86,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Sharon A. Lowry": 119,
+      "Scott R. Paulson": 104,
+      "Luke Trubee": 46,
+      "Total Votes Cast": 269,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 346
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Sharon A. Lowry": 180,
+      "Scott R. Paulson": 175,
+      "Luke Trubee": 57,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 124,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Sharon A. Lowry": 155,
+      "Scott R. Paulson": 144,
+      "Luke Trubee": 71,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 128,
+      "Contest Total": 498
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Sharon A. Lowry": 101,
+      "Scott R. Paulson": 100,
+      "Luke Trubee": 42,
+      "Total Votes Cast": 243,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 306
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Sharon A. Lowry": 131,
+      "Scott R. Paulson": 130,
+      "Luke Trubee": 52,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 109,
+      "Contest Total": 422
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Sharon A. Lowry": 179,
+      "Scott R. Paulson": 168,
+      "Luke Trubee": 94,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 149,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Sharon A. Lowry": 148,
+      "Scott R. Paulson": 166,
+      "Luke Trubee": 58,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 138,
+      "Contest Total": 510
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Sharon A. Lowry": 171,
+      "Scott R. Paulson": 152,
+      "Luke Trubee": 91,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 176,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Sharon A. Lowry": 113,
+      "Scott R. Paulson": 115,
+      "Luke Trubee": 51,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 338
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Sharon A. Lowry": 185,
+      "Scott R. Paulson": 200,
+      "Luke Trubee": 97,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 142,
+      "Contest Total": 624
+    }
+  ]
+}

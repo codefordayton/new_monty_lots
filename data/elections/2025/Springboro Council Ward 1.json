@@ -1,0 +1,22 @@
+{
+  "race": "Springboro Council Ward 1",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "MIATWP-T 2",
+      "Jerry Ferris": 109,
+      "Total Votes Cast": 109,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 180
+    },
+    {
+      "Precinct": "MIATWP-T 3",
+      "Jerry Ferris": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

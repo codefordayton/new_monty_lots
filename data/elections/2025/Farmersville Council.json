@@ -1,0 +1,14 @@
+{
+  "race": "Farmersville Council",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "FARM",
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 912,
+      "Contest Total": 912
+    }
+  ]
+}

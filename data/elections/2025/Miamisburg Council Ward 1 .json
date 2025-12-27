@@ -1,0 +1,54 @@
+{
+  "race": "Miamisburg Council Ward 1 ",
+  "precincts": 6,
+  "results": [
+    {
+      "Precinct": "MBG 1-A1",
+      "REP Jason Shade": 196,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 123,
+      "Contest Total": 319
+    },
+    {
+      "Precinct": "MBG 1-A2",
+      "REP Jason Shade": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MBG 1-A3",
+      "REP Jason Shade": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 1
+    },
+    {
+      "Precinct": "MBG 1-B1",
+      "REP Jason Shade": 189,
+      "Total Votes Cast": 189,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 259
+    },
+    {
+      "Precinct": "MBG 1-B2",
+      "REP Jason Shade": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "REP Jason Shade": 213,
+      "Total Votes Cast": 213,
+      "Overvotes": 0,
+      "Undervotes": 106,
+      "Contest Total": 319
+    }
+  ]
+}

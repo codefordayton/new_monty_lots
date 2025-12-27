@@ -1,0 +1,3435 @@
+{
+  "race": "County Recorder",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Stacey Benson-Taylor (DEM)": 252,
+      "Lori Kennedy (REP)": 591,
+      "Total Votes Cast": 843,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Stacey Benson-Taylor (DEM)": 156,
+      "Lori Kennedy (REP)": 487,
+      "Total Votes Cast": 643,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Stacey Benson-Taylor (DEM)": 199,
+      "Lori Kennedy (REP)": 623,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Stacey Benson-Taylor (DEM)": 140,
+      "Lori Kennedy (REP)": 569,
+      "Total Votes Cast": 709,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Stacey Benson-Taylor (DEM)": 213,
+      "Lori Kennedy (REP)": 558,
+      "Total Votes Cast": 771,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Stacey Benson-Taylor (DEM)": 228,
+      "Lori Kennedy (REP)": 451,
+      "Total Votes Cast": 679,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Stacey Benson-Taylor (DEM)": 279,
+      "Lori Kennedy (REP)": 591,
+      "Total Votes Cast": 870,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Stacey Benson-Taylor (DEM)": 288,
+      "Lori Kennedy (REP)": 515,
+      "Total Votes Cast": 803,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Stacey Benson-Taylor (DEM)": 196,
+      "Lori Kennedy (REP)": 374,
+      "Total Votes Cast": 570,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Stacey Benson-Taylor (DEM)": 225,
+      "Lori Kennedy (REP)": 412,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Stacey Benson-Taylor (DEM)": 212,
+      "Lori Kennedy (REP)": 271,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Stacey Benson-Taylor (DEM)": 117,
+      "Lori Kennedy (REP)": 442,
+      "Total Votes Cast": 559,
+      "Overvotes": 1,
+      "Undervotes": 37,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Stacey Benson-Taylor (DEM)": 103,
+      "Lori Kennedy (REP)": 469,
+      "Total Votes Cast": 572,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Stacey Benson-Taylor (DEM)": 135,
+      "Lori Kennedy (REP)": 711,
+      "Total Votes Cast": 846,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Stacey Benson-Taylor (DEM)": 144,
+      "Lori Kennedy (REP)": 415,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Stacey Benson-Taylor (DEM)": 348,
+      "Lori Kennedy (REP)": 307,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Stacey Benson-Taylor (DEM)": 344,
+      "Lori Kennedy (REP)": 503,
+      "Total Votes Cast": 847,
+      "Overvotes": 0,
+      "Undervotes": 94,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Stacey Benson-Taylor (DEM)": 338,
+      "Lori Kennedy (REP)": 230,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Stacey Benson-Taylor (DEM)": 297,
+      "Lori Kennedy (REP)": 303,
+      "Total Votes Cast": 600,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Stacey Benson-Taylor (DEM)": 447,
+      "Lori Kennedy (REP)": 367,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Stacey Benson-Taylor (DEM)": 509,
+      "Lori Kennedy (REP)": 319,
+      "Total Votes Cast": 828,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Stacey Benson-Taylor (DEM)": 448,
+      "Lori Kennedy (REP)": 361,
+      "Total Votes Cast": 809,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Stacey Benson-Taylor (DEM)": 418,
+      "Lori Kennedy (REP)": 356,
+      "Total Votes Cast": 774,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Stacey Benson-Taylor (DEM)": 430,
+      "Lori Kennedy (REP)": 270,
+      "Total Votes Cast": 700,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Stacey Benson-Taylor (DEM)": 328,
+      "Lori Kennedy (REP)": 261,
+      "Total Votes Cast": 589,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Stacey Benson-Taylor (DEM)": 366,
+      "Lori Kennedy (REP)": 443,
+      "Total Votes Cast": 809,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Stacey Benson-Taylor (DEM)": 203,
+      "Lori Kennedy (REP)": 316,
+      "Total Votes Cast": 519,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Stacey Benson-Taylor (DEM)": 279,
+      "Lori Kennedy (REP)": 295,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Stacey Benson-Taylor (DEM)": 305,
+      "Lori Kennedy (REP)": 447,
+      "Total Votes Cast": 752,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Stacey Benson-Taylor (DEM)": 364,
+      "Lori Kennedy (REP)": 492,
+      "Total Votes Cast": 856,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Stacey Benson-Taylor (DEM)": 418,
+      "Lori Kennedy (REP)": 513,
+      "Total Votes Cast": 931,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Stacey Benson-Taylor (DEM)": 406,
+      "Lori Kennedy (REP)": 523,
+      "Total Votes Cast": 929,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Stacey Benson-Taylor (DEM)": 374,
+      "Lori Kennedy (REP)": 637,
+      "Total Votes Cast": 1011,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Stacey Benson-Taylor (DEM)": 316,
+      "Lori Kennedy (REP)": 514,
+      "Total Votes Cast": 830,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Stacey Benson-Taylor (DEM)": 367,
+      "Lori Kennedy (REP)": 471,
+      "Total Votes Cast": 838,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Stacey Benson-Taylor (DEM)": 391,
+      "Lori Kennedy (REP)": 555,
+      "Total Votes Cast": 946,
+      "Overvotes": 1,
+      "Undervotes": 85,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Stacey Benson-Taylor (DEM)": 341,
+      "Lori Kennedy (REP)": 461,
+      "Total Votes Cast": 802,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Stacey Benson-Taylor (DEM)": 311,
+      "Lori Kennedy (REP)": 386,
+      "Total Votes Cast": 697,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Stacey Benson-Taylor (DEM)": 436,
+      "Lori Kennedy (REP)": 569,
+      "Total Votes Cast": 1005,
+      "Overvotes": 0,
+      "Undervotes": 101,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Stacey Benson-Taylor (DEM)": 387,
+      "Lori Kennedy (REP)": 489,
+      "Total Votes Cast": 876,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Stacey Benson-Taylor (DEM)": 356,
+      "Lori Kennedy (REP)": 426,
+      "Total Votes Cast": 782,
+      "Overvotes": 0,
+      "Undervotes": 99,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Stacey Benson-Taylor (DEM)": 377,
+      "Lori Kennedy (REP)": 427,
+      "Total Votes Cast": 804,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Stacey Benson-Taylor (DEM)": 123,
+      "Lori Kennedy (REP)": 58,
+      "Total Votes Cast": 181,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Stacey Benson-Taylor (DEM)": 511,
+      "Lori Kennedy (REP)": 178,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Stacey Benson-Taylor (DEM)": 378,
+      "Lori Kennedy (REP)": 106,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Stacey Benson-Taylor (DEM)": 239,
+      "Lori Kennedy (REP)": 76,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Stacey Benson-Taylor (DEM)": 463,
+      "Lori Kennedy (REP)": 138,
+      "Total Votes Cast": 601,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Stacey Benson-Taylor (DEM)": 185,
+      "Lori Kennedy (REP)": 219,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Stacey Benson-Taylor (DEM)": 323,
+      "Lori Kennedy (REP)": 152,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Stacey Benson-Taylor (DEM)": 271,
+      "Lori Kennedy (REP)": 215,
+      "Total Votes Cast": 486,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Stacey Benson-Taylor (DEM)": 180,
+      "Lori Kennedy (REP)": 177,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Stacey Benson-Taylor (DEM)": 108,
+      "Lori Kennedy (REP)": 135,
+      "Total Votes Cast": 243,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Stacey Benson-Taylor (DEM)": 163,
+      "Lori Kennedy (REP)": 185,
+      "Total Votes Cast": 348,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Stacey Benson-Taylor (DEM)": 404,
+      "Lori Kennedy (REP)": 427,
+      "Total Votes Cast": 831,
+      "Overvotes": 1,
+      "Undervotes": 69,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Stacey Benson-Taylor (DEM)": 250,
+      "Lori Kennedy (REP)": 202,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Stacey Benson-Taylor (DEM)": 119,
+      "Lori Kennedy (REP)": 128,
+      "Total Votes Cast": 247,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Stacey Benson-Taylor (DEM)": 370,
+      "Lori Kennedy (REP)": 306,
+      "Total Votes Cast": 676,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Stacey Benson-Taylor (DEM)": 159,
+      "Lori Kennedy (REP)": 271,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Stacey Benson-Taylor (DEM)": 190,
+      "Lori Kennedy (REP)": 256,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Stacey Benson-Taylor (DEM)": 438,
+      "Lori Kennedy (REP)": 333,
+      "Total Votes Cast": 771,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Stacey Benson-Taylor (DEM)": 342,
+      "Lori Kennedy (REP)": 315,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Stacey Benson-Taylor (DEM)": 424,
+      "Lori Kennedy (REP)": 401,
+      "Total Votes Cast": 825,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Stacey Benson-Taylor (DEM)": 342,
+      "Lori Kennedy (REP)": 419,
+      "Total Votes Cast": 761,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Stacey Benson-Taylor (DEM)": 398,
+      "Lori Kennedy (REP)": 94,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Stacey Benson-Taylor (DEM)": 297,
+      "Lori Kennedy (REP)": 78,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Stacey Benson-Taylor (DEM)": 305,
+      "Lori Kennedy (REP)": 91,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Stacey Benson-Taylor (DEM)": 309,
+      "Lori Kennedy (REP)": 25,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Stacey Benson-Taylor (DEM)": 309,
+      "Lori Kennedy (REP)": 43,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Stacey Benson-Taylor (DEM)": 252,
+      "Lori Kennedy (REP)": 38,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Stacey Benson-Taylor (DEM)": 384,
+      "Lori Kennedy (REP)": 35,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Stacey Benson-Taylor (DEM)": 388,
+      "Lori Kennedy (REP)": 24,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Stacey Benson-Taylor (DEM)": 382,
+      "Lori Kennedy (REP)": 28,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Stacey Benson-Taylor (DEM)": 352,
+      "Lori Kennedy (REP)": 16,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Stacey Benson-Taylor (DEM)": 325,
+      "Lori Kennedy (REP)": 22,
+      "Total Votes Cast": 347,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Stacey Benson-Taylor (DEM)": 263,
+      "Lori Kennedy (REP)": 24,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Stacey Benson-Taylor (DEM)": 352,
+      "Lori Kennedy (REP)": 282,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Stacey Benson-Taylor (DEM)": 399,
+      "Lori Kennedy (REP)": 229,
+      "Total Votes Cast": 628,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Stacey Benson-Taylor (DEM)": 389,
+      "Lori Kennedy (REP)": 248,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Stacey Benson-Taylor (DEM)": 366,
+      "Lori Kennedy (REP)": 251,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Stacey Benson-Taylor (DEM)": 448,
+      "Lori Kennedy (REP)": 339,
+      "Total Votes Cast": 787,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Stacey Benson-Taylor (DEM)": 415,
+      "Lori Kennedy (REP)": 309,
+      "Total Votes Cast": 724,
+      "Overvotes": 1,
+      "Undervotes": 71,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Stacey Benson-Taylor (DEM)": 437,
+      "Lori Kennedy (REP)": 348,
+      "Total Votes Cast": 785,
+      "Overvotes": 0,
+      "Undervotes": 81,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Stacey Benson-Taylor (DEM)": 321,
+      "Lori Kennedy (REP)": 293,
+      "Total Votes Cast": 614,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Stacey Benson-Taylor (DEM)": 291,
+      "Lori Kennedy (REP)": 249,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Stacey Benson-Taylor (DEM)": 212,
+      "Lori Kennedy (REP)": 243,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Stacey Benson-Taylor (DEM)": 250,
+      "Lori Kennedy (REP)": 195,
+      "Total Votes Cast": 445,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Stacey Benson-Taylor (DEM)": 272,
+      "Lori Kennedy (REP)": 289,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Stacey Benson-Taylor (DEM)": 253,
+      "Lori Kennedy (REP)": 230,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Stacey Benson-Taylor (DEM)": 196,
+      "Lori Kennedy (REP)": 150,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Stacey Benson-Taylor (DEM)": 188,
+      "Lori Kennedy (REP)": 202,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Stacey Benson-Taylor (DEM)": 241,
+      "Lori Kennedy (REP)": 161,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Stacey Benson-Taylor (DEM)": 239,
+      "Lori Kennedy (REP)": 302,
+      "Total Votes Cast": 541,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Stacey Benson-Taylor (DEM)": 199,
+      "Lori Kennedy (REP)": 227,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Stacey Benson-Taylor (DEM)": 343,
+      "Lori Kennedy (REP)": 291,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Stacey Benson-Taylor (DEM)": 302,
+      "Lori Kennedy (REP)": 117,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Stacey Benson-Taylor (DEM)": 264,
+      "Lori Kennedy (REP)": 227,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Stacey Benson-Taylor (DEM)": 203,
+      "Lori Kennedy (REP)": 153,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Stacey Benson-Taylor (DEM)": 368,
+      "Lori Kennedy (REP)": 27,
+      "Total Votes Cast": 395,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Stacey Benson-Taylor (DEM)": 228,
+      "Lori Kennedy (REP)": 19,
+      "Total Votes Cast": 247,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Stacey Benson-Taylor (DEM)": 424,
+      "Lori Kennedy (REP)": 53,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Stacey Benson-Taylor (DEM)": 174,
+      "Lori Kennedy (REP)": 18,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Stacey Benson-Taylor (DEM)": 250,
+      "Lori Kennedy (REP)": 29,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Stacey Benson-Taylor (DEM)": 494,
+      "Lori Kennedy (REP)": 37,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Stacey Benson-Taylor (DEM)": 408,
+      "Lori Kennedy (REP)": 29,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Stacey Benson-Taylor (DEM)": 473,
+      "Lori Kennedy (REP)": 24,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Stacey Benson-Taylor (DEM)": 330,
+      "Lori Kennedy (REP)": 19,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Stacey Benson-Taylor (DEM)": 381,
+      "Lori Kennedy (REP)": 29,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Stacey Benson-Taylor (DEM)": 386,
+      "Lori Kennedy (REP)": 40,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Stacey Benson-Taylor (DEM)": 298,
+      "Lori Kennedy (REP)": 26,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Stacey Benson-Taylor (DEM)": 345,
+      "Lori Kennedy (REP)": 36,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Stacey Benson-Taylor (DEM)": 673,
+      "Lori Kennedy (REP)": 47,
+      "Total Votes Cast": 720,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Stacey Benson-Taylor (DEM)": 405,
+      "Lori Kennedy (REP)": 23,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Stacey Benson-Taylor (DEM)": 274,
+      "Lori Kennedy (REP)": 54,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Stacey Benson-Taylor (DEM)": 341,
+      "Lori Kennedy (REP)": 89,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Stacey Benson-Taylor (DEM)": 410,
+      "Lori Kennedy (REP)": 62,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Stacey Benson-Taylor (DEM)": 242,
+      "Lori Kennedy (REP)": 47,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Stacey Benson-Taylor (DEM)": 280,
+      "Lori Kennedy (REP)": 31,
+      "Total Votes Cast": 311,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Stacey Benson-Taylor (DEM)": 446,
+      "Lori Kennedy (REP)": 87,
+      "Total Votes Cast": 533,
+      "Overvotes": 1,
+      "Undervotes": 37,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Stacey Benson-Taylor (DEM)": 317,
+      "Lori Kennedy (REP)": 63,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Stacey Benson-Taylor (DEM)": 295,
+      "Lori Kennedy (REP)": 90,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Stacey Benson-Taylor (DEM)": 185,
+      "Lori Kennedy (REP)": 6,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Stacey Benson-Taylor (DEM)": 429,
+      "Lori Kennedy (REP)": 27,
+      "Total Votes Cast": 456,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Stacey Benson-Taylor (DEM)": 355,
+      "Lori Kennedy (REP)": 18,
+      "Total Votes Cast": 373,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Stacey Benson-Taylor (DEM)": 335,
+      "Lori Kennedy (REP)": 405,
+      "Total Votes Cast": 740,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Stacey Benson-Taylor (DEM)": 390,
+      "Lori Kennedy (REP)": 398,
+      "Total Votes Cast": 788,
+      "Overvotes": 0,
+      "Undervotes": 86,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Stacey Benson-Taylor (DEM)": 217,
+      "Lori Kennedy (REP)": 313,
+      "Total Votes Cast": 530,
+      "Overvotes": 1,
+      "Undervotes": 42,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Stacey Benson-Taylor (DEM)": 225,
+      "Lori Kennedy (REP)": 335,
+      "Total Votes Cast": 560,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Stacey Benson-Taylor (DEM)": 318,
+      "Lori Kennedy (REP)": 37,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Stacey Benson-Taylor (DEM)": 325,
+      "Lori Kennedy (REP)": 24,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Stacey Benson-Taylor (DEM)": 500,
+      "Lori Kennedy (REP)": 41,
+      "Total Votes Cast": 541,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Stacey Benson-Taylor (DEM)": 611,
+      "Lori Kennedy (REP)": 73,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Stacey Benson-Taylor (DEM)": 460,
+      "Lori Kennedy (REP)": 54,
+      "Total Votes Cast": 514,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Stacey Benson-Taylor (DEM)": 732,
+      "Lori Kennedy (REP)": 35,
+      "Total Votes Cast": 767,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Stacey Benson-Taylor (DEM)": 407,
+      "Lori Kennedy (REP)": 101,
+      "Total Votes Cast": 508,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Stacey Benson-Taylor (DEM)": 399,
+      "Lori Kennedy (REP)": 366,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Stacey Benson-Taylor (DEM)": 305,
+      "Lori Kennedy (REP)": 415,
+      "Total Votes Cast": 720,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Stacey Benson-Taylor (DEM)": 371,
+      "Lori Kennedy (REP)": 303,
+      "Total Votes Cast": 674,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Stacey Benson-Taylor (DEM)": 357,
+      "Lori Kennedy (REP)": 480,
+      "Total Votes Cast": 837,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Stacey Benson-Taylor (DEM)": 452,
+      "Lori Kennedy (REP)": 352,
+      "Total Votes Cast": 804,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Stacey Benson-Taylor (DEM)": 258,
+      "Lori Kennedy (REP)": 400,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Stacey Benson-Taylor (DEM)": 341,
+      "Lori Kennedy (REP)": 409,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Stacey Benson-Taylor (DEM)": 270,
+      "Lori Kennedy (REP)": 324,
+      "Total Votes Cast": 594,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Stacey Benson-Taylor (DEM)": 281,
+      "Lori Kennedy (REP)": 272,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Stacey Benson-Taylor (DEM)": 371,
+      "Lori Kennedy (REP)": 299,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Stacey Benson-Taylor (DEM)": 110,
+      "Lori Kennedy (REP)": 392,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Stacey Benson-Taylor (DEM)": 161,
+      "Lori Kennedy (REP)": 758,
+      "Total Votes Cast": 919,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Stacey Benson-Taylor (DEM)": 172,
+      "Lori Kennedy (REP)": 695,
+      "Total Votes Cast": 867,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Stacey Benson-Taylor (DEM)": 222,
+      "Lori Kennedy (REP)": 510,
+      "Total Votes Cast": 732,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Stacey Benson-Taylor (DEM)": 204,
+      "Lori Kennedy (REP)": 491,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Stacey Benson-Taylor (DEM)": 169,
+      "Lori Kennedy (REP)": 530,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Stacey Benson-Taylor (DEM)": 176,
+      "Lori Kennedy (REP)": 580,
+      "Total Votes Cast": 756,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Stacey Benson-Taylor (DEM)": 125,
+      "Lori Kennedy (REP)": 263,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Stacey Benson-Taylor (DEM)": 163,
+      "Lori Kennedy (REP)": 325,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Stacey Benson-Taylor (DEM)": 192,
+      "Lori Kennedy (REP)": 319,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Stacey Benson-Taylor (DEM)": 504,
+      "Lori Kennedy (REP)": 249,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Stacey Benson-Taylor (DEM)": 108,
+      "Lori Kennedy (REP)": 212,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Stacey Benson-Taylor (DEM)": 261,
+      "Lori Kennedy (REP)": 48,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Stacey Benson-Taylor (DEM)": 414,
+      "Lori Kennedy (REP)": 98,
+      "Total Votes Cast": 512,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Stacey Benson-Taylor (DEM)": 466,
+      "Lori Kennedy (REP)": 76,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Stacey Benson-Taylor (DEM)": 393,
+      "Lori Kennedy (REP)": 121,
+      "Total Votes Cast": 514,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Stacey Benson-Taylor (DEM)": 436,
+      "Lori Kennedy (REP)": 71,
+      "Total Votes Cast": 507,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Stacey Benson-Taylor (DEM)": 406,
+      "Lori Kennedy (REP)": 91,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Stacey Benson-Taylor (DEM)": 527,
+      "Lori Kennedy (REP)": 195,
+      "Total Votes Cast": 722,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Stacey Benson-Taylor (DEM)": 731,
+      "Lori Kennedy (REP)": 83,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Stacey Benson-Taylor (DEM)": 158,
+      "Lori Kennedy (REP)": 303,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Stacey Benson-Taylor (DEM)": 551,
+      "Lori Kennedy (REP)": 149,
+      "Total Votes Cast": 700,
+      "Overvotes": 1,
+      "Undervotes": 44,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Stacey Benson-Taylor (DEM)": 292,
+      "Lori Kennedy (REP)": 464,
+      "Total Votes Cast": 756,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Stacey Benson-Taylor (DEM)": 440,
+      "Lori Kennedy (REP)": 476,
+      "Total Votes Cast": 916,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Stacey Benson-Taylor (DEM)": 407,
+      "Lori Kennedy (REP)": 270,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Stacey Benson-Taylor (DEM)": 347,
+      "Lori Kennedy (REP)": 487,
+      "Total Votes Cast": 834,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Stacey Benson-Taylor (DEM)": 346,
+      "Lori Kennedy (REP)": 424,
+      "Total Votes Cast": 770,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Stacey Benson-Taylor (DEM)": 338,
+      "Lori Kennedy (REP)": 487,
+      "Total Votes Cast": 825,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Stacey Benson-Taylor (DEM)": 241,
+      "Lori Kennedy (REP)": 349,
+      "Total Votes Cast": 590,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Stacey Benson-Taylor (DEM)": 328,
+      "Lori Kennedy (REP)": 213,
+      "Total Votes Cast": 541,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Stacey Benson-Taylor (DEM)": 231,
+      "Lori Kennedy (REP)": 311,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Stacey Benson-Taylor (DEM)": 299,
+      "Lori Kennedy (REP)": 485,
+      "Total Votes Cast": 784,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Stacey Benson-Taylor (DEM)": 316,
+      "Lori Kennedy (REP)": 286,
+      "Total Votes Cast": 602,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Stacey Benson-Taylor (DEM)": 311,
+      "Lori Kennedy (REP)": 425,
+      "Total Votes Cast": 736,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Stacey Benson-Taylor (DEM)": 272,
+      "Lori Kennedy (REP)": 410,
+      "Total Votes Cast": 682,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Stacey Benson-Taylor (DEM)": 369,
+      "Lori Kennedy (REP)": 395,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Stacey Benson-Taylor (DEM)": 384,
+      "Lori Kennedy (REP)": 369,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Stacey Benson-Taylor (DEM)": 294,
+      "Lori Kennedy (REP)": 395,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Stacey Benson-Taylor (DEM)": 348,
+      "Lori Kennedy (REP)": 346,
+      "Total Votes Cast": 694,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Stacey Benson-Taylor (DEM)": 312,
+      "Lori Kennedy (REP)": 383,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Stacey Benson-Taylor (DEM)": 318,
+      "Lori Kennedy (REP)": 399,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Stacey Benson-Taylor (DEM)": 269,
+      "Lori Kennedy (REP)": 329,
+      "Total Votes Cast": 598,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Stacey Benson-Taylor (DEM)": 314,
+      "Lori Kennedy (REP)": 483,
+      "Total Votes Cast": 797,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Stacey Benson-Taylor (DEM)": 335,
+      "Lori Kennedy (REP)": 405,
+      "Total Votes Cast": 740,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Stacey Benson-Taylor (DEM)": 262,
+      "Lori Kennedy (REP)": 450,
+      "Total Votes Cast": 712,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Stacey Benson-Taylor (DEM)": 156,
+      "Lori Kennedy (REP)": 721,
+      "Total Votes Cast": 877,
+      "Overvotes": 0,
+      "Undervotes": 82,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Stacey Benson-Taylor (DEM)": 114,
+      "Lori Kennedy (REP)": 489,
+      "Total Votes Cast": 603,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Stacey Benson-Taylor (DEM)": 463,
+      "Lori Kennedy (REP)": 423,
+      "Total Votes Cast": 886,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Stacey Benson-Taylor (DEM)": 342,
+      "Lori Kennedy (REP)": 167,
+      "Total Votes Cast": 509,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Stacey Benson-Taylor (DEM)": 241,
+      "Lori Kennedy (REP)": 401,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Stacey Benson-Taylor (DEM)": 608,
+      "Lori Kennedy (REP)": 40,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Stacey Benson-Taylor (DEM)": 96,
+      "Lori Kennedy (REP)": 324,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Stacey Benson-Taylor (DEM)": 160,
+      "Lori Kennedy (REP)": 515,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Stacey Benson-Taylor (DEM)": 332,
+      "Lori Kennedy (REP)": 274,
+      "Total Votes Cast": 606,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Stacey Benson-Taylor (DEM)": 218,
+      "Lori Kennedy (REP)": 384,
+      "Total Votes Cast": 602,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Stacey Benson-Taylor (DEM)": 321,
+      "Lori Kennedy (REP)": 471,
+      "Total Votes Cast": 792,
+      "Overvotes": 0,
+      "Undervotes": 82,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Stacey Benson-Taylor (DEM)": 372,
+      "Lori Kennedy (REP)": 394,
+      "Total Votes Cast": 766,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Stacey Benson-Taylor (DEM)": 257,
+      "Lori Kennedy (REP)": 359,
+      "Total Votes Cast": 616,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Stacey Benson-Taylor (DEM)": 256,
+      "Lori Kennedy (REP)": 353,
+      "Total Votes Cast": 609,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Stacey Benson-Taylor (DEM)": 286,
+      "Lori Kennedy (REP)": 357,
+      "Total Votes Cast": 643,
+      "Overvotes": 1,
+      "Undervotes": 65,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Stacey Benson-Taylor (DEM)": 380,
+      "Lori Kennedy (REP)": 456,
+      "Total Votes Cast": 836,
+      "Overvotes": 1,
+      "Undervotes": 75,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Stacey Benson-Taylor (DEM)": 335,
+      "Lori Kennedy (REP)": 386,
+      "Total Votes Cast": 721,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Stacey Benson-Taylor (DEM)": 323,
+      "Lori Kennedy (REP)": 366,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Stacey Benson-Taylor (DEM)": 307,
+      "Lori Kennedy (REP)": 369,
+      "Total Votes Cast": 676,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Stacey Benson-Taylor (DEM)": 339,
+      "Lori Kennedy (REP)": 380,
+      "Total Votes Cast": 719,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Stacey Benson-Taylor (DEM)": 381,
+      "Lori Kennedy (REP)": 415,
+      "Total Votes Cast": 796,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Stacey Benson-Taylor (DEM)": 296,
+      "Lori Kennedy (REP)": 438,
+      "Total Votes Cast": 734,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Stacey Benson-Taylor (DEM)": 247,
+      "Lori Kennedy (REP)": 350,
+      "Total Votes Cast": 597,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Stacey Benson-Taylor (DEM)": 364,
+      "Lori Kennedy (REP)": 579,
+      "Total Votes Cast": 943,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Stacey Benson-Taylor (DEM)": 354,
+      "Lori Kennedy (REP)": 438,
+      "Total Votes Cast": 792,
+      "Overvotes": 1,
+      "Undervotes": 80,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Stacey Benson-Taylor (DEM)": 269,
+      "Lori Kennedy (REP)": 341,
+      "Total Votes Cast": 610,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Stacey Benson-Taylor (DEM)": 264,
+      "Lori Kennedy (REP)": 241,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Stacey Benson-Taylor (DEM)": 379,
+      "Lori Kennedy (REP)": 386,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Stacey Benson-Taylor (DEM)": 423,
+      "Lori Kennedy (REP)": 341,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Stacey Benson-Taylor (DEM)": 293,
+      "Lori Kennedy (REP)": 439,
+      "Total Votes Cast": 732,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Stacey Benson-Taylor (DEM)": 400,
+      "Lori Kennedy (REP)": 239,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Stacey Benson-Taylor (DEM)": 354,
+      "Lori Kennedy (REP)": 428,
+      "Total Votes Cast": 782,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Stacey Benson-Taylor (DEM)": 303,
+      "Lori Kennedy (REP)": 312,
+      "Total Votes Cast": 615,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Stacey Benson-Taylor (DEM)": 279,
+      "Lori Kennedy (REP)": 356,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Stacey Benson-Taylor (DEM)": 351,
+      "Lori Kennedy (REP)": 399,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Stacey Benson-Taylor (DEM)": 259,
+      "Lori Kennedy (REP)": 383,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Stacey Benson-Taylor (DEM)": 283,
+      "Lori Kennedy (REP)": 339,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Stacey Benson-Taylor (DEM)": 410,
+      "Lori Kennedy (REP)": 462,
+      "Total Votes Cast": 872,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Stacey Benson-Taylor (DEM)": 473,
+      "Lori Kennedy (REP)": 379,
+      "Total Votes Cast": 852,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Stacey Benson-Taylor (DEM)": 556,
+      "Lori Kennedy (REP)": 300,
+      "Total Votes Cast": 856,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Stacey Benson-Taylor (DEM)": 222,
+      "Lori Kennedy (REP)": 291,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Stacey Benson-Taylor (DEM)": 395,
+      "Lori Kennedy (REP)": 361,
+      "Total Votes Cast": 756,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Stacey Benson-Taylor (DEM)": 324,
+      "Lori Kennedy (REP)": 344,
+      "Total Votes Cast": 668,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Stacey Benson-Taylor (DEM)": 369,
+      "Lori Kennedy (REP)": 342,
+      "Total Votes Cast": 711,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Stacey Benson-Taylor (DEM)": 404,
+      "Lori Kennedy (REP)": 511,
+      "Total Votes Cast": 915,
+      "Overvotes": 1,
+      "Undervotes": 80,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Stacey Benson-Taylor (DEM)": 280,
+      "Lori Kennedy (REP)": 336,
+      "Total Votes Cast": 616,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Stacey Benson-Taylor (DEM)": 440,
+      "Lori Kennedy (REP)": 333,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Stacey Benson-Taylor (DEM)": 413,
+      "Lori Kennedy (REP)": 282,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Stacey Benson-Taylor (DEM)": 357,
+      "Lori Kennedy (REP)": 368,
+      "Total Votes Cast": 725,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Stacey Benson-Taylor (DEM)": 288,
+      "Lori Kennedy (REP)": 518,
+      "Total Votes Cast": 806,
+      "Overvotes": 0,
+      "Undervotes": 94,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Stacey Benson-Taylor (DEM)": 230,
+      "Lori Kennedy (REP)": 547,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 82,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Stacey Benson-Taylor (DEM)": 274,
+      "Lori Kennedy (REP)": 439,
+      "Total Votes Cast": 713,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Stacey Benson-Taylor (DEM)": 212,
+      "Lori Kennedy (REP)": 341,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Stacey Benson-Taylor (DEM)": 239,
+      "Lori Kennedy (REP)": 490,
+      "Total Votes Cast": 729,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Stacey Benson-Taylor (DEM)": 236,
+      "Lori Kennedy (REP)": 548,
+      "Total Votes Cast": 784,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Stacey Benson-Taylor (DEM)": 204,
+      "Lori Kennedy (REP)": 342,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Stacey Benson-Taylor (DEM)": 263,
+      "Lori Kennedy (REP)": 453,
+      "Total Votes Cast": 716,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Stacey Benson-Taylor (DEM)": 257,
+      "Lori Kennedy (REP)": 372,
+      "Total Votes Cast": 629,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Stacey Benson-Taylor (DEM)": 241,
+      "Lori Kennedy (REP)": 548,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Stacey Benson-Taylor (DEM)": 225,
+      "Lori Kennedy (REP)": 459,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Stacey Benson-Taylor (DEM)": 174,
+      "Lori Kennedy (REP)": 435,
+      "Total Votes Cast": 609,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Stacey Benson-Taylor (DEM)": 194,
+      "Lori Kennedy (REP)": 358,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Stacey Benson-Taylor (DEM)": 358,
+      "Lori Kennedy (REP)": 654,
+      "Total Votes Cast": 1012,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Stacey Benson-Taylor (DEM)": 295,
+      "Lori Kennedy (REP)": 442,
+      "Total Votes Cast": 737,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Stacey Benson-Taylor (DEM)": 291,
+      "Lori Kennedy (REP)": 349,
+      "Total Votes Cast": 640,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Stacey Benson-Taylor (DEM)": 157,
+      "Lori Kennedy (REP)": 608,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Stacey Benson-Taylor (DEM)": 310,
+      "Lori Kennedy (REP)": 348,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Stacey Benson-Taylor (DEM)": 337,
+      "Lori Kennedy (REP)": 556,
+      "Total Votes Cast": 893,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Stacey Benson-Taylor (DEM)": 333,
+      "Lori Kennedy (REP)": 353,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Stacey Benson-Taylor (DEM)": 248,
+      "Lori Kennedy (REP)": 367,
+      "Total Votes Cast": 615,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Stacey Benson-Taylor (DEM)": 276,
+      "Lori Kennedy (REP)": 363,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Stacey Benson-Taylor (DEM)": 198,
+      "Lori Kennedy (REP)": 185,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Stacey Benson-Taylor (DEM)": 138,
+      "Lori Kennedy (REP)": 510,
+      "Total Votes Cast": 648,
+      "Overvotes": 1,
+      "Undervotes": 48,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Stacey Benson-Taylor (DEM)": 328,
+      "Lori Kennedy (REP)": 523,
+      "Total Votes Cast": 851,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Stacey Benson-Taylor (DEM)": 237,
+      "Lori Kennedy (REP)": 330,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Stacey Benson-Taylor (DEM)": 268,
+      "Lori Kennedy (REP)": 384,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Stacey Benson-Taylor (DEM)": 297,
+      "Lori Kennedy (REP)": 446,
+      "Total Votes Cast": 743,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Stacey Benson-Taylor (DEM)": 280,
+      "Lori Kennedy (REP)": 404,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Stacey Benson-Taylor (DEM)": 262,
+      "Lori Kennedy (REP)": 226,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Stacey Benson-Taylor (DEM)": 362,
+      "Lori Kennedy (REP)": 375,
+      "Total Votes Cast": 737,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Stacey Benson-Taylor (DEM)": 179,
+      "Lori Kennedy (REP)": 210,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Stacey Benson-Taylor (DEM)": 210,
+      "Lori Kennedy (REP)": 476,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Stacey Benson-Taylor (DEM)": 210,
+      "Lori Kennedy (REP)": 355,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Stacey Benson-Taylor (DEM)": 266,
+      "Lori Kennedy (REP)": 296,
+      "Total Votes Cast": 562,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Stacey Benson-Taylor (DEM)": 232,
+      "Lori Kennedy (REP)": 430,
+      "Total Votes Cast": 662,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Stacey Benson-Taylor (DEM)": 132,
+      "Lori Kennedy (REP)": 294,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Stacey Benson-Taylor (DEM)": 286,
+      "Lori Kennedy (REP)": 481,
+      "Total Votes Cast": 767,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Stacey Benson-Taylor (DEM)": 160,
+      "Lori Kennedy (REP)": 316,
+      "Total Votes Cast": 476,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Stacey Benson-Taylor (DEM)": 191,
+      "Lori Kennedy (REP)": 229,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Stacey Benson-Taylor (DEM)": 234,
+      "Lori Kennedy (REP)": 124,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Stacey Benson-Taylor (DEM)": 455,
+      "Lori Kennedy (REP)": 321,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Stacey Benson-Taylor (DEM)": 416,
+      "Lori Kennedy (REP)": 361,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Stacey Benson-Taylor (DEM)": 395,
+      "Lori Kennedy (REP)": 220,
+      "Total Votes Cast": 615,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Stacey Benson-Taylor (DEM)": 397,
+      "Lori Kennedy (REP)": 232,
+      "Total Votes Cast": 629,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Stacey Benson-Taylor (DEM)": 454,
+      "Lori Kennedy (REP)": 209,
+      "Total Votes Cast": 663,
+      "Overvotes": 1,
+      "Undervotes": 38,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Stacey Benson-Taylor (DEM)": 544,
+      "Lori Kennedy (REP)": 270,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Stacey Benson-Taylor (DEM)": 389,
+      "Lori Kennedy (REP)": 306,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Stacey Benson-Taylor (DEM)": 296,
+      "Lori Kennedy (REP)": 262,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Stacey Benson-Taylor (DEM)": 77,
+      "Lori Kennedy (REP)": 454,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Stacey Benson-Taylor (DEM)": 132,
+      "Lori Kennedy (REP)": 466,
+      "Total Votes Cast": 598,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Stacey Benson-Taylor (DEM)": 126,
+      "Lori Kennedy (REP)": 558,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Stacey Benson-Taylor (DEM)": 59,
+      "Lori Kennedy (REP)": 159,
+      "Total Votes Cast": 218,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Stacey Benson-Taylor (DEM)": 240,
+      "Lori Kennedy (REP)": 252,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Stacey Benson-Taylor (DEM)": 120,
+      "Lori Kennedy (REP)": 370,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Stacey Benson-Taylor (DEM)": 236,
+      "Lori Kennedy (REP)": 395,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Stacey Benson-Taylor (DEM)": 162,
+      "Lori Kennedy (REP)": 345,
+      "Total Votes Cast": 507,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Stacey Benson-Taylor (DEM)": 302,
+      "Lori Kennedy (REP)": 340,
+      "Total Votes Cast": 642,
+      "Overvotes": 1,
+      "Undervotes": 65,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Stacey Benson-Taylor (DEM)": 209,
+      "Lori Kennedy (REP)": 444,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Stacey Benson-Taylor (DEM)": 162,
+      "Lori Kennedy (REP)": 397,
+      "Total Votes Cast": 559,
+      "Overvotes": 1,
+      "Undervotes": 60,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Stacey Benson-Taylor (DEM)": 252,
+      "Lori Kennedy (REP)": 309,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Stacey Benson-Taylor (DEM)": 173,
+      "Lori Kennedy (REP)": 305,
+      "Total Votes Cast": 478,
+      "Overvotes": 1,
+      "Undervotes": 60,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Stacey Benson-Taylor (DEM)": 120,
+      "Lori Kennedy (REP)": 203,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Stacey Benson-Taylor (DEM)": 160,
+      "Lori Kennedy (REP)": 322,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Stacey Benson-Taylor (DEM)": 161,
+      "Lori Kennedy (REP)": 306,
+      "Total Votes Cast": 467,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Stacey Benson-Taylor (DEM)": 285,
+      "Lori Kennedy (REP)": 351,
+      "Total Votes Cast": 636,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Stacey Benson-Taylor (DEM)": 113,
+      "Lori Kennedy (REP)": 267,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Stacey Benson-Taylor (DEM)": 270,
+      "Lori Kennedy (REP)": 397,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Stacey Benson-Taylor (DEM)": 188,
+      "Lori Kennedy (REP)": 291,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Stacey Benson-Taylor (DEM)": 256,
+      "Lori Kennedy (REP)": 393,
+      "Total Votes Cast": 649,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Stacey Benson-Taylor (DEM)": 292,
+      "Lori Kennedy (REP)": 398,
+      "Total Votes Cast": 690,
+      "Overvotes": 1,
+      "Undervotes": 66,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Stacey Benson-Taylor (DEM)": 504,
+      "Lori Kennedy (REP)": 181,
+      "Total Votes Cast": 685,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Stacey Benson-Taylor (DEM)": 276,
+      "Lori Kennedy (REP)": 99,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Stacey Benson-Taylor (DEM)": 465,
+      "Lori Kennedy (REP)": 29,
+      "Total Votes Cast": 494,
+      "Overvotes": 1,
+      "Undervotes": 40,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Stacey Benson-Taylor (DEM)": 374,
+      "Lori Kennedy (REP)": 41,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Stacey Benson-Taylor (DEM)": 648,
+      "Lori Kennedy (REP)": 42,
+      "Total Votes Cast": 690,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Stacey Benson-Taylor (DEM)": 507,
+      "Lori Kennedy (REP)": 72,
+      "Total Votes Cast": 579,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Stacey Benson-Taylor (DEM)": 589,
+      "Lori Kennedy (REP)": 82,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Stacey Benson-Taylor (DEM)": 443,
+      "Lori Kennedy (REP)": 40,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Stacey Benson-Taylor (DEM)": 286,
+      "Lori Kennedy (REP)": 109,
+      "Total Votes Cast": 395,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Stacey Benson-Taylor (DEM)": 439,
+      "Lori Kennedy (REP)": 30,
+      "Total Votes Cast": 469,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Stacey Benson-Taylor (DEM)": 298,
+      "Lori Kennedy (REP)": 135,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Stacey Benson-Taylor (DEM)": 246,
+      "Lori Kennedy (REP)": 312,
+      "Total Votes Cast": 558,
+      "Overvotes": 1,
+      "Undervotes": 51,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Stacey Benson-Taylor (DEM)": 267,
+      "Lori Kennedy (REP)": 168,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Stacey Benson-Taylor (DEM)": 529,
+      "Lori Kennedy (REP)": 98,
+      "Total Votes Cast": 627,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Stacey Benson-Taylor (DEM)": 578,
+      "Lori Kennedy (REP)": 53,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Stacey Benson-Taylor (DEM)": 463,
+      "Lori Kennedy (REP)": 63,
+      "Total Votes Cast": 526,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Stacey Benson-Taylor (DEM)": 357,
+      "Lori Kennedy (REP)": 66,
+      "Total Votes Cast": 423,
+      "Overvotes": 1,
+      "Undervotes": 25,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Stacey Benson-Taylor (DEM)": 392,
+      "Lori Kennedy (REP)": 50,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Stacey Benson-Taylor (DEM)": 134,
+      "Lori Kennedy (REP)": 302,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Stacey Benson-Taylor (DEM)": 248,
+      "Lori Kennedy (REP)": 412,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Stacey Benson-Taylor (DEM)": 238,
+      "Lori Kennedy (REP)": 504,
+      "Total Votes Cast": 742,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Stacey Benson-Taylor (DEM)": 293,
+      "Lori Kennedy (REP)": 484,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Stacey Benson-Taylor (DEM)": 227,
+      "Lori Kennedy (REP)": 527,
+      "Total Votes Cast": 754,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Stacey Benson-Taylor (DEM)": 233,
+      "Lori Kennedy (REP)": 431,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Stacey Benson-Taylor (DEM)": 122,
+      "Lori Kennedy (REP)": 292,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Stacey Benson-Taylor (DEM)": 235,
+      "Lori Kennedy (REP)": 536,
+      "Total Votes Cast": 771,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Stacey Benson-Taylor (DEM)": 282,
+      "Lori Kennedy (REP)": 411,
+      "Total Votes Cast": 693,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Stacey Benson-Taylor (DEM)": 159,
+      "Lori Kennedy (REP)": 353,
+      "Total Votes Cast": 512,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Stacey Benson-Taylor (DEM)": 296,
+      "Lori Kennedy (REP)": 499,
+      "Total Votes Cast": 795,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Stacey Benson-Taylor (DEM)": 213,
+      "Lori Kennedy (REP)": 404,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Stacey Benson-Taylor (DEM)": 243,
+      "Lori Kennedy (REP)": 606,
+      "Total Votes Cast": 849,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Stacey Benson-Taylor (DEM)": 229,
+      "Lori Kennedy (REP)": 465,
+      "Total Votes Cast": 694,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Stacey Benson-Taylor (DEM)": 291,
+      "Lori Kennedy (REP)": 608,
+      "Total Votes Cast": 899,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Stacey Benson-Taylor (DEM)": 304,
+      "Lori Kennedy (REP)": 502,
+      "Total Votes Cast": 806,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Stacey Benson-Taylor (DEM)": 255,
+      "Lori Kennedy (REP)": 454,
+      "Total Votes Cast": 709,
+      "Overvotes": 1,
+      "Undervotes": 68,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Stacey Benson-Taylor (DEM)": 395,
+      "Lori Kennedy (REP)": 591,
+      "Total Votes Cast": 986,
+      "Overvotes": 0,
+      "Undervotes": 100,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Stacey Benson-Taylor (DEM)": 336,
+      "Lori Kennedy (REP)": 496,
+      "Total Votes Cast": 832,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Stacey Benson-Taylor (DEM)": 244,
+      "Lori Kennedy (REP)": 361,
+      "Total Votes Cast": 605,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Stacey Benson-Taylor (DEM)": 356,
+      "Lori Kennedy (REP)": 509,
+      "Total Votes Cast": 865,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Stacey Benson-Taylor (DEM)": 218,
+      "Lori Kennedy (REP)": 319,
+      "Total Votes Cast": 537,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Stacey Benson-Taylor (DEM)": 392,
+      "Lori Kennedy (REP)": 530,
+      "Total Votes Cast": 922,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Stacey Benson-Taylor (DEM)": 290,
+      "Lori Kennedy (REP)": 436,
+      "Total Votes Cast": 726,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Stacey Benson-Taylor (DEM)": 328,
+      "Lori Kennedy (REP)": 289,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Stacey Benson-Taylor (DEM)": 372,
+      "Lori Kennedy (REP)": 424,
+      "Total Votes Cast": 796,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Stacey Benson-Taylor (DEM)": 283,
+      "Lori Kennedy (REP)": 478,
+      "Total Votes Cast": 761,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Stacey Benson-Taylor (DEM)": 320,
+      "Lori Kennedy (REP)": 314,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 94,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Stacey Benson-Taylor (DEM)": 332,
+      "Lori Kennedy (REP)": 528,
+      "Total Votes Cast": 860,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Stacey Benson-Taylor (DEM)": 403,
+      "Lori Kennedy (REP)": 374,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Stacey Benson-Taylor (DEM)": 350,
+      "Lori Kennedy (REP)": 448,
+      "Total Votes Cast": 798,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Stacey Benson-Taylor (DEM)": 360,
+      "Lori Kennedy (REP)": 538,
+      "Total Votes Cast": 898,
+      "Overvotes": 0,
+      "Undervotes": 92,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Stacey Benson-Taylor (DEM)": 404,
+      "Lori Kennedy (REP)": 478,
+      "Total Votes Cast": 882,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Stacey Benson-Taylor (DEM)": 263,
+      "Lori Kennedy (REP)": 393,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Stacey Benson-Taylor (DEM)": 279,
+      "Lori Kennedy (REP)": 398,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Stacey Benson-Taylor (DEM)": 355,
+      "Lori Kennedy (REP)": 324,
+      "Total Votes Cast": 679,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Stacey Benson-Taylor (DEM)": 320,
+      "Lori Kennedy (REP)": 483,
+      "Total Votes Cast": 803,
+      "Overvotes": 1,
+      "Undervotes": 75,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Stacey Benson-Taylor (DEM)": 305,
+      "Lori Kennedy (REP)": 456,
+      "Total Votes Cast": 761,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Stacey Benson-Taylor (DEM)": 273,
+      "Lori Kennedy (REP)": 273,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Stacey Benson-Taylor (DEM)": 260,
+      "Lori Kennedy (REP)": 390,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Stacey Benson-Taylor (DEM)": 453,
+      "Lori Kennedy (REP)": 551,
+      "Total Votes Cast": 1004,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Stacey Benson-Taylor (DEM)": 294,
+      "Lori Kennedy (REP)": 413,
+      "Total Votes Cast": 707,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Stacey Benson-Taylor (DEM)": 314,
+      "Lori Kennedy (REP)": 437,
+      "Total Votes Cast": 751,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Stacey Benson-Taylor (DEM)": 256,
+      "Lori Kennedy (REP)": 305,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Stacey Benson-Taylor (DEM)": 382,
+      "Lori Kennedy (REP)": 559,
+      "Total Votes Cast": 941,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Stacey Benson-Taylor (DEM)": 241,
+      "Lori Kennedy (REP)": 391,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Stacey Benson-Taylor (DEM)": 230,
+      "Lori Kennedy (REP)": 435,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Stacey Benson-Taylor (DEM)": 214,
+      "Lori Kennedy (REP)": 477,
+      "Total Votes Cast": 691,
+      "Overvotes": 1,
+      "Undervotes": 62,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Stacey Benson-Taylor (DEM)": 229,
+      "Lori Kennedy (REP)": 438,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Stacey Benson-Taylor (DEM)": 272,
+      "Lori Kennedy (REP)": 177,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Stacey Benson-Taylor (DEM)": 240,
+      "Lori Kennedy (REP)": 277,
+      "Total Votes Cast": 517,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Stacey Benson-Taylor (DEM)": 322,
+      "Lori Kennedy (REP)": 371,
+      "Total Votes Cast": 693,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Stacey Benson-Taylor (DEM)": 218,
+      "Lori Kennedy (REP)": 436,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Stacey Benson-Taylor (DEM)": 307,
+      "Lori Kennedy (REP)": 173,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 519
+    }
+  ]
+}

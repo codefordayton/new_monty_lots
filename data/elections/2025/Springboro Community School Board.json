@@ -1,0 +1,16 @@
+{
+  "race": "Springboro Community School Board",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MIATWP-T2",
+      "Jamie Belanger": 91,
+      "Daniel Gudz": 78,
+      "Dave Stuckey": 76,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 295,
+      "Contest Total": 540
+    }
+  ]
+}

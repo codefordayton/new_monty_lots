@@ -1,0 +1,15 @@
+{
+  "race": "Local Option - DAY 4-C - Mozaik Lounge - 5-R Q2",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "DAY 4-C",
+      "Yes": 159,
+      "No": 239,
+      "Total Votes Cast": 398,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 429
+    }
+  ]
+}

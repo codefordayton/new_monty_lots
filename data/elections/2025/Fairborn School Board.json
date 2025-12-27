@@ -1,0 +1,33 @@
+{
+  "race": "Fairborn School Board",
+  "precincts": 3,
+  "results": [
+    {
+      "Precinct": "DAY 3-J2",
+      "Katie Mlod": 97,
+      "Tim Steininger": 80,
+      "Total Votes Cast": 177,
+      "Overvotes": 0,
+      "Undervotes": 141,
+      "Contest Total": 318
+    },
+    {
+      "Precinct": "DAY 3-K2",
+      "Katie Mlod": 17,
+      "Tim Steininger": 22,
+      "Total Votes Cast": 39,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 74
+    },
+    {
+      "Precinct": "RV-K1",
+      "Katie Mlod": 149,
+      "Tim Steininger": 125,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 222,
+      "Contest Total": 496
+    }
+  ]
+}

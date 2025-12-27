@@ -1,0 +1,3435 @@
+{
+  "race": "Justice of Supreme Court 3",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Lisa Forbes (DEM)": 245,
+      "Daniel R. Hawkins (REP)": 603,
+      "Total Votes Cast": 848,
+      "Overvotes": 1,
+      "Undervotes": 74,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Lisa Forbes (DEM)": 180,
+      "Daniel R. Hawkins (REP)": 479,
+      "Total Votes Cast": 659,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Lisa Forbes (DEM)": 204,
+      "Daniel R. Hawkins (REP)": 626,
+      "Total Votes Cast": 830,
+      "Overvotes": 0,
+      "Undervotes": 81,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Lisa Forbes (DEM)": 152,
+      "Daniel R. Hawkins (REP)": 566,
+      "Total Votes Cast": 718,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Lisa Forbes (DEM)": 233,
+      "Daniel R. Hawkins (REP)": 551,
+      "Total Votes Cast": 784,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Lisa Forbes (DEM)": 237,
+      "Daniel R. Hawkins (REP)": 454,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Lisa Forbes (DEM)": 298,
+      "Daniel R. Hawkins (REP)": 585,
+      "Total Votes Cast": 883,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Lisa Forbes (DEM)": 313,
+      "Daniel R. Hawkins (REP)": 496,
+      "Total Votes Cast": 809,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Lisa Forbes (DEM)": 215,
+      "Daniel R. Hawkins (REP)": 358,
+      "Total Votes Cast": 573,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Lisa Forbes (DEM)": 237,
+      "Daniel R. Hawkins (REP)": 413,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Lisa Forbes (DEM)": 216,
+      "Daniel R. Hawkins (REP)": 261,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Lisa Forbes (DEM)": 116,
+      "Daniel R. Hawkins (REP)": 444,
+      "Total Votes Cast": 560,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Lisa Forbes (DEM)": 117,
+      "Daniel R. Hawkins (REP)": 459,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Lisa Forbes (DEM)": 147,
+      "Daniel R. Hawkins (REP)": 709,
+      "Total Votes Cast": 856,
+      "Overvotes": 1,
+      "Undervotes": 74,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Lisa Forbes (DEM)": 148,
+      "Daniel R. Hawkins (REP)": 423,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Lisa Forbes (DEM)": 350,
+      "Daniel R. Hawkins (REP)": 304,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Lisa Forbes (DEM)": 368,
+      "Daniel R. Hawkins (REP)": 499,
+      "Total Votes Cast": 867,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Lisa Forbes (DEM)": 331,
+      "Daniel R. Hawkins (REP)": 238,
+      "Total Votes Cast": 569,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Lisa Forbes (DEM)": 297,
+      "Daniel R. Hawkins (REP)": 308,
+      "Total Votes Cast": 605,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Lisa Forbes (DEM)": 456,
+      "Daniel R. Hawkins (REP)": 362,
+      "Total Votes Cast": 818,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Lisa Forbes (DEM)": 523,
+      "Daniel R. Hawkins (REP)": 310,
+      "Total Votes Cast": 833,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Lisa Forbes (DEM)": 458,
+      "Daniel R. Hawkins (REP)": 350,
+      "Total Votes Cast": 808,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Lisa Forbes (DEM)": 442,
+      "Daniel R. Hawkins (REP)": 340,
+      "Total Votes Cast": 782,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Lisa Forbes (DEM)": 439,
+      "Daniel R. Hawkins (REP)": 263,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Lisa Forbes (DEM)": 337,
+      "Daniel R. Hawkins (REP)": 265,
+      "Total Votes Cast": 602,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Lisa Forbes (DEM)": 395,
+      "Daniel R. Hawkins (REP)": 431,
+      "Total Votes Cast": 826,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Lisa Forbes (DEM)": 229,
+      "Daniel R. Hawkins (REP)": 301,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Lisa Forbes (DEM)": 292,
+      "Daniel R. Hawkins (REP)": 296,
+      "Total Votes Cast": 588,
+      "Overvotes": 1,
+      "Undervotes": 60,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Lisa Forbes (DEM)": 320,
+      "Daniel R. Hawkins (REP)": 450,
+      "Total Votes Cast": 770,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Lisa Forbes (DEM)": 391,
+      "Daniel R. Hawkins (REP)": 476,
+      "Total Votes Cast": 867,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Lisa Forbes (DEM)": 455,
+      "Daniel R. Hawkins (REP)": 490,
+      "Total Votes Cast": 945,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Lisa Forbes (DEM)": 458,
+      "Daniel R. Hawkins (REP)": 487,
+      "Total Votes Cast": 945,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Lisa Forbes (DEM)": 386,
+      "Daniel R. Hawkins (REP)": 641,
+      "Total Votes Cast": 1027,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Lisa Forbes (DEM)": 346,
+      "Daniel R. Hawkins (REP)": 509,
+      "Total Votes Cast": 855,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Lisa Forbes (DEM)": 398,
+      "Daniel R. Hawkins (REP)": 464,
+      "Total Votes Cast": 862,
+      "Overvotes": 0,
+      "Undervotes": 81,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Lisa Forbes (DEM)": 433,
+      "Daniel R. Hawkins (REP)": 536,
+      "Total Votes Cast": 969,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Lisa Forbes (DEM)": 364,
+      "Daniel R. Hawkins (REP)": 452,
+      "Total Votes Cast": 816,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Lisa Forbes (DEM)": 335,
+      "Daniel R. Hawkins (REP)": 385,
+      "Total Votes Cast": 720,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Lisa Forbes (DEM)": 475,
+      "Daniel R. Hawkins (REP)": 563,
+      "Total Votes Cast": 1038,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Lisa Forbes (DEM)": 425,
+      "Daniel R. Hawkins (REP)": 489,
+      "Total Votes Cast": 914,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Lisa Forbes (DEM)": 400,
+      "Daniel R. Hawkins (REP)": 415,
+      "Total Votes Cast": 815,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Lisa Forbes (DEM)": 413,
+      "Daniel R. Hawkins (REP)": 408,
+      "Total Votes Cast": 821,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Lisa Forbes (DEM)": 130,
+      "Daniel R. Hawkins (REP)": 61,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY1-B",
+      "Lisa Forbes (DEM)": 531,
+      "Daniel R. Hawkins (REP)": 175,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Lisa Forbes (DEM)": 381,
+      "Daniel R. Hawkins (REP)": 109,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Lisa Forbes (DEM)": 247,
+      "Daniel R. Hawkins (REP)": 71,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Lisa Forbes (DEM)": 478,
+      "Daniel R. Hawkins (REP)": 139,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Lisa Forbes (DEM)": 191,
+      "Daniel R. Hawkins (REP)": 206,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Lisa Forbes (DEM)": 337,
+      "Daniel R. Hawkins (REP)": 147,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Lisa Forbes (DEM)": 281,
+      "Daniel R. Hawkins (REP)": 209,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Lisa Forbes (DEM)": 188,
+      "Daniel R. Hawkins (REP)": 164,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Lisa Forbes (DEM)": 116,
+      "Daniel R. Hawkins (REP)": 126,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Lisa Forbes (DEM)": 166,
+      "Daniel R. Hawkins (REP)": 183,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Lisa Forbes (DEM)": 418,
+      "Daniel R. Hawkins (REP)": 434,
+      "Total Votes Cast": 852,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Lisa Forbes (DEM)": 262,
+      "Daniel R. Hawkins (REP)": 201,
+      "Total Votes Cast": 463,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Lisa Forbes (DEM)": 126,
+      "Daniel R. Hawkins (REP)": 130,
+      "Total Votes Cast": 256,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Lisa Forbes (DEM)": 385,
+      "Daniel R. Hawkins (REP)": 293,
+      "Total Votes Cast": 678,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Lisa Forbes (DEM)": 171,
+      "Daniel R. Hawkins (REP)": 263,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Lisa Forbes (DEM)": 199,
+      "Daniel R. Hawkins (REP)": 248,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Lisa Forbes (DEM)": 455,
+      "Daniel R. Hawkins (REP)": 324,
+      "Total Votes Cast": 779,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Lisa Forbes (DEM)": 339,
+      "Daniel R. Hawkins (REP)": 314,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Lisa Forbes (DEM)": 463,
+      "Daniel R. Hawkins (REP)": 389,
+      "Total Votes Cast": 852,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Lisa Forbes (DEM)": 358,
+      "Daniel R. Hawkins (REP)": 418,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Lisa Forbes (DEM)": 392,
+      "Daniel R. Hawkins (REP)": 99,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Lisa Forbes (DEM)": 297,
+      "Daniel R. Hawkins (REP)": 77,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Lisa Forbes (DEM)": 301,
+      "Daniel R. Hawkins (REP)": 96,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Lisa Forbes (DEM)": 302,
+      "Daniel R. Hawkins (REP)": 27,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Lisa Forbes (DEM)": 302,
+      "Daniel R. Hawkins (REP)": 50,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Lisa Forbes (DEM)": 249,
+      "Daniel R. Hawkins (REP)": 37,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Lisa Forbes (DEM)": 380,
+      "Daniel R. Hawkins (REP)": 33,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Lisa Forbes (DEM)": 380,
+      "Daniel R. Hawkins (REP)": 28,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Lisa Forbes (DEM)": 372,
+      "Daniel R. Hawkins (REP)": 24,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Lisa Forbes (DEM)": 334,
+      "Daniel R. Hawkins (REP)": 23,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Lisa Forbes (DEM)": 321,
+      "Daniel R. Hawkins (REP)": 28,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Lisa Forbes (DEM)": 256,
+      "Daniel R. Hawkins (REP)": 28,
+      "Total Votes Cast": 284,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Lisa Forbes (DEM)": 361,
+      "Daniel R. Hawkins (REP)": 281,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Lisa Forbes (DEM)": 423,
+      "Daniel R. Hawkins (REP)": 228,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Lisa Forbes (DEM)": 406,
+      "Daniel R. Hawkins (REP)": 239,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Lisa Forbes (DEM)": 384,
+      "Daniel R. Hawkins (REP)": 248,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Lisa Forbes (DEM)": 473,
+      "Daniel R. Hawkins (REP)": 339,
+      "Total Votes Cast": 812,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Lisa Forbes (DEM)": 438,
+      "Daniel R. Hawkins (REP)": 305,
+      "Total Votes Cast": 743,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Lisa Forbes (DEM)": 467,
+      "Daniel R. Hawkins (REP)": 334,
+      "Total Votes Cast": 801,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Lisa Forbes (DEM)": 340,
+      "Daniel R. Hawkins (REP)": 285,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Lisa Forbes (DEM)": 306,
+      "Daniel R. Hawkins (REP)": 245,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Lisa Forbes (DEM)": 214,
+      "Daniel R. Hawkins (REP)": 252,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Lisa Forbes (DEM)": 267,
+      "Daniel R. Hawkins (REP)": 180,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Lisa Forbes (DEM)": 282,
+      "Daniel R. Hawkins (REP)": 286,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Lisa Forbes (DEM)": 270,
+      "Daniel R. Hawkins (REP)": 227,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Lisa Forbes (DEM)": 203,
+      "Daniel R. Hawkins (REP)": 153,
+      "Total Votes Cast": 356,
+      "Overvotes": 1,
+      "Undervotes": 25,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Lisa Forbes (DEM)": 200,
+      "Daniel R. Hawkins (REP)": 190,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Lisa Forbes (DEM)": 239,
+      "Daniel R. Hawkins (REP)": 162,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Lisa Forbes (DEM)": 251,
+      "Daniel R. Hawkins (REP)": 293,
+      "Total Votes Cast": 544,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Lisa Forbes (DEM)": 203,
+      "Daniel R. Hawkins (REP)": 228,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Lisa Forbes (DEM)": 357,
+      "Daniel R. Hawkins (REP)": 290,
+      "Total Votes Cast": 647,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Lisa Forbes (DEM)": 324,
+      "Daniel R. Hawkins (REP)": 108,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Lisa Forbes (DEM)": 275,
+      "Daniel R. Hawkins (REP)": 216,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Lisa Forbes (DEM)": 209,
+      "Daniel R. Hawkins (REP)": 151,
+      "Total Votes Cast": 360,
+      "Overvotes": 1,
+      "Undervotes": 44,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Lisa Forbes (DEM)": 361,
+      "Daniel R. Hawkins (REP)": 31,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Lisa Forbes (DEM)": 222,
+      "Daniel R. Hawkins (REP)": 22,
+      "Total Votes Cast": 244,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Lisa Forbes (DEM)": 423,
+      "Daniel R. Hawkins (REP)": 54,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Lisa Forbes (DEM)": 165,
+      "Daniel R. Hawkins (REP)": 22,
+      "Total Votes Cast": 187,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Lisa Forbes (DEM)": 247,
+      "Daniel R. Hawkins (REP)": 33,
+      "Total Votes Cast": 280,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Lisa Forbes (DEM)": 488,
+      "Daniel R. Hawkins (REP)": 35,
+      "Total Votes Cast": 523,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Lisa Forbes (DEM)": 402,
+      "Daniel R. Hawkins (REP)": 29,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Lisa Forbes (DEM)": 463,
+      "Daniel R. Hawkins (REP)": 22,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Lisa Forbes (DEM)": 311,
+      "Daniel R. Hawkins (REP)": 22,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Lisa Forbes (DEM)": 375,
+      "Daniel R. Hawkins (REP)": 24,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Lisa Forbes (DEM)": 376,
+      "Daniel R. Hawkins (REP)": 42,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Lisa Forbes (DEM)": 299,
+      "Daniel R. Hawkins (REP)": 28,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Lisa Forbes (DEM)": 339,
+      "Daniel R. Hawkins (REP)": 35,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Lisa Forbes (DEM)": 661,
+      "Daniel R. Hawkins (REP)": 55,
+      "Total Votes Cast": 716,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Lisa Forbes (DEM)": 384,
+      "Daniel R. Hawkins (REP)": 29,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Lisa Forbes (DEM)": 272,
+      "Daniel R. Hawkins (REP)": 65,
+      "Total Votes Cast": 337,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Lisa Forbes (DEM)": 338,
+      "Daniel R. Hawkins (REP)": 81,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Lisa Forbes (DEM)": 402,
+      "Daniel R. Hawkins (REP)": 56,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Lisa Forbes (DEM)": 249,
+      "Daniel R. Hawkins (REP)": 46,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Lisa Forbes (DEM)": 279,
+      "Daniel R. Hawkins (REP)": 31,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Lisa Forbes (DEM)": 444,
+      "Daniel R. Hawkins (REP)": 89,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Lisa Forbes (DEM)": 320,
+      "Daniel R. Hawkins (REP)": 65,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Lisa Forbes (DEM)": 301,
+      "Daniel R. Hawkins (REP)": 79,
+      "Total Votes Cast": 380,
+      "Overvotes": 1,
+      "Undervotes": 26,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Lisa Forbes (DEM)": 180,
+      "Daniel R. Hawkins (REP)": 7,
+      "Total Votes Cast": 187,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Lisa Forbes (DEM)": 418,
+      "Daniel R. Hawkins (REP)": 34,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Lisa Forbes (DEM)": 347,
+      "Daniel R. Hawkins (REP)": 19,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Lisa Forbes (DEM)": 353,
+      "Daniel R. Hawkins (REP)": 392,
+      "Total Votes Cast": 745,
+      "Overvotes": 1,
+      "Undervotes": 67,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Lisa Forbes (DEM)": 402,
+      "Daniel R. Hawkins (REP)": 409,
+      "Total Votes Cast": 811,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Lisa Forbes (DEM)": 226,
+      "Daniel R. Hawkins (REP)": 312,
+      "Total Votes Cast": 538,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Lisa Forbes (DEM)": 246,
+      "Daniel R. Hawkins (REP)": 325,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Lisa Forbes (DEM)": 308,
+      "Daniel R. Hawkins (REP)": 35,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Lisa Forbes (DEM)": 314,
+      "Daniel R. Hawkins (REP)": 27,
+      "Total Votes Cast": 341,
+      "Overvotes": 1,
+      "Undervotes": 30,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Lisa Forbes (DEM)": 481,
+      "Daniel R. Hawkins (REP)": 46,
+      "Total Votes Cast": 527,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Lisa Forbes (DEM)": 603,
+      "Daniel R. Hawkins (REP)": 76,
+      "Total Votes Cast": 679,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Lisa Forbes (DEM)": 456,
+      "Daniel R. Hawkins (REP)": 57,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Lisa Forbes (DEM)": 709,
+      "Daniel R. Hawkins (REP)": 36,
+      "Total Votes Cast": 745,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Lisa Forbes (DEM)": 403,
+      "Daniel R. Hawkins (REP)": 116,
+      "Total Votes Cast": 519,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Lisa Forbes (DEM)": 403,
+      "Daniel R. Hawkins (REP)": 376,
+      "Total Votes Cast": 779,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Lisa Forbes (DEM)": 311,
+      "Daniel R. Hawkins (REP)": 409,
+      "Total Votes Cast": 720,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Lisa Forbes (DEM)": 391,
+      "Daniel R. Hawkins (REP)": 298,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Lisa Forbes (DEM)": 356,
+      "Daniel R. Hawkins (REP)": 482,
+      "Total Votes Cast": 838,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Lisa Forbes (DEM)": 463,
+      "Daniel R. Hawkins (REP)": 340,
+      "Total Votes Cast": 803,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Lisa Forbes (DEM)": 270,
+      "Daniel R. Hawkins (REP)": 399,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Lisa Forbes (DEM)": 354,
+      "Daniel R. Hawkins (REP)": 401,
+      "Total Votes Cast": 755,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Lisa Forbes (DEM)": 278,
+      "Daniel R. Hawkins (REP)": 308,
+      "Total Votes Cast": 586,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Lisa Forbes (DEM)": 282,
+      "Daniel R. Hawkins (REP)": 270,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Lisa Forbes (DEM)": 380,
+      "Daniel R. Hawkins (REP)": 294,
+      "Total Votes Cast": 674,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Lisa Forbes (DEM)": 120,
+      "Daniel R. Hawkins (REP)": 395,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Lisa Forbes (DEM)": 173,
+      "Daniel R. Hawkins (REP)": 744,
+      "Total Votes Cast": 917,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Lisa Forbes (DEM)": 187,
+      "Daniel R. Hawkins (REP)": 707,
+      "Total Votes Cast": 894,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Lisa Forbes (DEM)": 244,
+      "Daniel R. Hawkins (REP)": 500,
+      "Total Votes Cast": 744,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Lisa Forbes (DEM)": 206,
+      "Daniel R. Hawkins (REP)": 479,
+      "Total Votes Cast": 685,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Lisa Forbes (DEM)": 183,
+      "Daniel R. Hawkins (REP)": 527,
+      "Total Votes Cast": 710,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Lisa Forbes (DEM)": 197,
+      "Daniel R. Hawkins (REP)": 572,
+      "Total Votes Cast": 769,
+      "Overvotes": 1,
+      "Undervotes": 62,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Lisa Forbes (DEM)": 136,
+      "Daniel R. Hawkins (REP)": 257,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Lisa Forbes (DEM)": 176,
+      "Daniel R. Hawkins (REP)": 322,
+      "Total Votes Cast": 498,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Lisa Forbes (DEM)": 204,
+      "Daniel R. Hawkins (REP)": 311,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Lisa Forbes (DEM)": 498,
+      "Daniel R. Hawkins (REP)": 254,
+      "Total Votes Cast": 752,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Lisa Forbes (DEM)": 116,
+      "Daniel R. Hawkins (REP)": 195,
+      "Total Votes Cast": 311,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Lisa Forbes (DEM)": 252,
+      "Daniel R. Hawkins (REP)": 53,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Lisa Forbes (DEM)": 398,
+      "Daniel R. Hawkins (REP)": 103,
+      "Total Votes Cast": 501,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Lisa Forbes (DEM)": 461,
+      "Daniel R. Hawkins (REP)": 75,
+      "Total Votes Cast": 536,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Lisa Forbes (DEM)": 382,
+      "Daniel R. Hawkins (REP)": 127,
+      "Total Votes Cast": 509,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Lisa Forbes (DEM)": 417,
+      "Daniel R. Hawkins (REP)": 77,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Lisa Forbes (DEM)": 397,
+      "Daniel R. Hawkins (REP)": 96,
+      "Total Votes Cast": 493,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Lisa Forbes (DEM)": 526,
+      "Daniel R. Hawkins (REP)": 201,
+      "Total Votes Cast": 727,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Lisa Forbes (DEM)": 718,
+      "Daniel R. Hawkins (REP)": 90,
+      "Total Votes Cast": 808,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Lisa Forbes (DEM)": 165,
+      "Daniel R. Hawkins (REP)": 297,
+      "Total Votes Cast": 462,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Lisa Forbes (DEM)": 535,
+      "Daniel R. Hawkins (REP)": 147,
+      "Total Votes Cast": 682,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Lisa Forbes (DEM)": 301,
+      "Daniel R. Hawkins (REP)": 472,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Lisa Forbes (DEM)": 447,
+      "Daniel R. Hawkins (REP)": 469,
+      "Total Votes Cast": 916,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Lisa Forbes (DEM)": 417,
+      "Daniel R. Hawkins (REP)": 261,
+      "Total Votes Cast": 678,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Lisa Forbes (DEM)": 357,
+      "Daniel R. Hawkins (REP)": 480,
+      "Total Votes Cast": 837,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Lisa Forbes (DEM)": 358,
+      "Daniel R. Hawkins (REP)": 413,
+      "Total Votes Cast": 771,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Lisa Forbes (DEM)": 352,
+      "Daniel R. Hawkins (REP)": 482,
+      "Total Votes Cast": 834,
+      "Overvotes": 1,
+      "Undervotes": 50,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Lisa Forbes (DEM)": 255,
+      "Daniel R. Hawkins (REP)": 334,
+      "Total Votes Cast": 589,
+      "Overvotes": 2,
+      "Undervotes": 39,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Lisa Forbes (DEM)": 329,
+      "Daniel R. Hawkins (REP)": 206,
+      "Total Votes Cast": 535,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Lisa Forbes (DEM)": 238,
+      "Daniel R. Hawkins (REP)": 303,
+      "Total Votes Cast": 541,
+      "Overvotes": 1,
+      "Undervotes": 48,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Lisa Forbes (DEM)": 315,
+      "Daniel R. Hawkins (REP)": 471,
+      "Total Votes Cast": 786,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Lisa Forbes (DEM)": 324,
+      "Daniel R. Hawkins (REP)": 286,
+      "Total Votes Cast": 610,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Lisa Forbes (DEM)": 319,
+      "Daniel R. Hawkins (REP)": 418,
+      "Total Votes Cast": 737,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Lisa Forbes (DEM)": 276,
+      "Daniel R. Hawkins (REP)": 424,
+      "Total Votes Cast": 700,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Lisa Forbes (DEM)": 380,
+      "Daniel R. Hawkins (REP)": 396,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Lisa Forbes (DEM)": 407,
+      "Daniel R. Hawkins (REP)": 357,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Lisa Forbes (DEM)": 316,
+      "Daniel R. Hawkins (REP)": 371,
+      "Total Votes Cast": 687,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Lisa Forbes (DEM)": 350,
+      "Daniel R. Hawkins (REP)": 331,
+      "Total Votes Cast": 681,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Lisa Forbes (DEM)": 312,
+      "Daniel R. Hawkins (REP)": 385,
+      "Total Votes Cast": 697,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Lisa Forbes (DEM)": 324,
+      "Daniel R. Hawkins (REP)": 400,
+      "Total Votes Cast": 724,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Lisa Forbes (DEM)": 270,
+      "Daniel R. Hawkins (REP)": 328,
+      "Total Votes Cast": 598,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Lisa Forbes (DEM)": 328,
+      "Daniel R. Hawkins (REP)": 479,
+      "Total Votes Cast": 807,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Lisa Forbes (DEM)": 348,
+      "Daniel R. Hawkins (REP)": 407,
+      "Total Votes Cast": 755,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Lisa Forbes (DEM)": 266,
+      "Daniel R. Hawkins (REP)": 442,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Lisa Forbes (DEM)": 176,
+      "Daniel R. Hawkins (REP)": 712,
+      "Total Votes Cast": 888,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Lisa Forbes (DEM)": 127,
+      "Daniel R. Hawkins (REP)": 491,
+      "Total Votes Cast": 618,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Lisa Forbes (DEM)": 449,
+      "Daniel R. Hawkins (REP)": 421,
+      "Total Votes Cast": 870,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Lisa Forbes (DEM)": 335,
+      "Daniel R. Hawkins (REP)": 176,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Lisa Forbes (DEM)": 251,
+      "Daniel R. Hawkins (REP)": 406,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Lisa Forbes (DEM)": 594,
+      "Daniel R. Hawkins (REP)": 51,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Lisa Forbes (DEM)": 102,
+      "Daniel R. Hawkins (REP)": 333,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Lisa Forbes (DEM)": 172,
+      "Daniel R. Hawkins (REP)": 517,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Lisa Forbes (DEM)": 347,
+      "Daniel R. Hawkins (REP)": 269,
+      "Total Votes Cast": 616,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Lisa Forbes (DEM)": 231,
+      "Daniel R. Hawkins (REP)": 365,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Lisa Forbes (DEM)": 356,
+      "Daniel R. Hawkins (REP)": 453,
+      "Total Votes Cast": 809,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Lisa Forbes (DEM)": 385,
+      "Daniel R. Hawkins (REP)": 391,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Lisa Forbes (DEM)": 274,
+      "Daniel R. Hawkins (REP)": 360,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Lisa Forbes (DEM)": 280,
+      "Daniel R. Hawkins (REP)": 344,
+      "Total Votes Cast": 624,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Lisa Forbes (DEM)": 298,
+      "Daniel R. Hawkins (REP)": 358,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Lisa Forbes (DEM)": 399,
+      "Daniel R. Hawkins (REP)": 456,
+      "Total Votes Cast": 855,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Lisa Forbes (DEM)": 347,
+      "Daniel R. Hawkins (REP)": 387,
+      "Total Votes Cast": 734,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Lisa Forbes (DEM)": 352,
+      "Daniel R. Hawkins (REP)": 356,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Lisa Forbes (DEM)": 326,
+      "Daniel R. Hawkins (REP)": 362,
+      "Total Votes Cast": 688,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Lisa Forbes (DEM)": 372,
+      "Daniel R. Hawkins (REP)": 373,
+      "Total Votes Cast": 745,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Lisa Forbes (DEM)": 409,
+      "Daniel R. Hawkins (REP)": 405,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Lisa Forbes (DEM)": 323,
+      "Daniel R. Hawkins (REP)": 432,
+      "Total Votes Cast": 755,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Lisa Forbes (DEM)": 275,
+      "Daniel R. Hawkins (REP)": 343,
+      "Total Votes Cast": 618,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Lisa Forbes (DEM)": 389,
+      "Daniel R. Hawkins (REP)": 575,
+      "Total Votes Cast": 964,
+      "Overvotes": 1,
+      "Undervotes": 65,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Lisa Forbes (DEM)": 382,
+      "Daniel R. Hawkins (REP)": 424,
+      "Total Votes Cast": 806,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Lisa Forbes (DEM)": 288,
+      "Daniel R. Hawkins (REP)": 336,
+      "Total Votes Cast": 624,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Lisa Forbes (DEM)": 276,
+      "Daniel R. Hawkins (REP)": 240,
+      "Total Votes Cast": 516,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Lisa Forbes (DEM)": 398,
+      "Daniel R. Hawkins (REP)": 378,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Lisa Forbes (DEM)": 444,
+      "Daniel R. Hawkins (REP)": 333,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Lisa Forbes (DEM)": 312,
+      "Daniel R. Hawkins (REP)": 435,
+      "Total Votes Cast": 747,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Lisa Forbes (DEM)": 417,
+      "Daniel R. Hawkins (REP)": 228,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Lisa Forbes (DEM)": 391,
+      "Daniel R. Hawkins (REP)": 412,
+      "Total Votes Cast": 803,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Lisa Forbes (DEM)": 321,
+      "Daniel R. Hawkins (REP)": 307,
+      "Total Votes Cast": 628,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Lisa Forbes (DEM)": 306,
+      "Daniel R. Hawkins (REP)": 342,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Lisa Forbes (DEM)": 375,
+      "Daniel R. Hawkins (REP)": 390,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Lisa Forbes (DEM)": 279,
+      "Daniel R. Hawkins (REP)": 374,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Lisa Forbes (DEM)": 314,
+      "Daniel R. Hawkins (REP)": 330,
+      "Total Votes Cast": 644,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Lisa Forbes (DEM)": 435,
+      "Daniel R. Hawkins (REP)": 446,
+      "Total Votes Cast": 881,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Lisa Forbes (DEM)": 514,
+      "Daniel R. Hawkins (REP)": 370,
+      "Total Votes Cast": 884,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Lisa Forbes (DEM)": 569,
+      "Daniel R. Hawkins (REP)": 303,
+      "Total Votes Cast": 872,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Lisa Forbes (DEM)": 245,
+      "Daniel R. Hawkins (REP)": 283,
+      "Total Votes Cast": 528,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Lisa Forbes (DEM)": 413,
+      "Daniel R. Hawkins (REP)": 356,
+      "Total Votes Cast": 769,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Lisa Forbes (DEM)": 353,
+      "Daniel R. Hawkins (REP)": 327,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Lisa Forbes (DEM)": 405,
+      "Daniel R. Hawkins (REP)": 330,
+      "Total Votes Cast": 735,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Lisa Forbes (DEM)": 450,
+      "Daniel R. Hawkins (REP)": 495,
+      "Total Votes Cast": 945,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Lisa Forbes (DEM)": 305,
+      "Daniel R. Hawkins (REP)": 329,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Lisa Forbes (DEM)": 461,
+      "Daniel R. Hawkins (REP)": 339,
+      "Total Votes Cast": 800,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Lisa Forbes (DEM)": 441,
+      "Daniel R. Hawkins (REP)": 280,
+      "Total Votes Cast": 721,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Lisa Forbes (DEM)": 395,
+      "Daniel R. Hawkins (REP)": 347,
+      "Total Votes Cast": 742,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Lisa Forbes (DEM)": 308,
+      "Daniel R. Hawkins (REP)": 519,
+      "Total Votes Cast": 827,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Lisa Forbes (DEM)": 245,
+      "Daniel R. Hawkins (REP)": 545,
+      "Total Votes Cast": 790,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Lisa Forbes (DEM)": 288,
+      "Daniel R. Hawkins (REP)": 446,
+      "Total Votes Cast": 734,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Lisa Forbes (DEM)": 231,
+      "Daniel R. Hawkins (REP)": 335,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Lisa Forbes (DEM)": 265,
+      "Daniel R. Hawkins (REP)": 477,
+      "Total Votes Cast": 742,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Lisa Forbes (DEM)": 256,
+      "Daniel R. Hawkins (REP)": 552,
+      "Total Votes Cast": 808,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Lisa Forbes (DEM)": 214,
+      "Daniel R. Hawkins (REP)": 338,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Lisa Forbes (DEM)": 286,
+      "Daniel R. Hawkins (REP)": 439,
+      "Total Votes Cast": 725,
+      "Overvotes": 1,
+      "Undervotes": 69,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Lisa Forbes (DEM)": 270,
+      "Daniel R. Hawkins (REP)": 372,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Lisa Forbes (DEM)": 257,
+      "Daniel R. Hawkins (REP)": 534,
+      "Total Votes Cast": 791,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Lisa Forbes (DEM)": 241,
+      "Daniel R. Hawkins (REP)": 448,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Lisa Forbes (DEM)": 203,
+      "Daniel R. Hawkins (REP)": 431,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Lisa Forbes (DEM)": 214,
+      "Daniel R. Hawkins (REP)": 351,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Lisa Forbes (DEM)": 386,
+      "Daniel R. Hawkins (REP)": 645,
+      "Total Votes Cast": 1031,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Lisa Forbes (DEM)": 327,
+      "Daniel R. Hawkins (REP)": 422,
+      "Total Votes Cast": 749,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Lisa Forbes (DEM)": 311,
+      "Daniel R. Hawkins (REP)": 349,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Lisa Forbes (DEM)": 167,
+      "Daniel R. Hawkins (REP)": 610,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Lisa Forbes (DEM)": 335,
+      "Daniel R. Hawkins (REP)": 340,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Lisa Forbes (DEM)": 361,
+      "Daniel R. Hawkins (REP)": 559,
+      "Total Votes Cast": 920,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Lisa Forbes (DEM)": 342,
+      "Daniel R. Hawkins (REP)": 352,
+      "Total Votes Cast": 694,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Lisa Forbes (DEM)": 249,
+      "Daniel R. Hawkins (REP)": 385,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Lisa Forbes (DEM)": 304,
+      "Daniel R. Hawkins (REP)": 349,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Lisa Forbes (DEM)": 206,
+      "Daniel R. Hawkins (REP)": 186,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Lisa Forbes (DEM)": 156,
+      "Daniel R. Hawkins (REP)": 493,
+      "Total Votes Cast": 649,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Lisa Forbes (DEM)": 350,
+      "Daniel R. Hawkins (REP)": 524,
+      "Total Votes Cast": 874,
+      "Overvotes": 1,
+      "Undervotes": 64,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Lisa Forbes (DEM)": 252,
+      "Daniel R. Hawkins (REP)": 316,
+      "Total Votes Cast": 568,
+      "Overvotes": 1,
+      "Undervotes": 47,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Lisa Forbes (DEM)": 288,
+      "Daniel R. Hawkins (REP)": 370,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Lisa Forbes (DEM)": 319,
+      "Daniel R. Hawkins (REP)": 434,
+      "Total Votes Cast": 753,
+      "Overvotes": 1,
+      "Undervotes": 47,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Lisa Forbes (DEM)": 288,
+      "Daniel R. Hawkins (REP)": 418,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Lisa Forbes (DEM)": 274,
+      "Daniel R. Hawkins (REP)": 226,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Lisa Forbes (DEM)": 387,
+      "Daniel R. Hawkins (REP)": 365,
+      "Total Votes Cast": 752,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Lisa Forbes (DEM)": 197,
+      "Daniel R. Hawkins (REP)": 195,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Lisa Forbes (DEM)": 232,
+      "Daniel R. Hawkins (REP)": 474,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Lisa Forbes (DEM)": 235,
+      "Daniel R. Hawkins (REP)": 348,
+      "Total Votes Cast": 583,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Lisa Forbes (DEM)": 288,
+      "Daniel R. Hawkins (REP)": 278,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Lisa Forbes (DEM)": 261,
+      "Daniel R. Hawkins (REP)": 419,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Lisa Forbes (DEM)": 147,
+      "Daniel R. Hawkins (REP)": 285,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Lisa Forbes (DEM)": 295,
+      "Daniel R. Hawkins (REP)": 478,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Lisa Forbes (DEM)": 177,
+      "Daniel R. Hawkins (REP)": 306,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Lisa Forbes (DEM)": 201,
+      "Daniel R. Hawkins (REP)": 231,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Lisa Forbes (DEM)": 232,
+      "Daniel R. Hawkins (REP)": 120,
+      "Total Votes Cast": 352,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Lisa Forbes (DEM)": 487,
+      "Daniel R. Hawkins (REP)": 315,
+      "Total Votes Cast": 802,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Lisa Forbes (DEM)": 459,
+      "Daniel R. Hawkins (REP)": 334,
+      "Total Votes Cast": 793,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Lisa Forbes (DEM)": 426,
+      "Daniel R. Hawkins (REP)": 216,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Lisa Forbes (DEM)": 422,
+      "Daniel R. Hawkins (REP)": 228,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Lisa Forbes (DEM)": 471,
+      "Daniel R. Hawkins (REP)": 203,
+      "Total Votes Cast": 674,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Lisa Forbes (DEM)": 582,
+      "Daniel R. Hawkins (REP)": 265,
+      "Total Votes Cast": 847,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Lisa Forbes (DEM)": 432,
+      "Daniel R. Hawkins (REP)": 283,
+      "Total Votes Cast": 715,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Lisa Forbes (DEM)": 324,
+      "Daniel R. Hawkins (REP)": 254,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Lisa Forbes (DEM)": 90,
+      "Daniel R. Hawkins (REP)": 452,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Lisa Forbes (DEM)": 132,
+      "Daniel R. Hawkins (REP)": 468,
+      "Total Votes Cast": 600,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Lisa Forbes (DEM)": 149,
+      "Daniel R. Hawkins (REP)": 550,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Lisa Forbes (DEM)": 62,
+      "Daniel R. Hawkins (REP)": 153,
+      "Total Votes Cast": 215,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Lisa Forbes (DEM)": 239,
+      "Daniel R. Hawkins (REP)": 257,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Lisa Forbes (DEM)": 123,
+      "Daniel R. Hawkins (REP)": 367,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Lisa Forbes (DEM)": 243,
+      "Daniel R. Hawkins (REP)": 389,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Lisa Forbes (DEM)": 177,
+      "Daniel R. Hawkins (REP)": 337,
+      "Total Votes Cast": 514,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Lisa Forbes (DEM)": 315,
+      "Daniel R. Hawkins (REP)": 333,
+      "Total Votes Cast": 648,
+      "Overvotes": 1,
+      "Undervotes": 59,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Lisa Forbes (DEM)": 222,
+      "Daniel R. Hawkins (REP)": 453,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Lisa Forbes (DEM)": 167,
+      "Daniel R. Hawkins (REP)": 405,
+      "Total Votes Cast": 572,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Lisa Forbes (DEM)": 264,
+      "Daniel R. Hawkins (REP)": 295,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Lisa Forbes (DEM)": 189,
+      "Daniel R. Hawkins (REP)": 312,
+      "Total Votes Cast": 501,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Lisa Forbes (DEM)": 131,
+      "Daniel R. Hawkins (REP)": 198,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Lisa Forbes (DEM)": 174,
+      "Daniel R. Hawkins (REP)": 311,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Lisa Forbes (DEM)": 172,
+      "Daniel R. Hawkins (REP)": 303,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Lisa Forbes (DEM)": 299,
+      "Daniel R. Hawkins (REP)": 353,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Lisa Forbes (DEM)": 131,
+      "Daniel R. Hawkins (REP)": 260,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Lisa Forbes (DEM)": 282,
+      "Daniel R. Hawkins (REP)": 383,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Lisa Forbes (DEM)": 198,
+      "Daniel R. Hawkins (REP)": 287,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Lisa Forbes (DEM)": 271,
+      "Daniel R. Hawkins (REP)": 394,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Lisa Forbes (DEM)": 309,
+      "Daniel R. Hawkins (REP)": 395,
+      "Total Votes Cast": 704,
+      "Overvotes": 1,
+      "Undervotes": 52,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Lisa Forbes (DEM)": 498,
+      "Daniel R. Hawkins (REP)": 181,
+      "Total Votes Cast": 679,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Lisa Forbes (DEM)": 274,
+      "Daniel R. Hawkins (REP)": 107,
+      "Total Votes Cast": 381,
+      "Overvotes": 1,
+      "Undervotes": 24,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Lisa Forbes (DEM)": 454,
+      "Daniel R. Hawkins (REP)": 30,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Lisa Forbes (DEM)": 365,
+      "Daniel R. Hawkins (REP)": 45,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Lisa Forbes (DEM)": 637,
+      "Daniel R. Hawkins (REP)": 50,
+      "Total Votes Cast": 687,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Lisa Forbes (DEM)": 496,
+      "Daniel R. Hawkins (REP)": 72,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Lisa Forbes (DEM)": 579,
+      "Daniel R. Hawkins (REP)": 86,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Lisa Forbes (DEM)": 431,
+      "Daniel R. Hawkins (REP)": 40,
+      "Total Votes Cast": 471,
+      "Overvotes": 1,
+      "Undervotes": 47,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Lisa Forbes (DEM)": 277,
+      "Daniel R. Hawkins (REP)": 117,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Lisa Forbes (DEM)": 437,
+      "Daniel R. Hawkins (REP)": 31,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Lisa Forbes (DEM)": 302,
+      "Daniel R. Hawkins (REP)": 135,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Lisa Forbes (DEM)": 263,
+      "Daniel R. Hawkins (REP)": 298,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Lisa Forbes (DEM)": 259,
+      "Daniel R. Hawkins (REP)": 167,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Lisa Forbes (DEM)": 519,
+      "Daniel R. Hawkins (REP)": 103,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Lisa Forbes (DEM)": 572,
+      "Daniel R. Hawkins (REP)": 61,
+      "Total Votes Cast": 633,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Lisa Forbes (DEM)": 454,
+      "Daniel R. Hawkins (REP)": 59,
+      "Total Votes Cast": 513,
+      "Overvotes": 1,
+      "Undervotes": 49,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Lisa Forbes (DEM)": 355,
+      "Daniel R. Hawkins (REP)": 66,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Lisa Forbes (DEM)": 373,
+      "Daniel R. Hawkins (REP)": 55,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Lisa Forbes (DEM)": 145,
+      "Daniel R. Hawkins (REP)": 302,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Lisa Forbes (DEM)": 264,
+      "Daniel R. Hawkins (REP)": 409,
+      "Total Votes Cast": 673,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Lisa Forbes (DEM)": 251,
+      "Daniel R. Hawkins (REP)": 502,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Lisa Forbes (DEM)": 309,
+      "Daniel R. Hawkins (REP)": 482,
+      "Total Votes Cast": 791,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Lisa Forbes (DEM)": 249,
+      "Daniel R. Hawkins (REP)": 522,
+      "Total Votes Cast": 771,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Lisa Forbes (DEM)": 241,
+      "Daniel R. Hawkins (REP)": 432,
+      "Total Votes Cast": 673,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Lisa Forbes (DEM)": 142,
+      "Daniel R. Hawkins (REP)": 278,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Lisa Forbes (DEM)": 264,
+      "Daniel R. Hawkins (REP)": 524,
+      "Total Votes Cast": 788,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Lisa Forbes (DEM)": 291,
+      "Daniel R. Hawkins (REP)": 407,
+      "Total Votes Cast": 698,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Lisa Forbes (DEM)": 163,
+      "Daniel R. Hawkins (REP)": 352,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Lisa Forbes (DEM)": 317,
+      "Daniel R. Hawkins (REP)": 486,
+      "Total Votes Cast": 803,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Lisa Forbes (DEM)": 231,
+      "Daniel R. Hawkins (REP)": 386,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Lisa Forbes (DEM)": 271,
+      "Daniel R. Hawkins (REP)": 584,
+      "Total Votes Cast": 855,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Lisa Forbes (DEM)": 244,
+      "Daniel R. Hawkins (REP)": 457,
+      "Total Votes Cast": 701,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Lisa Forbes (DEM)": 307,
+      "Daniel R. Hawkins (REP)": 590,
+      "Total Votes Cast": 897,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Lisa Forbes (DEM)": 306,
+      "Daniel R. Hawkins (REP)": 506,
+      "Total Votes Cast": 812,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Lisa Forbes (DEM)": 284,
+      "Daniel R. Hawkins (REP)": 445,
+      "Total Votes Cast": 729,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Lisa Forbes (DEM)": 425,
+      "Daniel R. Hawkins (REP)": 584,
+      "Total Votes Cast": 1009,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Lisa Forbes (DEM)": 365,
+      "Daniel R. Hawkins (REP)": 486,
+      "Total Votes Cast": 851,
+      "Overvotes": 1,
+      "Undervotes": 43,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Lisa Forbes (DEM)": 266,
+      "Daniel R. Hawkins (REP)": 363,
+      "Total Votes Cast": 629,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Lisa Forbes (DEM)": 383,
+      "Daniel R. Hawkins (REP)": 489,
+      "Total Votes Cast": 872,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Lisa Forbes (DEM)": 245,
+      "Daniel R. Hawkins (REP)": 306,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Lisa Forbes (DEM)": 432,
+      "Daniel R. Hawkins (REP)": 510,
+      "Total Votes Cast": 942,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Lisa Forbes (DEM)": 318,
+      "Daniel R. Hawkins (REP)": 442,
+      "Total Votes Cast": 760,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Lisa Forbes (DEM)": 340,
+      "Daniel R. Hawkins (REP)": 296,
+      "Total Votes Cast": 636,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Lisa Forbes (DEM)": 379,
+      "Daniel R. Hawkins (REP)": 424,
+      "Total Votes Cast": 803,
+      "Overvotes": 1,
+      "Undervotes": 64,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Lisa Forbes (DEM)": 309,
+      "Daniel R. Hawkins (REP)": 471,
+      "Total Votes Cast": 780,
+      "Overvotes": 2,
+      "Undervotes": 37,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Lisa Forbes (DEM)": 345,
+      "Daniel R. Hawkins (REP)": 327,
+      "Total Votes Cast": 672,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Lisa Forbes (DEM)": 358,
+      "Daniel R. Hawkins (REP)": 522,
+      "Total Votes Cast": 880,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Lisa Forbes (DEM)": 427,
+      "Daniel R. Hawkins (REP)": 368,
+      "Total Votes Cast": 795,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Lisa Forbes (DEM)": 384,
+      "Daniel R. Hawkins (REP)": 435,
+      "Total Votes Cast": 819,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Lisa Forbes (DEM)": 401,
+      "Daniel R. Hawkins (REP)": 524,
+      "Total Votes Cast": 925,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Lisa Forbes (DEM)": 442,
+      "Daniel R. Hawkins (REP)": 475,
+      "Total Votes Cast": 917,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Lisa Forbes (DEM)": 298,
+      "Daniel R. Hawkins (REP)": 380,
+      "Total Votes Cast": 678,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Lisa Forbes (DEM)": 294,
+      "Daniel R. Hawkins (REP)": 395,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Lisa Forbes (DEM)": 370,
+      "Daniel R. Hawkins (REP)": 326,
+      "Total Votes Cast": 696,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Lisa Forbes (DEM)": 360,
+      "Daniel R. Hawkins (REP)": 470,
+      "Total Votes Cast": 830,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Lisa Forbes (DEM)": 343,
+      "Daniel R. Hawkins (REP)": 445,
+      "Total Votes Cast": 788,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Lisa Forbes (DEM)": 295,
+      "Daniel R. Hawkins (REP)": 257,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Lisa Forbes (DEM)": 291,
+      "Daniel R. Hawkins (REP)": 376,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Lisa Forbes (DEM)": 507,
+      "Daniel R. Hawkins (REP)": 529,
+      "Total Votes Cast": 1036,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Lisa Forbes (DEM)": 313,
+      "Daniel R. Hawkins (REP)": 414,
+      "Total Votes Cast": 727,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Lisa Forbes (DEM)": 350,
+      "Daniel R. Hawkins (REP)": 410,
+      "Total Votes Cast": 760,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Lisa Forbes (DEM)": 280,
+      "Daniel R. Hawkins (REP)": 294,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Lisa Forbes (DEM)": 423,
+      "Daniel R. Hawkins (REP)": 526,
+      "Total Votes Cast": 949,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Lisa Forbes (DEM)": 258,
+      "Daniel R. Hawkins (REP)": 389,
+      "Total Votes Cast": 647,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Lisa Forbes (DEM)": 241,
+      "Daniel R. Hawkins (REP)": 426,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Lisa Forbes (DEM)": 233,
+      "Daniel R. Hawkins (REP)": 473,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Lisa Forbes (DEM)": 243,
+      "Daniel R. Hawkins (REP)": 444,
+      "Total Votes Cast": 687,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Lisa Forbes (DEM)": 282,
+      "Daniel R. Hawkins (REP)": 176,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Lisa Forbes (DEM)": 255,
+      "Daniel R. Hawkins (REP)": 273,
+      "Total Votes Cast": 528,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Lisa Forbes (DEM)": 338,
+      "Daniel R. Hawkins (REP)": 365,
+      "Total Votes Cast": 703,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Lisa Forbes (DEM)": 227,
+      "Daniel R. Hawkins (REP)": 430,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Lisa Forbes (DEM)": 317,
+      "Daniel R. Hawkins (REP)": 168,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 519
+    }
+  ]
+}

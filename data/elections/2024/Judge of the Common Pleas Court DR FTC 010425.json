@@ -1,0 +1,3054 @@
+{
+  "race": "Judge of the Common Pleas Court DR FTC 010425",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Timothy D. Wood": 455,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 468,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Timothy D. Wood": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 361,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Timothy D. Wood": 416,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 495,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Timothy D. Wood": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 424,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Timothy D. Wood": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 430,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Timothy D. Wood": 341,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Timothy D. Wood": 471,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 454,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Timothy D. Wood": 439,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Timothy D. Wood": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Timothy D. Wood": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 364,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Timothy D. Wood": 270,
+      "Total Votes Cast": 270,
+      "Overvotes": 0,
+      "Undervotes": 251,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Timothy D. Wood": 274,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 323,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Timothy D. Wood": 275,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 345,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Timothy D. Wood": 393,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 538,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Timothy D. Wood": 276,
+      "Total Votes Cast": 276,
+      "Overvotes": 0,
+      "Undervotes": 332,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Timothy D. Wood": 395,
+      "Total Votes Cast": 395,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Timothy D. Wood": 478,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 463,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Timothy D. Wood": 345,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Timothy D. Wood": 309,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Timothy D. Wood": 486,
+      "Total Votes Cast": 486,
+      "Overvotes": 0,
+      "Undervotes": 372,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Timothy D. Wood": 505,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Timothy D. Wood": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 416,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Timothy D. Wood": 432,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 396,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Timothy D. Wood": 418,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 320,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Timothy D. Wood": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Timothy D. Wood": 407,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 474,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Timothy D. Wood": 273,
+      "Total Votes Cast": 273,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Timothy D. Wood": 325,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 324,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Timothy D. Wood": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 429,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Timothy D. Wood": 449,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 487,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Timothy D. Wood": 516,
+      "Total Votes Cast": 516,
+      "Overvotes": 0,
+      "Undervotes": 489,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Timothy D. Wood": 503,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 506,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Timothy D. Wood": 512,
+      "Total Votes Cast": 512,
+      "Overvotes": 0,
+      "Undervotes": 579,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Timothy D. Wood": 425,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 490,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Timothy D. Wood": 455,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 488,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Timothy D. Wood": 511,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 521,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Timothy D. Wood": 423,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 440,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Timothy D. Wood": 398,
+      "Total Votes Cast": 398,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Timothy D. Wood": 551,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 555,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Timothy D. Wood": 482,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 482,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Timothy D. Wood": 416,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 465,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Timothy D. Wood": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 455,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Timothy D. Wood": 95,
+      "Total Votes Cast": 95,
+      "Overvotes": 0,
+      "Undervotes": 118,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Timothy D. Wood": 397,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Timothy D. Wood": 277,
+      "Total Votes Cast": 277,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Timothy D. Wood": 151,
+      "Total Votes Cast": 151,
+      "Overvotes": 0,
+      "Undervotes": 182,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Timothy D. Wood": 317,
+      "Total Votes Cast": 317,
+      "Overvotes": 0,
+      "Undervotes": 324,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Timothy D. Wood": 222,
+      "Total Votes Cast": 222,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Timothy D. Wood": 268,
+      "Total Votes Cast": 268,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Timothy D. Wood": 253,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 286,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Timothy D. Wood": 175,
+      "Total Votes Cast": 175,
+      "Overvotes": 0,
+      "Undervotes": 215,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Timothy D. Wood": 113,
+      "Total Votes Cast": 113,
+      "Overvotes": 0,
+      "Undervotes": 158,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Timothy D. Wood": 170,
+      "Total Votes Cast": 170,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Timothy D. Wood": 485,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 416,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Timothy D. Wood": 230,
+      "Total Votes Cast": 230,
+      "Overvotes": 0,
+      "Undervotes": 269,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Timothy D. Wood": 155,
+      "Total Votes Cast": 155,
+      "Overvotes": 0,
+      "Undervotes": 122,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Timothy D. Wood": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 371,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Timothy D. Wood": 238,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 246,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Timothy D. Wood": 219,
+      "Total Votes Cast": 219,
+      "Overvotes": 0,
+      "Undervotes": 280,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Timothy D. Wood": 427,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Timothy D. Wood": 341,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Timothy D. Wood": 461,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 433,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Timothy D. Wood": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Timothy D. Wood": 290,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Timothy D. Wood": 217,
+      "Total Votes Cast": 217,
+      "Overvotes": 0,
+      "Undervotes": 181,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Timothy D. Wood": 211,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Timothy D. Wood": 192,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Timothy D. Wood": 211,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 174,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Timothy D. Wood": 164,
+      "Total Votes Cast": 164,
+      "Overvotes": 0,
+      "Undervotes": 157,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Timothy D. Wood": 242,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 201,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Timothy D. Wood": 248,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 198,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Timothy D. Wood": 257,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Timothy D. Wood": 220,
+      "Total Votes Cast": 220,
+      "Overvotes": 0,
+      "Undervotes": 168,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Timothy D. Wood": 203,
+      "Total Votes Cast": 203,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Timothy D. Wood": 186,
+      "Total Votes Cast": 186,
+      "Overvotes": 0,
+      "Undervotes": 113,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Timothy D. Wood": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 366,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Timothy D. Wood": 353,
+      "Total Votes Cast": 353,
+      "Overvotes": 0,
+      "Undervotes": 324,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Timothy D. Wood": 321,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 371,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Timothy D. Wood": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Timothy D. Wood": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 411,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Timothy D. Wood": 397,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Timothy D. Wood": 395,
+      "Total Votes Cast": 395,
+      "Overvotes": 0,
+      "Undervotes": 471,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Timothy D. Wood": 313,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 357,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Timothy D. Wood": 282,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Timothy D. Wood": 224,
+      "Total Votes Cast": 224,
+      "Overvotes": 0,
+      "Undervotes": 280,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Timothy D. Wood": 235,
+      "Total Votes Cast": 235,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Timothy D. Wood": 284,
+      "Total Votes Cast": 284,
+      "Overvotes": 0,
+      "Undervotes": 331,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Timothy D. Wood": 235,
+      "Total Votes Cast": 235,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Timothy D. Wood": 176,
+      "Total Votes Cast": 176,
+      "Overvotes": 0,
+      "Undervotes": 206,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Timothy D. Wood": 214,
+      "Total Votes Cast": 214,
+      "Overvotes": 0,
+      "Undervotes": 217,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Timothy D. Wood": 241,
+      "Total Votes Cast": 241,
+      "Overvotes": 0,
+      "Undervotes": 192,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Timothy D. Wood": 295,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 299,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Timothy D. Wood": 215,
+      "Total Votes Cast": 215,
+      "Overvotes": 0,
+      "Undervotes": 250,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Timothy D. Wood": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 345,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Timothy D. Wood": 202,
+      "Total Votes Cast": 202,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Timothy D. Wood": 292,
+      "Total Votes Cast": 292,
+      "Overvotes": 0,
+      "Undervotes": 239,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Timothy D. Wood": 189,
+      "Total Votes Cast": 189,
+      "Overvotes": 0,
+      "Undervotes": 216,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Timothy D. Wood": 232,
+      "Total Votes Cast": 232,
+      "Overvotes": 0,
+      "Undervotes": 194,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Timothy D. Wood": 156,
+      "Total Votes Cast": 156,
+      "Overvotes": 0,
+      "Undervotes": 111,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Timothy D. Wood": 309,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 205,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Timothy D. Wood": 122,
+      "Total Votes Cast": 122,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Timothy D. Wood": 159,
+      "Total Votes Cast": 159,
+      "Overvotes": 0,
+      "Undervotes": 143,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Timothy D. Wood": 356,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 203,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Timothy D. Wood": 267,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 206,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Timothy D. Wood": 303,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Timothy D. Wood": 212,
+      "Total Votes Cast": 212,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Timothy D. Wood": 251,
+      "Total Votes Cast": 251,
+      "Overvotes": 0,
+      "Undervotes": 197,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Timothy D. Wood": 248,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 206,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Timothy D. Wood": 208,
+      "Total Votes Cast": 208,
+      "Overvotes": 0,
+      "Undervotes": 142,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Timothy D. Wood": 224,
+      "Total Votes Cast": 224,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Timothy D. Wood": 446,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 306,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Timothy D. Wood": 259,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 192,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Timothy D. Wood": 196,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 151,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Timothy D. Wood": 233,
+      "Total Votes Cast": 233,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Timothy D. Wood": 289,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 206,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Timothy D. Wood": 177,
+      "Total Votes Cast": 177,
+      "Overvotes": 0,
+      "Undervotes": 136,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Timothy D. Wood": 193,
+      "Total Votes Cast": 193,
+      "Overvotes": 0,
+      "Undervotes": 144,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Timothy D. Wood": 356,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 215,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Timothy D. Wood": 227,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 188,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Timothy D. Wood": 238,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Timothy D. Wood": 120,
+      "Total Votes Cast": 120,
+      "Overvotes": 0,
+      "Undervotes": 82,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Timothy D. Wood": 269,
+      "Total Votes Cast": 269,
+      "Overvotes": 0,
+      "Undervotes": 224,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Timothy D. Wood": 246,
+      "Total Votes Cast": 246,
+      "Overvotes": 0,
+      "Undervotes": 146,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Timothy D. Wood": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 441,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Timothy D. Wood": 403,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 471,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Timothy D. Wood": 279,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 294,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Timothy D. Wood": 293,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Timothy D. Wood": 216,
+      "Total Votes Cast": 216,
+      "Overvotes": 0,
+      "Undervotes": 158,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Timothy D. Wood": 220,
+      "Total Votes Cast": 220,
+      "Overvotes": 0,
+      "Undervotes": 152,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Timothy D. Wood": 319,
+      "Total Votes Cast": 319,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Timothy D. Wood": 422,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Timothy D. Wood": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Timothy D. Wood": 503,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Timothy D. Wood": 259,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 297,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Timothy D. Wood": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Timothy D. Wood": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 393,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Timothy D. Wood": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Timothy D. Wood": 502,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 383,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Timothy D. Wood": 457,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 395,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Timothy D. Wood": 350,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 348,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Timothy D. Wood": 438,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 379,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Timothy D. Wood": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 291,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Timothy D. Wood": 314,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 272,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Timothy D. Wood": 387,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 328,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Timothy D. Wood": 264,
+      "Total Votes Cast": 264,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Timothy D. Wood": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 577,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Timothy D. Wood": 422,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 529,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Timothy D. Wood": 377,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Timothy D. Wood": 365,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 382,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Timothy D. Wood": 379,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Timothy D. Wood": 373,
+      "Total Votes Cast": 373,
+      "Overvotes": 0,
+      "Undervotes": 459,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Timothy D. Wood": 202,
+      "Total Votes Cast": 202,
+      "Overvotes": 0,
+      "Undervotes": 231,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Timothy D. Wood": 276,
+      "Total Votes Cast": 276,
+      "Overvotes": 0,
+      "Undervotes": 264,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Timothy D. Wood": 257,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 308,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Timothy D. Wood": 452,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Timothy D. Wood": 164,
+      "Total Votes Cast": 164,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Timothy D. Wood": 191,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 130,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Timothy D. Wood": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 240,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Timothy D. Wood": 318,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 264,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Timothy D. Wood": 298,
+      "Total Votes Cast": 298,
+      "Overvotes": 0,
+      "Undervotes": 248,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Timothy D. Wood": 280,
+      "Total Votes Cast": 280,
+      "Overvotes": 0,
+      "Undervotes": 255,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Timothy D. Wood": 303,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Timothy D. Wood": 444,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Timothy D. Wood": 504,
+      "Total Votes Cast": 504,
+      "Overvotes": 0,
+      "Undervotes": 350,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Timothy D. Wood": 263,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Timothy D. Wood": 410,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Timothy D. Wood": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 434,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Timothy D. Wood": 532,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 439,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Timothy D. Wood": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Timothy D. Wood": 454,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 450,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Timothy D. Wood": 435,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 397,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Timothy D. Wood": 445,
+      "Total Votes Cast": 445,
+      "Overvotes": 0,
+      "Undervotes": 440,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Timothy D. Wood": 314,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 316,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Timothy D. Wood": 316,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 264,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Timothy D. Wood": 281,
+      "Total Votes Cast": 281,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Timothy D. Wood": 436,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 410,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Timothy D. Wood": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 323,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Timothy D. Wood": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 405,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Timothy D. Wood": 371,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Timothy D. Wood": 438,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Timothy D. Wood": 427,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 369,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Timothy D. Wood": 405,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 339,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Timothy D. Wood": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 344,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Timothy D. Wood": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 364,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Timothy D. Wood": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 365,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Timothy D. Wood": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 315,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Timothy D. Wood": 450,
+      "Total Votes Cast": 450,
+      "Overvotes": 0,
+      "Undervotes": 415,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Timothy D. Wood": 420,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 388,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Timothy D. Wood": 380,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Timothy D. Wood": 391,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 568,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Timothy D. Wood": 281,
+      "Total Votes Cast": 281,
+      "Overvotes": 0,
+      "Undervotes": 391,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Timothy D. Wood": 456,
+      "Total Votes Cast": 456,
+      "Overvotes": 0,
+      "Undervotes": 483,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Timothy D. Wood": 293,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 257,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Timothy D. Wood": 318,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 376,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Timothy D. Wood": 412,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 271,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Timothy D. Wood": 203,
+      "Total Votes Cast": 203,
+      "Overvotes": 0,
+      "Undervotes": 276,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Timothy D. Wood": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Timothy D. Wood": 340,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 317,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Timothy D. Wood": 285,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 367,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Timothy D. Wood": 415,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 459,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Timothy D. Wood": 448,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 395,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Timothy D. Wood": 343,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 339,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Timothy D. Wood": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 343,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Timothy D. Wood": 331,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Timothy D. Wood": 461,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 451,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Timothy D. Wood": 407,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 376,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Timothy D. Wood": 365,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 401,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Timothy D. Wood": 381,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 358,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Timothy D. Wood": 407,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Timothy D. Wood": 461,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 412,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Timothy D. Wood": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 379,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Timothy D. Wood": 357,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Timothy D. Wood": 484,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 546,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Timothy D. Wood": 412,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 461,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Timothy D. Wood": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 333,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Timothy D. Wood": 306,
+      "Total Votes Cast": 306,
+      "Overvotes": 0,
+      "Undervotes": 248,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Timothy D. Wood": 421,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 407,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Timothy D. Wood": 398,
+      "Total Votes Cast": 398,
+      "Overvotes": 0,
+      "Undervotes": 394,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Timothy D. Wood": 359,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 343,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Timothy D. Wood": 413,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 433,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Timothy D. Wood": 340,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 344,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Timothy D. Wood": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 294,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Timothy D. Wood": 428,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 379,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Timothy D. Wood": 329,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Timothy D. Wood": 350,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 321,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Timothy D. Wood": 469,
+      "Total Votes Cast": 469,
+      "Overvotes": 0,
+      "Undervotes": 477,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Timothy D. Wood": 477,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 445,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Timothy D. Wood": 475,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 464,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Timothy D. Wood": 276,
+      "Total Votes Cast": 276,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Timothy D. Wood": 427,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 387,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Timothy D. Wood": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 407,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Timothy D. Wood": 388,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 382,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Timothy D. Wood": 499,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 497,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Timothy D. Wood": 361,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Timothy D. Wood": 446,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 402,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Timothy D. Wood": 398,
+      "Total Votes Cast": 398,
+      "Overvotes": 0,
+      "Undervotes": 368,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Timothy D. Wood": 413,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Timothy D. Wood": 407,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 493,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Timothy D. Wood": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 442,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Timothy D. Wood": 423,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Timothy D. Wood": 442,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 371,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Timothy D. Wood": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Timothy D. Wood": 388,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Timothy D. Wood": 413,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 448,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Timothy D. Wood": 306,
+      "Total Votes Cast": 306,
+      "Overvotes": 0,
+      "Undervotes": 290,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Timothy D. Wood": 373,
+      "Total Votes Cast": 373,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Timothy D. Wood": 353,
+      "Total Votes Cast": 353,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Timothy D. Wood": 431,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 412,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Timothy D. Wood": 364,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 376,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Timothy D. Wood": 322,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 340,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Timothy D. Wood": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Timothy D. Wood": 562,
+      "Total Votes Cast": 562,
+      "Overvotes": 0,
+      "Undervotes": 538,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Timothy D. Wood": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 427,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Timothy D. Wood": 334,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Timothy D. Wood": 366,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 475,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Timothy D. Wood": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Timothy D. Wood": 468,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 503,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Timothy D. Wood": 413,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Timothy D. Wood": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 350,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Timothy D. Wood": 351,
+      "Total Votes Cast": 351,
+      "Overvotes": 0,
+      "Undervotes": 352,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Timothy D. Wood": 215,
+      "Total Votes Cast": 215,
+      "Overvotes": 0,
+      "Undervotes": 214,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Timothy D. Wood": 295,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 402,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Timothy D. Wood": 446,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 493,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Timothy D. Wood": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Timothy D. Wood": 377,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 324,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Timothy D. Wood": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 401,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Timothy D. Wood": 375,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 375,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Timothy D. Wood": 286,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 238,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Timothy D. Wood": 429,
+      "Total Votes Cast": 429,
+      "Overvotes": 0,
+      "Undervotes": 367,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Timothy D. Wood": 214,
+      "Total Votes Cast": 214,
+      "Overvotes": 0,
+      "Undervotes": 214,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Timothy D. Wood": 344,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 407,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Timothy D. Wood": 298,
+      "Total Votes Cast": 298,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Timothy D. Wood": 307,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 296,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Timothy D. Wood": 359,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Timothy D. Wood": 208,
+      "Total Votes Cast": 208,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Timothy D. Wood": 421,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 413,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Timothy D. Wood": 234,
+      "Total Votes Cast": 234,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Timothy D. Wood": 240,
+      "Total Votes Cast": 240,
+      "Overvotes": 0,
+      "Undervotes": 227,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Timothy D. Wood": 207,
+      "Total Votes Cast": 207,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Timothy D. Wood": 443,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Timothy D. Wood": 437,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Timothy D. Wood": 343,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Timothy D. Wood": 365,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 319,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Timothy D. Wood": 350,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 352,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Timothy D. Wood": 480,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 389,
+      "Contest Total": 389
+    },
+    {
+      "Precinct": "OAK-G",
+      "Timothy D. Wood": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 355,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Timothy D. Wood": 307,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 303,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Timothy D. Wood": 252,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Timothy D. Wood": 293,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 360,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Timothy D. Wood": 316,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 452,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Timothy D. Wood": 123,
+      "Total Votes Cast": 123,
+      "Overvotes": 0,
+      "Undervotes": 114,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Timothy D. Wood": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 244,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Timothy D. Wood": 253,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Timothy D. Wood": 335,
+      "Total Votes Cast": 335,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Timothy D. Wood": 261,
+      "Total Votes Cast": 261,
+      "Overvotes": 0,
+      "Undervotes": 299,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Timothy D. Wood": 351,
+      "Total Votes Cast": 351,
+      "Overvotes": 0,
+      "Undervotes": 357,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Timothy D. Wood": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 405,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Timothy D. Wood": 282,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Timothy D. Wood": 295,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 306,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Timothy D. Wood": 256,
+      "Total Votes Cast": 256,
+      "Overvotes": 0,
+      "Undervotes": 283,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Timothy D. Wood": 183,
+      "Total Votes Cast": 183,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Timothy D. Wood": 246,
+      "Total Votes Cast": 246,
+      "Overvotes": 0,
+      "Undervotes": 280,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Timothy D. Wood": 267,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Timothy D. Wood": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Timothy D. Wood": 196,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 225,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Timothy D. Wood": 386,
+      "Total Votes Cast": 386,
+      "Overvotes": 0,
+      "Undervotes": 330,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Timothy D. Wood": 260,
+      "Total Votes Cast": 260,
+      "Overvotes": 0,
+      "Undervotes": 262,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Timothy D. Wood": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 368,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Timothy D. Wood": 404,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Timothy D. Wood": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 304,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Timothy D. Wood": 222,
+      "Total Votes Cast": 222,
+      "Overvotes": 0,
+      "Undervotes": 184,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Timothy D. Wood": 303,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 232,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Timothy D. Wood": 276,
+      "Total Votes Cast": 276,
+      "Overvotes": 0,
+      "Undervotes": 164,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Timothy D. Wood": 439,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Timothy D. Wood": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 240,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Timothy D. Wood": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 310,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Timothy D. Wood": 303,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 216,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Timothy D. Wood": 251,
+      "Total Votes Cast": 251,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Timothy D. Wood": 321,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 185,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Timothy D. Wood": 259,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 213,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Timothy D. Wood": 297,
+      "Total Votes Cast": 297,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Timothy D. Wood": 242,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Timothy D. Wood": 362,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 321,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Timothy D. Wood": 396,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Timothy D. Wood": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 253,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Timothy D. Wood": 276,
+      "Total Votes Cast": 276,
+      "Overvotes": 0,
+      "Undervotes": 173,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Timothy D. Wood": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 192,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Timothy D. Wood": 249,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 230,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Timothy D. Wood": 359,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 358,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Timothy D. Wood": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 409,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Timothy D. Wood": 468,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 376,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Timothy D. Wood": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 438,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Timothy D. Wood": 341,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 375,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Timothy D. Wood": 251,
+      "Total Votes Cast": 251,
+      "Overvotes": 0,
+      "Undervotes": 194,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Timothy D. Wood": 414,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 424,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Timothy D. Wood": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 357,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Timothy D. Wood": 271,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 279,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Timothy D. Wood": 452,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 398,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Timothy D. Wood": 294,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 369,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Timothy D. Wood": 461,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 444,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Timothy D. Wood": 356,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 398,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Timothy D. Wood": 458,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 494,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Timothy D. Wood": 482,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 396,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Timothy D. Wood": 355,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Timothy D. Wood": 554,
+      "Total Votes Cast": 554,
+      "Overvotes": 0,
+      "Undervotes": 532,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Timothy D. Wood": 404,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 491,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Timothy D. Wood": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 333,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Timothy D. Wood": 468,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 452,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Timothy D. Wood": 316,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 285,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Timothy D. Wood": 494,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 506,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Timothy D. Wood": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 420,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Timothy D. Wood": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 324,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Timothy D. Wood": 433,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 435,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Timothy D. Wood": 396,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Timothy D. Wood": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 382,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Timothy D. Wood": 444,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 493,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Timothy D. Wood": 448,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 396,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Timothy D. Wood": 425,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 456,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Timothy D. Wood": 494,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 496,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Timothy D. Wood": 485,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 485,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Timothy D. Wood": 391,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 320,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Timothy D. Wood": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 409,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Timothy D. Wood": 367,
+      "Total Votes Cast": 367,
+      "Overvotes": 0,
+      "Undervotes": 373,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Timothy D. Wood": 424,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 455,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Timothy D. Wood": 397,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 443,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Timothy D. Wood": 293,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 302,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Timothy D. Wood": 377,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 332,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Timothy D. Wood": 573,
+      "Total Votes Cast": 573,
+      "Overvotes": 0,
+      "Undervotes": 535,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Timothy D. Wood": 393,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 367,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Timothy D. Wood": 392,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 436,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Timothy D. Wood": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 301,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Timothy D. Wood": 454,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 574,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Timothy D. Wood": 332,
+      "Total Votes Cast": 332,
+      "Overvotes": 0,
+      "Undervotes": 371,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Timothy D. Wood": 357,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 379,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Timothy D. Wood": 357,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 397,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Timothy D. Wood": 342,
+      "Total Votes Cast": 342,
+      "Overvotes": 0,
+      "Undervotes": 394,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Timothy D. Wood": 252,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Timothy D. Wood": 284,
+      "Total Votes Cast": 284,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Timothy D. Wood": 373,
+      "Total Votes Cast": 373,
+      "Overvotes": 0,
+      "Undervotes": 382,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Timothy D. Wood": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 387,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Timothy D. Wood": 282,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 519
+    }
+  ]
+}

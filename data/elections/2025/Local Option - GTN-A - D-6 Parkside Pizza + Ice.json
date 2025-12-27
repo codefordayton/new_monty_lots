@@ -1,0 +1,15 @@
+{
+  "race": "Local Option - GTN-A - D-6 Parkside Pizza + Ice",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "GTN-A",
+      "YES": 197,
+      "NO": 98,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 300
+    }
+  ]
+}

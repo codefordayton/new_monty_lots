@@ -1,0 +1,78 @@
+{
+  "race": "Germantown Council",
+  "precincts": 6,
+  "results": [
+    {
+      "Precinct": "GTN-A",
+      "Michael T. Kuhn": 157,
+      "Rick Matheson": 96,
+      "Rob Rettich": 171,
+      "J. Brian Wafzig": 163,
+      "Curtis Woodbury": 88,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 225,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "GTN-B",
+      "Michael T. Kuhn": 81,
+      "Rick Matheson": 43,
+      "Rob Rettich": 80,
+      "J. Brian Wafzig": 74,
+      "Curtis Woodbury": 35,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 128,
+      "Contest Total": 441
+    },
+    {
+      "Precinct": "GTN-C1",
+      "Michael T. Kuhn": 175,
+      "Rick Matheson": 96,
+      "Rob Rettich": 154,
+      "J. Brian Wafzig": 166,
+      "Curtis Woodbury": 55,
+      "Total Votes Cast": 646,
+      "Overvotes": 0,
+      "Undervotes": 206,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "GTN-C2",
+      "Michael T. Kuhn": 0,
+      "Rick Matheson": 0,
+      "Rob Rettich": 0,
+      "J. Brian Wafzig": 0,
+      "Curtis Woodbury": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "GTN-D1",
+      "Michael T. Kuhn": 126,
+      "Rick Matheson": 71,
+      "Rob Rettich": 144,
+      "J. Brian Wafzig": 120,
+      "Curtis Woodbury": 54,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "GTN-D2",
+      "Michael T. Kuhn": 0,
+      "Rick Matheson": 0,
+      "Rob Rettich": 0,
+      "J. Brian Wafzig": 0,
+      "Curtis Woodbury": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

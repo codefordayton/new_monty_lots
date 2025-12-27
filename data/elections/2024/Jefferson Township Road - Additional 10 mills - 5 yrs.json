@@ -1,0 +1,60 @@
+{
+  "race": "Jefferson Township Road - Additional 10 mills - 5 yrs",
+  "precincts": 6,
+  "results": [
+    {
+      "Precinct": "DAY 14-A",
+      "For the Tax Levy": 9,
+      "Against the Tax Levy": 3,
+      "Total Votes Cast": 12,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 12
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "For the Tax Levy": 0,
+      "Against the Tax Levy": 2,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 2
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "For the Tax Levy": 243,
+      "Against the Tax Levy": 651,
+      "Total Votes Cast": 894,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 938
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "For the Tax Levy": 290,
+      "Against the Tax Levy": 231,
+      "Total Votes Cast": 521,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 551
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "For the Tax Levy": 141,
+      "Against the Tax Levy": 533,
+      "Total Votes Cast": 674,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "For the Tax Levy": 414,
+      "Against the Tax Levy": 239,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 681
+    }
+  ]
+}

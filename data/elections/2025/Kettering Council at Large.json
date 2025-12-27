@@ -1,0 +1,446 @@
+{
+  "race": "Kettering Council at Large",
+  "precincts": 44,
+  "results": [
+    {
+      "Precinct": "KT 1-A",
+      "Laura L. Arber": 113,
+      "Dan Palmer": 92,
+      "Tyler Scott": 65,
+      "Total Votes Cast": 270,
+      "Overvotes": 0,
+      "Undervotes": 92,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Laura L. Arber": 97,
+      "Dan Palmer": 81,
+      "Tyler Scott": 65,
+      "Total Votes Cast": 243,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 334
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Laura L. Arber": 156,
+      "Dan Palmer": 140,
+      "Tyler Scott": 108,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 156,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Laura L. Arber": 146,
+      "Dan Palmer": 124,
+      "Tyler Scott": 117,
+      "Total Votes Cast": 387,
+      "Overvotes": 2,
+      "Undervotes": 133,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "KT 1-E1",
+      "Laura L. Arber": 84,
+      "Dan Palmer": 72,
+      "Tyler Scott": 52,
+      "Total Votes Cast": 208,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 282
+    },
+    {
+      "Precinct": "KT 1-E2",
+      "Laura L. Arber": 41,
+      "Dan Palmer": 43,
+      "Tyler Scott": 31,
+      "Total Votes Cast": 115,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 160
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Laura L. Arber": 146,
+      "Dan Palmer": 118,
+      "Tyler Scott": 70,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 102,
+      "Contest Total": 436
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Laura L. Arber": 124,
+      "Dan Palmer": 96,
+      "Tyler Scott": 65,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 99,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Laura L. Arber": 145,
+      "Dan Palmer": 118,
+      "Tyler Scott": 79,
+      "Total Votes Cast": 342,
+      "Overvotes": 0,
+      "Undervotes": 100,
+      "Contest Total": 442
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Laura L. Arber": 155,
+      "Dan Palmer": 118,
+      "Tyler Scott": 106,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 129,
+      "Contest Total": 508
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Laura L. Arber": 155,
+      "Dan Palmer": 122,
+      "Tyler Scott": 93,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 128,
+      "Contest Total": 498
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Laura L. Arber": 224,
+      "Dan Palmer": 194,
+      "Tyler Scott": 96,
+      "Total Votes Cast": 514,
+      "Overvotes": 0,
+      "Undervotes": 136,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Laura L. Arber": 196,
+      "Dan Palmer": 163,
+      "Tyler Scott": 106,
+      "Total Votes Cast": 465,
+      "Overvotes": 0,
+      "Undervotes": 127,
+      "Contest Total": 592
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Laura L. Arber": 168,
+      "Dan Palmer": 134,
+      "Tyler Scott": 91,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 145,
+      "Contest Total": 538
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Laura L. Arber": 167,
+      "Dan Palmer": 153,
+      "Tyler Scott": 118,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 118,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Laura L. Arber": 143,
+      "Dan Palmer": 101,
+      "Tyler Scott": 83,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 432
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Laura L. Arber": 237,
+      "Dan Palmer": 206,
+      "Tyler Scott": 141,
+      "Total Votes Cast": 584,
+      "Overvotes": 0,
+      "Undervotes": 172,
+      "Contest Total": 756
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Laura L. Arber": 224,
+      "Dan Palmer": 202,
+      "Tyler Scott": 121,
+      "Total Votes Cast": 547,
+      "Overvotes": 0,
+      "Undervotes": 139,
+      "Contest Total": 686
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Laura L. Arber": 182,
+      "Dan Palmer": 158,
+      "Tyler Scott": 102,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 112,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Laura L. Arber": 93,
+      "Dan Palmer": 66,
+      "Tyler Scott": 39,
+      "Total Votes Cast": 198,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 252
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Laura L. Arber": 193,
+      "Dan Palmer": 174,
+      "Tyler Scott": 76,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 139,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Laura L. Arber": 252,
+      "Dan Palmer": 225,
+      "Tyler Scott": 82,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 121,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Laura L. Arber": 223,
+      "Dan Palmer": 194,
+      "Tyler Scott": 121,
+      "Total Votes Cast": 538,
+      "Overvotes": 0,
+      "Undervotes": 160,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Laura L. Arber": 109,
+      "Dan Palmer": 78,
+      "Tyler Scott": 50,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 324
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Laura L. Arber": 196,
+      "Dan Palmer": 174,
+      "Tyler Scott": 88,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 126,
+      "Contest Total": 584
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Laura L. Arber": 143,
+      "Dan Palmer": 141,
+      "Tyler Scott": 59,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Laura L. Arber": 216,
+      "Dan Palmer": 180,
+      "Tyler Scott": 67,
+      "Total Votes Cast": 463,
+      "Overvotes": 0,
+      "Undervotes": 109,
+      "Contest Total": 572
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Laura L. Arber": 208,
+      "Dan Palmer": 189,
+      "Tyler Scott": 90,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 592
+    },
+    {
+      "Precinct": "KT 3-I1",
+      "Laura L. Arber": 229,
+      "Dan Palmer": 218,
+      "Tyler Scott": 73,
+      "Total Votes Cast": 520,
+      "Overvotes": 0,
+      "Undervotes": 106,
+      "Contest Total": 626
+    },
+    {
+      "Precinct": "KT 3-I2",
+      "Laura L. Arber": 2,
+      "Dan Palmer": 1,
+      "Tyler Scott": 0,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 4
+    },
+    {
+      "Precinct": "KT 3-I3",
+      "Laura L. Arber": 0,
+      "Dan Palmer": 0,
+      "Tyler Scott": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Laura L. Arber": 250,
+      "Dan Palmer": 232,
+      "Tyler Scott": 85,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 139,
+      "Contest Total": 706
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Laura L. Arber": 271,
+      "Dan Palmer": 203,
+      "Tyler Scott": 120,
+      "Total Votes Cast": 594,
+      "Overvotes": 0,
+      "Undervotes": 170,
+      "Contest Total": 764
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Laura L. Arber": 318,
+      "Dan Palmer": 312,
+      "Tyler Scott": 101,
+      "Total Votes Cast": 731,
+      "Overvotes": 0,
+      "Undervotes": 145,
+      "Contest Total": 876
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Laura L. Arber": 301,
+      "Dan Palmer": 297,
+      "Tyler Scott": 71,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 145,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Laura L. Arber": 148,
+      "Dan Palmer": 128,
+      "Tyler Scott": 77,
+      "Total Votes Cast": 353,
+      "Overvotes": 0,
+      "Undervotes": 95,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Laura L. Arber": 251,
+      "Dan Palmer": 229,
+      "Tyler Scott": 99,
+      "Total Votes Cast": 579,
+      "Overvotes": 2,
+      "Undervotes": 153,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Laura L. Arber": 172,
+      "Dan Palmer": 157,
+      "Tyler Scott": 91,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 126,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Laura L. Arber": 254,
+      "Dan Palmer": 209,
+      "Tyler Scott": 101,
+      "Total Votes Cast": 564,
+      "Overvotes": 0,
+      "Undervotes": 134,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Laura L. Arber": 330,
+      "Dan Palmer": 308,
+      "Tyler Scott": 152,
+      "Total Votes Cast": 790,
+      "Overvotes": 0,
+      "Undervotes": 194,
+      "Contest Total": 984
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Laura L. Arber": 97,
+      "Dan Palmer": 80,
+      "Tyler Scott": 63,
+      "Total Votes Cast": 240,
+      "Overvotes": 2,
+      "Undervotes": 110,
+      "Contest Total": 352
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Laura L. Arber": 252,
+      "Dan Palmer": 210,
+      "Tyler Scott": 90,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 152,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Laura L. Arber": 237,
+      "Dan Palmer": 195,
+      "Tyler Scott": 85,
+      "Total Votes Cast": 517,
+      "Overvotes": 0,
+      "Undervotes": 113,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Laura L. Arber": 215,
+      "Dan Palmer": 183,
+      "Tyler Scott": 76,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 128,
+      "Contest Total": 602
+    }
+  ]
+}

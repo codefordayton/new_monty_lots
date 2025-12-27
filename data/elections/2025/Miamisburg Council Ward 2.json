@@ -1,0 +1,38 @@
+{
+  "race": "Miamisburg Council Ward 2",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "MBG 2-A1",
+      "REP Sarah Clark Thacker": 110,
+      "Total Votes Cast": 110,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 198
+    },
+    {
+      "Precinct": "MBG 2-A2",
+      "REP Sarah Clark Thacker": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "REP Sarah Clark Thacker": 125,
+      "Total Votes Cast": 125,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 192
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "REP Sarah Clark Thacker": 180,
+      "Total Votes Cast": 180,
+      "Overvotes": 0,
+      "Undervotes": 94,
+      "Contest Total": 274
+    }
+  ]
+}

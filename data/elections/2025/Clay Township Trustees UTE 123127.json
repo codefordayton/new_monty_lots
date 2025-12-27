@@ -1,0 +1,123 @@
+{
+  "race": "Clay Township Trustees UTE 123127",
+  "precincts": 13,
+  "results": [
+    {
+      "Precinct": "BRK-A1",
+      "Dale Winner": 211,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 316,
+      "": null
+    },
+    {
+      "Precinct": "BRK-A2",
+      "Dale Winner": 3,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 3,
+      "": null
+    },
+    {
+      "Precinct": "BRK-B",
+      "Dale Winner": 158,
+      "Total Votes Cast": 158,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 207,
+      "": null
+    },
+    {
+      "Precinct": "BRK-C",
+      "Dale Winner": 202,
+      "Total Votes Cast": 202,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 290,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Dale Winner": 146,
+      "Total Votes Cast": 146,
+      "Overvotes": 0,
+      "Undervotes": 82,
+      "Contest Total": 228,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-B1",
+      "Dale Winner": 114,
+      "Total Votes Cast": 114,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 175,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-B2",
+      "Dale Winner": 12,
+      "Total Votes Cast": 12,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 18,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-C1",
+      "Dale Winner": 109,
+      "Total Votes Cast": 109,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 163,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-C2",
+      "Dale Winner": 31,
+      "Total Votes Cast": 31,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 55,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-C3",
+      "Dale Winner": 64,
+      "Total Votes Cast": 64,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 91,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-C4",
+      "Dale Winner": 3,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 10,
+      "": null
+    },
+    {
+      "Precinct": "CTN 1-C2",
+      "Dale Winner": 11,
+      "Total Votes Cast": 11,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 21,
+      "": 21
+    },
+    {
+      "Precinct": "PHBG",
+      "Dale Winner": 52,
+      "Total Votes Cast": 52,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 89,
+      "": null
+    }
+  ]
+}

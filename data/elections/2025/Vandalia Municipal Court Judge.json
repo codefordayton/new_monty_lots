@@ -1,0 +1,600 @@
+{
+  "race": "Vandalia Municipal Court Judge",
+  "precincts": 66,
+  "results": [
+    {
+      "Precinct": "BTLTWP-A",
+      "Nicole Amrhein": 140,
+      "David Caldwell": 145,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 307
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Nicole Amrhein": 121,
+      "David Caldwell": 162,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 306
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Nicole Amrhein": 168,
+      "David Caldwell": 202,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 396
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Nicole Amrhein": 145,
+      "David Caldwell": 176,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 348
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Nicole Amrhein": 107,
+      "David Caldwell": 128,
+      "Total Votes Cast": 235,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 251
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Nicole Amrhein": 105,
+      "David Caldwell": 156,
+      "Total Votes Cast": 261,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 300
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Nicole Amrhein": 78,
+      "David Caldwell": 72,
+      "Total Votes Cast": 150,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 164
+    },
+    {
+      "Precinct": "CTN 1-A1",
+      "Nicole Amrhein": 63,
+      "David Caldwell": 258,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 370
+    },
+    {
+      "Precinct": "CTN 1-A2",
+      "Nicole Amrhein": 1,
+      "David Caldwell": 0,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 2
+    },
+    {
+      "Precinct": "CTN 1-B1",
+      "Nicole Amrhein": 37,
+      "David Caldwell": 26,
+      "Total Votes Cast": 63,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 69
+    },
+    {
+      "Precinct": "CTN 1-B2",
+      "Nicole Amrhein": 0,
+      "David Caldwell": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "CTN 1-B3",
+      "Nicole Amrhein": 157,
+      "David Caldwell": 117,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 311
+    },
+    {
+      "Precinct": "CTN 1-C1",
+      "Nicole Amrhein": 200,
+      "David Caldwell": 203,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 442
+    },
+    {
+      "Precinct": "CTN 1-C2",
+      "Nicole Amrhein": 8,
+      "David Caldwell": 8,
+      "Total Votes Cast": 16,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 21
+    },
+    {
+      "Precinct": "CTN 1-D1",
+      "Nicole Amrhein": 150,
+      "David Caldwell": 66,
+      "Total Votes Cast": 216,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 239
+    },
+    {
+      "Precinct": "CTN 1-D2",
+      "Nicole Amrhein": 15,
+      "David Caldwell": 7,
+      "Total Votes Cast": 22,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 24
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Nicole Amrhein": 123,
+      "David Caldwell": 93,
+      "Total Votes Cast": 216,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 241
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Nicole Amrhein": 191,
+      "David Caldwell": 131,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "CTN 2-C1",
+      "Nicole Amrhein": 207,
+      "David Caldwell": 114,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "CTN 2-C2",
+      "Nicole Amrhein": 26,
+      "David Caldwell": 12,
+      "Total Votes Cast": 38,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 39
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Nicole Amrhein": 208,
+      "David Caldwell": 157,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 400
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Nicole Amrhein": 204,
+      "David Caldwell": 118,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 356
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Nicole Amrhein": 161,
+      "David Caldwell": 90,
+      "Total Votes Cast": 251,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 272
+    },
+    {
+      "Precinct": "ENG-A",
+      "Nicole Amrhein": 178,
+      "David Caldwell": 131,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 328
+    },
+    {
+      "Precinct": "ENG-B",
+      "Nicole Amrhein": 128,
+      "David Caldwell": 105,
+      "Total Votes Cast": 233,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 259
+    },
+    {
+      "Precinct": "ENG-C",
+      "Nicole Amrhein": 124,
+      "David Caldwell": 71,
+      "Total Votes Cast": 195,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 211
+    },
+    {
+      "Precinct": "ENG-D",
+      "Nicole Amrhein": 137,
+      "David Caldwell": 108,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 256
+    },
+    {
+      "Precinct": "ENG-E",
+      "Nicole Amrhein": 175,
+      "David Caldwell": 100,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 295
+    },
+    {
+      "Precinct": "ENG-F",
+      "Nicole Amrhein": 104,
+      "David Caldwell": 122,
+      "Total Votes Cast": 226,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 242
+    },
+    {
+      "Precinct": "ENG-G",
+      "Nicole Amrhein": 145,
+      "David Caldwell": 122,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 292
+    },
+    {
+      "Precinct": "ENG-H",
+      "Nicole Amrhein": 114,
+      "David Caldwell": 82,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 210
+    },
+    {
+      "Precinct": "ENG-I",
+      "Nicole Amrhein": 95,
+      "David Caldwell": 85,
+      "Total Votes Cast": 180,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 196
+    },
+    {
+      "Precinct": "ENG-J",
+      "Nicole Amrhein": 138,
+      "David Caldwell": 68,
+      "Total Votes Cast": 206,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 227
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Nicole Amrhein": 34,
+      "David Caldwell": 60,
+      "Total Votes Cast": 94,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 98
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Nicole Amrhein": 67,
+      "David Caldwell": 56,
+      "Total Votes Cast": 123,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 137
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Nicole Amrhein": 49,
+      "David Caldwell": 39,
+      "Total Votes Cast": 88,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 99
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Nicole Amrhein": 193,
+      "David Caldwell": 93,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Nicole Amrhein": 35,
+      "David Caldwell": 24,
+      "Total Votes Cast": 59,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 65
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Nicole Amrhein": 83,
+      "David Caldwell": 30,
+      "Total Votes Cast": 113,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 128
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Nicole Amrhein": 120,
+      "David Caldwell": 50,
+      "Total Votes Cast": 170,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 189
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Nicole Amrhein": 107,
+      "David Caldwell": 57,
+      "Total Votes Cast": 164,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 179
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Nicole Amrhein": 82,
+      "David Caldwell": 41,
+      "Total Votes Cast": 123,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 137
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Nicole Amrhein": 134,
+      "David Caldwell": 58,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 214
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Nicole Amrhein": 68,
+      "David Caldwell": 35,
+      "Total Votes Cast": 103,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 124
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Nicole Amrhein": 229,
+      "David Caldwell": 90,
+      "Total Votes Cast": 319,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 341
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Nicole Amrhein": 222,
+      "David Caldwell": 113,
+      "Total Votes Cast": 335,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Nicole Amrhein": 48,
+      "David Caldwell": 55,
+      "Total Votes Cast": 103,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 122
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Nicole Amrhein": 160,
+      "David Caldwell": 90,
+      "Total Votes Cast": 250,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "UN-A",
+      "Nicole Amrhein": 75,
+      "David Caldwell": 75,
+      "Total Votes Cast": 150,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 165
+    },
+    {
+      "Precinct": "UN-B",
+      "Nicole Amrhein": 126,
+      "David Caldwell": 123,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 288
+    },
+    {
+      "Precinct": "UN-C1",
+      "Nicole Amrhein": 97,
+      "David Caldwell": 91,
+      "Total Votes Cast": 188,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 221
+    },
+    {
+      "Precinct": "UN-C2",
+      "Nicole Amrhein": 40,
+      "David Caldwell": 42,
+      "Total Votes Cast": 82,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 91
+    },
+    {
+      "Precinct": "UN-C3",
+      "Nicole Amrhein": 0,
+      "David Caldwell": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 1
+    },
+    {
+      "Precinct": "UN-D",
+      "Nicole Amrhein": 154,
+      "David Caldwell": 175,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 361
+    },
+    {
+      "Precinct": "UN-E",
+      "Nicole Amrhein": 100,
+      "David Caldwell": 133,
+      "Total Votes Cast": 233,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 268
+    },
+    {
+      "Precinct": "VD-A",
+      "Nicole Amrhein": 77,
+      "David Caldwell": 79,
+      "Total Votes Cast": 156,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 169
+    },
+    {
+      "Precinct": "VD-B",
+      "Nicole Amrhein": 53,
+      "David Caldwell": 55,
+      "Total Votes Cast": 108,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 109
+    },
+    {
+      "Precinct": "VD-C",
+      "Nicole Amrhein": 110,
+      "David Caldwell": 132,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 253
+    },
+    {
+      "Precinct": "VD-D",
+      "Nicole Amrhein": 124,
+      "David Caldwell": 138,
+      "Total Votes Cast": 262,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "VD-E",
+      "Nicole Amrhein": 52,
+      "David Caldwell": 97,
+      "Total Votes Cast": 149,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 152
+    },
+    {
+      "Precinct": "VD-F",
+      "Nicole Amrhein": 147,
+      "David Caldwell": 164,
+      "Total Votes Cast": 311,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 322
+    },
+    {
+      "Precinct": "VD-G",
+      "Nicole Amrhein": 106,
+      "David Caldwell": 143,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 263
+    },
+    {
+      "Precinct": "VD-H",
+      "Nicole Amrhein": 155,
+      "David Caldwell": 189,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "VD-I",
+      "Nicole Amrhein": 92,
+      "David Caldwell": 156,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 256
+    },
+    {
+      "Precinct": "VD-J",
+      "Nicole Amrhein": 164,
+      "David Caldwell": 205,
+      "Total Votes Cast": 369,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "VD-K",
+      "Nicole Amrhein": 97,
+      "David Caldwell": 110,
+      "Total Votes Cast": 207,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 219
+    }
+  ]
+}

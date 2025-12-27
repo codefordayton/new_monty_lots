@@ -1,0 +1,195 @@
+{
+  "race": "Mad River LSD - Additional 2.9 mills",
+  "precincts": 21,
+  "results": [
+    {
+      "Precinct": "DAY 2-C",
+      "For the Tax Levy": 0,
+      "Against the Tax Levy": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "For the Tax Levy": 0,
+      "Against the Tax Levy": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 1
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "For the Tax Levy": 107,
+      "Against the Tax Levy": 89,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 203
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "For the Tax Levy": 28,
+      "Against the Tax Levy": 16,
+      "Total Votes Cast": 44,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 47
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "For the Tax Levy": 406,
+      "Against the Tax Levy": 337,
+      "Total Votes Cast": 743,
+      "Overvotes": 1,
+      "Undervotes": 47,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "For the Tax Levy": 14,
+      "Against the Tax Levy": 9,
+      "Total Votes Cast": 23,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 23
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "For the Tax Levy": 0,
+      "Against the Tax Levy": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 1
+    },
+    {
+      "Precinct": "PM",
+      "For the Tax Levy": 283,
+      "Against the Tax Levy": 191,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-A",
+      "For the Tax Levy": 298,
+      "Against the Tax Levy": 328,
+      "Total Votes Cast": 626,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "RV-B",
+      "For the Tax Levy": 181,
+      "Against the Tax Levy": 288,
+      "Total Votes Cast": 469,
+      "Overvotes": 1,
+      "Undervotes": 52,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-C",
+      "For the Tax Levy": 343,
+      "Against the Tax Levy": 298,
+      "Total Votes Cast": 641,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-E",
+      "For the Tax Levy": 222,
+      "Against the Tax Levy": 326,
+      "Total Votes Cast": 548,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "RV-F",
+      "For the Tax Levy": 284,
+      "Against the Tax Levy": 268,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "For the Tax Levy": 214,
+      "Against the Tax Levy": 279,
+      "Total Votes Cast": 493,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "RV-H",
+      "For the Tax Levy": 181,
+      "Against the Tax Levy": 137,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "RV-I",
+      "For the Tax Levy": 225,
+      "Against the Tax Levy": 263,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "For the Tax Levy": 196,
+      "Against the Tax Levy": 275,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-L",
+      "For the Tax Levy": 46,
+      "Against the Tax Levy": 39,
+      "Total Votes Cast": 85,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 87
+    },
+    {
+      "Precinct": "RV-M",
+      "For the Tax Levy": 323,
+      "Against the Tax Levy": 342,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 714
+    },
+    {
+      "Precinct": "RV-N",
+      "For the Tax Levy": 214,
+      "Against the Tax Levy": 247,
+      "Total Votes Cast": 461,
+      "Overvotes": 1,
+      "Undervotes": 60,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-P",
+      "For the Tax Levy": 343,
+      "Against the Tax Levy": 372,
+      "Total Votes Cast": 715,
+      "Overvotes": 1,
+      "Undervotes": 40,
+      "Contest Total": 756
+    }
+  ]
+}

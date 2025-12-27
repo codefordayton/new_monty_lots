@@ -1,0 +1,46 @@
+{
+  "race": "Huber Heights Council Ward 5",
+  "precincts": 5,
+  "results": [
+    {
+      "Precinct": "HUB 5-A",
+      "Mark Campbell": 120,
+      "Total Votes Cast": 120,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 182
+    },
+    {
+      "Precinct": "HUB 5-B1",
+      "Mark Campbell": 136,
+      "Total Votes Cast": 136,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 198
+    },
+    {
+      "Precinct": "HUB 5-B2",
+      "Mark Campbell": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Mark Campbell": 138,
+      "Total Votes Cast": 138,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 196
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Mark Campbell": 109,
+      "Total Votes Cast": 109,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 167
+    }
+  ]
+}

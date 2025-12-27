@@ -1,0 +1,26 @@
+{
+  "race": "Clearcreek Township Trustees",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "MIATWP-T2",
+      "Troy Holtrey": 84,
+      "Steve Muterspaw": 58,
+      "Ed Wade": 72,
+      "Total Votes Cast": 214,
+      "Overvotes": 0,
+      "Undervotes": 146,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "MIATWP-T3",
+      "Troy Holtrey": 0,
+      "Steve Muterspaw": 0,
+      "Ed Wade": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

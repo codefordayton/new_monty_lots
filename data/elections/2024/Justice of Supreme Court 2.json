@@ -1,0 +1,3435 @@
+{
+  "race": "Justice of Supreme Court 2",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Joseph T. Deters (REP)": 606,
+      "Melody J. Stewart (DEM)": 257,
+      "Total Votes Cast": 863,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Joseph T. Deters (REP)": 484,
+      "Melody J. Stewart (DEM)": 181,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Joseph T. Deters (REP)": 650,
+      "Melody J. Stewart (DEM)": 195,
+      "Total Votes Cast": 845,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Joseph T. Deters (REP)": 556,
+      "Melody J. Stewart (DEM)": 164,
+      "Total Votes Cast": 720,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Joseph T. Deters (REP)": 550,
+      "Melody J. Stewart (DEM)": 235,
+      "Total Votes Cast": 785,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Joseph T. Deters (REP)": 461,
+      "Melody J. Stewart (DEM)": 233,
+      "Total Votes Cast": 694,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Joseph T. Deters (REP)": 590,
+      "Melody J. Stewart (DEM)": 289,
+      "Total Votes Cast": 879,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Joseph T. Deters (REP)": 503,
+      "Melody J. Stewart (DEM)": 314,
+      "Total Votes Cast": 817,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Joseph T. Deters (REP)": 372,
+      "Melody J. Stewart (DEM)": 205,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Joseph T. Deters (REP)": 420,
+      "Melody J. Stewart (DEM)": 237,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Joseph T. Deters (REP)": 267,
+      "Melody J. Stewart (DEM)": 217,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Joseph T. Deters (REP)": 442,
+      "Melody J. Stewart (DEM)": 127,
+      "Total Votes Cast": 569,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Joseph T. Deters (REP)": 474,
+      "Melody J. Stewart (DEM)": 111,
+      "Total Votes Cast": 585,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Joseph T. Deters (REP)": 725,
+      "Melody J. Stewart (DEM)": 150,
+      "Total Votes Cast": 875,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Joseph T. Deters (REP)": 428,
+      "Melody J. Stewart (DEM)": 148,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Joseph T. Deters (REP)": 314,
+      "Melody J. Stewart (DEM)": 350,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Joseph T. Deters (REP)": 518,
+      "Melody J. Stewart (DEM)": 359,
+      "Total Votes Cast": 877,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Joseph T. Deters (REP)": 231,
+      "Melody J. Stewart (DEM)": 347,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Joseph T. Deters (REP)": 304,
+      "Melody J. Stewart (DEM)": 306,
+      "Total Votes Cast": 610,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Joseph T. Deters (REP)": 359,
+      "Melody J. Stewart (DEM)": 463,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Joseph T. Deters (REP)": 329,
+      "Melody J. Stewart (DEM)": 521,
+      "Total Votes Cast": 850,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Joseph T. Deters (REP)": 353,
+      "Melody J. Stewart (DEM)": 453,
+      "Total Votes Cast": 806,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Joseph T. Deters (REP)": 361,
+      "Melody J. Stewart (DEM)": 428,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Joseph T. Deters (REP)": 260,
+      "Melody J. Stewart (DEM)": 450,
+      "Total Votes Cast": 710,
+      "Overvotes": 2,
+      "Undervotes": 26,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Joseph T. Deters (REP)": 254,
+      "Melody J. Stewart (DEM)": 348,
+      "Total Votes Cast": 602,
+      "Overvotes": 1,
+      "Undervotes": 35,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Joseph T. Deters (REP)": 449,
+      "Melody J. Stewart (DEM)": 385,
+      "Total Votes Cast": 834,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Joseph T. Deters (REP)": 314,
+      "Melody J. Stewart (DEM)": 218,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Joseph T. Deters (REP)": 296,
+      "Melody J. Stewart (DEM)": 300,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Joseph T. Deters (REP)": 455,
+      "Melody J. Stewart (DEM)": 322,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Joseph T. Deters (REP)": 482,
+      "Melody J. Stewart (DEM)": 392,
+      "Total Votes Cast": 874,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Joseph T. Deters (REP)": 500,
+      "Melody J. Stewart (DEM)": 451,
+      "Total Votes Cast": 951,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Joseph T. Deters (REP)": 491,
+      "Melody J. Stewart (DEM)": 458,
+      "Total Votes Cast": 949,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Joseph T. Deters (REP)": 654,
+      "Melody J. Stewart (DEM)": 379,
+      "Total Votes Cast": 1033,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Joseph T. Deters (REP)": 506,
+      "Melody J. Stewart (DEM)": 359,
+      "Total Votes Cast": 865,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Joseph T. Deters (REP)": 471,
+      "Melody J. Stewart (DEM)": 405,
+      "Total Votes Cast": 876,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Joseph T. Deters (REP)": 550,
+      "Melody J. Stewart (DEM)": 427,
+      "Total Votes Cast": 977,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Joseph T. Deters (REP)": 458,
+      "Melody J. Stewart (DEM)": 356,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Joseph T. Deters (REP)": 390,
+      "Melody J. Stewart (DEM)": 341,
+      "Total Votes Cast": 731,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Joseph T. Deters (REP)": 565,
+      "Melody J. Stewart (DEM)": 474,
+      "Total Votes Cast": 1039,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Joseph T. Deters (REP)": 483,
+      "Melody J. Stewart (DEM)": 435,
+      "Total Votes Cast": 918,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Joseph T. Deters (REP)": 423,
+      "Melody J. Stewart (DEM)": 398,
+      "Total Votes Cast": 821,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Joseph T. Deters (REP)": 418,
+      "Melody J. Stewart (DEM)": 409,
+      "Total Votes Cast": 827,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Joseph T. Deters (REP)": 67,
+      "Melody J. Stewart (DEM)": 128,
+      "Total Votes Cast": 195,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Joseph T. Deters (REP)": 171,
+      "Melody J. Stewart (DEM)": 537,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Joseph T. Deters (REP)": 108,
+      "Melody J. Stewart (DEM)": 382,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Joseph T. Deters (REP)": 74,
+      "Melody J. Stewart (DEM)": 247,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Joseph T. Deters (REP)": 146,
+      "Melody J. Stewart (DEM)": 472,
+      "Total Votes Cast": 618,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Joseph T. Deters (REP)": 215,
+      "Melody J. Stewart (DEM)": 195,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Joseph T. Deters (REP)": 150,
+      "Melody J. Stewart (DEM)": 334,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Joseph T. Deters (REP)": 222,
+      "Melody J. Stewart (DEM)": 279,
+      "Total Votes Cast": 501,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Joseph T. Deters (REP)": 165,
+      "Melody J. Stewart (DEM)": 189,
+      "Total Votes Cast": 354,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Joseph T. Deters (REP)": 127,
+      "Melody J. Stewart (DEM)": 118,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Joseph T. Deters (REP)": 185,
+      "Melody J. Stewart (DEM)": 167,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Joseph T. Deters (REP)": 434,
+      "Melody J. Stewart (DEM)": 422,
+      "Total Votes Cast": 856,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Joseph T. Deters (REP)": 203,
+      "Melody J. Stewart (DEM)": 258,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Joseph T. Deters (REP)": 131,
+      "Melody J. Stewart (DEM)": 125,
+      "Total Votes Cast": 256,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Joseph T. Deters (REP)": 305,
+      "Melody J. Stewart (DEM)": 378,
+      "Total Votes Cast": 683,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Joseph T. Deters (REP)": 271,
+      "Melody J. Stewart (DEM)": 171,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Joseph T. Deters (REP)": 256,
+      "Melody J. Stewart (DEM)": 205,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Joseph T. Deters (REP)": 324,
+      "Melody J. Stewart (DEM)": 470,
+      "Total Votes Cast": 794,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Joseph T. Deters (REP)": 324,
+      "Melody J. Stewart (DEM)": 339,
+      "Total Votes Cast": 663,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Joseph T. Deters (REP)": 387,
+      "Melody J. Stewart (DEM)": 471,
+      "Total Votes Cast": 858,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Joseph T. Deters (REP)": 424,
+      "Melody J. Stewart (DEM)": 353,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Joseph T. Deters (REP)": 99,
+      "Melody J. Stewart (DEM)": 393,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Joseph T. Deters (REP)": 76,
+      "Melody J. Stewart (DEM)": 304,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Joseph T. Deters (REP)": 84,
+      "Melody J. Stewart (DEM)": 315,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Joseph T. Deters (REP)": 27,
+      "Melody J. Stewart (DEM)": 312,
+      "Total Votes Cast": 339,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Joseph T. Deters (REP)": 44,
+      "Melody J. Stewart (DEM)": 306,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Joseph T. Deters (REP)": 44,
+      "Melody J. Stewart (DEM)": 251,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Joseph T. Deters (REP)": 32,
+      "Melody J. Stewart (DEM)": 385,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Joseph T. Deters (REP)": 24,
+      "Melody J. Stewart (DEM)": 388,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Joseph T. Deters (REP)": 29,
+      "Melody J. Stewart (DEM)": 371,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Joseph T. Deters (REP)": 26,
+      "Melody J. Stewart (DEM)": 334,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Joseph T. Deters (REP)": 26,
+      "Melody J. Stewart (DEM)": 321,
+      "Total Votes Cast": 347,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Joseph T. Deters (REP)": 28,
+      "Melody J. Stewart (DEM)": 260,
+      "Total Votes Cast": 288,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Joseph T. Deters (REP)": 279,
+      "Melody J. Stewart (DEM)": 371,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Joseph T. Deters (REP)": 228,
+      "Melody J. Stewart (DEM)": 425,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Joseph T. Deters (REP)": 235,
+      "Melody J. Stewart (DEM)": 403,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Joseph T. Deters (REP)": 245,
+      "Melody J. Stewart (DEM)": 392,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Joseph T. Deters (REP)": 335,
+      "Melody J. Stewart (DEM)": 480,
+      "Total Votes Cast": 815,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Joseph T. Deters (REP)": 311,
+      "Melody J. Stewart (DEM)": 434,
+      "Total Votes Cast": 745,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Joseph T. Deters (REP)": 347,
+      "Melody J. Stewart (DEM)": 467,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Joseph T. Deters (REP)": 283,
+      "Melody J. Stewart (DEM)": 345,
+      "Total Votes Cast": 628,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Joseph T. Deters (REP)": 252,
+      "Melody J. Stewart (DEM)": 304,
+      "Total Votes Cast": 556,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Joseph T. Deters (REP)": 256,
+      "Melody J. Stewart (DEM)": 211,
+      "Total Votes Cast": 467,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Joseph T. Deters (REP)": 191,
+      "Melody J. Stewart (DEM)": 264,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Joseph T. Deters (REP)": 290,
+      "Melody J. Stewart (DEM)": 286,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Joseph T. Deters (REP)": 220,
+      "Melody J. Stewart (DEM)": 279,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Joseph T. Deters (REP)": 165,
+      "Melody J. Stewart (DEM)": 197,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Joseph T. Deters (REP)": 190,
+      "Melody J. Stewart (DEM)": 200,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Joseph T. Deters (REP)": 164,
+      "Melody J. Stewart (DEM)": 242,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Joseph T. Deters (REP)": 304,
+      "Melody J. Stewart (DEM)": 250,
+      "Total Votes Cast": 554,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Joseph T. Deters (REP)": 241,
+      "Melody J. Stewart (DEM)": 203,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Joseph T. Deters (REP)": 301,
+      "Melody J. Stewart (DEM)": 353,
+      "Total Votes Cast": 654,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Joseph T. Deters (REP)": 117,
+      "Melody J. Stewart (DEM)": 316,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Joseph T. Deters (REP)": 223,
+      "Melody J. Stewart (DEM)": 279,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Joseph T. Deters (REP)": 153,
+      "Melody J. Stewart (DEM)": 214,
+      "Total Votes Cast": 367,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Joseph T. Deters (REP)": 32,
+      "Melody J. Stewart (DEM)": 368,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Joseph T. Deters (REP)": 19,
+      "Melody J. Stewart (DEM)": 223,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Joseph T. Deters (REP)": 55,
+      "Melody J. Stewart (DEM)": 426,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Joseph T. Deters (REP)": 15,
+      "Melody J. Stewart (DEM)": 174,
+      "Total Votes Cast": 189,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Joseph T. Deters (REP)": 34,
+      "Melody J. Stewart (DEM)": 249,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Joseph T. Deters (REP)": 42,
+      "Melody J. Stewart (DEM)": 484,
+      "Total Votes Cast": 526,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Joseph T. Deters (REP)": 30,
+      "Melody J. Stewart (DEM)": 411,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Joseph T. Deters (REP)": 30,
+      "Melody J. Stewart (DEM)": 470,
+      "Total Votes Cast": 500,
+      "Overvotes": 1,
+      "Undervotes": 35,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Joseph T. Deters (REP)": 16,
+      "Melody J. Stewart (DEM)": 336,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Joseph T. Deters (REP)": 27,
+      "Melody J. Stewart (DEM)": 381,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Joseph T. Deters (REP)": 41,
+      "Melody J. Stewart (DEM)": 389,
+      "Total Votes Cast": 430,
+      "Overvotes": 1,
+      "Undervotes": 23,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Joseph T. Deters (REP)": 29,
+      "Melody J. Stewart (DEM)": 304,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Joseph T. Deters (REP)": 36,
+      "Melody J. Stewart (DEM)": 341,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Joseph T. Deters (REP)": 52,
+      "Melody J. Stewart (DEM)": 668,
+      "Total Votes Cast": 720,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Joseph T. Deters (REP)": 28,
+      "Melody J. Stewart (DEM)": 392,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Joseph T. Deters (REP)": 65,
+      "Melody J. Stewart (DEM)": 271,
+      "Total Votes Cast": 336,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Joseph T. Deters (REP)": 79,
+      "Melody J. Stewart (DEM)": 349,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Joseph T. Deters (REP)": 72,
+      "Melody J. Stewart (DEM)": 396,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Joseph T. Deters (REP)": 46,
+      "Melody J. Stewart (DEM)": 252,
+      "Total Votes Cast": 298,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Joseph T. Deters (REP)": 28,
+      "Melody J. Stewart (DEM)": 288,
+      "Total Votes Cast": 316,
+      "Overvotes": 1,
+      "Undervotes": 20,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Joseph T. Deters (REP)": 89,
+      "Melody J. Stewart (DEM)": 446,
+      "Total Votes Cast": 535,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Joseph T. Deters (REP)": 67,
+      "Melody J. Stewart (DEM)": 327,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Joseph T. Deters (REP)": 83,
+      "Melody J. Stewart (DEM)": 302,
+      "Total Votes Cast": 385,
+      "Overvotes": 1,
+      "Undervotes": 21,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Joseph T. Deters (REP)": 3,
+      "Melody J. Stewart (DEM)": 184,
+      "Total Votes Cast": 187,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Joseph T. Deters (REP)": 31,
+      "Melody J. Stewart (DEM)": 432,
+      "Total Votes Cast": 463,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Joseph T. Deters (REP)": 22,
+      "Melody J. Stewart (DEM)": 348,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Joseph T. Deters (REP)": 400,
+      "Melody J. Stewart (DEM)": 361,
+      "Total Votes Cast": 761,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Joseph T. Deters (REP)": 416,
+      "Melody J. Stewart (DEM)": 402,
+      "Total Votes Cast": 818,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Joseph T. Deters (REP)": 314,
+      "Melody J. Stewart (DEM)": 226,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Joseph T. Deters (REP)": 332,
+      "Melody J. Stewart (DEM)": 244,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Joseph T. Deters (REP)": 36,
+      "Melody J. Stewart (DEM)": 314,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Joseph T. Deters (REP)": 26,
+      "Melody J. Stewart (DEM)": 318,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Joseph T. Deters (REP)": 45,
+      "Melody J. Stewart (DEM)": 492,
+      "Total Votes Cast": 537,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Joseph T. Deters (REP)": 78,
+      "Melody J. Stewart (DEM)": 609,
+      "Total Votes Cast": 687,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Joseph T. Deters (REP)": 58,
+      "Melody J. Stewart (DEM)": 459,
+      "Total Votes Cast": 517,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Joseph T. Deters (REP)": 35,
+      "Melody J. Stewart (DEM)": 727,
+      "Total Votes Cast": 762,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Joseph T. Deters (REP)": 104,
+      "Melody J. Stewart (DEM)": 424,
+      "Total Votes Cast": 528,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Joseph T. Deters (REP)": 380,
+      "Melody J. Stewart (DEM)": 402,
+      "Total Votes Cast": 782,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Joseph T. Deters (REP)": 412,
+      "Melody J. Stewart (DEM)": 310,
+      "Total Votes Cast": 722,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Joseph T. Deters (REP)": 304,
+      "Melody J. Stewart (DEM)": 391,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Joseph T. Deters (REP)": 470,
+      "Melody J. Stewart (DEM)": 373,
+      "Total Votes Cast": 843,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Joseph T. Deters (REP)": 354,
+      "Melody J. Stewart (DEM)": 459,
+      "Total Votes Cast": 813,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Joseph T. Deters (REP)": 389,
+      "Melody J. Stewart (DEM)": 279,
+      "Total Votes Cast": 668,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Joseph T. Deters (REP)": 412,
+      "Melody J. Stewart (DEM)": 347,
+      "Total Votes Cast": 759,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Joseph T. Deters (REP)": 308,
+      "Melody J. Stewart (DEM)": 281,
+      "Total Votes Cast": 589,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Joseph T. Deters (REP)": 280,
+      "Melody J. Stewart (DEM)": 277,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Joseph T. Deters (REP)": 301,
+      "Melody J. Stewart (DEM)": 372,
+      "Total Votes Cast": 673,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Joseph T. Deters (REP)": 399,
+      "Melody J. Stewart (DEM)": 118,
+      "Total Votes Cast": 517,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Joseph T. Deters (REP)": 750,
+      "Melody J. Stewart (DEM)": 171,
+      "Total Votes Cast": 921,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Joseph T. Deters (REP)": 721,
+      "Melody J. Stewart (DEM)": 182,
+      "Total Votes Cast": 903,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Joseph T. Deters (REP)": 501,
+      "Melody J. Stewart (DEM)": 242,
+      "Total Votes Cast": 743,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Joseph T. Deters (REP)": 493,
+      "Melody J. Stewart (DEM)": 210,
+      "Total Votes Cast": 703,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Joseph T. Deters (REP)": 528,
+      "Melody J. Stewart (DEM)": 189,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Joseph T. Deters (REP)": 576,
+      "Melody J. Stewart (DEM)": 197,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Joseph T. Deters (REP)": 261,
+      "Melody J. Stewart (DEM)": 141,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Joseph T. Deters (REP)": 321,
+      "Melody J. Stewart (DEM)": 181,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Joseph T. Deters (REP)": 307,
+      "Melody J. Stewart (DEM)": 201,
+      "Total Votes Cast": 508,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Joseph T. Deters (REP)": 258,
+      "Melody J. Stewart (DEM)": 505,
+      "Total Votes Cast": 763,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Joseph T. Deters (REP)": 201,
+      "Melody J. Stewart (DEM)": 112,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Joseph T. Deters (REP)": 51,
+      "Melody J. Stewart (DEM)": 256,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Joseph T. Deters (REP)": 112,
+      "Melody J. Stewart (DEM)": 392,
+      "Total Votes Cast": 504,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Joseph T. Deters (REP)": 81,
+      "Melody J. Stewart (DEM)": 467,
+      "Total Votes Cast": 548,
+      "Overvotes": 1,
+      "Undervotes": 33,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Joseph T. Deters (REP)": 120,
+      "Melody J. Stewart (DEM)": 397,
+      "Total Votes Cast": 517,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Joseph T. Deters (REP)": 74,
+      "Melody J. Stewart (DEM)": 429,
+      "Total Votes Cast": 503,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Joseph T. Deters (REP)": 99,
+      "Melody J. Stewart (DEM)": 398,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Joseph T. Deters (REP)": 202,
+      "Melody J. Stewart (DEM)": 530,
+      "Total Votes Cast": 732,
+      "Overvotes": 1,
+      "Undervotes": 29,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Joseph T. Deters (REP)": 98,
+      "Melody J. Stewart (DEM)": 716,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Joseph T. Deters (REP)": 304,
+      "Melody J. Stewart (DEM)": 158,
+      "Total Votes Cast": 462,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Joseph T. Deters (REP)": 149,
+      "Melody J. Stewart (DEM)": 549,
+      "Total Votes Cast": 698,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Joseph T. Deters (REP)": 469,
+      "Melody J. Stewart (DEM)": 307,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Joseph T. Deters (REP)": 461,
+      "Melody J. Stewart (DEM)": 462,
+      "Total Votes Cast": 923,
+      "Overvotes": 1,
+      "Undervotes": 47,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Joseph T. Deters (REP)": 274,
+      "Melody J. Stewart (DEM)": 415,
+      "Total Votes Cast": 689,
+      "Overvotes": 1,
+      "Undervotes": 46,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Joseph T. Deters (REP)": 481,
+      "Melody J. Stewart (DEM)": 358,
+      "Total Votes Cast": 839,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Joseph T. Deters (REP)": 418,
+      "Melody J. Stewart (DEM)": 359,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Joseph T. Deters (REP)": 470,
+      "Melody J. Stewart (DEM)": 364,
+      "Total Votes Cast": 834,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Joseph T. Deters (REP)": 342,
+      "Melody J. Stewart (DEM)": 256,
+      "Total Votes Cast": 598,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Joseph T. Deters (REP)": 210,
+      "Melody J. Stewart (DEM)": 331,
+      "Total Votes Cast": 541,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Joseph T. Deters (REP)": 308,
+      "Melody J. Stewart (DEM)": 241,
+      "Total Votes Cast": 549,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Joseph T. Deters (REP)": 473,
+      "Melody J. Stewart (DEM)": 318,
+      "Total Votes Cast": 791,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Joseph T. Deters (REP)": 294,
+      "Melody J. Stewart (DEM)": 325,
+      "Total Votes Cast": 619,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Joseph T. Deters (REP)": 434,
+      "Melody J. Stewart (DEM)": 317,
+      "Total Votes Cast": 751,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Joseph T. Deters (REP)": 427,
+      "Melody J. Stewart (DEM)": 277,
+      "Total Votes Cast": 704,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Joseph T. Deters (REP)": 400,
+      "Melody J. Stewart (DEM)": 384,
+      "Total Votes Cast": 784,
+      "Overvotes": 1,
+      "Undervotes": 52,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Joseph T. Deters (REP)": 363,
+      "Melody J. Stewart (DEM)": 399,
+      "Total Votes Cast": 762,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Joseph T. Deters (REP)": 377,
+      "Melody J. Stewart (DEM)": 314,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Joseph T. Deters (REP)": 357,
+      "Melody J. Stewart (DEM)": 338,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Joseph T. Deters (REP)": 384,
+      "Melody J. Stewart (DEM)": 325,
+      "Total Votes Cast": 709,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Joseph T. Deters (REP)": 390,
+      "Melody J. Stewart (DEM)": 332,
+      "Total Votes Cast": 722,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Joseph T. Deters (REP)": 325,
+      "Melody J. Stewart (DEM)": 279,
+      "Total Votes Cast": 604,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Joseph T. Deters (REP)": 483,
+      "Melody J. Stewart (DEM)": 328,
+      "Total Votes Cast": 811,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Joseph T. Deters (REP)": 413,
+      "Melody J. Stewart (DEM)": 350,
+      "Total Votes Cast": 763,
+      "Overvotes": 2,
+      "Undervotes": 43,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Joseph T. Deters (REP)": 456,
+      "Melody J. Stewart (DEM)": 262,
+      "Total Votes Cast": 718,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Joseph T. Deters (REP)": 711,
+      "Melody J. Stewart (DEM)": 182,
+      "Total Votes Cast": 893,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Joseph T. Deters (REP)": 512,
+      "Melody J. Stewart (DEM)": 117,
+      "Total Votes Cast": 629,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Joseph T. Deters (REP)": 422,
+      "Melody J. Stewart (DEM)": 461,
+      "Total Votes Cast": 883,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Joseph T. Deters (REP)": 170,
+      "Melody J. Stewart (DEM)": 340,
+      "Total Votes Cast": 510,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Joseph T. Deters (REP)": 406,
+      "Melody J. Stewart (DEM)": 258,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Joseph T. Deters (REP)": 39,
+      "Melody J. Stewart (DEM)": 611,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Joseph T. Deters (REP)": 335,
+      "Melody J. Stewart (DEM)": 109,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Joseph T. Deters (REP)": 521,
+      "Melody J. Stewart (DEM)": 169,
+      "Total Votes Cast": 690,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Joseph T. Deters (REP)": 265,
+      "Melody J. Stewart (DEM)": 352,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Joseph T. Deters (REP)": 379,
+      "Melody J. Stewart (DEM)": 225,
+      "Total Votes Cast": 604,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Joseph T. Deters (REP)": 465,
+      "Melody J. Stewart (DEM)": 347,
+      "Total Votes Cast": 812,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Joseph T. Deters (REP)": 401,
+      "Melody J. Stewart (DEM)": 384,
+      "Total Votes Cast": 785,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Joseph T. Deters (REP)": 360,
+      "Melody J. Stewart (DEM)": 281,
+      "Total Votes Cast": 641,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Joseph T. Deters (REP)": 353,
+      "Melody J. Stewart (DEM)": 270,
+      "Total Votes Cast": 623,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Joseph T. Deters (REP)": 361,
+      "Melody J. Stewart (DEM)": 303,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Joseph T. Deters (REP)": 481,
+      "Melody J. Stewart (DEM)": 386,
+      "Total Votes Cast": 867,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Joseph T. Deters (REP)": 381,
+      "Melody J. Stewart (DEM)": 357,
+      "Total Votes Cast": 738,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Joseph T. Deters (REP)": 366,
+      "Melody J. Stewart (DEM)": 347,
+      "Total Votes Cast": 713,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Joseph T. Deters (REP)": 362,
+      "Melody J. Stewart (DEM)": 337,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Joseph T. Deters (REP)": 384,
+      "Melody J. Stewart (DEM)": 366,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Joseph T. Deters (REP)": 396,
+      "Melody J. Stewart (DEM)": 423,
+      "Total Votes Cast": 819,
+      "Overvotes": 1,
+      "Undervotes": 53,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Joseph T. Deters (REP)": 435,
+      "Melody J. Stewart (DEM)": 328,
+      "Total Votes Cast": 763,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Joseph T. Deters (REP)": 344,
+      "Melody J. Stewart (DEM)": 281,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Joseph T. Deters (REP)": 580,
+      "Melody J. Stewart (DEM)": 380,
+      "Total Votes Cast": 960,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Joseph T. Deters (REP)": 429,
+      "Melody J. Stewart (DEM)": 385,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Joseph T. Deters (REP)": 343,
+      "Melody J. Stewart (DEM)": 289,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Joseph T. Deters (REP)": 241,
+      "Melody J. Stewart (DEM)": 281,
+      "Total Votes Cast": 522,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Joseph T. Deters (REP)": 384,
+      "Melody J. Stewart (DEM)": 396,
+      "Total Votes Cast": 780,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Joseph T. Deters (REP)": 335,
+      "Melody J. Stewart (DEM)": 444,
+      "Total Votes Cast": 779,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Joseph T. Deters (REP)": 444,
+      "Melody J. Stewart (DEM)": 315,
+      "Total Votes Cast": 759,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Joseph T. Deters (REP)": 241,
+      "Melody J. Stewart (DEM)": 413,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Joseph T. Deters (REP)": 426,
+      "Melody J. Stewart (DEM)": 388,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Joseph T. Deters (REP)": 306,
+      "Melody J. Stewart (DEM)": 336,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Joseph T. Deters (REP)": 348,
+      "Melody J. Stewart (DEM)": 304,
+      "Total Votes Cast": 652,
+      "Overvotes": 1,
+      "Undervotes": 26,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Joseph T. Deters (REP)": 388,
+      "Melody J. Stewart (DEM)": 380,
+      "Total Votes Cast": 768,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Joseph T. Deters (REP)": 379,
+      "Melody J. Stewart (DEM)": 282,
+      "Total Votes Cast": 661,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Joseph T. Deters (REP)": 329,
+      "Melody J. Stewart (DEM)": 319,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Joseph T. Deters (REP)": 451,
+      "Melody J. Stewart (DEM)": 437,
+      "Total Votes Cast": 888,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Joseph T. Deters (REP)": 370,
+      "Melody J. Stewart (DEM)": 515,
+      "Total Votes Cast": 885,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Joseph T. Deters (REP)": 322,
+      "Melody J. Stewart (DEM)": 560,
+      "Total Votes Cast": 882,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Joseph T. Deters (REP)": 287,
+      "Melody J. Stewart (DEM)": 246,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Joseph T. Deters (REP)": 367,
+      "Melody J. Stewart (DEM)": 407,
+      "Total Votes Cast": 774,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Joseph T. Deters (REP)": 329,
+      "Melody J. Stewart (DEM)": 358,
+      "Total Votes Cast": 687,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Joseph T. Deters (REP)": 343,
+      "Melody J. Stewart (DEM)": 395,
+      "Total Votes Cast": 738,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Joseph T. Deters (REP)": 503,
+      "Melody J. Stewart (DEM)": 451,
+      "Total Votes Cast": 954,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Joseph T. Deters (REP)": 332,
+      "Melody J. Stewart (DEM)": 298,
+      "Total Votes Cast": 630,
+      "Overvotes": 1,
+      "Undervotes": 48,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Joseph T. Deters (REP)": 344,
+      "Melody J. Stewart (DEM)": 465,
+      "Total Votes Cast": 809,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Joseph T. Deters (REP)": 284,
+      "Melody J. Stewart (DEM)": 438,
+      "Total Votes Cast": 722,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Joseph T. Deters (REP)": 352,
+      "Melody J. Stewart (DEM)": 396,
+      "Total Votes Cast": 748,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Joseph T. Deters (REP)": 523,
+      "Melody J. Stewart (DEM)": 301,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Joseph T. Deters (REP)": 543,
+      "Melody J. Stewart (DEM)": 244,
+      "Total Votes Cast": 787,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Joseph T. Deters (REP)": 451,
+      "Melody J. Stewart (DEM)": 287,
+      "Total Votes Cast": 738,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Joseph T. Deters (REP)": 326,
+      "Melody J. Stewart (DEM)": 239,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Joseph T. Deters (REP)": 494,
+      "Melody J. Stewart (DEM)": 251,
+      "Total Votes Cast": 745,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Joseph T. Deters (REP)": 560,
+      "Melody J. Stewart (DEM)": 262,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Joseph T. Deters (REP)": 355,
+      "Melody J. Stewart (DEM)": 210,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Joseph T. Deters (REP)": 445,
+      "Melody J. Stewart (DEM)": 287,
+      "Total Votes Cast": 732,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Joseph T. Deters (REP)": 383,
+      "Melody J. Stewart (DEM)": 263,
+      "Total Votes Cast": 646,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Joseph T. Deters (REP)": 524,
+      "Melody J. Stewart (DEM)": 273,
+      "Total Votes Cast": 797,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Joseph T. Deters (REP)": 448,
+      "Melody J. Stewart (DEM)": 244,
+      "Total Votes Cast": 692,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Joseph T. Deters (REP)": 426,
+      "Melody J. Stewart (DEM)": 207,
+      "Total Votes Cast": 633,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Joseph T. Deters (REP)": 364,
+      "Melody J. Stewart (DEM)": 201,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Joseph T. Deters (REP)": 643,
+      "Melody J. Stewart (DEM)": 393,
+      "Total Votes Cast": 1036,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Joseph T. Deters (REP)": 436,
+      "Melody J. Stewart (DEM)": 317,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Joseph T. Deters (REP)": 351,
+      "Melody J. Stewart (DEM)": 313,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Joseph T. Deters (REP)": 615,
+      "Melody J. Stewart (DEM)": 170,
+      "Total Votes Cast": 785,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Joseph T. Deters (REP)": 332,
+      "Melody J. Stewart (DEM)": 343,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Joseph T. Deters (REP)": 566,
+      "Melody J. Stewart (DEM)": 357,
+      "Total Votes Cast": 923,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Joseph T. Deters (REP)": 351,
+      "Melody J. Stewart (DEM)": 349,
+      "Total Votes Cast": 700,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Joseph T. Deters (REP)": 387,
+      "Melody J. Stewart (DEM)": 255,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Joseph T. Deters (REP)": 355,
+      "Melody J. Stewart (DEM)": 305,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Joseph T. Deters (REP)": 190,
+      "Melody J. Stewart (DEM)": 206,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Joseph T. Deters (REP)": 499,
+      "Melody J. Stewart (DEM)": 161,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Joseph T. Deters (REP)": 536,
+      "Melody J. Stewart (DEM)": 346,
+      "Total Votes Cast": 882,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Joseph T. Deters (REP)": 325,
+      "Melody J. Stewart (DEM)": 249,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Joseph T. Deters (REP)": 377,
+      "Melody J. Stewart (DEM)": 290,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Joseph T. Deters (REP)": 443,
+      "Melody J. Stewart (DEM)": 321,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Joseph T. Deters (REP)": 412,
+      "Melody J. Stewart (DEM)": 290,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Joseph T. Deters (REP)": 222,
+      "Melody J. Stewart (DEM)": 275,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Joseph T. Deters (REP)": 377,
+      "Melody J. Stewart (DEM)": 381,
+      "Total Votes Cast": 758,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Joseph T. Deters (REP)": 198,
+      "Melody J. Stewart (DEM)": 199,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Joseph T. Deters (REP)": 489,
+      "Melody J. Stewart (DEM)": 220,
+      "Total Votes Cast": 709,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Joseph T. Deters (REP)": 347,
+      "Melody J. Stewart (DEM)": 242,
+      "Total Votes Cast": 589,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Joseph T. Deters (REP)": 283,
+      "Melody J. Stewart (DEM)": 285,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Joseph T. Deters (REP)": 425,
+      "Melody J. Stewart (DEM)": 261,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Joseph T. Deters (REP)": 287,
+      "Melody J. Stewart (DEM)": 147,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Joseph T. Deters (REP)": 475,
+      "Melody J. Stewart (DEM)": 305,
+      "Total Votes Cast": 780,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Joseph T. Deters (REP)": 318,
+      "Melody J. Stewart (DEM)": 170,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Joseph T. Deters (REP)": 223,
+      "Melody J. Stewart (DEM)": 210,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Joseph T. Deters (REP)": 121,
+      "Melody J. Stewart (DEM)": 231,
+      "Total Votes Cast": 352,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Joseph T. Deters (REP)": 306,
+      "Melody J. Stewart (DEM)": 501,
+      "Total Votes Cast": 807,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Joseph T. Deters (REP)": 344,
+      "Melody J. Stewart (DEM)": 456,
+      "Total Votes Cast": 800,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Joseph T. Deters (REP)": 219,
+      "Melody J. Stewart (DEM)": 426,
+      "Total Votes Cast": 645,
+      "Overvotes": 1,
+      "Undervotes": 35,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Joseph T. Deters (REP)": 234,
+      "Melody J. Stewart (DEM)": 420,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Joseph T. Deters (REP)": 195,
+      "Melody J. Stewart (DEM)": 478,
+      "Total Votes Cast": 673,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Joseph T. Deters (REP)": 256,
+      "Melody J. Stewart (DEM)": 591,
+      "Total Votes Cast": 847,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Joseph T. Deters (REP)": 285,
+      "Melody J. Stewart (DEM)": 438,
+      "Total Votes Cast": 723,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Joseph T. Deters (REP)": 263,
+      "Melody J. Stewart (DEM)": 313,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Joseph T. Deters (REP)": 449,
+      "Melody J. Stewart (DEM)": 99,
+      "Total Votes Cast": 548,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Joseph T. Deters (REP)": 474,
+      "Melody J. Stewart (DEM)": 136,
+      "Total Votes Cast": 610,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Joseph T. Deters (REP)": 564,
+      "Melody J. Stewart (DEM)": 144,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Joseph T. Deters (REP)": 158,
+      "Melody J. Stewart (DEM)": 63,
+      "Total Votes Cast": 221,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Joseph T. Deters (REP)": 251,
+      "Melody J. Stewart (DEM)": 247,
+      "Total Votes Cast": 498,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Joseph T. Deters (REP)": 367,
+      "Melody J. Stewart (DEM)": 125,
+      "Total Votes Cast": 492,
+      "Overvotes": 1,
+      "Undervotes": 38,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Joseph T. Deters (REP)": 399,
+      "Melody J. Stewart (DEM)": 249,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Joseph T. Deters (REP)": 346,
+      "Melody J. Stewart (DEM)": 175,
+      "Total Votes Cast": 521,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Joseph T. Deters (REP)": 337,
+      "Melody J. Stewart (DEM)": 317,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Joseph T. Deters (REP)": 471,
+      "Melody J. Stewart (DEM)": 216,
+      "Total Votes Cast": 687,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Joseph T. Deters (REP)": 397,
+      "Melody J. Stewart (DEM)": 170,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Joseph T. Deters (REP)": 292,
+      "Melody J. Stewart (DEM)": 266,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Joseph T. Deters (REP)": 305,
+      "Melody J. Stewart (DEM)": 195,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Joseph T. Deters (REP)": 205,
+      "Melody J. Stewart (DEM)": 119,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Joseph T. Deters (REP)": 302,
+      "Melody J. Stewart (DEM)": 183,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Joseph T. Deters (REP)": 314,
+      "Melody J. Stewart (DEM)": 166,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Joseph T. Deters (REP)": 351,
+      "Melody J. Stewart (DEM)": 303,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Joseph T. Deters (REP)": 272,
+      "Melody J. Stewart (DEM)": 122,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Joseph T. Deters (REP)": 375,
+      "Melody J. Stewart (DEM)": 292,
+      "Total Votes Cast": 667,
+      "Overvotes": 1,
+      "Undervotes": 48,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Joseph T. Deters (REP)": 293,
+      "Melody J. Stewart (DEM)": 193,
+      "Total Votes Cast": 486,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Joseph T. Deters (REP)": 400,
+      "Melody J. Stewart (DEM)": 270,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Joseph T. Deters (REP)": 397,
+      "Melody J. Stewart (DEM)": 314,
+      "Total Votes Cast": 711,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Joseph T. Deters (REP)": 185,
+      "Melody J. Stewart (DEM)": 499,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Joseph T. Deters (REP)": 106,
+      "Melody J. Stewart (DEM)": 277,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Joseph T. Deters (REP)": 31,
+      "Melody J. Stewart (DEM)": 463,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Joseph T. Deters (REP)": 42,
+      "Melody J. Stewart (DEM)": 371,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Joseph T. Deters (REP)": 44,
+      "Melody J. Stewart (DEM)": 648,
+      "Total Votes Cast": 692,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Joseph T. Deters (REP)": 71,
+      "Melody J. Stewart (DEM)": 507,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Joseph T. Deters (REP)": 78,
+      "Melody J. Stewart (DEM)": 591,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Joseph T. Deters (REP)": 49,
+      "Melody J. Stewart (DEM)": 433,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Joseph T. Deters (REP)": 113,
+      "Melody J. Stewart (DEM)": 282,
+      "Total Votes Cast": 395,
+      "Overvotes": 1,
+      "Undervotes": 35,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Joseph T. Deters (REP)": 35,
+      "Melody J. Stewart (DEM)": 445,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Joseph T. Deters (REP)": 143,
+      "Melody J. Stewart (DEM)": 293,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Joseph T. Deters (REP)": 309,
+      "Melody J. Stewart (DEM)": 257,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Joseph T. Deters (REP)": 167,
+      "Melody J. Stewart (DEM)": 264,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Joseph T. Deters (REP)": 104,
+      "Melody J. Stewart (DEM)": 531,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Joseph T. Deters (REP)": 49,
+      "Melody J. Stewart (DEM)": 585,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Joseph T. Deters (REP)": 68,
+      "Melody J. Stewart (DEM)": 451,
+      "Total Votes Cast": 519,
+      "Overvotes": 1,
+      "Undervotes": 43,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Joseph T. Deters (REP)": 69,
+      "Melody J. Stewart (DEM)": 357,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Joseph T. Deters (REP)": 50,
+      "Melody J. Stewart (DEM)": 383,
+      "Total Votes Cast": 433,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Joseph T. Deters (REP)": 303,
+      "Melody J. Stewart (DEM)": 148,
+      "Total Votes Cast": 451,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Joseph T. Deters (REP)": 415,
+      "Melody J. Stewart (DEM)": 261,
+      "Total Votes Cast": 676,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Joseph T. Deters (REP)": 505,
+      "Melody J. Stewart (DEM)": 251,
+      "Total Votes Cast": 756,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Joseph T. Deters (REP)": 495,
+      "Melody J. Stewart (DEM)": 305,
+      "Total Votes Cast": 800,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Joseph T. Deters (REP)": 528,
+      "Melody J. Stewart (DEM)": 245,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Joseph T. Deters (REP)": 429,
+      "Melody J. Stewart (DEM)": 242,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Joseph T. Deters (REP)": 286,
+      "Melody J. Stewart (DEM)": 141,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Joseph T. Deters (REP)": 530,
+      "Melody J. Stewart (DEM)": 249,
+      "Total Votes Cast": 779,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Joseph T. Deters (REP)": 407,
+      "Melody J. Stewart (DEM)": 299,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Joseph T. Deters (REP)": 345,
+      "Melody J. Stewart (DEM)": 170,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Joseph T. Deters (REP)": 499,
+      "Melody J. Stewart (DEM)": 308,
+      "Total Votes Cast": 807,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Joseph T. Deters (REP)": 407,
+      "Melody J. Stewart (DEM)": 218,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Joseph T. Deters (REP)": 592,
+      "Melody J. Stewart (DEM)": 276,
+      "Total Votes Cast": 868,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Joseph T. Deters (REP)": 464,
+      "Melody J. Stewart (DEM)": 240,
+      "Total Votes Cast": 704,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Joseph T. Deters (REP)": 608,
+      "Melody J. Stewart (DEM)": 293,
+      "Total Votes Cast": 901,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Joseph T. Deters (REP)": 521,
+      "Melody J. Stewart (DEM)": 305,
+      "Total Votes Cast": 826,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Joseph T. Deters (REP)": 449,
+      "Melody J. Stewart (DEM)": 287,
+      "Total Votes Cast": 736,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Joseph T. Deters (REP)": 593,
+      "Melody J. Stewart (DEM)": 429,
+      "Total Votes Cast": 1022,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Joseph T. Deters (REP)": 470,
+      "Melody J. Stewart (DEM)": 379,
+      "Total Votes Cast": 849,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Joseph T. Deters (REP)": 368,
+      "Melody J. Stewart (DEM)": 263,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Joseph T. Deters (REP)": 490,
+      "Melody J. Stewart (DEM)": 394,
+      "Total Votes Cast": 884,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Joseph T. Deters (REP)": 328,
+      "Melody J. Stewart (DEM)": 233,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Joseph T. Deters (REP)": 507,
+      "Melody J. Stewart (DEM)": 436,
+      "Total Votes Cast": 943,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Joseph T. Deters (REP)": 448,
+      "Melody J. Stewart (DEM)": 317,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Joseph T. Deters (REP)": 305,
+      "Melody J. Stewart (DEM)": 340,
+      "Total Votes Cast": 645,
+      "Overvotes": 1,
+      "Undervotes": 27,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Joseph T. Deters (REP)": 432,
+      "Melody J. Stewart (DEM)": 380,
+      "Total Votes Cast": 812,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Joseph T. Deters (REP)": 467,
+      "Melody J. Stewart (DEM)": 323,
+      "Total Votes Cast": 790,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Joseph T. Deters (REP)": 327,
+      "Melody J. Stewart (DEM)": 346,
+      "Total Votes Cast": 673,
+      "Overvotes": 2,
+      "Undervotes": 53,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Joseph T. Deters (REP)": 529,
+      "Melody J. Stewart (DEM)": 359,
+      "Total Votes Cast": 888,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Joseph T. Deters (REP)": 378,
+      "Melody J. Stewart (DEM)": 425,
+      "Total Votes Cast": 803,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Joseph T. Deters (REP)": 433,
+      "Melody J. Stewart (DEM)": 391,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Joseph T. Deters (REP)": 539,
+      "Melody J. Stewart (DEM)": 394,
+      "Total Votes Cast": 933,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Joseph T. Deters (REP)": 470,
+      "Melody J. Stewart (DEM)": 444,
+      "Total Votes Cast": 914,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Joseph T. Deters (REP)": 384,
+      "Melody J. Stewart (DEM)": 293,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Joseph T. Deters (REP)": 393,
+      "Melody J. Stewart (DEM)": 305,
+      "Total Votes Cast": 698,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Joseph T. Deters (REP)": 323,
+      "Melody J. Stewart (DEM)": 374,
+      "Total Votes Cast": 697,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Joseph T. Deters (REP)": 471,
+      "Melody J. Stewart (DEM)": 362,
+      "Total Votes Cast": 833,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Joseph T. Deters (REP)": 453,
+      "Melody J. Stewart (DEM)": 339,
+      "Total Votes Cast": 792,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Joseph T. Deters (REP)": 275,
+      "Melody J. Stewart (DEM)": 286,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Joseph T. Deters (REP)": 377,
+      "Melody J. Stewart (DEM)": 289,
+      "Total Votes Cast": 666,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Joseph T. Deters (REP)": 542,
+      "Melody J. Stewart (DEM)": 499,
+      "Total Votes Cast": 1041,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Joseph T. Deters (REP)": 410,
+      "Melody J. Stewart (DEM)": 319,
+      "Total Votes Cast": 729,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Joseph T. Deters (REP)": 421,
+      "Melody J. Stewart (DEM)": 347,
+      "Total Votes Cast": 768,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Joseph T. Deters (REP)": 298,
+      "Melody J. Stewart (DEM)": 279,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Joseph T. Deters (REP)": 531,
+      "Melody J. Stewart (DEM)": 429,
+      "Total Votes Cast": 960,
+      "Overvotes": 1,
+      "Undervotes": 67,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Joseph T. Deters (REP)": 396,
+      "Melody J. Stewart (DEM)": 253,
+      "Total Votes Cast": 649,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Joseph T. Deters (REP)": 433,
+      "Melody J. Stewart (DEM)": 242,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Joseph T. Deters (REP)": 477,
+      "Melody J. Stewart (DEM)": 234,
+      "Total Votes Cast": 711,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Joseph T. Deters (REP)": 439,
+      "Melody J. Stewart (DEM)": 251,
+      "Total Votes Cast": 690,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Joseph T. Deters (REP)": 185,
+      "Melody J. Stewart (DEM)": 281,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Joseph T. Deters (REP)": 270,
+      "Melody J. Stewart (DEM)": 260,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Joseph T. Deters (REP)": 372,
+      "Melody J. Stewart (DEM)": 335,
+      "Total Votes Cast": 707,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Joseph T. Deters (REP)": 437,
+      "Melody J. Stewart (DEM)": 227,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Joseph T. Deters (REP)": 180,
+      "Melody J. Stewart (DEM)": 319,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 519
+    }
+  ]
+}

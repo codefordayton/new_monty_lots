@@ -1,0 +1,3435 @@
+{
+  "race": "Judge of the Common Pleas Court UTE 070127",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Julia J. Mauk": 177,
+      "Elizabeth A. Ellis": 384,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 362,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Julia J. Mauk": 114,
+      "Elizabeth A. Ellis": 318,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 267,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Julia J. Mauk": 151,
+      "Elizabeth A. Ellis": 397,
+      "Total Votes Cast": 548,
+      "Overvotes": 1,
+      "Undervotes": 362,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Julia J. Mauk": 117,
+      "Elizabeth A. Ellis": 357,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 310,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Julia J. Mauk": 161,
+      "Elizabeth A. Ellis": 363,
+      "Total Votes Cast": 524,
+      "Overvotes": 0,
+      "Undervotes": 305,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Julia J. Mauk": 138,
+      "Elizabeth A. Ellis": 311,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Julia J. Mauk": 236,
+      "Elizabeth A. Ellis": 399,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 290,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Julia J. Mauk": 203,
+      "Elizabeth A. Ellis": 358,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 300,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Julia J. Mauk": 147,
+      "Elizabeth A. Ellis": 272,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 178,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Julia J. Mauk": 135,
+      "Elizabeth A. Ellis": 311,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 241,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Julia J. Mauk": 141,
+      "Elizabeth A. Ellis": 198,
+      "Total Votes Cast": 339,
+      "Overvotes": 1,
+      "Undervotes": 181,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Julia J. Mauk": 92,
+      "Elizabeth A. Ellis": 267,
+      "Total Votes Cast": 359,
+      "Overvotes": 1,
+      "Undervotes": 237,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Julia J. Mauk": 93,
+      "Elizabeth A. Ellis": 253,
+      "Total Votes Cast": 346,
+      "Overvotes": 1,
+      "Undervotes": 273,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Julia J. Mauk": 130,
+      "Elizabeth A. Ellis": 367,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 434,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Julia J. Mauk": 130,
+      "Elizabeth A. Ellis": 264,
+      "Total Votes Cast": 394,
+      "Overvotes": 1,
+      "Undervotes": 213,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Julia J. Mauk": 200,
+      "Elizabeth A. Ellis": 292,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 201,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Julia J. Mauk": 238,
+      "Elizabeth A. Ellis": 324,
+      "Total Votes Cast": 562,
+      "Overvotes": 0,
+      "Undervotes": 379,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Julia J. Mauk": 182,
+      "Elizabeth A. Ellis": 205,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 212,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Julia J. Mauk": 175,
+      "Elizabeth A. Ellis": 222,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 258,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Julia J. Mauk": 284,
+      "Elizabeth A. Ellis": 309,
+      "Total Votes Cast": 593,
+      "Overvotes": 0,
+      "Undervotes": 265,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Julia J. Mauk": 327,
+      "Elizabeth A. Ellis": 295,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 275,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Julia J. Mauk": 273,
+      "Elizabeth A. Ellis": 291,
+      "Total Votes Cast": 564,
+      "Overvotes": 1,
+      "Undervotes": 298,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Julia J. Mauk": 262,
+      "Elizabeth A. Ellis": 274,
+      "Total Votes Cast": 536,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Julia J. Mauk": 248,
+      "Elizabeth A. Ellis": 270,
+      "Total Votes Cast": 518,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Julia J. Mauk": 179,
+      "Elizabeth A. Ellis": 220,
+      "Total Votes Cast": 399,
+      "Overvotes": 1,
+      "Undervotes": 238,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Julia J. Mauk": 228,
+      "Elizabeth A. Ellis": 361,
+      "Total Votes Cast": 589,
+      "Overvotes": 1,
+      "Undervotes": 291,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Julia J. Mauk": 136,
+      "Elizabeth A. Ellis": 219,
+      "Total Votes Cast": 355,
+      "Overvotes": 1,
+      "Undervotes": 209,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Julia J. Mauk": 163,
+      "Elizabeth A. Ellis": 242,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 244,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Julia J. Mauk": 202,
+      "Elizabeth A. Ellis": 343,
+      "Total Votes Cast": 545,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Julia J. Mauk": 222,
+      "Elizabeth A. Ellis": 380,
+      "Total Votes Cast": 602,
+      "Overvotes": 0,
+      "Undervotes": 334,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Julia J. Mauk": 288,
+      "Elizabeth A. Ellis": 358,
+      "Total Votes Cast": 646,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Julia J. Mauk": 255,
+      "Elizabeth A. Ellis": 423,
+      "Total Votes Cast": 678,
+      "Overvotes": 0,
+      "Undervotes": 331,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Julia J. Mauk": 252,
+      "Elizabeth A. Ellis": 489,
+      "Total Votes Cast": 741,
+      "Overvotes": 1,
+      "Undervotes": 349,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Julia J. Mauk": 206,
+      "Elizabeth A. Ellis": 402,
+      "Total Votes Cast": 608,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Julia J. Mauk": 239,
+      "Elizabeth A. Ellis": 377,
+      "Total Votes Cast": 616,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Julia J. Mauk": 256,
+      "Elizabeth A. Ellis": 445,
+      "Total Votes Cast": 701,
+      "Overvotes": 0,
+      "Undervotes": 331,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Julia J. Mauk": 225,
+      "Elizabeth A. Ellis": 326,
+      "Total Votes Cast": 551,
+      "Overvotes": 1,
+      "Undervotes": 311,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Julia J. Mauk": 192,
+      "Elizabeth A. Ellis": 320,
+      "Total Votes Cast": 512,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Julia J. Mauk": 282,
+      "Elizabeth A. Ellis": 433,
+      "Total Votes Cast": 715,
+      "Overvotes": 1,
+      "Undervotes": 390,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Julia J. Mauk": 250,
+      "Elizabeth A. Ellis": 355,
+      "Total Votes Cast": 605,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Julia J. Mauk": 238,
+      "Elizabeth A. Ellis": 332,
+      "Total Votes Cast": 570,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Julia J. Mauk": 201,
+      "Elizabeth A. Ellis": 331,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 349,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Julia J. Mauk": 80,
+      "Elizabeth A. Ellis": 48,
+      "Total Votes Cast": 128,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Julia J. Mauk": 291,
+      "Elizabeth A. Ellis": 194,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Julia J. Mauk": 203,
+      "Elizabeth A. Ellis": 141,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 178,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Julia J. Mauk": 133,
+      "Elizabeth A. Ellis": 86,
+      "Total Votes Cast": 219,
+      "Overvotes": 0,
+      "Undervotes": 114,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Julia J. Mauk": 292,
+      "Elizabeth A. Ellis": 131,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Julia J. Mauk": 99,
+      "Elizabeth A. Ellis": 177,
+      "Total Votes Cast": 276,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Julia J. Mauk": 213,
+      "Elizabeth A. Ellis": 140,
+      "Total Votes Cast": 353,
+      "Overvotes": 2,
+      "Undervotes": 156,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Julia J. Mauk": 130,
+      "Elizabeth A. Ellis": 196,
+      "Total Votes Cast": 326,
+      "Overvotes": 0,
+      "Undervotes": 213,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Julia J. Mauk": 86,
+      "Elizabeth A. Ellis": 140,
+      "Total Votes Cast": 226,
+      "Overvotes": 0,
+      "Undervotes": 164,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Julia J. Mauk": 59,
+      "Elizabeth A. Ellis": 87,
+      "Total Votes Cast": 146,
+      "Overvotes": 0,
+      "Undervotes": 125,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Julia J. Mauk": 102,
+      "Elizabeth A. Ellis": 124,
+      "Total Votes Cast": 226,
+      "Overvotes": 0,
+      "Undervotes": 162,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Julia J. Mauk": 229,
+      "Elizabeth A. Ellis": 358,
+      "Total Votes Cast": 587,
+      "Overvotes": 0,
+      "Undervotes": 314,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Julia J. Mauk": 151,
+      "Elizabeth A. Ellis": 165,
+      "Total Votes Cast": 316,
+      "Overvotes": 1,
+      "Undervotes": 182,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Julia J. Mauk": 82,
+      "Elizabeth A. Ellis": 101,
+      "Total Votes Cast": 183,
+      "Overvotes": 0,
+      "Undervotes": 94,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Julia J. Mauk": 265,
+      "Elizabeth A. Ellis": 220,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 244,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Julia J. Mauk": 99,
+      "Elizabeth A. Ellis": 191,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 194,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Julia J. Mauk": 134,
+      "Elizabeth A. Ellis": 174,
+      "Total Votes Cast": 308,
+      "Overvotes": 0,
+      "Undervotes": 191,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Julia J. Mauk": 242,
+      "Elizabeth A. Ellis": 301,
+      "Total Votes Cast": 543,
+      "Overvotes": 0,
+      "Undervotes": 303,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Julia J. Mauk": 199,
+      "Elizabeth A. Ellis": 230,
+      "Total Votes Cast": 429,
+      "Overvotes": 0,
+      "Undervotes": 290,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Julia J. Mauk": 259,
+      "Elizabeth A. Ellis": 323,
+      "Total Votes Cast": 582,
+      "Overvotes": 0,
+      "Undervotes": 312,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Julia J. Mauk": 224,
+      "Elizabeth A. Ellis": 313,
+      "Total Votes Cast": 537,
+      "Overvotes": 0,
+      "Undervotes": 282,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Julia J. Mauk": 223,
+      "Elizabeth A. Ellis": 148,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 142,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Julia J. Mauk": 168,
+      "Elizabeth A. Ellis": 99,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 131,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Julia J. Mauk": 190,
+      "Elizabeth A. Ellis": 113,
+      "Total Votes Cast": 303,
+      "Overvotes": 1,
+      "Undervotes": 125,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Julia J. Mauk": 164,
+      "Elizabeth A. Ellis": 81,
+      "Total Votes Cast": 245,
+      "Overvotes": 1,
+      "Undervotes": 121,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Julia J. Mauk": 163,
+      "Elizabeth A. Ellis": 95,
+      "Total Votes Cast": 258,
+      "Overvotes": 0,
+      "Undervotes": 127,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Julia J. Mauk": 130,
+      "Elizabeth A. Ellis": 70,
+      "Total Votes Cast": 200,
+      "Overvotes": 0,
+      "Undervotes": 121,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Julia J. Mauk": 187,
+      "Elizabeth A. Ellis": 115,
+      "Total Votes Cast": 302,
+      "Overvotes": 0,
+      "Undervotes": 141,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Julia J. Mauk": 186,
+      "Elizabeth A. Ellis": 100,
+      "Total Votes Cast": 286,
+      "Overvotes": 1,
+      "Undervotes": 159,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Julia J. Mauk": 189,
+      "Elizabeth A. Ellis": 127,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 118,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Julia J. Mauk": 170,
+      "Elizabeth A. Ellis": 79,
+      "Total Votes Cast": 249,
+      "Overvotes": 2,
+      "Undervotes": 137,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Julia J. Mauk": 169,
+      "Elizabeth A. Ellis": 79,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 132,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Julia J. Mauk": 168,
+      "Elizabeth A. Ellis": 53,
+      "Total Votes Cast": 221,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Julia J. Mauk": 180,
+      "Elizabeth A. Ellis": 255,
+      "Total Votes Cast": 435,
+      "Overvotes": 1,
+      "Undervotes": 268,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Julia J. Mauk": 217,
+      "Elizabeth A. Ellis": 229,
+      "Total Votes Cast": 446,
+      "Overvotes": 1,
+      "Undervotes": 230,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Julia J. Mauk": 206,
+      "Elizabeth A. Ellis": 222,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 264,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Julia J. Mauk": 234,
+      "Elizabeth A. Ellis": 189,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 253,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Julia J. Mauk": 274,
+      "Elizabeth A. Ellis": 297,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Julia J. Mauk": 271,
+      "Elizabeth A. Ellis": 228,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 297,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Julia J. Mauk": 230,
+      "Elizabeth A. Ellis": 291,
+      "Total Votes Cast": 521,
+      "Overvotes": 0,
+      "Undervotes": 345,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Julia J. Mauk": 174,
+      "Elizabeth A. Ellis": 233,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 263,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Julia J. Mauk": 169,
+      "Elizabeth A. Ellis": 199,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Julia J. Mauk": 144,
+      "Elizabeth A. Ellis": 164,
+      "Total Votes Cast": 308,
+      "Overvotes": 0,
+      "Undervotes": 196,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Julia J. Mauk": 155,
+      "Elizabeth A. Ellis": 155,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 170,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Julia J. Mauk": 184,
+      "Elizabeth A. Ellis": 193,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 238,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Julia J. Mauk": 145,
+      "Elizabeth A. Ellis": 167,
+      "Total Votes Cast": 312,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Julia J. Mauk": 87,
+      "Elizabeth A. Ellis": 137,
+      "Total Votes Cast": 224,
+      "Overvotes": 0,
+      "Undervotes": 158,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Julia J. Mauk": 110,
+      "Elizabeth A. Ellis": 157,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 164,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Julia J. Mauk": 147,
+      "Elizabeth A. Ellis": 149,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 137,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Julia J. Mauk": 148,
+      "Elizabeth A. Ellis": 218,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Julia J. Mauk": 124,
+      "Elizabeth A. Ellis": 162,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Julia J. Mauk": 220,
+      "Elizabeth A. Ellis": 225,
+      "Total Votes Cast": 445,
+      "Overvotes": 1,
+      "Undervotes": 245,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Julia J. Mauk": 206,
+      "Elizabeth A. Ellis": 89,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 163,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Julia J. Mauk": 179,
+      "Elizabeth A. Ellis": 189,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 163,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Julia J. Mauk": 110,
+      "Elizabeth A. Ellis": 142,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 153,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Julia J. Mauk": 205,
+      "Elizabeth A. Ellis": 82,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 139,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Julia J. Mauk": 98,
+      "Elizabeth A. Ellis": 78,
+      "Total Votes Cast": 176,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Julia J. Mauk": 201,
+      "Elizabeth A. Ellis": 144,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Julia J. Mauk": 86,
+      "Elizabeth A. Ellis": 52,
+      "Total Votes Cast": 138,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Julia J. Mauk": 118,
+      "Elizabeth A. Ellis": 59,
+      "Total Votes Cast": 177,
+      "Overvotes": 0,
+      "Undervotes": 125,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Julia J. Mauk": 258,
+      "Elizabeth A. Ellis": 134,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Julia J. Mauk": 198,
+      "Elizabeth A. Ellis": 118,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 157,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Julia J. Mauk": 251,
+      "Elizabeth A. Ellis": 118,
+      "Total Votes Cast": 369,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Julia J. Mauk": 151,
+      "Elizabeth A. Ellis": 94,
+      "Total Votes Cast": 245,
+      "Overvotes": 1,
+      "Undervotes": 133,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Julia J. Mauk": 188,
+      "Elizabeth A. Ellis": 101,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 159,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Julia J. Mauk": 193,
+      "Elizabeth A. Ellis": 100,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 161,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Julia J. Mauk": 165,
+      "Elizabeth A. Ellis": 71,
+      "Total Votes Cast": 236,
+      "Overvotes": 0,
+      "Undervotes": 114,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Julia J. Mauk": 174,
+      "Elizabeth A. Ellis": 108,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 117,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Julia J. Mauk": 356,
+      "Elizabeth A. Ellis": 172,
+      "Total Votes Cast": 528,
+      "Overvotes": 1,
+      "Undervotes": 223,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Julia J. Mauk": 207,
+      "Elizabeth A. Ellis": 89,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 155,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Julia J. Mauk": 158,
+      "Elizabeth A. Ellis": 84,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Julia J. Mauk": 159,
+      "Elizabeth A. Ellis": 148,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 159,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Julia J. Mauk": 219,
+      "Elizabeth A. Ellis": 120,
+      "Total Votes Cast": 339,
+      "Overvotes": 0,
+      "Undervotes": 156,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Julia J. Mauk": 118,
+      "Elizabeth A. Ellis": 93,
+      "Total Votes Cast": 211,
+      "Overvotes": 1,
+      "Undervotes": 101,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Julia J. Mauk": 147,
+      "Elizabeth A. Ellis": 90,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 100,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Julia J. Mauk": 238,
+      "Elizabeth A. Ellis": 157,
+      "Total Votes Cast": 395,
+      "Overvotes": 0,
+      "Undervotes": 176,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Julia J. Mauk": 172,
+      "Elizabeth A. Ellis": 105,
+      "Total Votes Cast": 277,
+      "Overvotes": 0,
+      "Undervotes": 138,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Julia J. Mauk": 174,
+      "Elizabeth A. Ellis": 110,
+      "Total Votes Cast": 284,
+      "Overvotes": 1,
+      "Undervotes": 122,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Julia J. Mauk": 86,
+      "Elizabeth A. Ellis": 45,
+      "Total Votes Cast": 131,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Julia J. Mauk": 164,
+      "Elizabeth A. Ellis": 155,
+      "Total Votes Cast": 319,
+      "Overvotes": 0,
+      "Undervotes": 174,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Julia J. Mauk": 177,
+      "Elizabeth A. Ellis": 84,
+      "Total Votes Cast": 261,
+      "Overvotes": 0,
+      "Undervotes": 131,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Julia J. Mauk": 186,
+      "Elizabeth A. Ellis": 319,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 308,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Julia J. Mauk": 256,
+      "Elizabeth A. Ellis": 277,
+      "Total Votes Cast": 533,
+      "Overvotes": 1,
+      "Undervotes": 340,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Julia J. Mauk": 136,
+      "Elizabeth A. Ellis": 210,
+      "Total Votes Cast": 346,
+      "Overvotes": 1,
+      "Undervotes": 226,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Julia J. Mauk": 168,
+      "Elizabeth A. Ellis": 221,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 231,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Julia J. Mauk": 154,
+      "Elizabeth A. Ellis": 95,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 125,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Julia J. Mauk": 154,
+      "Elizabeth A. Ellis": 88,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 130,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Julia J. Mauk": 251,
+      "Elizabeth A. Ellis": 128,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 194,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Julia J. Mauk": 340,
+      "Elizabeth A. Ellis": 167,
+      "Total Votes Cast": 507,
+      "Overvotes": 1,
+      "Undervotes": 212,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Julia J. Mauk": 270,
+      "Elizabeth A. Ellis": 110,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 176,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Julia J. Mauk": 382,
+      "Elizabeth A. Ellis": 190,
+      "Total Votes Cast": 572,
+      "Overvotes": 0,
+      "Undervotes": 240,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Julia J. Mauk": 238,
+      "Elizabeth A. Ellis": 132,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 186,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Julia J. Mauk": 241,
+      "Elizabeth A. Ellis": 309,
+      "Total Votes Cast": 550,
+      "Overvotes": 0,
+      "Undervotes": 283,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Julia J. Mauk": 186,
+      "Elizabeth A. Ellis": 313,
+      "Total Votes Cast": 499,
+      "Overvotes": 1,
+      "Undervotes": 275,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Julia J. Mauk": 220,
+      "Elizabeth A. Ellis": 265,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Julia J. Mauk": 229,
+      "Elizabeth A. Ellis": 382,
+      "Total Votes Cast": 611,
+      "Overvotes": 1,
+      "Undervotes": 273,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Julia J. Mauk": 270,
+      "Elizabeth A. Ellis": 306,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 276,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Julia J. Mauk": 180,
+      "Elizabeth A. Ellis": 286,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 232,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Julia J. Mauk": 222,
+      "Elizabeth A. Ellis": 307,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 288,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Julia J. Mauk": 166,
+      "Elizabeth A. Ellis": 242,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Julia J. Mauk": 175,
+      "Elizabeth A. Ellis": 214,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 197,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Julia J. Mauk": 196,
+      "Elizabeth A. Ellis": 282,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Julia J. Mauk": 97,
+      "Elizabeth A. Ellis": 229,
+      "Total Votes Cast": 326,
+      "Overvotes": 0,
+      "Undervotes": 231,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Julia J. Mauk": 146,
+      "Elizabeth A. Ellis": 433,
+      "Total Votes Cast": 579,
+      "Overvotes": 1,
+      "Undervotes": 397,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Julia J. Mauk": 158,
+      "Elizabeth A. Ellis": 393,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 400,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Julia J. Mauk": 171,
+      "Elizabeth A. Ellis": 299,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 330,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Julia J. Mauk": 134,
+      "Elizabeth A. Ellis": 299,
+      "Total Votes Cast": 433,
+      "Overvotes": 1,
+      "Undervotes": 313,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Julia J. Mauk": 151,
+      "Elizabeth A. Ellis": 331,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Julia J. Mauk": 149,
+      "Elizabeth A. Ellis": 328,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 355,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Julia J. Mauk": 80,
+      "Elizabeth A. Ellis": 184,
+      "Total Votes Cast": 264,
+      "Overvotes": 1,
+      "Undervotes": 168,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Julia J. Mauk": 132,
+      "Elizabeth A. Ellis": 211,
+      "Total Votes Cast": 343,
+      "Overvotes": 1,
+      "Undervotes": 196,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Julia J. Mauk": 112,
+      "Elizabeth A. Ellis": 213,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 240,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Julia J. Mauk": 307,
+      "Elizabeth A. Ellis": 252,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 239,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Julia J. Mauk": 66,
+      "Elizabeth A. Ellis": 140,
+      "Total Votes Cast": 206,
+      "Overvotes": 0,
+      "Undervotes": 137,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Julia J. Mauk": 167,
+      "Elizabeth A. Ellis": 66,
+      "Total Votes Cast": 233,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Julia J. Mauk": 221,
+      "Elizabeth A. Ellis": 151,
+      "Total Votes Cast": 372,
+      "Overvotes": 1,
+      "Undervotes": 172,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Julia J. Mauk": 230,
+      "Elizabeth A. Ellis": 152,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 200,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Julia J. Mauk": 220,
+      "Elizabeth A. Ellis": 160,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 166,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Julia J. Mauk": 259,
+      "Elizabeth A. Ellis": 112,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 164,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Julia J. Mauk": 219,
+      "Elizabeth A. Ellis": 145,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Julia J. Mauk": 335,
+      "Elizabeth A. Ellis": 226,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 201,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Julia J. Mauk": 400,
+      "Elizabeth A. Ellis": 228,
+      "Total Votes Cast": 628,
+      "Overvotes": 1,
+      "Undervotes": 225,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Julia J. Mauk": 103,
+      "Elizabeth A. Ellis": 198,
+      "Total Votes Cast": 301,
+      "Overvotes": 0,
+      "Undervotes": 204,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Julia J. Mauk": 278,
+      "Elizabeth A. Ellis": 211,
+      "Total Votes Cast": 489,
+      "Overvotes": 2,
+      "Undervotes": 254,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Julia J. Mauk": 201,
+      "Elizabeth A. Ellis": 288,
+      "Total Votes Cast": 489,
+      "Overvotes": 1,
+      "Undervotes": 326,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Julia J. Mauk": 271,
+      "Elizabeth A. Ellis": 410,
+      "Total Votes Cast": 681,
+      "Overvotes": 0,
+      "Undervotes": 290,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Julia J. Mauk": 221,
+      "Elizabeth A. Ellis": 235,
+      "Total Votes Cast": 456,
+      "Overvotes": 1,
+      "Undervotes": 279,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Julia J. Mauk": 223,
+      "Elizabeth A. Ellis": 358,
+      "Total Votes Cast": 581,
+      "Overvotes": 0,
+      "Undervotes": 323,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Julia J. Mauk": 198,
+      "Elizabeth A. Ellis": 329,
+      "Total Votes Cast": 527,
+      "Overvotes": 0,
+      "Undervotes": 305,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Julia J. Mauk": 215,
+      "Elizabeth A. Ellis": 356,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 314,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Julia J. Mauk": 163,
+      "Elizabeth A. Ellis": 250,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 217,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Julia J. Mauk": 177,
+      "Elizabeth A. Ellis": 190,
+      "Total Votes Cast": 367,
+      "Overvotes": 1,
+      "Undervotes": 212,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Julia J. Mauk": 132,
+      "Elizabeth A. Ellis": 220,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 238,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Julia J. Mauk": 159,
+      "Elizabeth A. Ellis": 369,
+      "Total Votes Cast": 528,
+      "Overvotes": 2,
+      "Undervotes": 316,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Julia J. Mauk": 201,
+      "Elizabeth A. Ellis": 197,
+      "Total Votes Cast": 398,
+      "Overvotes": 1,
+      "Undervotes": 251,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Julia J. Mauk": 170,
+      "Elizabeth A. Ellis": 331,
+      "Total Votes Cast": 501,
+      "Overvotes": 0,
+      "Undervotes": 303,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Julia J. Mauk": 179,
+      "Elizabeth A. Ellis": 285,
+      "Total Votes Cast": 464,
+      "Overvotes": 1,
+      "Undervotes": 290,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Julia J. Mauk": 201,
+      "Elizabeth A. Ellis": 344,
+      "Total Votes Cast": 545,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Julia J. Mauk": 239,
+      "Elizabeth A. Ellis": 292,
+      "Total Votes Cast": 531,
+      "Overvotes": 1,
+      "Undervotes": 264,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Julia J. Mauk": 169,
+      "Elizabeth A. Ellis": 319,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Julia J. Mauk": 215,
+      "Elizabeth A. Ellis": 262,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 269,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Julia J. Mauk": 157,
+      "Elizabeth A. Ellis": 302,
+      "Total Votes Cast": 459,
+      "Overvotes": 0,
+      "Undervotes": 290,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Julia J. Mauk": 201,
+      "Elizabeth A. Ellis": 282,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 288,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Julia J. Mauk": 148,
+      "Elizabeth A. Ellis": 246,
+      "Total Votes Cast": 394,
+      "Overvotes": 2,
+      "Undervotes": 242,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Julia J. Mauk": 215,
+      "Elizabeth A. Ellis": 346,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 304,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Julia J. Mauk": 202,
+      "Elizabeth A. Ellis": 307,
+      "Total Votes Cast": 509,
+      "Overvotes": 0,
+      "Undervotes": 299,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Julia J. Mauk": 166,
+      "Elizabeth A. Ellis": 308,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Julia J. Mauk": 153,
+      "Elizabeth A. Ellis": 387,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Julia J. Mauk": 115,
+      "Elizabeth A. Ellis": 259,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Julia J. Mauk": 269,
+      "Elizabeth A. Ellis": 322,
+      "Total Votes Cast": 591,
+      "Overvotes": 2,
+      "Undervotes": 346,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Julia J. Mauk": 192,
+      "Elizabeth A. Ellis": 158,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 200,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Julia J. Mauk": 168,
+      "Elizabeth A. Ellis": 258,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 268,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Julia J. Mauk": 307,
+      "Elizabeth A. Ellis": 168,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 208,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Julia J. Mauk": 76,
+      "Elizabeth A. Ellis": 183,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Julia J. Mauk": 126,
+      "Elizabeth A. Ellis": 288,
+      "Total Votes Cast": 414,
+      "Overvotes": 1,
+      "Undervotes": 332,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Julia J. Mauk": 197,
+      "Elizabeth A. Ellis": 237,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Julia J. Mauk": 136,
+      "Elizabeth A. Ellis": 239,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Julia J. Mauk": 187,
+      "Elizabeth A. Ellis": 344,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 343,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Julia J. Mauk": 244,
+      "Elizabeth A. Ellis": 310,
+      "Total Votes Cast": 554,
+      "Overvotes": 0,
+      "Undervotes": 289,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Julia J. Mauk": 173,
+      "Elizabeth A. Ellis": 259,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 250,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Julia J. Mauk": 164,
+      "Elizabeth A. Ellis": 257,
+      "Total Votes Cast": 421,
+      "Overvotes": 1,
+      "Undervotes": 245,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Julia J. Mauk": 156,
+      "Elizabeth A. Ellis": 274,
+      "Total Votes Cast": 430,
+      "Overvotes": 1,
+      "Undervotes": 278,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Julia J. Mauk": 247,
+      "Elizabeth A. Ellis": 329,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 336,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Julia J. Mauk": 198,
+      "Elizabeth A. Ellis": 304,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 281,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Julia J. Mauk": 196,
+      "Elizabeth A. Ellis": 291,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 279,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Julia J. Mauk": 181,
+      "Elizabeth A. Ellis": 313,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Julia J. Mauk": 215,
+      "Elizabeth A. Ellis": 308,
+      "Total Votes Cast": 523,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Julia J. Mauk": 217,
+      "Elizabeth A. Ellis": 341,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 315,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Julia J. Mauk": 189,
+      "Elizabeth A. Ellis": 329,
+      "Total Votes Cast": 518,
+      "Overvotes": 0,
+      "Undervotes": 291,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Julia J. Mauk": 175,
+      "Elizabeth A. Ellis": 257,
+      "Total Votes Cast": 432,
+      "Overvotes": 1,
+      "Undervotes": 231,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Julia J. Mauk": 249,
+      "Elizabeth A. Ellis": 396,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Julia J. Mauk": 209,
+      "Elizabeth A. Ellis": 343,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 321,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Julia J. Mauk": 177,
+      "Elizabeth A. Ellis": 254,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 229,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Julia J. Mauk": 147,
+      "Elizabeth A. Ellis": 208,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 199,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Julia J. Mauk": 253,
+      "Elizabeth A. Ellis": 313,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 262,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Julia J. Mauk": 270,
+      "Elizabeth A. Ellis": 289,
+      "Total Votes Cast": 559,
+      "Overvotes": 2,
+      "Undervotes": 252,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Julia J. Mauk": 208,
+      "Elizabeth A. Ellis": 331,
+      "Total Votes Cast": 539,
+      "Overvotes": 0,
+      "Undervotes": 253,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Julia J. Mauk": 199,
+      "Elizabeth A. Ellis": 233,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Julia J. Mauk": 242,
+      "Elizabeth A. Ellis": 337,
+      "Total Votes Cast": 579,
+      "Overvotes": 0,
+      "Undervotes": 267,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Julia J. Mauk": 153,
+      "Elizabeth A. Ellis": 268,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 263,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Julia J. Mauk": 203,
+      "Elizabeth A. Ellis": 269,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 207,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Julia J. Mauk": 244,
+      "Elizabeth A. Ellis": 302,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 261,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Julia J. Mauk": 196,
+      "Elizabeth A. Ellis": 269,
+      "Total Votes Cast": 465,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Julia J. Mauk": 214,
+      "Elizabeth A. Ellis": 280,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Julia J. Mauk": 246,
+      "Elizabeth A. Ellis": 372,
+      "Total Votes Cast": 618,
+      "Overvotes": 1,
+      "Undervotes": 327,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Julia J. Mauk": 308,
+      "Elizabeth A. Ellis": 345,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 269,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Julia J. Mauk": 336,
+      "Elizabeth A. Ellis": 284,
+      "Total Votes Cast": 620,
+      "Overvotes": 0,
+      "Undervotes": 319,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Julia J. Mauk": 156,
+      "Elizabeth A. Ellis": 220,
+      "Total Votes Cast": 376,
+      "Overvotes": 0,
+      "Undervotes": 187,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Julia J. Mauk": 267,
+      "Elizabeth A. Ellis": 280,
+      "Total Votes Cast": 547,
+      "Overvotes": 0,
+      "Undervotes": 267,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Julia J. Mauk": 200,
+      "Elizabeth A. Ellis": 249,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 282,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Julia J. Mauk": 263,
+      "Elizabeth A. Ellis": 271,
+      "Total Votes Cast": 534,
+      "Overvotes": 0,
+      "Undervotes": 236,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Julia J. Mauk": 309,
+      "Elizabeth A. Ellis": 410,
+      "Total Votes Cast": 719,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Julia J. Mauk": 165,
+      "Elizabeth A. Ellis": 264,
+      "Total Votes Cast": 429,
+      "Overvotes": 1,
+      "Undervotes": 249,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Julia J. Mauk": 272,
+      "Elizabeth A. Ellis": 275,
+      "Total Votes Cast": 547,
+      "Overvotes": 0,
+      "Undervotes": 301,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Julia J. Mauk": 245,
+      "Elizabeth A. Ellis": 271,
+      "Total Votes Cast": 516,
+      "Overvotes": 0,
+      "Undervotes": 250,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Julia J. Mauk": 248,
+      "Elizabeth A. Ellis": 281,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 262,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Julia J. Mauk": 201,
+      "Elizabeth A. Ellis": 320,
+      "Total Votes Cast": 521,
+      "Overvotes": 1,
+      "Undervotes": 378,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Julia J. Mauk": 147,
+      "Elizabeth A. Ellis": 351,
+      "Total Votes Cast": 498,
+      "Overvotes": 1,
+      "Undervotes": 360,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Julia J. Mauk": 177,
+      "Elizabeth A. Ellis": 315,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 284,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Julia J. Mauk": 116,
+      "Elizabeth A. Ellis": 235,
+      "Total Votes Cast": 351,
+      "Overvotes": 1,
+      "Undervotes": 258,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Julia J. Mauk": 175,
+      "Elizabeth A. Ellis": 332,
+      "Total Votes Cast": 507,
+      "Overvotes": 1,
+      "Undervotes": 299,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Julia J. Mauk": 161,
+      "Elizabeth A. Ellis": 360,
+      "Total Votes Cast": 521,
+      "Overvotes": 0,
+      "Undervotes": 340,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Julia J. Mauk": 111,
+      "Elizabeth A. Ellis": 251,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 234,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Julia J. Mauk": 135,
+      "Elizabeth A. Ellis": 312,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 348,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Julia J. Mauk": 169,
+      "Elizabeth A. Ellis": 238,
+      "Total Votes Cast": 407,
+      "Overvotes": 2,
+      "Undervotes": 286,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Julia J. Mauk": 154,
+      "Elizabeth A. Ellis": 357,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 332,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Julia J. Mauk": 156,
+      "Elizabeth A. Ellis": 318,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 266,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Julia J. Mauk": 120,
+      "Elizabeth A. Ellis": 289,
+      "Total Votes Cast": 409,
+      "Overvotes": 2,
+      "Undervotes": 251,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Julia J. Mauk": 131,
+      "Elizabeth A. Ellis": 241,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 225,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Julia J. Mauk": 234,
+      "Elizabeth A. Ellis": 447,
+      "Total Votes Cast": 681,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Julia J. Mauk": 183,
+      "Elizabeth A. Ellis": 297,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 336,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Julia J. Mauk": 168,
+      "Elizabeth A. Ellis": 256,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 294,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Julia J. Mauk": 159,
+      "Elizabeth A. Ellis": 322,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 360,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Julia J. Mauk": 170,
+      "Elizabeth A. Ellis": 252,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Julia J. Mauk": 227,
+      "Elizabeth A. Ellis": 431,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Julia J. Mauk": 175,
+      "Elizabeth A. Ellis": 315,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 265,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Julia J. Mauk": 168,
+      "Elizabeth A. Ellis": 235,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Julia J. Mauk": 145,
+      "Elizabeth A. Ellis": 269,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 289,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Julia J. Mauk": 117,
+      "Elizabeth A. Ellis": 159,
+      "Total Votes Cast": 276,
+      "Overvotes": 0,
+      "Undervotes": 153,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Julia J. Mauk": 112,
+      "Elizabeth A. Ellis": 281,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 304,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Julia J. Mauk": 188,
+      "Elizabeth A. Ellis": 378,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 373,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Julia J. Mauk": 139,
+      "Elizabeth A. Ellis": 244,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Julia J. Mauk": 175,
+      "Elizabeth A. Ellis": 275,
+      "Total Votes Cast": 450,
+      "Overvotes": 0,
+      "Undervotes": 251,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Julia J. Mauk": 190,
+      "Elizabeth A. Ellis": 333,
+      "Total Votes Cast": 523,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Julia J. Mauk": 205,
+      "Elizabeth A. Ellis": 276,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 269,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Julia J. Mauk": 133,
+      "Elizabeth A. Ellis": 193,
+      "Total Votes Cast": 326,
+      "Overvotes": 0,
+      "Undervotes": 198,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Julia J. Mauk": 228,
+      "Elizabeth A. Ellis": 263,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 305,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Julia J. Mauk": 96,
+      "Elizabeth A. Ellis": 170,
+      "Total Votes Cast": 266,
+      "Overvotes": 0,
+      "Undervotes": 162,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Julia J. Mauk": 155,
+      "Elizabeth A. Ellis": 269,
+      "Total Votes Cast": 424,
+      "Overvotes": 1,
+      "Undervotes": 326,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Julia J. Mauk": 121,
+      "Elizabeth A. Ellis": 226,
+      "Total Votes Cast": 347,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Julia J. Mauk": 165,
+      "Elizabeth A. Ellis": 217,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Julia J. Mauk": 137,
+      "Elizabeth A. Ellis": 281,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 319,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Julia J. Mauk": 117,
+      "Elizabeth A. Ellis": 161,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 186,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Julia J. Mauk": 179,
+      "Elizabeth A. Ellis": 320,
+      "Total Votes Cast": 499,
+      "Overvotes": 1,
+      "Undervotes": 334,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Julia J. Mauk": 117,
+      "Elizabeth A. Ellis": 191,
+      "Total Votes Cast": 308,
+      "Overvotes": 0,
+      "Undervotes": 219,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Julia J. Mauk": 105,
+      "Elizabeth A. Ellis": 180,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 182,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Julia J. Mauk": 129,
+      "Elizabeth A. Ellis": 119,
+      "Total Votes Cast": 248,
+      "Overvotes": 1,
+      "Undervotes": 135,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Julia J. Mauk": 287,
+      "Elizabeth A. Ellis": 304,
+      "Total Votes Cast": 591,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Julia J. Mauk": 283,
+      "Elizabeth A. Ellis": 324,
+      "Total Votes Cast": 607,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Julia J. Mauk": 253,
+      "Elizabeth A. Ellis": 221,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 207,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Julia J. Mauk": 244,
+      "Elizabeth A. Ellis": 235,
+      "Total Votes Cast": 479,
+      "Overvotes": 2,
+      "Undervotes": 203,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Julia J. Mauk": 262,
+      "Elizabeth A. Ellis": 232,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 208,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Julia J. Mauk": 347,
+      "Elizabeth A. Ellis": 309,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 213,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Julia J. Mauk": 247,
+      "Elizabeth A. Ellis": 311,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 196,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Julia J. Mauk": 190,
+      "Elizabeth A. Ellis": 243,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Julia J. Mauk": 63,
+      "Elizabeth A. Ellis": 286,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 249,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Julia J. Mauk": 111,
+      "Elizabeth A. Ellis": 268,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Julia J. Mauk": 96,
+      "Elizabeth A. Ellis": 345,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Julia J. Mauk": 56,
+      "Elizabeth A. Ellis": 89,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 92,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Julia J. Mauk": 138,
+      "Elizabeth A. Ellis": 190,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 199,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Julia J. Mauk": 91,
+      "Elizabeth A. Ellis": 219,
+      "Total Votes Cast": 310,
+      "Overvotes": 2,
+      "Undervotes": 219,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Julia J. Mauk": 164,
+      "Elizabeth A. Ellis": 257,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 249,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Julia J. Mauk": 120,
+      "Elizabeth A. Ellis": 198,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Julia J. Mauk": 167,
+      "Elizabeth A. Ellis": 239,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 302,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Julia J. Mauk": 151,
+      "Elizabeth A. Ellis": 273,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 304,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Julia J. Mauk": 108,
+      "Elizabeth A. Ellis": 260,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Julia J. Mauk": 140,
+      "Elizabeth A. Ellis": 235,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 226,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Julia J. Mauk": 108,
+      "Elizabeth A. Ellis": 209,
+      "Total Votes Cast": 317,
+      "Overvotes": 1,
+      "Undervotes": 221,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Julia J. Mauk": 81,
+      "Elizabeth A. Ellis": 138,
+      "Total Votes Cast": 219,
+      "Overvotes": 0,
+      "Undervotes": 143,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Julia J. Mauk": 108,
+      "Elizabeth A. Ellis": 197,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Julia J. Mauk": 123,
+      "Elizabeth A. Ellis": 199,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 190,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Julia J. Mauk": 169,
+      "Elizabeth A. Ellis": 279,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Julia J. Mauk": 105,
+      "Elizabeth A. Ellis": 154,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 162,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Julia J. Mauk": 168,
+      "Elizabeth A. Ellis": 313,
+      "Total Votes Cast": 481,
+      "Overvotes": 1,
+      "Undervotes": 234,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Julia J. Mauk": 120,
+      "Elizabeth A. Ellis": 187,
+      "Total Votes Cast": 307,
+      "Overvotes": 1,
+      "Undervotes": 214,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Julia J. Mauk": 149,
+      "Elizabeth A. Ellis": 291,
+      "Total Votes Cast": 440,
+      "Overvotes": 1,
+      "Undervotes": 276,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Julia J. Mauk": 201,
+      "Elizabeth A. Ellis": 305,
+      "Total Votes Cast": 506,
+      "Overvotes": 1,
+      "Undervotes": 250,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Julia J. Mauk": 275,
+      "Elizabeth A. Ellis": 250,
+      "Total Votes Cast": 525,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Julia J. Mauk": 164,
+      "Elizabeth A. Ellis": 118,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 124,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Julia J. Mauk": 266,
+      "Elizabeth A. Ellis": 118,
+      "Total Votes Cast": 384,
+      "Overvotes": 1,
+      "Undervotes": 150,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Julia J. Mauk": 201,
+      "Elizabeth A. Ellis": 119,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 120,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Julia J. Mauk": 348,
+      "Elizabeth A. Ellis": 167,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 216,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Julia J. Mauk": 290,
+      "Elizabeth A. Ellis": 151,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 171,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Julia J. Mauk": 282,
+      "Elizabeth A. Ellis": 194,
+      "Total Votes Cast": 476,
+      "Overvotes": 1,
+      "Undervotes": 232,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Julia J. Mauk": 232,
+      "Elizabeth A. Ellis": 134,
+      "Total Votes Cast": 366,
+      "Overvotes": 1,
+      "Undervotes": 152,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Julia J. Mauk": 176,
+      "Elizabeth A. Ellis": 130,
+      "Total Votes Cast": 306,
+      "Overvotes": 0,
+      "Undervotes": 125,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Julia J. Mauk": 267,
+      "Elizabeth A. Ellis": 95,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 144,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Julia J. Mauk": 160,
+      "Elizabeth A. Ellis": 151,
+      "Total Votes Cast": 311,
+      "Overvotes": 0,
+      "Undervotes": 161,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Julia J. Mauk": 151,
+      "Elizabeth A. Ellis": 245,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 214,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Julia J. Mauk": 147,
+      "Elizabeth A. Ellis": 150,
+      "Total Votes Cast": 297,
+      "Overvotes": 0,
+      "Undervotes": 173,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Julia J. Mauk": 255,
+      "Elizabeth A. Ellis": 186,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Julia J. Mauk": 310,
+      "Elizabeth A. Ellis": 170,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 190,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Julia J. Mauk": 228,
+      "Elizabeth A. Ellis": 145,
+      "Total Votes Cast": 373,
+      "Overvotes": 0,
+      "Undervotes": 190,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Julia J. Mauk": 180,
+      "Elizabeth A. Ellis": 127,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 142,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Julia J. Mauk": 203,
+      "Elizabeth A. Ellis": 112,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 155,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Julia J. Mauk": 94,
+      "Elizabeth A. Ellis": 211,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 174,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Julia J. Mauk": 195,
+      "Elizabeth A. Ellis": 251,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 271,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Julia J. Mauk": 168,
+      "Elizabeth A. Ellis": 313,
+      "Total Votes Cast": 481,
+      "Overvotes": 1,
+      "Undervotes": 316,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Julia J. Mauk": 224,
+      "Elizabeth A. Ellis": 334,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 286,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Julia J. Mauk": 156,
+      "Elizabeth A. Ellis": 329,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Julia J. Mauk": 161,
+      "Elizabeth A. Ellis": 264,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 291,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Julia J. Mauk": 106,
+      "Elizabeth A. Ellis": 184,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 155,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Julia J. Mauk": 184,
+      "Elizabeth A. Ellis": 316,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Julia J. Mauk": 178,
+      "Elizabeth A. Ellis": 311,
+      "Total Votes Cast": 489,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Julia J. Mauk": 116,
+      "Elizabeth A. Ellis": 228,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 206,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Julia J. Mauk": 211,
+      "Elizabeth A. Ellis": 337,
+      "Total Votes Cast": 548,
+      "Overvotes": 0,
+      "Undervotes": 302,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Julia J. Mauk": 171,
+      "Elizabeth A. Ellis": 213,
+      "Total Votes Cast": 384,
+      "Overvotes": 3,
+      "Undervotes": 276,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Julia J. Mauk": 205,
+      "Elizabeth A. Ellis": 395,
+      "Total Votes Cast": 600,
+      "Overvotes": 0,
+      "Undervotes": 305,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Julia J. Mauk": 169,
+      "Elizabeth A. Ellis": 313,
+      "Total Votes Cast": 482,
+      "Overvotes": 1,
+      "Undervotes": 271,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Julia J. Mauk": 196,
+      "Elizabeth A. Ellis": 383,
+      "Total Votes Cast": 579,
+      "Overvotes": 1,
+      "Undervotes": 372,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Julia J. Mauk": 202,
+      "Elizabeth A. Ellis": 368,
+      "Total Votes Cast": 570,
+      "Overvotes": 0,
+      "Undervotes": 308,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Julia J. Mauk": 176,
+      "Elizabeth A. Ellis": 320,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 282,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Julia J. Mauk": 277,
+      "Elizabeth A. Ellis": 421,
+      "Total Votes Cast": 698,
+      "Overvotes": 0,
+      "Undervotes": 388,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Julia J. Mauk": 238,
+      "Elizabeth A. Ellis": 347,
+      "Total Votes Cast": 585,
+      "Overvotes": 0,
+      "Undervotes": 310,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Julia J. Mauk": 176,
+      "Elizabeth A. Ellis": 285,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 196,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Julia J. Mauk": 251,
+      "Elizabeth A. Ellis": 377,
+      "Total Votes Cast": 628,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Julia J. Mauk": 163,
+      "Elizabeth A. Ellis": 236,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 202,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Julia J. Mauk": 295,
+      "Elizabeth A. Ellis": 373,
+      "Total Votes Cast": 668,
+      "Overvotes": 0,
+      "Undervotes": 332,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Julia J. Mauk": 207,
+      "Elizabeth A. Ellis": 322,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 280,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Julia J. Mauk": 179,
+      "Elizabeth A. Ellis": 265,
+      "Total Votes Cast": 444,
+      "Overvotes": 1,
+      "Undervotes": 228,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Julia J. Mauk": 244,
+      "Elizabeth A. Ellis": 286,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Julia J. Mauk": 209,
+      "Elizabeth A. Ellis": 314,
+      "Total Votes Cast": 523,
+      "Overvotes": 0,
+      "Undervotes": 296,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Julia J. Mauk": 186,
+      "Elizabeth A. Ellis": 225,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 317,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Julia J. Mauk": 200,
+      "Elizabeth A. Ellis": 374,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 363,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Julia J. Mauk": 243,
+      "Elizabeth A. Ellis": 297,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 304,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Julia J. Mauk": 194,
+      "Elizabeth A. Ellis": 363,
+      "Total Votes Cast": 557,
+      "Overvotes": 1,
+      "Undervotes": 323,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Julia J. Mauk": 226,
+      "Elizabeth A. Ellis": 402,
+      "Total Votes Cast": 628,
+      "Overvotes": 0,
+      "Undervotes": 362,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Julia J. Mauk": 214,
+      "Elizabeth A. Ellis": 394,
+      "Total Votes Cast": 608,
+      "Overvotes": 0,
+      "Undervotes": 362,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Julia J. Mauk": 175,
+      "Elizabeth A. Ellis": 296,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 240,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Julia J. Mauk": 172,
+      "Elizabeth A. Ellis": 301,
+      "Total Votes Cast": 473,
+      "Overvotes": 1,
+      "Undervotes": 268,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Julia J. Mauk": 208,
+      "Elizabeth A. Ellis": 240,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Julia J. Mauk": 205,
+      "Elizabeth A. Ellis": 363,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Julia J. Mauk": 201,
+      "Elizabeth A. Ellis": 312,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Julia J. Mauk": 152,
+      "Elizabeth A. Ellis": 202,
+      "Total Votes Cast": 354,
+      "Overvotes": 0,
+      "Undervotes": 241,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Julia J. Mauk": 183,
+      "Elizabeth A. Ellis": 313,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 213,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Julia J. Mauk": 271,
+      "Elizabeth A. Ellis": 433,
+      "Total Votes Cast": 704,
+      "Overvotes": 0,
+      "Undervotes": 404,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Julia J. Mauk": 223,
+      "Elizabeth A. Ellis": 319,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Julia J. Mauk": 187,
+      "Elizabeth A. Ellis": 316,
+      "Total Votes Cast": 503,
+      "Overvotes": 1,
+      "Undervotes": 324,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Julia J. Mauk": 174,
+      "Elizabeth A. Ellis": 208,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Julia J. Mauk": 275,
+      "Elizabeth A. Ellis": 400,
+      "Total Votes Cast": 675,
+      "Overvotes": 1,
+      "Undervotes": 352,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Julia J. Mauk": 157,
+      "Elizabeth A. Ellis": 269,
+      "Total Votes Cast": 426,
+      "Overvotes": 1,
+      "Undervotes": 276,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Julia J. Mauk": 142,
+      "Elizabeth A. Ellis": 297,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 297,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Julia J. Mauk": 160,
+      "Elizabeth A. Ellis": 310,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 284,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Julia J. Mauk": 148,
+      "Elizabeth A. Ellis": 296,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Julia J. Mauk": 138,
+      "Elizabeth A. Ellis": 156,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 186,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Julia J. Mauk": 142,
+      "Elizabeth A. Ellis": 206,
+      "Total Votes Cast": 348,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Julia J. Mauk": 200,
+      "Elizabeth A. Ellis": 260,
+      "Total Votes Cast": 460,
+      "Overvotes": 0,
+      "Undervotes": 295,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Julia J. Mauk": 141,
+      "Elizabeth A. Ellis": 315,
+      "Total Votes Cast": 456,
+      "Overvotes": 1,
+      "Undervotes": 260,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Julia J. Mauk": 154,
+      "Elizabeth A. Ellis": 178,
+      "Total Votes Cast": 332,
+      "Overvotes": 1,
+      "Undervotes": 186,
+      "Contest Total": 519
+    }
+  ]
+}

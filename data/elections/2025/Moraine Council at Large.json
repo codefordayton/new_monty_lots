@@ -1,0 +1,78 @@
+{
+  "race": "Moraine Council at Large",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "MOR 1-A1",
+      "Ora F. Allen": 20,
+      "Branden Delph": 13,
+      "Total Votes Cast": 33,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 68
+    },
+    {
+      "Precinct": "MOR 1-A2",
+      "Ora F. Allen": 16,
+      "Branden Delph": 12,
+      "Total Votes Cast": 28,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 58
+    },
+    {
+      "Precinct": "MOR 2-A1",
+      "Ora F. Allen": 94,
+      "Branden Delph": 94,
+      "Total Votes Cast": 188,
+      "Overvotes": 0,
+      "Undervotes": 138,
+      "Contest Total": 326
+    },
+    {
+      "Precinct": "MOR 2-A2",
+      "Ora F. Allen": 28,
+      "Branden Delph": 30,
+      "Total Votes Cast": 58,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 136
+    },
+    {
+      "Precinct": "MOR 3-A1",
+      "Ora F. Allen": 78,
+      "Branden Delph": 58,
+      "Total Votes Cast": 136,
+      "Overvotes": 0,
+      "Undervotes": 106,
+      "Contest Total": 242
+    },
+    {
+      "Precinct": "MOR 3-A2",
+      "Ora F. Allen": 0,
+      "Branden Delph": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Ora F. Allen": 51,
+      "Branden Delph": 43,
+      "Total Votes Cast": 94,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 152
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Ora F. Allen": 28,
+      "Branden Delph": 19,
+      "Total Votes Cast": 47,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 92
+    }
+  ]
+}

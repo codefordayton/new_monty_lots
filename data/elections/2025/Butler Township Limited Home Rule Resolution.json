@@ -1,0 +1,78 @@
+{
+  "race": "Butler Township Limited Home Rule Resolution",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "BTLTWP-A",
+      "FOR THE RESOLUTION": 102,
+      "AGAINST THE RESOLUTION": 194,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 307
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "FOR THE RESOLUTION": 98,
+      "AGAINST THE RESOLUTION": 202,
+      "Total Votes Cast": 300,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 306
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "FOR THE RESOLUTION": 177,
+      "AGAINST THE RESOLUTION": 208,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 396
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "FOR THE RESOLUTION": 135,
+      "AGAINST THE RESOLUTION": 205,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 348
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "FOR THE RESOLUTION": 119,
+      "AGAINST THE RESOLUTION": 122,
+      "Total Votes Cast": 241,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 251
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "FOR THE RESOLUTION": 150,
+      "AGAINST THE RESOLUTION": 139,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 300
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "FOR THE RESOLUTION": 68,
+      "AGAINST THE RESOLUTION": 90,
+      "Total Votes Cast": 158,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 164
+    },
+    {
+      "Precinct": "UN-C3",
+      "FOR THE RESOLUTION": 0,
+      "AGAINST THE RESOLUTION": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 1
+    }
+  ]
+}

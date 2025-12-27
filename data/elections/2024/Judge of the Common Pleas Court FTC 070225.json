@@ -1,0 +1,3054 @@
+{
+  "race": "Judge of the Common Pleas Court FTC 070225",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Angelina Jackson": 458,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 465,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Angelina Jackson": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 369,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Angelina Jackson": 401,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 510,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Angelina Jackson": 362,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Angelina Jackson": 398,
+      "Total Votes Cast": 398,
+      "Overvotes": 0,
+      "Undervotes": 431,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Angelina Jackson": 319,
+      "Total Votes Cast": 319,
+      "Overvotes": 0,
+      "Undervotes": 408,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Angelina Jackson": 469,
+      "Total Votes Cast": 469,
+      "Overvotes": 0,
+      "Undervotes": 456,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Angelina Jackson": 431,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 430,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Angelina Jackson": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Angelina Jackson": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 377,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Angelina Jackson": 267,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Angelina Jackson": 265,
+      "Total Votes Cast": 265,
+      "Overvotes": 0,
+      "Undervotes": 332,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Angelina Jackson": 258,
+      "Total Votes Cast": 258,
+      "Overvotes": 0,
+      "Undervotes": 362,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Angelina Jackson": 373,
+      "Total Votes Cast": 373,
+      "Overvotes": 0,
+      "Undervotes": 558,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Angelina Jackson": 263,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 345,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Angelina Jackson": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 303,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Angelina Jackson": 467,
+      "Total Votes Cast": 467,
+      "Overvotes": 0,
+      "Undervotes": 474,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Angelina Jackson": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 253,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Angelina Jackson": 316,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 339,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Angelina Jackson": 483,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 375,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Angelina Jackson": 511,
+      "Total Votes Cast": 511,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Angelina Jackson": 455,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 408,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Angelina Jackson": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 402,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Angelina Jackson": 411,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Angelina Jackson": 357,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 281,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Angelina Jackson": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 451,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Angelina Jackson": 261,
+      "Total Votes Cast": 261,
+      "Overvotes": 0,
+      "Undervotes": 304,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Angelina Jackson": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 325,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Angelina Jackson": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 437,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Angelina Jackson": 442,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 494,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Angelina Jackson": 504,
+      "Total Votes Cast": 504,
+      "Overvotes": 0,
+      "Undervotes": 501,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Angelina Jackson": 485,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 524,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Angelina Jackson": 505,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 586,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Angelina Jackson": 436,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 479,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Angelina Jackson": 444,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 499,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Angelina Jackson": 499,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 533,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Angelina Jackson": 415,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 448,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Angelina Jackson": 396,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Angelina Jackson": 533,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 573,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Angelina Jackson": 475,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 489,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Angelina Jackson": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 475,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Angelina Jackson": 413,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 468,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Angelina Jackson": 93,
+      "Total Votes Cast": 93,
+      "Overvotes": 0,
+      "Undervotes": 120,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Angelina Jackson": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 322,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Angelina Jackson": 285,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Angelina Jackson": 167,
+      "Total Votes Cast": 167,
+      "Overvotes": 0,
+      "Undervotes": 166,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Angelina Jackson": 326,
+      "Total Votes Cast": 326,
+      "Overvotes": 0,
+      "Undervotes": 315,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Angelina Jackson": 207,
+      "Total Votes Cast": 207,
+      "Overvotes": 0,
+      "Undervotes": 236,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Angelina Jackson": 265,
+      "Total Votes Cast": 265,
+      "Overvotes": 0,
+      "Undervotes": 246,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Angelina Jackson": 256,
+      "Total Votes Cast": 256,
+      "Overvotes": 0,
+      "Undervotes": 283,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Angelina Jackson": 174,
+      "Total Votes Cast": 174,
+      "Overvotes": 0,
+      "Undervotes": 216,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Angelina Jackson": 108,
+      "Total Votes Cast": 108,
+      "Overvotes": 0,
+      "Undervotes": 163,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Angelina Jackson": 165,
+      "Total Votes Cast": 165,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Angelina Jackson": 478,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Angelina Jackson": 238,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 261,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Angelina Jackson": 152,
+      "Total Votes Cast": 152,
+      "Overvotes": 0,
+      "Undervotes": 125,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Angelina Jackson": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 383,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Angelina Jackson": 223,
+      "Total Votes Cast": 223,
+      "Overvotes": 0,
+      "Undervotes": 261,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Angelina Jackson": 212,
+      "Total Votes Cast": 212,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Angelina Jackson": 441,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 405,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Angelina Jackson": 337,
+      "Total Votes Cast": 337,
+      "Overvotes": 0,
+      "Undervotes": 382,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Angelina Jackson": 460,
+      "Total Votes Cast": 460,
+      "Overvotes": 0,
+      "Undervotes": 434,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Angelina Jackson": 395,
+      "Total Votes Cast": 395,
+      "Overvotes": 0,
+      "Undervotes": 424,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Angelina Jackson": 292,
+      "Total Votes Cast": 292,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Angelina Jackson": 207,
+      "Total Votes Cast": 207,
+      "Overvotes": 0,
+      "Undervotes": 191,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Angelina Jackson": 225,
+      "Total Votes Cast": 225,
+      "Overvotes": 0,
+      "Undervotes": 204,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Angelina Jackson": 198,
+      "Total Votes Cast": 198,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Angelina Jackson": 218,
+      "Total Votes Cast": 218,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Angelina Jackson": 168,
+      "Total Votes Cast": 168,
+      "Overvotes": 0,
+      "Undervotes": 153,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Angelina Jackson": 264,
+      "Total Votes Cast": 264,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Angelina Jackson": 255,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 191,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Angelina Jackson": 264,
+      "Total Votes Cast": 264,
+      "Overvotes": 0,
+      "Undervotes": 170,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Angelina Jackson": 229,
+      "Total Votes Cast": 229,
+      "Overvotes": 0,
+      "Undervotes": 159,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Angelina Jackson": 204,
+      "Total Votes Cast": 204,
+      "Overvotes": 0,
+      "Undervotes": 176,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Angelina Jackson": 195,
+      "Total Votes Cast": 195,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Angelina Jackson": 336,
+      "Total Votes Cast": 336,
+      "Overvotes": 0,
+      "Undervotes": 368,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Angelina Jackson": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 339,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Angelina Jackson": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 365,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Angelina Jackson": 335,
+      "Total Votes Cast": 335,
+      "Overvotes": 0,
+      "Undervotes": 341,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Angelina Jackson": 448,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 410,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Angelina Jackson": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 413,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Angelina Jackson": 403,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 463,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Angelina Jackson": 304,
+      "Total Votes Cast": 304,
+      "Overvotes": 0,
+      "Undervotes": 366,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Angelina Jackson": 280,
+      "Total Votes Cast": 280,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Angelina Jackson": 217,
+      "Total Votes Cast": 217,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Angelina Jackson": 236,
+      "Total Votes Cast": 236,
+      "Overvotes": 0,
+      "Undervotes": 244,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Angelina Jackson": 286,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 329,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Angelina Jackson": 232,
+      "Total Votes Cast": 232,
+      "Overvotes": 0,
+      "Undervotes": 301,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Angelina Jackson": 175,
+      "Total Votes Cast": 175,
+      "Overvotes": 0,
+      "Undervotes": 207,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Angelina Jackson": 196,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 235,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Angelina Jackson": 238,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 195,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Angelina Jackson": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Angelina Jackson": 213,
+      "Total Votes Cast": 213,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Angelina Jackson": 352,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 339,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Angelina Jackson": 200,
+      "Total Votes Cast": 200,
+      "Overvotes": 0,
+      "Undervotes": 258,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Angelina Jackson": 289,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Angelina Jackson": 176,
+      "Total Votes Cast": 176,
+      "Overvotes": 0,
+      "Undervotes": 229,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Angelina Jackson": 238,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 188,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Angelina Jackson": 149,
+      "Total Votes Cast": 149,
+      "Overvotes": 0,
+      "Undervotes": 118,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Angelina Jackson": 313,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 201,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Angelina Jackson": 123,
+      "Total Votes Cast": 123,
+      "Overvotes": 0,
+      "Undervotes": 82,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Angelina Jackson": 163,
+      "Total Votes Cast": 163,
+      "Overvotes": 0,
+      "Undervotes": 139,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Angelina Jackson": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 213,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Angelina Jackson": 257,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 216,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Angelina Jackson": 313,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Angelina Jackson": 208,
+      "Total Votes Cast": 208,
+      "Overvotes": 0,
+      "Undervotes": 171,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Angelina Jackson": 257,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 191,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Angelina Jackson": 255,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 199,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Angelina Jackson": 206,
+      "Total Votes Cast": 206,
+      "Overvotes": 0,
+      "Undervotes": 144,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Angelina Jackson": 223,
+      "Total Votes Cast": 223,
+      "Overvotes": 0,
+      "Undervotes": 176,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Angelina Jackson": 439,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Angelina Jackson": 275,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 176,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Angelina Jackson": 194,
+      "Total Votes Cast": 194,
+      "Overvotes": 0,
+      "Undervotes": 153,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Angelina Jackson": 237,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 229,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Angelina Jackson": 292,
+      "Total Votes Cast": 292,
+      "Overvotes": 0,
+      "Undervotes": 203,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Angelina Jackson": 174,
+      "Total Votes Cast": 174,
+      "Overvotes": 0,
+      "Undervotes": 139,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Angelina Jackson": 197,
+      "Total Votes Cast": 197,
+      "Overvotes": 0,
+      "Undervotes": 140,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Angelina Jackson": 354,
+      "Total Votes Cast": 354,
+      "Overvotes": 0,
+      "Undervotes": 217,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Angelina Jackson": 225,
+      "Total Votes Cast": 225,
+      "Overvotes": 0,
+      "Undervotes": 190,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Angelina Jackson": 238,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Angelina Jackson": 111,
+      "Total Votes Cast": 111,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Angelina Jackson": 277,
+      "Total Votes Cast": 277,
+      "Overvotes": 0,
+      "Undervotes": 216,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Angelina Jackson": 241,
+      "Total Votes Cast": 241,
+      "Overvotes": 0,
+      "Undervotes": 151,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Angelina Jackson": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 455,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Angelina Jackson": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 484,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Angelina Jackson": 266,
+      "Total Votes Cast": 266,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Angelina Jackson": 280,
+      "Total Votes Cast": 280,
+      "Overvotes": 0,
+      "Undervotes": 340,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Angelina Jackson": 221,
+      "Total Votes Cast": 221,
+      "Overvotes": 0,
+      "Undervotes": 153,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Angelina Jackson": 218,
+      "Total Votes Cast": 218,
+      "Overvotes": 0,
+      "Undervotes": 154,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Angelina Jackson": 326,
+      "Total Votes Cast": 326,
+      "Overvotes": 0,
+      "Undervotes": 247,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Angelina Jackson": 420,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 300,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Angelina Jackson": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 210,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Angelina Jackson": 495,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 317,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Angelina Jackson": 270,
+      "Total Votes Cast": 270,
+      "Overvotes": 0,
+      "Undervotes": 286,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Angelina Jackson": 450,
+      "Total Votes Cast": 450,
+      "Overvotes": 0,
+      "Undervotes": 383,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Angelina Jackson": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 393,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Angelina Jackson": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Angelina Jackson": 483,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 402,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Angelina Jackson": 462,
+      "Total Votes Cast": 462,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Angelina Jackson": 339,
+      "Total Votes Cast": 339,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Angelina Jackson": 432,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Angelina Jackson": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 283,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Angelina Jackson": 317,
+      "Total Votes Cast": 317,
+      "Overvotes": 0,
+      "Undervotes": 269,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Angelina Jackson": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 333,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Angelina Jackson": 244,
+      "Total Votes Cast": 244,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Angelina Jackson": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 588,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Angelina Jackson": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 545,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Angelina Jackson": 361,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 439,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Angelina Jackson": 357,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Angelina Jackson": 362,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 407,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Angelina Jackson": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 474,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Angelina Jackson": 192,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 241,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Angelina Jackson": 255,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 285,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Angelina Jackson": 252,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Angelina Jackson": 434,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 364,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Angelina Jackson": 160,
+      "Total Votes Cast": 160,
+      "Overvotes": 0,
+      "Undervotes": 183,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Angelina Jackson": 215,
+      "Total Votes Cast": 215,
+      "Overvotes": 0,
+      "Undervotes": 106,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Angelina Jackson": 282,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 263,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Angelina Jackson": 322,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 260,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Angelina Jackson": 313,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Angelina Jackson": 295,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 240,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Angelina Jackson": 318,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 213,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Angelina Jackson": 454,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 308,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Angelina Jackson": 522,
+      "Total Votes Cast": 522,
+      "Overvotes": 0,
+      "Undervotes": 332,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Angelina Jackson": 246,
+      "Total Votes Cast": 246,
+      "Overvotes": 0,
+      "Undervotes": 259,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Angelina Jackson": 423,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 322,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Angelina Jackson": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 433,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Angelina Jackson": 516,
+      "Total Votes Cast": 516,
+      "Overvotes": 0,
+      "Undervotes": 455,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Angelina Jackson": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Angelina Jackson": 442,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 462,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Angelina Jackson": 419,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 413,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Angelina Jackson": 433,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 452,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Angelina Jackson": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 325,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Angelina Jackson": 312,
+      "Total Votes Cast": 312,
+      "Overvotes": 0,
+      "Undervotes": 268,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Angelina Jackson": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Angelina Jackson": 419,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 427,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Angelina Jackson": 329,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 321,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Angelina Jackson": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Angelina Jackson": 370,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Angelina Jackson": 433,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 404,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Angelina Jackson": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 370,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Angelina Jackson": 398,
+      "Total Votes Cast": 398,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Angelina Jackson": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 356,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Angelina Jackson": 368,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Angelina Jackson": 397,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 374,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Angelina Jackson": 331,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Angelina Jackson": 446,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Angelina Jackson": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 391,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Angelina Jackson": 369,
+      "Total Votes Cast": 369,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Angelina Jackson": 380,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 579,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Angelina Jackson": 270,
+      "Total Votes Cast": 270,
+      "Overvotes": 0,
+      "Undervotes": 402,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Angelina Jackson": 457,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 482,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Angelina Jackson": 287,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 263,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Angelina Jackson": 302,
+      "Total Votes Cast": 302,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Angelina Jackson": 418,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 265,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Angelina Jackson": 201,
+      "Total Votes Cast": 201,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Angelina Jackson": 307,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 440,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Angelina Jackson": 334,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 323,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Angelina Jackson": 295,
+      "Total Votes Cast": 295,
+      "Overvotes": 0,
+      "Undervotes": 357,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Angelina Jackson": 401,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 473,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Angelina Jackson": 444,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Angelina Jackson": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 344,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Angelina Jackson": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 340,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Angelina Jackson": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 404,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Angelina Jackson": 446,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 466,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Angelina Jackson": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 393,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Angelina Jackson": 368,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 398,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Angelina Jackson": 370,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 369,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Angelina Jackson": 398,
+      "Total Votes Cast": 398,
+      "Overvotes": 0,
+      "Undervotes": 395,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Angelina Jackson": 448,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 425,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Angelina Jackson": 419,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Angelina Jackson": 352,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 312,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Angelina Jackson": 487,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 543,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Angelina Jackson": 414,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 459,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Angelina Jackson": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Angelina Jackson": 298,
+      "Total Votes Cast": 298,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Angelina Jackson": 414,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 414,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Angelina Jackson": 425,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 388,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Angelina Jackson": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 407,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Angelina Jackson": 366,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 336,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Angelina Jackson": 401,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 445,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Angelina Jackson": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Angelina Jackson": 387,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Angelina Jackson": 420,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 387,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Angelina Jackson": 329,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Angelina Jackson": 353,
+      "Total Votes Cast": 353,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Angelina Jackson": 454,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 492,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Angelina Jackson": 478,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 444,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Angelina Jackson": 479,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 460,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Angelina Jackson": 271,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Angelina Jackson": 422,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Angelina Jackson": 331,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 400,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Angelina Jackson": 387,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 383,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Angelina Jackson": 492,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 504,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Angelina Jackson": 345,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 334,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Angelina Jackson": 436,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 412,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Angelina Jackson": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 377,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Angelina Jackson": 410,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Angelina Jackson": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 515,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Angelina Jackson": 397,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 462,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Angelina Jackson": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 374,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Angelina Jackson": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 332,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Angelina Jackson": 381,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 426,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Angelina Jackson": 393,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 468,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Angelina Jackson": 303,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Angelina Jackson": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 435,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Angelina Jackson": 341,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Angelina Jackson": 405,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 438,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Angelina Jackson": 351,
+      "Total Votes Cast": 351,
+      "Overvotes": 0,
+      "Undervotes": 389,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Angelina Jackson": 320,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Angelina Jackson": 296,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 301,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Angelina Jackson": 540,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 560,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Angelina Jackson": 373,
+      "Total Votes Cast": 373,
+      "Overvotes": 0,
+      "Undervotes": 443,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Angelina Jackson": 332,
+      "Total Votes Cast": 332,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Angelina Jackson": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 483,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Angelina Jackson": 308,
+      "Total Votes Cast": 308,
+      "Overvotes": 0,
+      "Undervotes": 401,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Angelina Jackson": 454,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 517,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Angelina Jackson": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 355,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Angelina Jackson": 316,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 364,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Angelina Jackson": 345,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 358,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Angelina Jackson": 208,
+      "Total Votes Cast": 208,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Angelina Jackson": 271,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 426,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Angelina Jackson": 443,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 496,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Angelina Jackson": 273,
+      "Total Votes Cast": 273,
+      "Overvotes": 0,
+      "Undervotes": 343,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Angelina Jackson": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 329,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Angelina Jackson": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Angelina Jackson": 363,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 387,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Angelina Jackson": 282,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Angelina Jackson": 422,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 374,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Angelina Jackson": 223,
+      "Total Votes Cast": 223,
+      "Overvotes": 0,
+      "Undervotes": 205,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Angelina Jackson": 336,
+      "Total Votes Cast": 336,
+      "Overvotes": 0,
+      "Undervotes": 415,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Angelina Jackson": 296,
+      "Total Votes Cast": 296,
+      "Overvotes": 0,
+      "Undervotes": 329,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Angelina Jackson": 303,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 300,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Angelina Jackson": 342,
+      "Total Votes Cast": 342,
+      "Overvotes": 0,
+      "Undervotes": 395,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Angelina Jackson": 201,
+      "Total Votes Cast": 201,
+      "Overvotes": 0,
+      "Undervotes": 263,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Angelina Jackson": 415,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Angelina Jackson": 233,
+      "Total Votes Cast": 233,
+      "Overvotes": 0,
+      "Undervotes": 294,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Angelina Jackson": 236,
+      "Total Votes Cast": 236,
+      "Overvotes": 0,
+      "Undervotes": 231,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Angelina Jackson": 208,
+      "Total Votes Cast": 208,
+      "Overvotes": 0,
+      "Undervotes": 176,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Angelina Jackson": 439,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 394,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Angelina Jackson": 428,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Angelina Jackson": 344,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 337,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Angelina Jackson": 348,
+      "Total Votes Cast": 348,
+      "Overvotes": 0,
+      "Undervotes": 336,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Angelina Jackson": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Angelina Jackson": 469,
+      "Total Votes Cast": 469,
+      "Overvotes": 0,
+      "Undervotes": 400,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Angelina Jackson": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 371,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Angelina Jackson": 307,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 303,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Angelina Jackson": 236,
+      "Total Votes Cast": 236,
+      "Overvotes": 0,
+      "Undervotes": 362,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Angelina Jackson": 290,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 363,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Angelina Jackson": 303,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 465,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Angelina Jackson": 120,
+      "Total Votes Cast": 120,
+      "Overvotes": 0,
+      "Undervotes": 117,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Angelina Jackson": 275,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Angelina Jackson": 237,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 294,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Angelina Jackson": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Angelina Jackson": 246,
+      "Total Votes Cast": 246,
+      "Overvotes": 0,
+      "Undervotes": 314,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Angelina Jackson": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 375,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Angelina Jackson": 305,
+      "Total Votes Cast": 305,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Angelina Jackson": 279,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 341,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Angelina Jackson": 306,
+      "Total Votes Cast": 306,
+      "Overvotes": 0,
+      "Undervotes": 295,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Angelina Jackson": 261,
+      "Total Votes Cast": 261,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Angelina Jackson": 182,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Angelina Jackson": 235,
+      "Total Votes Cast": 235,
+      "Overvotes": 0,
+      "Undervotes": 291,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Angelina Jackson": 263,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 249,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Angelina Jackson": 334,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 357,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Angelina Jackson": 191,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 230,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Angelina Jackson": 381,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 335,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Angelina Jackson": 245,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Angelina Jackson": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 371,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Angelina Jackson": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 368,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Angelina Jackson": 425,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Angelina Jackson": 229,
+      "Total Votes Cast": 229,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Angelina Jackson": 317,
+      "Total Votes Cast": 317,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Angelina Jackson": 288,
+      "Total Votes Cast": 288,
+      "Overvotes": 0,
+      "Undervotes": 152,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Angelina Jackson": 438,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Angelina Jackson": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 230,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Angelina Jackson": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 310,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Angelina Jackson": 304,
+      "Total Votes Cast": 304,
+      "Overvotes": 0,
+      "Undervotes": 215,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Angelina Jackson": 248,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 183,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Angelina Jackson": 320,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 186,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Angelina Jackson": 259,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 213,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Angelina Jackson": 288,
+      "Total Votes Cast": 288,
+      "Overvotes": 0,
+      "Undervotes": 322,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Angelina Jackson": 236,
+      "Total Votes Cast": 236,
+      "Overvotes": 0,
+      "Undervotes": 234,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Angelina Jackson": 371,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 312,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Angelina Jackson": 423,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 247,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Angelina Jackson": 325,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 238,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Angelina Jackson": 274,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Angelina Jackson": 289,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 181,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Angelina Jackson": 239,
+      "Total Votes Cast": 239,
+      "Overvotes": 0,
+      "Undervotes": 240,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Angelina Jackson": 352,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 365,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Angelina Jackson": 375,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Angelina Jackson": 450,
+      "Total Votes Cast": 450,
+      "Overvotes": 0,
+      "Undervotes": 394,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Angelina Jackson": 371,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 456,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Angelina Jackson": 331,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Angelina Jackson": 237,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 208,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Angelina Jackson": 416,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Angelina Jackson": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 359,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Angelina Jackson": 263,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Angelina Jackson": 437,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 413,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Angelina Jackson": 294,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 369,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Angelina Jackson": 449,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 456,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Angelina Jackson": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 394,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Angelina Jackson": 440,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 512,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Angelina Jackson": 468,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 410,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Angelina Jackson": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 418,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Angelina Jackson": 556,
+      "Total Votes Cast": 556,
+      "Overvotes": 0,
+      "Undervotes": 530,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Angelina Jackson": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 478,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Angelina Jackson": 313,
+      "Total Votes Cast": 313,
+      "Overvotes": 0,
+      "Undervotes": 344,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Angelina Jackson": 452,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 468,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Angelina Jackson": 300,
+      "Total Votes Cast": 300,
+      "Overvotes": 0,
+      "Undervotes": 301,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Angelina Jackson": 481,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 519,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Angelina Jackson": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Angelina Jackson": 335,
+      "Total Votes Cast": 335,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Angelina Jackson": 438,
+      "Total Votes Cast": 438,
+      "Overvotes": 0,
+      "Undervotes": 430,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Angelina Jackson": 374,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 445,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Angelina Jackson": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Angelina Jackson": 419,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 518,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Angelina Jackson": 437,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 407,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Angelina Jackson": 416,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 465,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Angelina Jackson": 498,
+      "Total Votes Cast": 498,
+      "Overvotes": 0,
+      "Undervotes": 492,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Angelina Jackson": 477,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 493,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Angelina Jackson": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 328,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Angelina Jackson": 321,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 421,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Angelina Jackson": 371,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 369,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Angelina Jackson": 427,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 452,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Angelina Jackson": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 450,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Angelina Jackson": 286,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Angelina Jackson": 366,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 343,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Angelina Jackson": 579,
+      "Total Votes Cast": 579,
+      "Overvotes": 0,
+      "Undervotes": 529,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Angelina Jackson": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 376,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Angelina Jackson": 393,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 435,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Angelina Jackson": 304,
+      "Total Votes Cast": 304,
+      "Overvotes": 0,
+      "Undervotes": 320,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Angelina Jackson": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 581,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Angelina Jackson": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 376,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Angelina Jackson": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 390,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Angelina Jackson": 350,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 404,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Angelina Jackson": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 403,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Angelina Jackson": 248,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 232,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Angelina Jackson": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 288,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Angelina Jackson": 362,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 393,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Angelina Jackson": 322,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 395,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Angelina Jackson": 282,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 519
+    }
+  ]
+}

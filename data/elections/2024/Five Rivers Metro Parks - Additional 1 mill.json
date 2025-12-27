@@ -1,0 +1,3435 @@
+{
+  "race": "Five Rivers Metro Parks - Additional 1 mill",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "For the Tax Levy": 423,
+      "Against the Tax Levy": 452,
+      "Total Votes Cast": 875,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "For the Tax Levy": 355,
+      "Against the Tax Levy": 315,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "BRK-C",
+      "For the Tax Levy": 404,
+      "Against the Tax Levy": 455,
+      "Total Votes Cast": 859,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 909
+    },
+    {
+      "Precinct": "BRK-D",
+      "For the Tax Levy": 315,
+      "Against the Tax Levy": 432,
+      "Total Votes Cast": 747,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "For the Tax Levy": 405,
+      "Against the Tax Levy": 391,
+      "Total Votes Cast": 796,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "For the Tax Levy": 309,
+      "Against the Tax Levy": 371,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "For the Tax Levy": 478,
+      "Against the Tax Levy": 404,
+      "Total Votes Cast": 882,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "For the Tax Levy": 449,
+      "Against the Tax Levy": 363,
+      "Total Votes Cast": 812,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "For the Tax Levy": 315,
+      "Against the Tax Levy": 262,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "For the Tax Levy": 367,
+      "Against the Tax Levy": 279,
+      "Total Votes Cast": 646,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "For the Tax Levy": 292,
+      "Against the Tax Levy": 184,
+      "Total Votes Cast": 476,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 520
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "For the Tax Levy": 235,
+      "Against the Tax Levy": 343,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "For the Tax Levy": 251,
+      "Against the Tax Levy": 327,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "For the Tax Levy": 348,
+      "Against the Tax Levy": 535,
+      "Total Votes Cast": 883,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 930
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "For the Tax Levy": 248,
+      "Against the Tax Levy": 346,
+      "Total Votes Cast": 594,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "For the Tax Levy": 385,
+      "Against the Tax Levy": 276,
+      "Total Votes Cast": 661,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "For the Tax Levy": 495,
+      "Against the Tax Levy": 399,
+      "Total Votes Cast": 894,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "For the Tax Levy": 375,
+      "Against the Tax Levy": 199,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "For the Tax Levy": 371,
+      "Against the Tax Levy": 250,
+      "Total Votes Cast": 621,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "For the Tax Levy": 532,
+      "Against the Tax Levy": 294,
+      "Total Votes Cast": 826,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 857
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "For the Tax Levy": 564,
+      "Against the Tax Levy": 303,
+      "Total Votes Cast": 867,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 896
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "For the Tax Levy": 523,
+      "Against the Tax Levy": 301,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "For the Tax Levy": 490,
+      "Against the Tax Levy": 304,
+      "Total Votes Cast": 794,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "For the Tax Levy": 448,
+      "Against the Tax Levy": 257,
+      "Total Votes Cast": 705,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "CV-A",
+      "For the Tax Levy": 454,
+      "Against the Tax Levy": 137,
+      "Total Votes Cast": 591,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 635
+    },
+    {
+      "Precinct": "CV-B",
+      "For the Tax Levy": 522,
+      "Against the Tax Levy": 314,
+      "Total Votes Cast": 836,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 880
+    },
+    {
+      "Precinct": "CV-C",
+      "For the Tax Levy": 327,
+      "Against the Tax Levy": 213,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 564
+    },
+    {
+      "Precinct": "CV-D",
+      "For the Tax Levy": 392,
+      "Against the Tax Levy": 211,
+      "Total Votes Cast": 603,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 648
+    },
+    {
+      "Precinct": "CV-E",
+      "For the Tax Levy": 446,
+      "Against the Tax Levy": 331,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 815
+    },
+    {
+      "Precinct": "CV-F",
+      "For the Tax Levy": 533,
+      "Against the Tax Levy": 372,
+      "Total Votes Cast": 905,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "CV-G",
+      "For the Tax Levy": 575,
+      "Against the Tax Levy": 386,
+      "Total Votes Cast": 961,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 1002
+    },
+    {
+      "Precinct": "CV-H",
+      "For the Tax Levy": 588,
+      "Against the Tax Levy": 365,
+      "Total Votes Cast": 953,
+      "Overvotes": 1,
+      "Undervotes": 51,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-I",
+      "For the Tax Levy": 569,
+      "Against the Tax Levy": 467,
+      "Total Votes Cast": 1036,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 1087
+    },
+    {
+      "Precinct": "CV-J",
+      "For the Tax Levy": 479,
+      "Against the Tax Levy": 397,
+      "Total Votes Cast": 876,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 914
+    },
+    {
+      "Precinct": "CV-K",
+      "For the Tax Levy": 521,
+      "Against the Tax Levy": 390,
+      "Total Votes Cast": 911,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "For the Tax Levy": 536,
+      "Against the Tax Levy": 451,
+      "Total Votes Cast": 987,
+      "Overvotes": 2,
+      "Undervotes": 43,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "For the Tax Levy": 424,
+      "Against the Tax Levy": 393,
+      "Total Votes Cast": 817,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "CV-N",
+      "For the Tax Levy": 509,
+      "Against the Tax Levy": 209,
+      "Total Votes Cast": 718,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 777
+    },
+    {
+      "Precinct": "CV-O",
+      "For the Tax Levy": 559,
+      "Against the Tax Levy": 496,
+      "Total Votes Cast": 1055,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 1103
+    },
+    {
+      "Precinct": "CV-P",
+      "For the Tax Levy": 515,
+      "Against the Tax Levy": 401,
+      "Total Votes Cast": 916,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 963
+    },
+    {
+      "Precinct": "CV-Q",
+      "For the Tax Levy": 555,
+      "Against the Tax Levy": 280,
+      "Total Votes Cast": 835,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "For the Tax Levy": 492,
+      "Against the Tax Levy": 340,
+      "Total Votes Cast": 832,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 880
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "For the Tax Levy": 167,
+      "Against the Tax Levy": 25,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 214
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "For the Tax Levy": 612,
+      "Against the Tax Levy": 97,
+      "Total Votes Cast": 709,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "For the Tax Levy": 419,
+      "Against the Tax Levy": 65,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "For the Tax Levy": 268,
+      "Against the Tax Levy": 53,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 332
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "For the Tax Levy": 517,
+      "Against the Tax Levy": 105,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 640
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "For the Tax Levy": 251,
+      "Against the Tax Levy": 163,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "For the Tax Levy": 412,
+      "Against the Tax Levy": 80,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 509
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "For the Tax Levy": 337,
+      "Against the Tax Levy": 177,
+      "Total Votes Cast": 514,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "For the Tax Levy": 219,
+      "Against the Tax Levy": 135,
+      "Total Votes Cast": 354,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "For the Tax Levy": 158,
+      "Against the Tax Levy": 87,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "For the Tax Levy": 200,
+      "Against the Tax Levy": 154,
+      "Total Votes Cast": 354,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "For the Tax Levy": 537,
+      "Against the Tax Levy": 315,
+      "Total Votes Cast": 852,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "For the Tax Levy": 272,
+      "Against the Tax Levy": 188,
+      "Total Votes Cast": 460,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 498
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "For the Tax Levy": 173,
+      "Against the Tax Levy": 82,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "For the Tax Levy": 503,
+      "Against the Tax Levy": 193,
+      "Total Votes Cast": 696,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "For the Tax Levy": 280,
+      "Against the Tax Levy": 169,
+      "Total Votes Cast": 449,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 482
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "For the Tax Levy": 283,
+      "Against the Tax Levy": 170,
+      "Total Votes Cast": 453,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 498
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "For the Tax Levy": 492,
+      "Against the Tax Levy": 305,
+      "Total Votes Cast": 797,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "For the Tax Levy": 419,
+      "Against the Tax Levy": 257,
+      "Total Votes Cast": 676,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "For the Tax Levy": 557,
+      "Against the Tax Levy": 295,
+      "Total Votes Cast": 852,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 893
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "For the Tax Levy": 477,
+      "Against the Tax Levy": 300,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "For the Tax Levy": 404,
+      "Against the Tax Levy": 75,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "For the Tax Levy": 309,
+      "Against the Tax Levy": 73,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "For the Tax Levy": 335,
+      "Against the Tax Levy": 73,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "For the Tax Levy": 251,
+      "Against the Tax Levy": 87,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 366
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "For the Tax Levy": 315,
+      "Against the Tax Levy": 48,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "For the Tax Levy": 231,
+      "Against the Tax Levy": 43,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 317
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "For the Tax Levy": 326,
+      "Against the Tax Levy": 85,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 442
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "For the Tax Levy": 303,
+      "Against the Tax Levy": 90,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "For the Tax Levy": 314,
+      "Against the Tax Levy": 88,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "For the Tax Levy": 279,
+      "Against the Tax Levy": 84,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "For the Tax Levy": 254,
+      "Against the Tax Levy": 85,
+      "Total Votes Cast": 339,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "For the Tax Levy": 230,
+      "Against the Tax Levy": 57,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 298
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "For the Tax Levy": 501,
+      "Against the Tax Levy": 167,
+      "Total Votes Cast": 668,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "For the Tax Levy": 514,
+      "Against the Tax Levy": 129,
+      "Total Votes Cast": 643,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "For the Tax Levy": 464,
+      "Against the Tax Levy": 191,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "For the Tax Levy": 483,
+      "Against the Tax Levy": 155,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "For the Tax Levy": 625,
+      "Against the Tax Levy": 198,
+      "Total Votes Cast": 823,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 857
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "For the Tax Levy": 542,
+      "Against the Tax Levy": 203,
+      "Total Votes Cast": 745,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "For the Tax Levy": 578,
+      "Against the Tax Levy": 247,
+      "Total Votes Cast": 825,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 862
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "For the Tax Levy": 419,
+      "Against the Tax Levy": 193,
+      "Total Votes Cast": 612,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "For the Tax Levy": 414,
+      "Against the Tax Levy": 155,
+      "Total Votes Cast": 569,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "For the Tax Levy": 299,
+      "Against the Tax Levy": 181,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "For the Tax Levy": 324,
+      "Against the Tax Levy": 140,
+      "Total Votes Cast": 464,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "For the Tax Levy": 369,
+      "Against the Tax Levy": 214,
+      "Total Votes Cast": 583,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "For the Tax Levy": 327,
+      "Against the Tax Levy": 171,
+      "Total Votes Cast": 498,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 532
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "For the Tax Levy": 249,
+      "Against the Tax Levy": 104,
+      "Total Votes Cast": 353,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "For the Tax Levy": 257,
+      "Against the Tax Levy": 144,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 430
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "For the Tax Levy": 299,
+      "Against the Tax Levy": 105,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "For the Tax Levy": 338,
+      "Against the Tax Levy": 207,
+      "Total Votes Cast": 545,
+      "Overvotes": 1,
+      "Undervotes": 47,
+      "Contest Total": 593
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "For the Tax Levy": 294,
+      "Against the Tax Levy": 138,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "For the Tax Levy": 460,
+      "Against the Tax Levy": 194,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "For the Tax Levy": 362,
+      "Against the Tax Levy": 74,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "For the Tax Levy": 371,
+      "Against the Tax Levy": 131,
+      "Total Votes Cast": 502,
+      "Overvotes": 1,
+      "Undervotes": 26,
+      "Contest Total": 529
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "For the Tax Levy": 239,
+      "Against the Tax Levy": 127,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "For the Tax Levy": 298,
+      "Against the Tax Levy": 83,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 423
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "For the Tax Levy": 179,
+      "Against the Tax Levy": 65,
+      "Total Votes Cast": 244,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 268
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "For the Tax Levy": 369,
+      "Against the Tax Levy": 111,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "For the Tax Levy": 142,
+      "Against the Tax Levy": 44,
+      "Total Votes Cast": 186,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 204
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "For the Tax Levy": 198,
+      "Against the Tax Levy": 84,
+      "Total Votes Cast": 282,
+      "Overvotes": 1,
+      "Undervotes": 20,
+      "Contest Total": 303
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "For the Tax Levy": 416,
+      "Against the Tax Levy": 97,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "For the Tax Levy": 334,
+      "Against the Tax Levy": 95,
+      "Total Votes Cast": 429,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "For the Tax Levy": 353,
+      "Against the Tax Levy": 122,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "For the Tax Levy": 253,
+      "Against the Tax Levy": 91,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 378
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "For the Tax Levy": 309,
+      "Against the Tax Levy": 99,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "For the Tax Levy": 340,
+      "Against the Tax Levy": 83,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "For the Tax Levy": 255,
+      "Against the Tax Levy": 74,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "For the Tax Levy": 275,
+      "Against the Tax Levy": 95,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "For the Tax Levy": 525,
+      "Against the Tax Levy": 180,
+      "Total Votes Cast": 705,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 748
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "For the Tax Levy": 307,
+      "Against the Tax Levy": 112,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "For the Tax Levy": 275,
+      "Against the Tax Levy": 53,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 346
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "For the Tax Levy": 317,
+      "Against the Tax Levy": 114,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "For the Tax Levy": 368,
+      "Against the Tax Levy": 96,
+      "Total Votes Cast": 464,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 494
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "For the Tax Levy": 216,
+      "Against the Tax Levy": 74,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 314
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "For the Tax Levy": 256,
+      "Against the Tax Levy": 64,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "For the Tax Levy": 417,
+      "Against the Tax Levy": 120,
+      "Total Votes Cast": 537,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 570
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "For the Tax Levy": 290,
+      "Against the Tax Levy": 92,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "For the Tax Levy": 277,
+      "Against the Tax Levy": 112,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "For the Tax Levy": 154,
+      "Against the Tax Levy": 36,
+      "Total Votes Cast": 190,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "For the Tax Levy": 304,
+      "Against the Tax Levy": 138,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 492
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "For the Tax Levy": 262,
+      "Against the Tax Levy": 93,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "For the Tax Levy": 495,
+      "Against the Tax Levy": 271,
+      "Total Votes Cast": 766,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 811
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "For the Tax Levy": 543,
+      "Against the Tax Levy": 278,
+      "Total Votes Cast": 821,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 872
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "For the Tax Levy": 302,
+      "Against the Tax Levy": 238,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "For the Tax Levy": 326,
+      "Against the Tax Levy": 252,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 619
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "For the Tax Levy": 269,
+      "Against the Tax Levy": 79,
+      "Total Votes Cast": 348,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 373
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "For the Tax Levy": 254,
+      "Against the Tax Levy": 87,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 371
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "For the Tax Levy": 416,
+      "Against the Tax Levy": 113,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 570
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "For the Tax Levy": 526,
+      "Against the Tax Levy": 151,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "For the Tax Levy": 431,
+      "Against the Tax Levy": 99,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "For the Tax Levy": 599,
+      "Against the Tax Levy": 159,
+      "Total Votes Cast": 758,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 810
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "For the Tax Levy": 453,
+      "Against the Tax Levy": 74,
+      "Total Votes Cast": 527,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 555
+    },
+    {
+      "Precinct": "ENG-A",
+      "For the Tax Levy": 528,
+      "Against the Tax Levy": 280,
+      "Total Votes Cast": 808,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "For the Tax Levy": 477,
+      "Against the Tax Levy": 266,
+      "Total Votes Cast": 743,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 774
+    },
+    {
+      "Precinct": "ENG-C",
+      "For the Tax Levy": 471,
+      "Against the Tax Levy": 229,
+      "Total Votes Cast": 700,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "ENG-D",
+      "For the Tax Levy": 528,
+      "Against the Tax Levy": 306,
+      "Total Votes Cast": 834,
+      "Overvotes": 1,
+      "Undervotes": 47,
+      "Contest Total": 882
+    },
+    {
+      "Precinct": "ENG-E",
+      "For the Tax Levy": 513,
+      "Against the Tax Levy": 285,
+      "Total Votes Cast": 798,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "ENG-F",
+      "For the Tax Levy": 419,
+      "Against the Tax Levy": 258,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "ENG-G",
+      "For the Tax Levy": 512,
+      "Against the Tax Levy": 270,
+      "Total Votes Cast": 782,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 815
+    },
+    {
+      "Precinct": "ENG-H",
+      "For the Tax Levy": 374,
+      "Against the Tax Levy": 223,
+      "Total Votes Cast": 597,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "ENG-I",
+      "For the Tax Levy": 360,
+      "Against the Tax Levy": 199,
+      "Total Votes Cast": 559,
+      "Overvotes": 1,
+      "Undervotes": 24,
+      "Contest Total": 584
+    },
+    {
+      "Precinct": "ENG-J",
+      "For the Tax Levy": 444,
+      "Against the Tax Levy": 240,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 713
+    },
+    {
+      "Precinct": "FARM",
+      "For the Tax Levy": 247,
+      "Against the Tax Levy": 289,
+      "Total Votes Cast": 536,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 555
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "For the Tax Levy": 303,
+      "Against the Tax Levy": 626,
+      "Total Votes Cast": 929,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "For the Tax Levy": 305,
+      "Against the Tax Levy": 604,
+      "Total Votes Cast": 909,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "GTN-A",
+      "For the Tax Levy": 393,
+      "Against the Tax Levy": 370,
+      "Total Votes Cast": 763,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "GTN-B",
+      "For the Tax Levy": 330,
+      "Against the Tax Levy": 371,
+      "Total Votes Cast": 701,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "GTN-C",
+      "For the Tax Levy": 370,
+      "Against the Tax Levy": 358,
+      "Total Votes Cast": 728,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "GTN-D",
+      "For the Tax Levy": 340,
+      "Against the Tax Levy": 438,
+      "Total Votes Cast": 778,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 831
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "For the Tax Levy": 206,
+      "Against the Tax Levy": 188,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "For the Tax Levy": 286,
+      "Against the Tax Levy": 220,
+      "Total Votes Cast": 506,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "For the Tax Levy": 272,
+      "Against the Tax Levy": 246,
+      "Total Votes Cast": 518,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 566
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "For the Tax Levy": 488,
+      "Against the Tax Levy": 275,
+      "Total Votes Cast": 763,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 797
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "For the Tax Levy": 173,
+      "Against the Tax Levy": 147,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 341
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "For the Tax Levy": 236,
+      "Against the Tax Levy": 74,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "For the Tax Levy": 344,
+      "Against the Tax Levy": 171,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "For the Tax Levy": 374,
+      "Against the Tax Levy": 154,
+      "Total Votes Cast": 528,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "For the Tax Levy": 384,
+      "Against the Tax Levy": 136,
+      "Total Votes Cast": 520,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "For the Tax Levy": 374,
+      "Against the Tax Levy": 129,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "For the Tax Levy": 360,
+      "Against the Tax Levy": 124,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "For the Tax Levy": 480,
+      "Against the Tax Levy": 258,
+      "Total Votes Cast": 738,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "For the Tax Levy": 580,
+      "Against the Tax Levy": 230,
+      "Total Votes Cast": 810,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "For the Tax Levy": 252,
+      "Against the Tax Levy": 215,
+      "Total Votes Cast": 467,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "For the Tax Levy": 498,
+      "Against the Tax Levy": 190,
+      "Total Votes Cast": 688,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "For the Tax Levy": 423,
+      "Against the Tax Levy": 354,
+      "Total Votes Cast": 777,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 811
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "For the Tax Levy": 531,
+      "Against the Tax Levy": 377,
+      "Total Votes Cast": 908,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "For the Tax Levy": 430,
+      "Against the Tax Levy": 250,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "For the Tax Levy": 458,
+      "Against the Tax Levy": 399,
+      "Total Votes Cast": 857,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "For the Tax Levy": 452,
+      "Against the Tax Levy": 332,
+      "Total Votes Cast": 784,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "For the Tax Levy": 486,
+      "Against the Tax Levy": 357,
+      "Total Votes Cast": 843,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "For the Tax Levy": 316,
+      "Against the Tax Levy": 280,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "For the Tax Levy": 377,
+      "Against the Tax Levy": 160,
+      "Total Votes Cast": 537,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 579
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "For the Tax Levy": 328,
+      "Against the Tax Levy": 228,
+      "Total Votes Cast": 556,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 589
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "For the Tax Levy": 438,
+      "Against the Tax Levy": 359,
+      "Total Votes Cast": 797,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "For the Tax Levy": 397,
+      "Against the Tax Levy": 226,
+      "Total Votes Cast": 623,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "For the Tax Levy": 421,
+      "Against the Tax Levy": 325,
+      "Total Votes Cast": 746,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 803
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "For the Tax Levy": 390,
+      "Against the Tax Levy": 314,
+      "Total Votes Cast": 704,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "For the Tax Levy": 471,
+      "Against the Tax Levy": 315,
+      "Total Votes Cast": 786,
+      "Overvotes": 1,
+      "Undervotes": 49,
+      "Contest Total": 836
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "For the Tax Levy": 450,
+      "Against the Tax Levy": 303,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 797
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "For the Tax Levy": 400,
+      "Against the Tax Levy": 290,
+      "Total Votes Cast": 690,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "For the Tax Levy": 427,
+      "Against the Tax Levy": 272,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "For the Tax Levy": 383,
+      "Against the Tax Levy": 318,
+      "Total Votes Cast": 701,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "For the Tax Levy": 420,
+      "Against the Tax Levy": 308,
+      "Total Votes Cast": 728,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "For the Tax Levy": 331,
+      "Against the Tax Levy": 276,
+      "Total Votes Cast": 607,
+      "Overvotes": 1,
+      "Undervotes": 29,
+      "Contest Total": 637
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "For the Tax Levy": 415,
+      "Against the Tax Levy": 407,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 864
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "For the Tax Levy": 400,
+      "Against the Tax Levy": 350,
+      "Total Votes Cast": 750,
+      "Overvotes": 1,
+      "Undervotes": 56,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "For the Tax Levy": 382,
+      "Against the Tax Levy": 332,
+      "Total Votes Cast": 714,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "For the Tax Levy": 310,
+      "Against the Tax Levy": 616,
+      "Total Votes Cast": 926,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "For the Tax Levy": 245,
+      "Against the Tax Levy": 401,
+      "Total Votes Cast": 646,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "For the Tax Levy": 400,
+      "Against the Tax Levy": 492,
+      "Total Votes Cast": 892,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 938
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "For the Tax Levy": 318,
+      "Against the Tax Levy": 196,
+      "Total Votes Cast": 514,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 551
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "For the Tax Levy": 279,
+      "Against the Tax Levy": 399,
+      "Total Votes Cast": 678,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "For the Tax Levy": 454,
+      "Against the Tax Levy": 194,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "JNLB-A",
+      "For the Tax Levy": 177,
+      "Against the Tax Levy": 276,
+      "Total Votes Cast": 453,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "For the Tax Levy": 280,
+      "Against the Tax Levy": 421,
+      "Total Votes Cast": 701,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 748
+    },
+    {
+      "Precinct": "KT 1-A",
+      "For the Tax Levy": 468,
+      "Against the Tax Levy": 157,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "For the Tax Levy": 352,
+      "Against the Tax Levy": 247,
+      "Total Votes Cast": 599,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 651
+    },
+    {
+      "Precinct": "KT 1-C",
+      "For the Tax Levy": 501,
+      "Against the Tax Levy": 323,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "For the Tax Levy": 497,
+      "Against the Tax Levy": 282,
+      "Total Votes Cast": 779,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "KT 1-E",
+      "For the Tax Levy": 379,
+      "Against the Tax Levy": 259,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "KT 1-F",
+      "For the Tax Levy": 379,
+      "Against the Tax Levy": 233,
+      "Total Votes Cast": 612,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "For the Tax Levy": 380,
+      "Against the Tax Levy": 275,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 705
+    },
+    {
+      "Precinct": "KT 1-H",
+      "For the Tax Levy": 561,
+      "Against the Tax Levy": 297,
+      "Total Votes Cast": 858,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 910
+    },
+    {
+      "Precinct": "KT 1-I",
+      "For the Tax Levy": 444,
+      "Against the Tax Levy": 290,
+      "Total Votes Cast": 734,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 781
+    },
+    {
+      "Precinct": "KT 2-A",
+      "For the Tax Levy": 470,
+      "Against the Tax Levy": 248,
+      "Total Votes Cast": 718,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "KT 2-B",
+      "For the Tax Levy": 444,
+      "Against the Tax Levy": 259,
+      "Total Votes Cast": 703,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "KT 2-C",
+      "For the Tax Levy": 473,
+      "Against the Tax Levy": 284,
+      "Total Votes Cast": 757,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 2-D",
+      "For the Tax Levy": 512,
+      "Against the Tax Levy": 326,
+      "Total Votes Cast": 838,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "For the Tax Levy": 468,
+      "Against the Tax Levy": 312,
+      "Total Votes Cast": 780,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "For the Tax Levy": 409,
+      "Against the Tax Levy": 228,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "KT 2-G",
+      "For the Tax Levy": 596,
+      "Against the Tax Levy": 385,
+      "Total Votes Cast": 981,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 1029
+    },
+    {
+      "Precinct": "KT 2-H",
+      "For the Tax Levy": 512,
+      "Against the Tax Levy": 311,
+      "Total Votes Cast": 823,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 871
+    },
+    {
+      "Precinct": "KT 2-I",
+      "For the Tax Levy": 388,
+      "Against the Tax Levy": 236,
+      "Total Votes Cast": 624,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "For the Tax Levy": 368,
+      "Against the Tax Levy": 153,
+      "Total Votes Cast": 521,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "For the Tax Levy": 553,
+      "Against the Tax Levy": 233,
+      "Total Votes Cast": 786,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "KT 3-B",
+      "For the Tax Levy": 571,
+      "Against the Tax Levy": 203,
+      "Total Votes Cast": 774,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "KT 3-C",
+      "For the Tax Levy": 484,
+      "Against the Tax Levy": 269,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "For the Tax Levy": 502,
+      "Against the Tax Levy": 146,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "KT 3-E",
+      "For the Tax Levy": 528,
+      "Against the Tax Levy": 276,
+      "Total Votes Cast": 804,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 845
+    },
+    {
+      "Precinct": "KT 3-F",
+      "For the Tax Levy": 433,
+      "Against the Tax Levy": 209,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "KT 3-G",
+      "For the Tax Levy": 420,
+      "Against the Tax Levy": 234,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "KT 3-H",
+      "For the Tax Levy": 490,
+      "Against the Tax Levy": 271,
+      "Total Votes Cast": 761,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "For the Tax Levy": 462,
+      "Against the Tax Levy": 200,
+      "Total Votes Cast": 662,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 685
+    },
+    {
+      "Precinct": "KT 3-J",
+      "For the Tax Levy": 462,
+      "Against the Tax Levy": 190,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "For the Tax Levy": 589,
+      "Against the Tax Levy": 318,
+      "Total Votes Cast": 907,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 944
+    },
+    {
+      "Precinct": "KT 4-A",
+      "For the Tax Levy": 693,
+      "Against the Tax Levy": 198,
+      "Total Votes Cast": 891,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "KT 4-B",
+      "For the Tax Levy": 734,
+      "Against the Tax Levy": 174,
+      "Total Votes Cast": 908,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 938
+    },
+    {
+      "Precinct": "KT 4-C",
+      "For the Tax Levy": 339,
+      "Against the Tax Levy": 199,
+      "Total Votes Cast": 538,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "For the Tax Levy": 556,
+      "Against the Tax Levy": 228,
+      "Total Votes Cast": 784,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "For the Tax Levy": 480,
+      "Against the Tax Levy": 206,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "KT 4-F",
+      "For the Tax Levy": 549,
+      "Against the Tax Levy": 207,
+      "Total Votes Cast": 756,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "KT 4-G",
+      "For the Tax Levy": 661,
+      "Against the Tax Levy": 307,
+      "Total Votes Cast": 968,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 993
+    },
+    {
+      "Precinct": "KT 4-H",
+      "For the Tax Levy": 422,
+      "Against the Tax Levy": 215,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 675
+    },
+    {
+      "Precinct": "KT 4-I",
+      "For the Tax Levy": 622,
+      "Against the Tax Levy": 192,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 845
+    },
+    {
+      "Precinct": "KT 4-J",
+      "For the Tax Levy": 565,
+      "Against the Tax Levy": 158,
+      "Total Votes Cast": 723,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 763
+    },
+    {
+      "Precinct": "KT 4-K",
+      "For the Tax Levy": 549,
+      "Against the Tax Levy": 211,
+      "Total Votes Cast": 760,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 788
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "For the Tax Levy": 453,
+      "Against the Tax Levy": 398,
+      "Total Votes Cast": 851,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 898
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "For the Tax Levy": 389,
+      "Against the Tax Levy": 409,
+      "Total Votes Cast": 798,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 856
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "For the Tax Levy": 431,
+      "Against the Tax Levy": 310,
+      "Total Votes Cast": 741,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "For the Tax Levy": 335,
+      "Against the Tax Levy": 233,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "For the Tax Levy": 395,
+      "Against the Tax Levy": 358,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 806
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "For the Tax Levy": 417,
+      "Against the Tax Levy": 408,
+      "Total Votes Cast": 825,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 860
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "For the Tax Levy": 304,
+      "Against the Tax Levy": 262,
+      "Total Votes Cast": 566,
+      "Overvotes": 1,
+      "Undervotes": 29,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "For the Tax Levy": 414,
+      "Against the Tax Levy": 335,
+      "Total Votes Cast": 749,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 794
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "For the Tax Levy": 371,
+      "Against the Tax Levy": 269,
+      "Total Votes Cast": 640,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "For the Tax Levy": 407,
+      "Against the Tax Levy": 391,
+      "Total Votes Cast": 798,
+      "Overvotes": 2,
+      "Undervotes": 41,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "For the Tax Levy": 342,
+      "Against the Tax Levy": 356,
+      "Total Votes Cast": 698,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "For the Tax Levy": 360,
+      "Against the Tax Levy": 271,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "For the Tax Levy": 302,
+      "Against the Tax Levy": 262,
+      "Total Votes Cast": 564,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "For the Tax Levy": 509,
+      "Against the Tax Levy": 547,
+      "Total Votes Cast": 1056,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 1098
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "For the Tax Levy": 453,
+      "Against the Tax Levy": 314,
+      "Total Votes Cast": 767,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "For the Tax Levy": 437,
+      "Against the Tax Levy": 235,
+      "Total Votes Cast": 672,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "For the Tax Levy": 325,
+      "Against the Tax Levy": 469,
+      "Total Votes Cast": 794,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "For the Tax Levy": 404,
+      "Against the Tax Levy": 264,
+      "Total Votes Cast": 668,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "For the Tax Levy": 495,
+      "Against the Tax Levy": 438,
+      "Total Votes Cast": 933,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "For the Tax Levy": 458,
+      "Against the Tax Levy": 247,
+      "Total Votes Cast": 705,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "For the Tax Levy": 383,
+      "Against the Tax Levy": 246,
+      "Total Votes Cast": 629,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "For the Tax Levy": 388,
+      "Against the Tax Levy": 268,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "For the Tax Levy": 260,
+      "Against the Tax Levy": 133,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "For the Tax Levy": 243,
+      "Against the Tax Levy": 414,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "For the Tax Levy": 490,
+      "Against the Tax Levy": 401,
+      "Total Votes Cast": 891,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "For the Tax Levy": 344,
+      "Against the Tax Levy": 239,
+      "Total Votes Cast": 583,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "For the Tax Levy": 398,
+      "Against the Tax Levy": 259,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "For the Tax Levy": 463,
+      "Against the Tax Levy": 308,
+      "Total Votes Cast": 771,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "For the Tax Levy": 400,
+      "Against the Tax Levy": 305,
+      "Total Votes Cast": 705,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "For the Tax Levy": 358,
+      "Against the Tax Levy": 131,
+      "Total Votes Cast": 489,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 523
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "For the Tax Levy": 490,
+      "Against the Tax Levy": 260,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "For the Tax Levy": 258,
+      "Against the Tax Levy": 141,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 427
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "For the Tax Levy": 356,
+      "Against the Tax Levy": 351,
+      "Total Votes Cast": 707,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "For the Tax Levy": 360,
+      "Against the Tax Levy": 221,
+      "Total Votes Cast": 581,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "For the Tax Levy": 366,
+      "Against the Tax Levy": 196,
+      "Total Votes Cast": 562,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "For the Tax Levy": 401,
+      "Against the Tax Levy": 284,
+      "Total Votes Cast": 685,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "For the Tax Levy": 240,
+      "Against the Tax Levy": 195,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 461
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "For the Tax Levy": 426,
+      "Against the Tax Levy": 362,
+      "Total Votes Cast": 788,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "For the Tax Levy": 224,
+      "Against the Tax Levy": 264,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "For the Tax Levy": 270,
+      "Against the Tax Levy": 164,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "For the Tax Levy": 256,
+      "Against the Tax Levy": 99,
+      "Total Votes Cast": 355,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 383
+    },
+    {
+      "Precinct": "OAK-A",
+      "For the Tax Levy": 619,
+      "Against the Tax Levy": 187,
+      "Total Votes Cast": 806,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "OAK-B",
+      "For the Tax Levy": 619,
+      "Against the Tax Levy": 189,
+      "Total Votes Cast": 808,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "For the Tax Levy": 524,
+      "Against the Tax Levy": 141,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "OAK-D",
+      "For the Tax Levy": 537,
+      "Against the Tax Levy": 131,
+      "Total Votes Cast": 668,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "OAK-E",
+      "For the Tax Levy": 542,
+      "Against the Tax Levy": 148,
+      "Total Votes Cast": 690,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "OAK-F",
+      "For the Tax Levy": 674,
+      "Against the Tax Levy": 169,
+      "Total Votes Cast": 843,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "For the Tax Levy": 549,
+      "Against the Tax Levy": 177,
+      "Total Votes Cast": 726,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 753
+    },
+    {
+      "Precinct": "OAK-H",
+      "For the Tax Levy": 453,
+      "Against the Tax Levy": 136,
+      "Total Votes Cast": 589,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "For the Tax Levy": 199,
+      "Against the Tax Levy": 384,
+      "Total Votes Cast": 583,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "For the Tax Levy": 257,
+      "Against the Tax Levy": 377,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "For the Tax Levy": 243,
+      "Against the Tax Levy": 493,
+      "Total Votes Cast": 736,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "For the Tax Levy": 98,
+      "Against the Tax Levy": 131,
+      "Total Votes Cast": 229,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "For the Tax Levy": 320,
+      "Against the Tax Levy": 158,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "PNLB",
+      "For the Tax Levy": 242,
+      "Against the Tax Levy": 263,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "For the Tax Levy": 362,
+      "Against the Tax Levy": 268,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "RV-B",
+      "For the Tax Levy": 266,
+      "Against the Tax Levy": 251,
+      "Total Votes Cast": 517,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "For the Tax Levy": 414,
+      "Against the Tax Levy": 237,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "For the Tax Levy": 334,
+      "Against the Tax Levy": 332,
+      "Total Votes Cast": 666,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "For the Tax Levy": 278,
+      "Against the Tax Levy": 287,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 619
+    },
+    {
+      "Precinct": "RV-F",
+      "For the Tax Levy": 363,
+      "Against the Tax Levy": 195,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "For the Tax Levy": 268,
+      "Against the Tax Levy": 224,
+      "Total Votes Cast": 492,
+      "Overvotes": 1,
+      "Undervotes": 43,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "RV-H",
+      "For the Tax Levy": 200,
+      "Against the Tax Levy": 110,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "RV-I",
+      "For the Tax Levy": 272,
+      "Against the Tax Levy": 209,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "For the Tax Levy": 238,
+      "Against the Tax Levy": 233,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "For the Tax Levy": 383,
+      "Against the Tax Levy": 276,
+      "Total Votes Cast": 659,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 690
+    },
+    {
+      "Precinct": "RV-L",
+      "For the Tax Levy": 182,
+      "Against the Tax Levy": 196,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 420
+    },
+    {
+      "Precinct": "RV-M",
+      "For the Tax Levy": 351,
+      "Against the Tax Levy": 315,
+      "Total Votes Cast": 666,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 714
+    },
+    {
+      "Precinct": "RV-N",
+      "For the Tax Levy": 252,
+      "Against the Tax Levy": 206,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "For the Tax Levy": 343,
+      "Against the Tax Levy": 314,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-P",
+      "For the Tax Levy": 417,
+      "Against the Tax Levy": 306,
+      "Total Votes Cast": 723,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 756
+    },
+    {
+      "Precinct": "TR 1-A",
+      "For the Tax Levy": 446,
+      "Against the Tax Levy": 241,
+      "Total Votes Cast": 687,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 733
+    },
+    {
+      "Precinct": "TR 1-B",
+      "For the Tax Levy": 234,
+      "Against the Tax Levy": 147,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "For the Tax Levy": 338,
+      "Against the Tax Levy": 145,
+      "Total Votes Cast": 483,
+      "Overvotes": 1,
+      "Undervotes": 49,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "TR 1-D",
+      "For the Tax Levy": 290,
+      "Against the Tax Levy": 122,
+      "Total Votes Cast": 412,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "For the Tax Levy": 480,
+      "Against the Tax Levy": 210,
+      "Total Votes Cast": 690,
+      "Overvotes": 2,
+      "Undervotes": 38,
+      "Contest Total": 730
+    },
+    {
+      "Precinct": "TR 2-A",
+      "For the Tax Levy": 410,
+      "Against the Tax Levy": 168,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "For the Tax Levy": 492,
+      "Against the Tax Levy": 177,
+      "Total Votes Cast": 669,
+      "Overvotes": 1,
+      "Undervotes": 39,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "For the Tax Levy": 373,
+      "Against the Tax Levy": 103,
+      "Total Votes Cast": 476,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 518
+    },
+    {
+      "Precinct": "TR 2-D",
+      "For the Tax Levy": 267,
+      "Against the Tax Levy": 142,
+      "Total Votes Cast": 409,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "TR 2-E",
+      "For the Tax Levy": 355,
+      "Against the Tax Levy": 121,
+      "Total Votes Cast": 476,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "TR 3-A",
+      "For the Tax Levy": 272,
+      "Against the Tax Levy": 174,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "For the Tax Levy": 308,
+      "Against the Tax Levy": 264,
+      "Total Votes Cast": 572,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 609
+    },
+    {
+      "Precinct": "TR 3-C",
+      "For the Tax Levy": 263,
+      "Against the Tax Levy": 169,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 469
+    },
+    {
+      "Precinct": "TR 3-D",
+      "For the Tax Levy": 432,
+      "Against the Tax Levy": 204,
+      "Total Votes Cast": 636,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "TR 4-A",
+      "For the Tax Levy": 436,
+      "Against the Tax Levy": 200,
+      "Total Votes Cast": 636,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 669
+    },
+    {
+      "Precinct": "TR 4-B",
+      "For the Tax Levy": 377,
+      "Against the Tax Levy": 146,
+      "Total Votes Cast": 523,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 562
+    },
+    {
+      "Precinct": "TR 4-C",
+      "For the Tax Levy": 301,
+      "Against the Tax Levy": 112,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "For the Tax Levy": 291,
+      "Against the Tax Levy": 140,
+      "Total Votes Cast": 431,
+      "Overvotes": 1,
+      "Undervotes": 35,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "UN-A",
+      "For the Tax Levy": 263,
+      "Against the Tax Levy": 191,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 477
+    },
+    {
+      "Precinct": "UN-B",
+      "For the Tax Levy": 374,
+      "Against the Tax Levy": 313,
+      "Total Votes Cast": 687,
+      "Overvotes": 1,
+      "Undervotes": 28,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "UN-C",
+      "For the Tax Levy": 437,
+      "Against the Tax Levy": 335,
+      "Total Votes Cast": 772,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "For the Tax Levy": 468,
+      "Against the Tax Levy": 344,
+      "Total Votes Cast": 812,
+      "Overvotes": 1,
+      "Undervotes": 30,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "UN-E",
+      "For the Tax Levy": 446,
+      "Against the Tax Levy": 349,
+      "Total Votes Cast": 795,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 824
+    },
+    {
+      "Precinct": "VD-A",
+      "For the Tax Levy": 405,
+      "Against the Tax Levy": 274,
+      "Total Votes Cast": 679,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 714
+    },
+    {
+      "Precinct": "VD-B",
+      "For the Tax Levy": 246,
+      "Against the Tax Levy": 182,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "For the Tax Levy": 456,
+      "Against the Tax Levy": 343,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 835
+    },
+    {
+      "Precinct": "VD-D",
+      "For the Tax Levy": 431,
+      "Against the Tax Levy": 275,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "For the Tax Levy": 313,
+      "Against the Tax Levy": 207,
+      "Total Votes Cast": 520,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 548
+    },
+    {
+      "Precinct": "VD-F",
+      "For the Tax Levy": 470,
+      "Against the Tax Levy": 348,
+      "Total Votes Cast": 818,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 847
+    },
+    {
+      "Precinct": "VD-G",
+      "For the Tax Levy": 361,
+      "Against the Tax Levy": 278,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 661
+    },
+    {
+      "Precinct": "VD-H",
+      "For the Tax Levy": 508,
+      "Against the Tax Levy": 375,
+      "Total Votes Cast": 883,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 903
+    },
+    {
+      "Precinct": "VD-I",
+      "For the Tax Levy": 410,
+      "Against the Tax Levy": 303,
+      "Total Votes Cast": 713,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "VD-J",
+      "For the Tax Levy": 502,
+      "Against the Tax Levy": 411,
+      "Total Votes Cast": 913,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "VD-K",
+      "For the Tax Levy": 529,
+      "Against the Tax Levy": 306,
+      "Total Votes Cast": 835,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "For the Tax Levy": 447,
+      "Against the Tax Levy": 296,
+      "Total Votes Cast": 743,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 779
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "For the Tax Levy": 564,
+      "Against the Tax Levy": 495,
+      "Total Votes Cast": 1059,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 1085
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "For the Tax Levy": 497,
+      "Against the Tax Levy": 369,
+      "Total Votes Cast": 866,
+      "Overvotes": 1,
+      "Undervotes": 28,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "For the Tax Levy": 358,
+      "Against the Tax Levy": 281,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "For the Tax Levy": 562,
+      "Against the Tax Levy": 334,
+      "Total Votes Cast": 896,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 919
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "For the Tax Levy": 351,
+      "Against the Tax Levy": 223,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "For the Tax Levy": 639,
+      "Against the Tax Levy": 322,
+      "Total Votes Cast": 961,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 999
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "For the Tax Levy": 444,
+      "Against the Tax Levy": 329,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "For the Tax Levy": 412,
+      "Against the Tax Levy": 223,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "For the Tax Levy": 482,
+      "Against the Tax Levy": 329,
+      "Total Votes Cast": 811,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "For the Tax Levy": 496,
+      "Against the Tax Levy": 293,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "For the Tax Levy": 435,
+      "Against the Tax Levy": 247,
+      "Total Votes Cast": 682,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 726
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "For the Tax Levy": 442,
+      "Against the Tax Levy": 455,
+      "Total Votes Cast": 897,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "For the Tax Levy": 518,
+      "Against the Tax Levy": 277,
+      "Total Votes Cast": 795,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 842
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "For the Tax Levy": 422,
+      "Against the Tax Levy": 419,
+      "Total Votes Cast": 841,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "For the Tax Levy": 538,
+      "Against the Tax Levy": 418,
+      "Total Votes Cast": 956,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 989
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "For the Tax Levy": 565,
+      "Against the Tax Levy": 356,
+      "Total Votes Cast": 921,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 968
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "For the Tax Levy": 388,
+      "Against the Tax Levy": 304,
+      "Total Votes Cast": 692,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 710
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "For the Tax Levy": 376,
+      "Against the Tax Levy": 340,
+      "Total Votes Cast": 716,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "For the Tax Levy": 461,
+      "Against the Tax Levy": 245,
+      "Total Votes Cast": 706,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "For the Tax Levy": 490,
+      "Against the Tax Levy": 363,
+      "Total Votes Cast": 853,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "For the Tax Levy": 443,
+      "Against the Tax Levy": 366,
+      "Total Votes Cast": 809,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 839
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "For the Tax Levy": 352,
+      "Against the Tax Levy": 219,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "For the Tax Levy": 377,
+      "Against the Tax Levy": 306,
+      "Total Votes Cast": 683,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "For the Tax Levy": 612,
+      "Against the Tax Levy": 448,
+      "Total Votes Cast": 1060,
+      "Overvotes": 1,
+      "Undervotes": 47,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "For the Tax Levy": 414,
+      "Against the Tax Levy": 333,
+      "Total Votes Cast": 747,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "For the Tax Levy": 432,
+      "Against the Tax Levy": 357,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "For the Tax Levy": 353,
+      "Against the Tax Levy": 250,
+      "Total Votes Cast": 603,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "For the Tax Levy": 593,
+      "Against the Tax Levy": 396,
+      "Total Votes Cast": 989,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 1025
+    },
+    {
+      "Precinct": "WCR-A",
+      "For the Tax Levy": 401,
+      "Against the Tax Levy": 248,
+      "Total Votes Cast": 649,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 700
+    },
+    {
+      "Precinct": "WCR-B",
+      "For the Tax Levy": 370,
+      "Against the Tax Levy": 315,
+      "Total Votes Cast": 685,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WCR-C",
+      "For the Tax Levy": 368,
+      "Against the Tax Levy": 341,
+      "Total Votes Cast": 709,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "WCR-D",
+      "For the Tax Levy": 358,
+      "Against the Tax Levy": 332,
+      "Total Votes Cast": 690,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 732
+    },
+    {
+      "Precinct": "WCR-E",
+      "For the Tax Levy": 298,
+      "Against the Tax Levy": 147,
+      "Total Votes Cast": 445,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 477
+    },
+    {
+      "Precinct": "WCR-F",
+      "For the Tax Levy": 348,
+      "Against the Tax Levy": 182,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 567
+    },
+    {
+      "Precinct": "WCR-G",
+      "For the Tax Levy": 437,
+      "Against the Tax Levy": 279,
+      "Total Votes Cast": 716,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 753
+    },
+    {
+      "Precinct": "WCR-H",
+      "For the Tax Levy": 351,
+      "Against the Tax Levy": 321,
+      "Total Votes Cast": 672,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 713
+    },
+    {
+      "Precinct": "WCR-I",
+      "For the Tax Levy": 355,
+      "Against the Tax Levy": 128,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 519
+    }
+  ]
+}

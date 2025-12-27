@@ -1,0 +1,66 @@
+{
+  "race": "New Lebanon Council",
+  "precincts": 5,
+  "results": [
+    {
+      "Precinct": "JNLB-A1",
+      "Nicole Adkins": 57,
+      "Theresa Cooper": 55,
+      "Keith Moody": 70,
+      "Amanda Price": 68,
+      "Thomas Wilder": 90,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 140,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "JNLB-A2",
+      "Nicole Adkins": 0,
+      "Theresa Cooper": 0,
+      "Keith Moody": 0,
+      "Amanda Price": 0,
+      "Thomas Wilder": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Nicole Adkins": 94,
+      "Theresa Cooper": 116,
+      "Keith Moody": 120,
+      "Amanda Price": 94,
+      "Thomas Wilder": 124,
+      "Total Votes Cast": 548,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 723
+    },
+    {
+      "Precinct": "PNLB1",
+      "Nicole Adkins": 53,
+      "Theresa Cooper": 47,
+      "Keith Moody": 46,
+      "Amanda Price": 55,
+      "Thomas Wilder": 56,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 109,
+      "Contest Total": 366
+    },
+    {
+      "Precinct": "PNLB2",
+      "Nicole Adkins": 0,
+      "Theresa Cooper": 0,
+      "Keith Moody": 0,
+      "Amanda Price": 0,
+      "Thomas Wilder": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

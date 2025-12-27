@@ -1,0 +1,375 @@
+{
+  "race": "State Rep District 40",
+  "precincts": 41,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Bobbie Arnold (DEM)": 232,
+      "Rodney Creech (REP)": 636,
+      "Total Votes Cast": 868,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Bobbie Arnold (DEM)": 164,
+      "Rodney Creech (REP)": 503,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Bobbie Arnold (DEM)": 182,
+      "Rodney Creech (REP)": 668,
+      "Total Votes Cast": 850,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Bobbie Arnold (DEM)": 154,
+      "Rodney Creech (REP)": 587,
+      "Total Votes Cast": 741,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Bobbie Arnold (DEM)": 111,
+      "Rodney Creech (REP)": 456,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Bobbie Arnold (DEM)": 103,
+      "Rodney Creech (REP)": 486,
+      "Total Votes Cast": 589,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Bobbie Arnold (DEM)": 139,
+      "Rodney Creech (REP)": 747,
+      "Total Votes Cast": 886,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Bobbie Arnold (DEM)": 131,
+      "Rodney Creech (REP)": 435,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 604
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Bobbie Arnold (DEM)": 45,
+      "Rodney Creech (REP)": 58,
+      "Total Votes Cast": 103,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 105
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Bobbie Arnold (DEM)": 341,
+      "Rodney Creech (REP)": 523,
+      "Total Votes Cast": 864,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "FARM",
+      "Bobbie Arnold (DEM)": 104,
+      "Rodney Creech (REP)": 416,
+      "Total Votes Cast": 520,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Bobbie Arnold (DEM)": 156,
+      "Rodney Creech (REP)": 772,
+      "Total Votes Cast": 928,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Bobbie Arnold (DEM)": 175,
+      "Rodney Creech (REP)": 723,
+      "Total Votes Cast": 898,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Bobbie Arnold (DEM)": 217,
+      "Rodney Creech (REP)": 530,
+      "Total Votes Cast": 747,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Bobbie Arnold (DEM)": 205,
+      "Rodney Creech (REP)": 494,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Bobbie Arnold (DEM)": 174,
+      "Rodney Creech (REP)": 545,
+      "Total Votes Cast": 719,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Bobbie Arnold (DEM)": 184,
+      "Rodney Creech (REP)": 592,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Bobbie Arnold (DEM)": 165,
+      "Rodney Creech (REP)": 741,
+      "Total Votes Cast": 906,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Bobbie Arnold (DEM)": 108,
+      "Rodney Creech (REP)": 521,
+      "Total Votes Cast": 629,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Bobbie Arnold (DEM)": 99,
+      "Rodney Creech (REP)": 347,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Bobbie Arnold (DEM)": 159,
+      "Rodney Creech (REP)": 540,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Bobbie Arnold (DEM)": 280,
+      "Rodney Creech (REP)": 544,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Bobbie Arnold (DEM)": 233,
+      "Rodney Creech (REP)": 566,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Bobbie Arnold (DEM)": 277,
+      "Rodney Creech (REP)": 457,
+      "Total Votes Cast": 734,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Bobbie Arnold (DEM)": 218,
+      "Rodney Creech (REP)": 345,
+      "Total Votes Cast": 563,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Bobbie Arnold (DEM)": 242,
+      "Rodney Creech (REP)": 506,
+      "Total Votes Cast": 748,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Bobbie Arnold (DEM)": 244,
+      "Rodney Creech (REP)": 560,
+      "Total Votes Cast": 804,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Bobbie Arnold (DEM)": 205,
+      "Rodney Creech (REP)": 354,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Bobbie Arnold (DEM)": 267,
+      "Rodney Creech (REP)": 458,
+      "Total Votes Cast": 725,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Bobbie Arnold (DEM)": 260,
+      "Rodney Creech (REP)": 384,
+      "Total Votes Cast": 644,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Bobbie Arnold (DEM)": 249,
+      "Rodney Creech (REP)": 543,
+      "Total Votes Cast": 792,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Bobbie Arnold (DEM)": 217,
+      "Rodney Creech (REP)": 479,
+      "Total Votes Cast": 696,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Bobbie Arnold (DEM)": 190,
+      "Rodney Creech (REP)": 433,
+      "Total Votes Cast": 623,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Bobbie Arnold (DEM)": 191,
+      "Rodney Creech (REP)": 368,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Bobbie Arnold (DEM)": 358,
+      "Rodney Creech (REP)": 655,
+      "Total Votes Cast": 1013,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Bobbie Arnold (DEM)": 14,
+      "Rodney Creech (REP)": 36,
+      "Total Votes Cast": 50,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 50
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Bobbie Arnold (DEM)": 74,
+      "Rodney Creech (REP)": 491,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Bobbie Arnold (DEM)": 126,
+      "Rodney Creech (REP)": 492,
+      "Total Votes Cast": 618,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Bobbie Arnold (DEM)": 141,
+      "Rodney Creech (REP)": 579,
+      "Total Votes Cast": 720,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Bobbie Arnold (DEM)": 57,
+      "Rodney Creech (REP)": 164,
+      "Total Votes Cast": 221,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PNLB",
+      "Bobbie Arnold (DEM)": 117,
+      "Rodney Creech (REP)": 380,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 531
+    }
+  ]
+}

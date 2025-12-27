@@ -1,0 +1,42 @@
+{
+  "race": "Brookville Referendum on Ordinance",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Yes": 246,
+      "No": 615,
+      "Total Votes Cast": 861,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Yes": 208,
+      "No": 459,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "BRK-C",
+      "Yes": 276,
+      "No": 583,
+      "Total Votes Cast": 859,
+      "Overvotes": 1,
+      "Undervotes": 49,
+      "Contest Total": 909
+    },
+    {
+      "Precinct": "BRK-D",
+      "Yes": 221,
+      "No": 517,
+      "Total Votes Cast": 738,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 784
+    }
+  ]
+}

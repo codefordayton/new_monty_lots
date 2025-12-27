@@ -1,0 +1,46 @@
+{
+  "race": "Huber Heights Council Ward 3",
+  "precincts": 5,
+  "results": [
+    {
+      "Precinct": "HUB 3-A",
+      "Kate Baker": 145,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 204
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Kate Baker": 79,
+      "Total Votes Cast": 79,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 121
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Kate Baker": 120,
+      "Total Votes Cast": 120,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Kate Baker": 153,
+      "Total Votes Cast": 153,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 228
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Kate Baker": 92,
+      "Total Votes Cast": 92,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 158
+    }
+  ]
+}

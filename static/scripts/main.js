@@ -12,6 +12,7 @@ import { initializeSearchBar, loadFromURL } from './components/SearchBar.js';
 import { toggleLegend } from './components/Legend.js';
 import { initializeSidebarToggle } from './components/SidebarToggle.js';
 import { initializeAdvancedSearch } from './components/AdvancedSearch.js';
+import { initializeElectionUI } from './components/ElectionUI.js';
 
 // Initialize the Leaflet map
 const map = L.map('map').setView([39.7589, -84.1916], 10);
@@ -76,6 +77,7 @@ document.addEventListener('DOMContentLoaded', function () {
   initializeSearchBar();
   initializeSidebarToggle();
   initializeAdvancedSearch();
+  initializeElectionUI();
 });
 
 // Start the application

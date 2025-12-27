@@ -1,0 +1,3435 @@
+{
+  "race": "Clerk of Common Pleas Court",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Lynn Cooper (DEM)": 245,
+      "Mike Foley (REP)": 617,
+      "Total Votes Cast": 862,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Lynn Cooper (DEM)": 170,
+      "Mike Foley (REP)": 490,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Lynn Cooper (DEM)": 201,
+      "Mike Foley (REP)": 646,
+      "Total Votes Cast": 847,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Lynn Cooper (DEM)": 149,
+      "Mike Foley (REP)": 574,
+      "Total Votes Cast": 723,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Lynn Cooper (DEM)": 220,
+      "Mike Foley (REP)": 561,
+      "Total Votes Cast": 781,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Lynn Cooper (DEM)": 226,
+      "Mike Foley (REP)": 465,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Lynn Cooper (DEM)": 295,
+      "Mike Foley (REP)": 577,
+      "Total Votes Cast": 872,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Lynn Cooper (DEM)": 295,
+      "Mike Foley (REP)": 515,
+      "Total Votes Cast": 810,
+      "Overvotes": 1,
+      "Undervotes": 50,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Lynn Cooper (DEM)": 194,
+      "Mike Foley (REP)": 382,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Lynn Cooper (DEM)": 221,
+      "Mike Foley (REP)": 424,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Lynn Cooper (DEM)": 210,
+      "Mike Foley (REP)": 282,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Lynn Cooper (DEM)": 112,
+      "Mike Foley (REP)": 455,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Lynn Cooper (DEM)": 106,
+      "Mike Foley (REP)": 475,
+      "Total Votes Cast": 581,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Lynn Cooper (DEM)": 134,
+      "Mike Foley (REP)": 736,
+      "Total Votes Cast": 870,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Lynn Cooper (DEM)": 151,
+      "Mike Foley (REP)": 426,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Lynn Cooper (DEM)": 337,
+      "Mike Foley (REP)": 328,
+      "Total Votes Cast": 665,
+      "Overvotes": 1,
+      "Undervotes": 27,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Lynn Cooper (DEM)": 354,
+      "Mike Foley (REP)": 519,
+      "Total Votes Cast": 873,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Lynn Cooper (DEM)": 324,
+      "Mike Foley (REP)": 256,
+      "Total Votes Cast": 580,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Lynn Cooper (DEM)": 289,
+      "Mike Foley (REP)": 327,
+      "Total Votes Cast": 616,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Lynn Cooper (DEM)": 418,
+      "Mike Foley (REP)": 408,
+      "Total Votes Cast": 826,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Lynn Cooper (DEM)": 487,
+      "Mike Foley (REP)": 356,
+      "Total Votes Cast": 843,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Lynn Cooper (DEM)": 430,
+      "Mike Foley (REP)": 383,
+      "Total Votes Cast": 813,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Lynn Cooper (DEM)": 420,
+      "Mike Foley (REP)": 365,
+      "Total Votes Cast": 785,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Lynn Cooper (DEM)": 405,
+      "Mike Foley (REP)": 297,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Lynn Cooper (DEM)": 330,
+      "Mike Foley (REP)": 262,
+      "Total Votes Cast": 592,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Lynn Cooper (DEM)": 364,
+      "Mike Foley (REP)": 455,
+      "Total Votes Cast": 819,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Lynn Cooper (DEM)": 217,
+      "Mike Foley (REP)": 306,
+      "Total Votes Cast": 523,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Lynn Cooper (DEM)": 262,
+      "Mike Foley (REP)": 326,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Lynn Cooper (DEM)": 310,
+      "Mike Foley (REP)": 453,
+      "Total Votes Cast": 763,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Lynn Cooper (DEM)": 377,
+      "Mike Foley (REP)": 491,
+      "Total Votes Cast": 868,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Lynn Cooper (DEM)": 440,
+      "Mike Foley (REP)": 503,
+      "Total Votes Cast": 943,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Lynn Cooper (DEM)": 413,
+      "Mike Foley (REP)": 530,
+      "Total Votes Cast": 943,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Lynn Cooper (DEM)": 382,
+      "Mike Foley (REP)": 627,
+      "Total Votes Cast": 1009,
+      "Overvotes": 0,
+      "Undervotes": 82,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Lynn Cooper (DEM)": 327,
+      "Mike Foley (REP)": 522,
+      "Total Votes Cast": 849,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Lynn Cooper (DEM)": 375,
+      "Mike Foley (REP)": 484,
+      "Total Votes Cast": 859,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Lynn Cooper (DEM)": 401,
+      "Mike Foley (REP)": 554,
+      "Total Votes Cast": 955,
+      "Overvotes": 1,
+      "Undervotes": 76,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Lynn Cooper (DEM)": 351,
+      "Mike Foley (REP)": 460,
+      "Total Votes Cast": 811,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Lynn Cooper (DEM)": 328,
+      "Mike Foley (REP)": 390,
+      "Total Votes Cast": 718,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Lynn Cooper (DEM)": 458,
+      "Mike Foley (REP)": 559,
+      "Total Votes Cast": 1017,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Lynn Cooper (DEM)": 402,
+      "Mike Foley (REP)": 493,
+      "Total Votes Cast": 895,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Lynn Cooper (DEM)": 359,
+      "Mike Foley (REP)": 440,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 82,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Lynn Cooper (DEM)": 390,
+      "Mike Foley (REP)": 434,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Lynn Cooper (DEM)": 128,
+      "Mike Foley (REP)": 60,
+      "Total Votes Cast": 188,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Lynn Cooper (DEM)": 516,
+      "Mike Foley (REP)": 181,
+      "Total Votes Cast": 697,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Lynn Cooper (DEM)": 374,
+      "Mike Foley (REP)": 112,
+      "Total Votes Cast": 486,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Lynn Cooper (DEM)": 233,
+      "Mike Foley (REP)": 82,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Lynn Cooper (DEM)": 459,
+      "Mike Foley (REP)": 159,
+      "Total Votes Cast": 618,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Lynn Cooper (DEM)": 170,
+      "Mike Foley (REP)": 240,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Lynn Cooper (DEM)": 321,
+      "Mike Foley (REP)": 157,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Lynn Cooper (DEM)": 268,
+      "Mike Foley (REP)": 232,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Lynn Cooper (DEM)": 168,
+      "Mike Foley (REP)": 183,
+      "Total Votes Cast": 351,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Lynn Cooper (DEM)": 107,
+      "Mike Foley (REP)": 140,
+      "Total Votes Cast": 247,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Lynn Cooper (DEM)": 156,
+      "Mike Foley (REP)": 195,
+      "Total Votes Cast": 351,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Lynn Cooper (DEM)": 391,
+      "Mike Foley (REP)": 462,
+      "Total Votes Cast": 853,
+      "Overvotes": 1,
+      "Undervotes": 47,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Lynn Cooper (DEM)": 261,
+      "Mike Foley (REP)": 202,
+      "Total Votes Cast": 463,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Lynn Cooper (DEM)": 121,
+      "Mike Foley (REP)": 132,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Lynn Cooper (DEM)": 363,
+      "Mike Foley (REP)": 330,
+      "Total Votes Cast": 693,
+      "Overvotes": 1,
+      "Undervotes": 35,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Lynn Cooper (DEM)": 157,
+      "Mike Foley (REP)": 284,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Lynn Cooper (DEM)": 183,
+      "Mike Foley (REP)": 277,
+      "Total Votes Cast": 460,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Lynn Cooper (DEM)": 406,
+      "Mike Foley (REP)": 372,
+      "Total Votes Cast": 778,
+      "Overvotes": 1,
+      "Undervotes": 67,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Lynn Cooper (DEM)": 325,
+      "Mike Foley (REP)": 330,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Lynn Cooper (DEM)": 436,
+      "Mike Foley (REP)": 407,
+      "Total Votes Cast": 843,
+      "Overvotes": 1,
+      "Undervotes": 50,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Lynn Cooper (DEM)": 332,
+      "Mike Foley (REP)": 435,
+      "Total Votes Cast": 767,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Lynn Cooper (DEM)": 380,
+      "Mike Foley (REP)": 113,
+      "Total Votes Cast": 493,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Lynn Cooper (DEM)": 284,
+      "Mike Foley (REP)": 96,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Lynn Cooper (DEM)": 291,
+      "Mike Foley (REP)": 105,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Lynn Cooper (DEM)": 289,
+      "Mike Foley (REP)": 43,
+      "Total Votes Cast": 332,
+      "Overvotes": 1,
+      "Undervotes": 34,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Lynn Cooper (DEM)": 297,
+      "Mike Foley (REP)": 60,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Lynn Cooper (DEM)": 244,
+      "Mike Foley (REP)": 49,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Lynn Cooper (DEM)": 361,
+      "Mike Foley (REP)": 61,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Lynn Cooper (DEM)": 364,
+      "Mike Foley (REP)": 45,
+      "Total Votes Cast": 409,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Lynn Cooper (DEM)": 361,
+      "Mike Foley (REP)": 54,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Lynn Cooper (DEM)": 317,
+      "Mike Foley (REP)": 45,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Lynn Cooper (DEM)": 299,
+      "Mike Foley (REP)": 53,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Lynn Cooper (DEM)": 251,
+      "Mike Foley (REP)": 34,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Lynn Cooper (DEM)": 353,
+      "Mike Foley (REP)": 301,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Lynn Cooper (DEM)": 404,
+      "Mike Foley (REP)": 229,
+      "Total Votes Cast": 633,
+      "Overvotes": 1,
+      "Undervotes": 43,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Lynn Cooper (DEM)": 386,
+      "Mike Foley (REP)": 263,
+      "Total Votes Cast": 649,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Lynn Cooper (DEM)": 365,
+      "Mike Foley (REP)": 266,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Lynn Cooper (DEM)": 470,
+      "Mike Foley (REP)": 329,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Lynn Cooper (DEM)": 406,
+      "Mike Foley (REP)": 334,
+      "Total Votes Cast": 740,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Lynn Cooper (DEM)": 433,
+      "Mike Foley (REP)": 366,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Lynn Cooper (DEM)": 323,
+      "Mike Foley (REP)": 304,
+      "Total Votes Cast": 627,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Lynn Cooper (DEM)": 283,
+      "Mike Foley (REP)": 268,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Lynn Cooper (DEM)": 204,
+      "Mike Foley (REP)": 258,
+      "Total Votes Cast": 462,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Lynn Cooper (DEM)": 250,
+      "Mike Foley (REP)": 204,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Lynn Cooper (DEM)": 273,
+      "Mike Foley (REP)": 296,
+      "Total Votes Cast": 569,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Lynn Cooper (DEM)": 252,
+      "Mike Foley (REP)": 242,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Lynn Cooper (DEM)": 196,
+      "Mike Foley (REP)": 162,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Lynn Cooper (DEM)": 187,
+      "Mike Foley (REP)": 213,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Lynn Cooper (DEM)": 226,
+      "Mike Foley (REP)": 183,
+      "Total Votes Cast": 409,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Lynn Cooper (DEM)": 223,
+      "Mike Foley (REP)": 325,
+      "Total Votes Cast": 548,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Lynn Cooper (DEM)": 195,
+      "Mike Foley (REP)": 241,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Lynn Cooper (DEM)": 332,
+      "Mike Foley (REP)": 308,
+      "Total Votes Cast": 640,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Lynn Cooper (DEM)": 301,
+      "Mike Foley (REP)": 128,
+      "Total Votes Cast": 429,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Lynn Cooper (DEM)": 252,
+      "Mike Foley (REP)": 246,
+      "Total Votes Cast": 498,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Lynn Cooper (DEM)": 187,
+      "Mike Foley (REP)": 179,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Lynn Cooper (DEM)": 352,
+      "Mike Foley (REP)": 40,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Lynn Cooper (DEM)": 207,
+      "Mike Foley (REP)": 41,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Lynn Cooper (DEM)": 405,
+      "Mike Foley (REP)": 76,
+      "Total Votes Cast": 481,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Lynn Cooper (DEM)": 160,
+      "Mike Foley (REP)": 32,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Lynn Cooper (DEM)": 232,
+      "Mike Foley (REP)": 53,
+      "Total Votes Cast": 285,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Lynn Cooper (DEM)": 477,
+      "Mike Foley (REP)": 55,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Lynn Cooper (DEM)": 371,
+      "Mike Foley (REP)": 63,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Lynn Cooper (DEM)": 432,
+      "Mike Foley (REP)": 69,
+      "Total Votes Cast": 501,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Lynn Cooper (DEM)": 305,
+      "Mike Foley (REP)": 54,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Lynn Cooper (DEM)": 362,
+      "Mike Foley (REP)": 42,
+      "Total Votes Cast": 404,
+      "Overvotes": 1,
+      "Undervotes": 43,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Lynn Cooper (DEM)": 358,
+      "Mike Foley (REP)": 60,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Lynn Cooper (DEM)": 283,
+      "Mike Foley (REP)": 45,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Lynn Cooper (DEM)": 338,
+      "Mike Foley (REP)": 46,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Lynn Cooper (DEM)": 638,
+      "Mike Foley (REP)": 92,
+      "Total Votes Cast": 730,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Lynn Cooper (DEM)": 376,
+      "Mike Foley (REP)": 55,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Lynn Cooper (DEM)": 258,
+      "Mike Foley (REP)": 71,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Lynn Cooper (DEM)": 331,
+      "Mike Foley (REP)": 100,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Lynn Cooper (DEM)": 383,
+      "Mike Foley (REP)": 85,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Lynn Cooper (DEM)": 231,
+      "Mike Foley (REP)": 58,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Lynn Cooper (DEM)": 273,
+      "Mike Foley (REP)": 45,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Lynn Cooper (DEM)": 423,
+      "Mike Foley (REP)": 110,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Lynn Cooper (DEM)": 304,
+      "Mike Foley (REP)": 76,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Lynn Cooper (DEM)": 279,
+      "Mike Foley (REP)": 111,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Lynn Cooper (DEM)": 161,
+      "Mike Foley (REP)": 26,
+      "Total Votes Cast": 187,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Lynn Cooper (DEM)": 398,
+      "Mike Foley (REP)": 59,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Lynn Cooper (DEM)": 342,
+      "Mike Foley (REP)": 29,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Lynn Cooper (DEM)": 330,
+      "Mike Foley (REP)": 428,
+      "Total Votes Cast": 758,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Lynn Cooper (DEM)": 377,
+      "Mike Foley (REP)": 422,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Lynn Cooper (DEM)": 214,
+      "Mike Foley (REP)": 333,
+      "Total Votes Cast": 547,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Lynn Cooper (DEM)": 229,
+      "Mike Foley (REP)": 349,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Lynn Cooper (DEM)": 296,
+      "Mike Foley (REP)": 58,
+      "Total Votes Cast": 354,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Lynn Cooper (DEM)": 305,
+      "Mike Foley (REP)": 45,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Lynn Cooper (DEM)": 469,
+      "Mike Foley (REP)": 65,
+      "Total Votes Cast": 534,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Lynn Cooper (DEM)": 579,
+      "Mike Foley (REP)": 103,
+      "Total Votes Cast": 682,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Lynn Cooper (DEM)": 432,
+      "Mike Foley (REP)": 84,
+      "Total Votes Cast": 516,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Lynn Cooper (DEM)": 682,
+      "Mike Foley (REP)": 89,
+      "Total Votes Cast": 771,
+      "Overvotes": 2,
+      "Undervotes": 39,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Lynn Cooper (DEM)": 381,
+      "Mike Foley (REP)": 140,
+      "Total Votes Cast": 521,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Lynn Cooper (DEM)": 385,
+      "Mike Foley (REP)": 391,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Lynn Cooper (DEM)": 290,
+      "Mike Foley (REP)": 440,
+      "Total Votes Cast": 730,
+      "Overvotes": 1,
+      "Undervotes": 44,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Lynn Cooper (DEM)": 364,
+      "Mike Foley (REP)": 334,
+      "Total Votes Cast": 698,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Lynn Cooper (DEM)": 344,
+      "Mike Foley (REP)": 508,
+      "Total Votes Cast": 852,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Lynn Cooper (DEM)": 455,
+      "Mike Foley (REP)": 350,
+      "Total Votes Cast": 805,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Lynn Cooper (DEM)": 252,
+      "Mike Foley (REP)": 412,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Lynn Cooper (DEM)": 331,
+      "Mike Foley (REP)": 438,
+      "Total Votes Cast": 769,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Lynn Cooper (DEM)": 261,
+      "Mike Foley (REP)": 337,
+      "Total Votes Cast": 598,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Lynn Cooper (DEM)": 259,
+      "Mike Foley (REP)": 299,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Lynn Cooper (DEM)": 346,
+      "Mike Foley (REP)": 329,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Lynn Cooper (DEM)": 119,
+      "Mike Foley (REP)": 393,
+      "Total Votes Cast": 512,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Lynn Cooper (DEM)": 165,
+      "Mike Foley (REP)": 760,
+      "Total Votes Cast": 925,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Lynn Cooper (DEM)": 167,
+      "Mike Foley (REP)": 724,
+      "Total Votes Cast": 891,
+      "Overvotes": 1,
+      "Undervotes": 59,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Lynn Cooper (DEM)": 225,
+      "Mike Foley (REP)": 518,
+      "Total Votes Cast": 743,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Lynn Cooper (DEM)": 189,
+      "Mike Foley (REP)": 510,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Lynn Cooper (DEM)": 181,
+      "Mike Foley (REP)": 529,
+      "Total Votes Cast": 710,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Lynn Cooper (DEM)": 188,
+      "Mike Foley (REP)": 587,
+      "Total Votes Cast": 775,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Lynn Cooper (DEM)": 117,
+      "Mike Foley (REP)": 284,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Lynn Cooper (DEM)": 172,
+      "Mike Foley (REP)": 330,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Lynn Cooper (DEM)": 189,
+      "Mike Foley (REP)": 340,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Lynn Cooper (DEM)": 466,
+      "Mike Foley (REP)": 296,
+      "Total Votes Cast": 762,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Lynn Cooper (DEM)": 105,
+      "Mike Foley (REP)": 219,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Lynn Cooper (DEM)": 251,
+      "Mike Foley (REP)": 64,
+      "Total Votes Cast": 315,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Lynn Cooper (DEM)": 382,
+      "Mike Foley (REP)": 140,
+      "Total Votes Cast": 522,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Lynn Cooper (DEM)": 436,
+      "Mike Foley (REP)": 119,
+      "Total Votes Cast": 555,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Lynn Cooper (DEM)": 361,
+      "Mike Foley (REP)": 161,
+      "Total Votes Cast": 522,
+      "Overvotes": 1,
+      "Undervotes": 23,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Lynn Cooper (DEM)": 416,
+      "Mike Foley (REP)": 94,
+      "Total Votes Cast": 510,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Lynn Cooper (DEM)": 371,
+      "Mike Foley (REP)": 131,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Lynn Cooper (DEM)": 500,
+      "Mike Foley (REP)": 237,
+      "Total Votes Cast": 737,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Lynn Cooper (DEM)": 687,
+      "Mike Foley (REP)": 136,
+      "Total Votes Cast": 823,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Lynn Cooper (DEM)": 144,
+      "Mike Foley (REP)": 328,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Lynn Cooper (DEM)": 519,
+      "Mike Foley (REP)": 180,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Lynn Cooper (DEM)": 293,
+      "Mike Foley (REP)": 479,
+      "Total Votes Cast": 772,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Lynn Cooper (DEM)": 413,
+      "Mike Foley (REP)": 515,
+      "Total Votes Cast": 928,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Lynn Cooper (DEM)": 384,
+      "Mike Foley (REP)": 309,
+      "Total Votes Cast": 693,
+      "Overvotes": 2,
+      "Undervotes": 41,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Lynn Cooper (DEM)": 340,
+      "Mike Foley (REP)": 511,
+      "Total Votes Cast": 851,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Lynn Cooper (DEM)": 348,
+      "Mike Foley (REP)": 434,
+      "Total Votes Cast": 782,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Lynn Cooper (DEM)": 336,
+      "Mike Foley (REP)": 495,
+      "Total Votes Cast": 831,
+      "Overvotes": 1,
+      "Undervotes": 53,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Lynn Cooper (DEM)": 234,
+      "Mike Foley (REP)": 364,
+      "Total Votes Cast": 598,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Lynn Cooper (DEM)": 313,
+      "Mike Foley (REP)": 239,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Lynn Cooper (DEM)": 214,
+      "Mike Foley (REP)": 339,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Lynn Cooper (DEM)": 286,
+      "Mike Foley (REP)": 511,
+      "Total Votes Cast": 797,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Lynn Cooper (DEM)": 301,
+      "Mike Foley (REP)": 309,
+      "Total Votes Cast": 610,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Lynn Cooper (DEM)": 299,
+      "Mike Foley (REP)": 453,
+      "Total Votes Cast": 752,
+      "Overvotes": 1,
+      "Undervotes": 51,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Lynn Cooper (DEM)": 261,
+      "Mike Foley (REP)": 434,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Lynn Cooper (DEM)": 356,
+      "Mike Foley (REP)": 439,
+      "Total Votes Cast": 795,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Lynn Cooper (DEM)": 373,
+      "Mike Foley (REP)": 386,
+      "Total Votes Cast": 759,
+      "Overvotes": 1,
+      "Undervotes": 36,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Lynn Cooper (DEM)": 279,
+      "Mike Foley (REP)": 426,
+      "Total Votes Cast": 705,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Lynn Cooper (DEM)": 317,
+      "Mike Foley (REP)": 378,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Lynn Cooper (DEM)": 285,
+      "Mike Foley (REP)": 422,
+      "Total Votes Cast": 707,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Lynn Cooper (DEM)": 319,
+      "Mike Foley (REP)": 413,
+      "Total Votes Cast": 732,
+      "Overvotes": 1,
+      "Undervotes": 38,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Lynn Cooper (DEM)": 249,
+      "Mike Foley (REP)": 351,
+      "Total Votes Cast": 600,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Lynn Cooper (DEM)": 317,
+      "Mike Foley (REP)": 498,
+      "Total Votes Cast": 815,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Lynn Cooper (DEM)": 326,
+      "Mike Foley (REP)": 424,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Lynn Cooper (DEM)": 242,
+      "Mike Foley (REP)": 474,
+      "Total Votes Cast": 716,
+      "Overvotes": 1,
+      "Undervotes": 44,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Lynn Cooper (DEM)": 166,
+      "Mike Foley (REP)": 736,
+      "Total Votes Cast": 902,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Lynn Cooper (DEM)": 111,
+      "Mike Foley (REP)": 508,
+      "Total Votes Cast": 619,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Lynn Cooper (DEM)": 444,
+      "Mike Foley (REP)": 449,
+      "Total Votes Cast": 893,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Lynn Cooper (DEM)": 304,
+      "Mike Foley (REP)": 210,
+      "Total Votes Cast": 514,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Lynn Cooper (DEM)": 249,
+      "Mike Foley (REP)": 413,
+      "Total Votes Cast": 662,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Lynn Cooper (DEM)": 572,
+      "Mike Foley (REP)": 78,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Lynn Cooper (DEM)": 103,
+      "Mike Foley (REP)": 332,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Lynn Cooper (DEM)": 148,
+      "Mike Foley (REP)": 543,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Lynn Cooper (DEM)": 336,
+      "Mike Foley (REP)": 285,
+      "Total Votes Cast": 621,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Lynn Cooper (DEM)": 215,
+      "Mike Foley (REP)": 385,
+      "Total Votes Cast": 600,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Lynn Cooper (DEM)": 316,
+      "Mike Foley (REP)": 493,
+      "Total Votes Cast": 809,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Lynn Cooper (DEM)": 363,
+      "Mike Foley (REP)": 418,
+      "Total Votes Cast": 781,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Lynn Cooper (DEM)": 257,
+      "Mike Foley (REP)": 374,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Lynn Cooper (DEM)": 257,
+      "Mike Foley (REP)": 361,
+      "Total Votes Cast": 618,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Lynn Cooper (DEM)": 283,
+      "Mike Foley (REP)": 381,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Lynn Cooper (DEM)": 386,
+      "Mike Foley (REP)": 470,
+      "Total Votes Cast": 856,
+      "Overvotes": 1,
+      "Undervotes": 55,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Lynn Cooper (DEM)": 319,
+      "Mike Foley (REP)": 408,
+      "Total Votes Cast": 727,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Lynn Cooper (DEM)": 325,
+      "Mike Foley (REP)": 377,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Lynn Cooper (DEM)": 312,
+      "Mike Foley (REP)": 375,
+      "Total Votes Cast": 687,
+      "Overvotes": 1,
+      "Undervotes": 51,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Lynn Cooper (DEM)": 363,
+      "Mike Foley (REP)": 372,
+      "Total Votes Cast": 735,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Lynn Cooper (DEM)": 376,
+      "Mike Foley (REP)": 432,
+      "Total Votes Cast": 808,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Lynn Cooper (DEM)": 301,
+      "Mike Foley (REP)": 457,
+      "Total Votes Cast": 758,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Lynn Cooper (DEM)": 244,
+      "Mike Foley (REP)": 368,
+      "Total Votes Cast": 612,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Lynn Cooper (DEM)": 369,
+      "Mike Foley (REP)": 585,
+      "Total Votes Cast": 954,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Lynn Cooper (DEM)": 366,
+      "Mike Foley (REP)": 436,
+      "Total Votes Cast": 802,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Lynn Cooper (DEM)": 272,
+      "Mike Foley (REP)": 346,
+      "Total Votes Cast": 618,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Lynn Cooper (DEM)": 262,
+      "Mike Foley (REP)": 250,
+      "Total Votes Cast": 512,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Lynn Cooper (DEM)": 366,
+      "Mike Foley (REP)": 414,
+      "Total Votes Cast": 780,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Lynn Cooper (DEM)": 422,
+      "Mike Foley (REP)": 351,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Lynn Cooper (DEM)": 295,
+      "Mike Foley (REP)": 453,
+      "Total Votes Cast": 748,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Lynn Cooper (DEM)": 391,
+      "Mike Foley (REP)": 255,
+      "Total Votes Cast": 646,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Lynn Cooper (DEM)": 356,
+      "Mike Foley (REP)": 433,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Lynn Cooper (DEM)": 298,
+      "Mike Foley (REP)": 329,
+      "Total Votes Cast": 627,
+      "Overvotes": 1,
+      "Undervotes": 56,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Lynn Cooper (DEM)": 273,
+      "Mike Foley (REP)": 364,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Lynn Cooper (DEM)": 363,
+      "Mike Foley (REP)": 396,
+      "Total Votes Cast": 759,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Lynn Cooper (DEM)": 272,
+      "Mike Foley (REP)": 367,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Lynn Cooper (DEM)": 310,
+      "Mike Foley (REP)": 320,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Lynn Cooper (DEM)": 413,
+      "Mike Foley (REP)": 476,
+      "Total Votes Cast": 889,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Lynn Cooper (DEM)": 489,
+      "Mike Foley (REP)": 380,
+      "Total Votes Cast": 869,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Lynn Cooper (DEM)": 546,
+      "Mike Foley (REP)": 333,
+      "Total Votes Cast": 879,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Lynn Cooper (DEM)": 228,
+      "Mike Foley (REP)": 297,
+      "Total Votes Cast": 525,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Lynn Cooper (DEM)": 396,
+      "Mike Foley (REP)": 365,
+      "Total Votes Cast": 761,
+      "Overvotes": 1,
+      "Undervotes": 52,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Lynn Cooper (DEM)": 341,
+      "Mike Foley (REP)": 339,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Lynn Cooper (DEM)": 384,
+      "Mike Foley (REP)": 338,
+      "Total Votes Cast": 722,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Lynn Cooper (DEM)": 427,
+      "Mike Foley (REP)": 505,
+      "Total Votes Cast": 932,
+      "Overvotes": 1,
+      "Undervotes": 63,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Lynn Cooper (DEM)": 283,
+      "Mike Foley (REP)": 348,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Lynn Cooper (DEM)": 435,
+      "Mike Foley (REP)": 338,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Lynn Cooper (DEM)": 409,
+      "Mike Foley (REP)": 293,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Lynn Cooper (DEM)": 350,
+      "Mike Foley (REP)": 383,
+      "Total Votes Cast": 733,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Lynn Cooper (DEM)": 287,
+      "Mike Foley (REP)": 534,
+      "Total Votes Cast": 821,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Lynn Cooper (DEM)": 223,
+      "Mike Foley (REP)": 576,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Lynn Cooper (DEM)": 277,
+      "Mike Foley (REP)": 453,
+      "Total Votes Cast": 730,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Lynn Cooper (DEM)": 210,
+      "Mike Foley (REP)": 358,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Lynn Cooper (DEM)": 243,
+      "Mike Foley (REP)": 506,
+      "Total Votes Cast": 749,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Lynn Cooper (DEM)": 247,
+      "Mike Foley (REP)": 560,
+      "Total Votes Cast": 807,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Lynn Cooper (DEM)": 203,
+      "Mike Foley (REP)": 352,
+      "Total Votes Cast": 555,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Lynn Cooper (DEM)": 274,
+      "Mike Foley (REP)": 457,
+      "Total Votes Cast": 731,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Lynn Cooper (DEM)": 252,
+      "Mike Foley (REP)": 395,
+      "Total Votes Cast": 647,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Lynn Cooper (DEM)": 246,
+      "Mike Foley (REP)": 553,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Lynn Cooper (DEM)": 236,
+      "Mike Foley (REP)": 468,
+      "Total Votes Cast": 704,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Lynn Cooper (DEM)": 183,
+      "Mike Foley (REP)": 435,
+      "Total Votes Cast": 618,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Lynn Cooper (DEM)": 186,
+      "Mike Foley (REP)": 372,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Lynn Cooper (DEM)": 362,
+      "Mike Foley (REP)": 668,
+      "Total Votes Cast": 1030,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Lynn Cooper (DEM)": 301,
+      "Mike Foley (REP)": 446,
+      "Total Votes Cast": 747,
+      "Overvotes": 1,
+      "Undervotes": 68,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Lynn Cooper (DEM)": 289,
+      "Mike Foley (REP)": 368,
+      "Total Votes Cast": 657,
+      "Overvotes": 1,
+      "Undervotes": 60,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Lynn Cooper (DEM)": 163,
+      "Mike Foley (REP)": 626,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Lynn Cooper (DEM)": 307,
+      "Mike Foley (REP)": 356,
+      "Total Votes Cast": 663,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Lynn Cooper (DEM)": 343,
+      "Mike Foley (REP)": 560,
+      "Total Votes Cast": 903,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Lynn Cooper (DEM)": 336,
+      "Mike Foley (REP)": 367,
+      "Total Votes Cast": 703,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Lynn Cooper (DEM)": 228,
+      "Mike Foley (REP)": 392,
+      "Total Votes Cast": 620,
+      "Overvotes": 1,
+      "Undervotes": 59,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Lynn Cooper (DEM)": 269,
+      "Mike Foley (REP)": 379,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Lynn Cooper (DEM)": 192,
+      "Mike Foley (REP)": 200,
+      "Total Votes Cast": 392,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Lynn Cooper (DEM)": 146,
+      "Mike Foley (REP)": 518,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Lynn Cooper (DEM)": 330,
+      "Mike Foley (REP)": 542,
+      "Total Votes Cast": 872,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Lynn Cooper (DEM)": 232,
+      "Mike Foley (REP)": 346,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Lynn Cooper (DEM)": 291,
+      "Mike Foley (REP)": 374,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Lynn Cooper (DEM)": 307,
+      "Mike Foley (REP)": 447,
+      "Total Votes Cast": 754,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Lynn Cooper (DEM)": 276,
+      "Mike Foley (REP)": 424,
+      "Total Votes Cast": 700,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Lynn Cooper (DEM)": 272,
+      "Mike Foley (REP)": 231,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Lynn Cooper (DEM)": 360,
+      "Mike Foley (REP)": 379,
+      "Total Votes Cast": 739,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Lynn Cooper (DEM)": 186,
+      "Mike Foley (REP)": 211,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Lynn Cooper (DEM)": 218,
+      "Mike Foley (REP)": 480,
+      "Total Votes Cast": 698,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Lynn Cooper (DEM)": 210,
+      "Mike Foley (REP)": 361,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Lynn Cooper (DEM)": 271,
+      "Mike Foley (REP)": 300,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Lynn Cooper (DEM)": 228,
+      "Mike Foley (REP)": 445,
+      "Total Votes Cast": 673,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Lynn Cooper (DEM)": 139,
+      "Mike Foley (REP)": 300,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Lynn Cooper (DEM)": 270,
+      "Mike Foley (REP)": 509,
+      "Total Votes Cast": 779,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Lynn Cooper (DEM)": 155,
+      "Mike Foley (REP)": 330,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Lynn Cooper (DEM)": 196,
+      "Mike Foley (REP)": 236,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Lynn Cooper (DEM)": 215,
+      "Mike Foley (REP)": 145,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Lynn Cooper (DEM)": 487,
+      "Mike Foley (REP)": 302,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Lynn Cooper (DEM)": 448,
+      "Mike Foley (REP)": 332,
+      "Total Votes Cast": 780,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Lynn Cooper (DEM)": 413,
+      "Mike Foley (REP)": 221,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Lynn Cooper (DEM)": 413,
+      "Mike Foley (REP)": 226,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Lynn Cooper (DEM)": 461,
+      "Mike Foley (REP)": 210,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Lynn Cooper (DEM)": 562,
+      "Mike Foley (REP)": 268,
+      "Total Votes Cast": 830,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Lynn Cooper (DEM)": 426,
+      "Mike Foley (REP)": 284,
+      "Total Votes Cast": 710,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Lynn Cooper (DEM)": 315,
+      "Mike Foley (REP)": 253,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Lynn Cooper (DEM)": 79,
+      "Mike Foley (REP)": 474,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Lynn Cooper (DEM)": 133,
+      "Mike Foley (REP)": 479,
+      "Total Votes Cast": 612,
+      "Overvotes": 1,
+      "Undervotes": 40,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Lynn Cooper (DEM)": 125,
+      "Mike Foley (REP)": 588,
+      "Total Votes Cast": 713,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Lynn Cooper (DEM)": 65,
+      "Mike Foley (REP)": 161,
+      "Total Votes Cast": 226,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Lynn Cooper (DEM)": 240,
+      "Mike Foley (REP)": 252,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Lynn Cooper (DEM)": 127,
+      "Mike Foley (REP)": 376,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Lynn Cooper (DEM)": 236,
+      "Mike Foley (REP)": 409,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Lynn Cooper (DEM)": 171,
+      "Mike Foley (REP)": 351,
+      "Total Votes Cast": 522,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Lynn Cooper (DEM)": 284,
+      "Mike Foley (REP)": 375,
+      "Total Votes Cast": 659,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Lynn Cooper (DEM)": 198,
+      "Mike Foley (REP)": 465,
+      "Total Votes Cast": 663,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Lynn Cooper (DEM)": 157,
+      "Mike Foley (REP)": 424,
+      "Total Votes Cast": 581,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Lynn Cooper (DEM)": 252,
+      "Mike Foley (REP)": 323,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Lynn Cooper (DEM)": 178,
+      "Mike Foley (REP)": 310,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Lynn Cooper (DEM)": 121,
+      "Mike Foley (REP)": 212,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Lynn Cooper (DEM)": 156,
+      "Mike Foley (REP)": 334,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Lynn Cooper (DEM)": 159,
+      "Mike Foley (REP)": 322,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Lynn Cooper (DEM)": 293,
+      "Mike Foley (REP)": 361,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Lynn Cooper (DEM)": 122,
+      "Mike Foley (REP)": 267,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Lynn Cooper (DEM)": 257,
+      "Mike Foley (REP)": 420,
+      "Total Votes Cast": 677,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Lynn Cooper (DEM)": 175,
+      "Mike Foley (REP)": 312,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Lynn Cooper (DEM)": 252,
+      "Mike Foley (REP)": 417,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Lynn Cooper (DEM)": 278,
+      "Mike Foley (REP)": 421,
+      "Total Votes Cast": 699,
+      "Overvotes": 1,
+      "Undervotes": 57,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Lynn Cooper (DEM)": 479,
+      "Mike Foley (REP)": 223,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Lynn Cooper (DEM)": 253,
+      "Mike Foley (REP)": 128,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Lynn Cooper (DEM)": 428,
+      "Mike Foley (REP)": 65,
+      "Total Votes Cast": 493,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Lynn Cooper (DEM)": 340,
+      "Mike Foley (REP)": 74,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Lynn Cooper (DEM)": 594,
+      "Mike Foley (REP)": 97,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Lynn Cooper (DEM)": 485,
+      "Mike Foley (REP)": 94,
+      "Total Votes Cast": 579,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Lynn Cooper (DEM)": 563,
+      "Mike Foley (REP)": 113,
+      "Total Votes Cast": 676,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Lynn Cooper (DEM)": 421,
+      "Mike Foley (REP)": 67,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Lynn Cooper (DEM)": 266,
+      "Mike Foley (REP)": 134,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Lynn Cooper (DEM)": 421,
+      "Mike Foley (REP)": 61,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Lynn Cooper (DEM)": 280,
+      "Mike Foley (REP)": 164,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Lynn Cooper (DEM)": 240,
+      "Mike Foley (REP)": 333,
+      "Total Votes Cast": 573,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Lynn Cooper (DEM)": 248,
+      "Mike Foley (REP)": 193,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Lynn Cooper (DEM)": 493,
+      "Mike Foley (REP)": 139,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Lynn Cooper (DEM)": 537,
+      "Mike Foley (REP)": 95,
+      "Total Votes Cast": 632,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Lynn Cooper (DEM)": 429,
+      "Mike Foley (REP)": 99,
+      "Total Votes Cast": 528,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Lynn Cooper (DEM)": 329,
+      "Mike Foley (REP)": 102,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Lynn Cooper (DEM)": 365,
+      "Mike Foley (REP)": 77,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Lynn Cooper (DEM)": 132,
+      "Mike Foley (REP)": 315,
+      "Total Votes Cast": 447,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Lynn Cooper (DEM)": 242,
+      "Mike Foley (REP)": 428,
+      "Total Votes Cast": 670,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Lynn Cooper (DEM)": 240,
+      "Mike Foley (REP)": 518,
+      "Total Votes Cast": 758,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Lynn Cooper (DEM)": 288,
+      "Mike Foley (REP)": 511,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Lynn Cooper (DEM)": 218,
+      "Mike Foley (REP)": 547,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Lynn Cooper (DEM)": 221,
+      "Mike Foley (REP)": 454,
+      "Total Votes Cast": 675,
+      "Overvotes": 1,
+      "Undervotes": 40,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Lynn Cooper (DEM)": 129,
+      "Mike Foley (REP)": 294,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Lynn Cooper (DEM)": 233,
+      "Mike Foley (REP)": 556,
+      "Total Votes Cast": 789,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Lynn Cooper (DEM)": 278,
+      "Mike Foley (REP)": 427,
+      "Total Votes Cast": 705,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Lynn Cooper (DEM)": 157,
+      "Mike Foley (REP)": 363,
+      "Total Votes Cast": 520,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Lynn Cooper (DEM)": 290,
+      "Mike Foley (REP)": 519,
+      "Total Votes Cast": 809,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Lynn Cooper (DEM)": 210,
+      "Mike Foley (REP)": 418,
+      "Total Votes Cast": 628,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Lynn Cooper (DEM)": 245,
+      "Mike Foley (REP)": 611,
+      "Total Votes Cast": 856,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Lynn Cooper (DEM)": 225,
+      "Mike Foley (REP)": 491,
+      "Total Votes Cast": 716,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Lynn Cooper (DEM)": 283,
+      "Mike Foley (REP)": 622,
+      "Total Votes Cast": 905,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Lynn Cooper (DEM)": 279,
+      "Mike Foley (REP)": 542,
+      "Total Votes Cast": 821,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Lynn Cooper (DEM)": 271,
+      "Mike Foley (REP)": 443,
+      "Total Votes Cast": 714,
+      "Overvotes": 1,
+      "Undervotes": 63,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Lynn Cooper (DEM)": 408,
+      "Mike Foley (REP)": 594,
+      "Total Votes Cast": 1002,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Lynn Cooper (DEM)": 354,
+      "Mike Foley (REP)": 487,
+      "Total Votes Cast": 841,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Lynn Cooper (DEM)": 256,
+      "Mike Foley (REP)": 359,
+      "Total Votes Cast": 615,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Lynn Cooper (DEM)": 368,
+      "Mike Foley (REP)": 502,
+      "Total Votes Cast": 870,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Lynn Cooper (DEM)": 237,
+      "Mike Foley (REP)": 316,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Lynn Cooper (DEM)": 399,
+      "Mike Foley (REP)": 525,
+      "Total Votes Cast": 924,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Lynn Cooper (DEM)": 299,
+      "Mike Foley (REP)": 440,
+      "Total Votes Cast": 739,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Lynn Cooper (DEM)": 317,
+      "Mike Foley (REP)": 308,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Lynn Cooper (DEM)": 365,
+      "Mike Foley (REP)": 437,
+      "Total Votes Cast": 802,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Lynn Cooper (DEM)": 293,
+      "Mike Foley (REP)": 483,
+      "Total Votes Cast": 776,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Lynn Cooper (DEM)": 322,
+      "Mike Foley (REP)": 325,
+      "Total Votes Cast": 647,
+      "Overvotes": 0,
+      "Undervotes": 81,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Lynn Cooper (DEM)": 336,
+      "Mike Foley (REP)": 529,
+      "Total Votes Cast": 865,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Lynn Cooper (DEM)": 406,
+      "Mike Foley (REP)": 391,
+      "Total Votes Cast": 797,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Lynn Cooper (DEM)": 362,
+      "Mike Foley (REP)": 452,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Lynn Cooper (DEM)": 360,
+      "Mike Foley (REP)": 551,
+      "Total Votes Cast": 911,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Lynn Cooper (DEM)": 406,
+      "Mike Foley (REP)": 481,
+      "Total Votes Cast": 887,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Lynn Cooper (DEM)": 262,
+      "Mike Foley (REP)": 391,
+      "Total Votes Cast": 653,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Lynn Cooper (DEM)": 277,
+      "Mike Foley (REP)": 396,
+      "Total Votes Cast": 673,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Lynn Cooper (DEM)": 353,
+      "Mike Foley (REP)": 336,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Lynn Cooper (DEM)": 331,
+      "Mike Foley (REP)": 486,
+      "Total Votes Cast": 817,
+      "Overvotes": 1,
+      "Undervotes": 61,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Lynn Cooper (DEM)": 316,
+      "Mike Foley (REP)": 467,
+      "Total Votes Cast": 783,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Lynn Cooper (DEM)": 277,
+      "Mike Foley (REP)": 284,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Lynn Cooper (DEM)": 270,
+      "Mike Foley (REP)": 390,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Lynn Cooper (DEM)": 452,
+      "Mike Foley (REP)": 567,
+      "Total Votes Cast": 1019,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Lynn Cooper (DEM)": 304,
+      "Mike Foley (REP)": 406,
+      "Total Votes Cast": 710,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Lynn Cooper (DEM)": 320,
+      "Mike Foley (REP)": 438,
+      "Total Votes Cast": 758,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Lynn Cooper (DEM)": 260,
+      "Mike Foley (REP)": 313,
+      "Total Votes Cast": 573,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Lynn Cooper (DEM)": 407,
+      "Mike Foley (REP)": 548,
+      "Total Votes Cast": 955,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Lynn Cooper (DEM)": 237,
+      "Mike Foley (REP)": 403,
+      "Total Votes Cast": 640,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Lynn Cooper (DEM)": 242,
+      "Mike Foley (REP)": 434,
+      "Total Votes Cast": 676,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Lynn Cooper (DEM)": 229,
+      "Mike Foley (REP)": 476,
+      "Total Votes Cast": 705,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Lynn Cooper (DEM)": 224,
+      "Mike Foley (REP)": 454,
+      "Total Votes Cast": 678,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Lynn Cooper (DEM)": 255,
+      "Mike Foley (REP)": 201,
+      "Total Votes Cast": 456,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Lynn Cooper (DEM)": 239,
+      "Mike Foley (REP)": 292,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Lynn Cooper (DEM)": 328,
+      "Mike Foley (REP)": 372,
+      "Total Votes Cast": 700,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Lynn Cooper (DEM)": 213,
+      "Mike Foley (REP)": 452,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Lynn Cooper (DEM)": 294,
+      "Mike Foley (REP)": 189,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 519
+    }
+  ]
+}

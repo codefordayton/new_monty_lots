@@ -1,0 +1,102 @@
+{
+  "race": "Jackson Township Trustees",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "FARM",
+      "Bob Cowden": 37,
+      "Randall DeVilbiss": 51,
+      "Jim Erisman": 135,
+      "Ryan L. Hodson": 139,
+      "Matt Thaxton": 64,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 456
+    },
+    {
+      "Precinct": "JAKTWP-A1",
+      "Bob Cowden": 27,
+      "Randall DeVilbiss": 48,
+      "Jim Erisman": 92,
+      "Ryan L. Hodson": 95,
+      "Matt Thaxton": 61,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 396
+    },
+    {
+      "Precinct": "JAKTWP-A2",
+      "Bob Cowden": 27,
+      "Randall DeVilbiss": 66,
+      "Jim Erisman": 88,
+      "Ryan L. Hodson": 112,
+      "Matt Thaxton": 27,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 358
+    },
+    {
+      "Precinct": "JAKTWP-B1",
+      "Bob Cowden": 31,
+      "Randall DeVilbiss": 102,
+      "Jim Erisman": 151,
+      "Ryan L. Hodson": 186,
+      "Matt Thaxton": 52,
+      "Total Votes Cast": 522,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 572
+    },
+    {
+      "Precinct": "JAKTWP-B2",
+      "Bob Cowden": 0,
+      "Randall DeVilbiss": 0,
+      "Jim Erisman": 0,
+      "Ryan L. Hodson": 0,
+      "Matt Thaxton": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "JNLB-A1",
+      "Bob Cowden": 10,
+      "Randall DeVilbiss": 43,
+      "Jim Erisman": 71,
+      "Ryan L. Hodson": 35,
+      "Matt Thaxton": 63,
+      "Total Votes Cast": 222,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 320
+    },
+    {
+      "Precinct": "JNLB-A2",
+      "Bob Cowden": 0,
+      "Randall DeVilbiss": 0,
+      "Jim Erisman": 0,
+      "Ryan L. Hodson": 1,
+      "Matt Thaxton": 0,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 2
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Bob Cowden": 28,
+      "Randall DeVilbiss": 61,
+      "Jim Erisman": 94,
+      "Ryan L. Hodson": 67,
+      "Matt Thaxton": 96,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 136,
+      "Contest Total": 482
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "race": "Clayton Mayor",
+  "precincts": 16,
+  "results": [
+    {
+      "Precinct": "CTN 1-A1",
+      "Ryan Farmer": 323,
+      "Dennis Lieberman": 44,
+      "Total Votes Cast": 367,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 370
+    },
+    {
+      "Precinct": "CTN 1-A2",
+      "Ryan Farmer": 2,
+      "Dennis Lieberman": 0,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 2
+    },
+    {
+      "Precinct": "CTN 1-B1",
+      "Ryan Farmer": 34,
+      "Dennis Lieberman": 35,
+      "Total Votes Cast": 69,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 69
+    },
+    {
+      "Precinct": "CTN 1-B2",
+      "Ryan Farmer": 0,
+      "Dennis Lieberman": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "CTN 1-B3",
+      "Ryan Farmer": 152,
+      "Dennis Lieberman": 155,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 311
+    },
+    {
+      "Precinct": "CTN 1-C1",
+      "Ryan Farmer": 277,
+      "Dennis Lieberman": 158,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 442
+    },
+    {
+      "Precinct": "CTN 1-C2",
+      "Ryan Farmer": 20,
+      "Dennis Lieberman": 1,
+      "Total Votes Cast": 21,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 21
+    },
+    {
+      "Precinct": "CTN 1-D1",
+      "Ryan Farmer": 105,
+      "Dennis Lieberman": 128,
+      "Total Votes Cast": 233,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 239
+    },
+    {
+      "Precinct": "CTN 1-D2",
+      "Ryan Farmer": 5,
+      "Dennis Lieberman": 19,
+      "Total Votes Cast": 24,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 24
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Ryan Farmer": 146,
+      "Dennis Lieberman": 85,
+      "Total Votes Cast": 231,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 241
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Ryan Farmer": 200,
+      "Dennis Lieberman": 141,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "CTN 2-C1",
+      "Ryan Farmer": 178,
+      "Dennis Lieberman": 167,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "CTN 2-C2",
+      "Ryan Farmer": 23,
+      "Dennis Lieberman": 16,
+      "Total Votes Cast": 39,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 39
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Ryan Farmer": 203,
+      "Dennis Lieberman": 190,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 400
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Ryan Farmer": 169,
+      "Dennis Lieberman": 180,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 356
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Ryan Farmer": 129,
+      "Dennis Lieberman": 133,
+      "Total Votes Cast": 262,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 272
+    }
+  ]
+}

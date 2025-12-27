@@ -1,0 +1,69 @@
+{
+  "race": "Trotwood Council Ward 2",
+  "precincts": 7,
+  "results": [
+    {
+      "Precinct": "TR 2-A",
+      "Martha H. Clark": 87,
+      "Tommy J. McGuffey Jr.": 118,
+      "Total Votes Cast": 205,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 206
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Martha H. Clark": 93,
+      "Tommy J. McGuffey Jr.": 89,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 188
+    },
+    {
+      "Precinct": "TR 2-C1",
+      "Martha H. Clark": 73,
+      "Tommy J. McGuffey Jr.": 62,
+      "Total Votes Cast": 135,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 139
+    },
+    {
+      "Precinct": "TR 2-C2",
+      "Martha H. Clark": 17,
+      "Tommy J. McGuffey Jr.": 21,
+      "Total Votes Cast": 38,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 40
+    },
+    {
+      "Precinct": "TR 2-D1",
+      "Martha H. Clark": 56,
+      "Tommy J. McGuffey Jr.": 28,
+      "Total Votes Cast": 84,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 90
+    },
+    {
+      "Precinct": "TR 2-D2",
+      "Martha H. Clark": 31,
+      "Tommy J. McGuffey Jr.": 20,
+      "Total Votes Cast": 51,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 53
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Martha H. Clark": 130,
+      "Tommy J. McGuffey Jr.": 87,
+      "Total Votes Cast": 217,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 222
+    }
+  ]
+}

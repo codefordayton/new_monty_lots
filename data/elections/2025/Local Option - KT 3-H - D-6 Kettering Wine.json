@@ -1,0 +1,15 @@
+{
+  "race": "Local Option - KT 3-H - D-6 Kettering Wine",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "KT 3-H",
+      "YES": 223,
+      "NO": 70,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 296
+    }
+  ]
+}

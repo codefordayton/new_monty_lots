@@ -1,0 +1,237 @@
+{
+  "race": "Mad River Local School Board",
+  "precincts": 21,
+  "results": [
+    {
+      "Precinct": "DAY 2-C2",
+      "Damien McCormick": 0,
+      "AJ Ricker": 0,
+      "Marilyn Steiner": 0,
+      "Terrance Tolbert": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 2-D2",
+      "Damien McCormick": 0,
+      "AJ Ricker": 0,
+      "Marilyn Steiner": 0,
+      "Terrance Tolbert": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 3-C2",
+      "Damien McCormick": 34,
+      "AJ Ricker": 37,
+      "Marilyn Steiner": 34,
+      "Terrance Tolbert": 34,
+      "Total Votes Cast": 139,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 222
+    },
+    {
+      "Precinct": "DAY 3-J3",
+      "Damien McCormick": 9,
+      "AJ Ricker": 9,
+      "Marilyn Steiner": 7,
+      "Terrance Tolbert": 8,
+      "Total Votes Cast": 33,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 39
+    },
+    {
+      "Precinct": "DAY 3-K1",
+      "Damien McCormick": 127,
+      "AJ Ricker": 113,
+      "Marilyn Steiner": 120,
+      "Terrance Tolbert": 142,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 356,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 11-C2",
+      "Damien McCormick": 4,
+      "AJ Ricker": 3,
+      "Marilyn Steiner": 6,
+      "Terrance Tolbert": 6,
+      "Total Votes Cast": 19,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 33
+    },
+    {
+      "Precinct": "HUB 5-B2",
+      "Damien McCormick": 0,
+      "AJ Ricker": 0,
+      "Marilyn Steiner": 0,
+      "Terrance Tolbert": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "PM",
+      "Damien McCormick": 29,
+      "AJ Ricker": 25,
+      "Marilyn Steiner": 33,
+      "Terrance Tolbert": 28,
+      "Total Votes Cast": 115,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "RV-A",
+      "Damien McCormick": 132,
+      "AJ Ricker": 136,
+      "Marilyn Steiner": 141,
+      "Terrance Tolbert": 123,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 224,
+      "Contest Total": 756
+    },
+    {
+      "Precinct": "RV-B1",
+      "Damien McCormick": 52,
+      "AJ Ricker": 59,
+      "Marilyn Steiner": 61,
+      "Terrance Tolbert": 50,
+      "Total Votes Cast": 222,
+      "Overvotes": 0,
+      "Undervotes": 171,
+      "Contest Total": 393
+    },
+    {
+      "Precinct": "RV-C",
+      "Damien McCormick": 90,
+      "AJ Ricker": 86,
+      "Marilyn Steiner": 95,
+      "Terrance Tolbert": 91,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 618
+    },
+    {
+      "Precinct": "RV-E1",
+      "Damien McCormick": 93,
+      "AJ Ricker": 71,
+      "Marilyn Steiner": 83,
+      "Terrance Tolbert": 55,
+      "Total Votes Cast": 302,
+      "Overvotes": 0,
+      "Undervotes": 202,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "RV-F",
+      "Damien McCormick": 97,
+      "AJ Ricker": 83,
+      "Marilyn Steiner": 104,
+      "Terrance Tolbert": 91,
+      "Total Votes Cast": 375,
+      "Overvotes": 0,
+      "Undervotes": 207,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "RV-G",
+      "Damien McCormick": 94,
+      "AJ Ricker": 81,
+      "Marilyn Steiner": 95,
+      "Terrance Tolbert": 74,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "RV-H",
+      "Damien McCormick": 48,
+      "AJ Ricker": 28,
+      "Marilyn Steiner": 34,
+      "Terrance Tolbert": 18,
+      "Total Votes Cast": 128,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 207
+    },
+    {
+      "Precinct": "RV-I",
+      "Damien McCormick": 80,
+      "AJ Ricker": 65,
+      "Marilyn Steiner": 83,
+      "Terrance Tolbert": 56,
+      "Total Votes Cast": 284,
+      "Overvotes": 0,
+      "Undervotes": 166,
+      "Contest Total": 450
+    },
+    {
+      "Precinct": "RV-J",
+      "Damien McCormick": 109,
+      "AJ Ricker": 83,
+      "Marilyn Steiner": 115,
+      "Terrance Tolbert": 83,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 162,
+      "Contest Total": 552
+    },
+    {
+      "Precinct": "RV-L2",
+      "Damien McCormick": 20,
+      "AJ Ricker": 23,
+      "Marilyn Steiner": 26,
+      "Terrance Tolbert": 24,
+      "Total Votes Cast": 93,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 114
+    },
+    {
+      "Precinct": "RV-M",
+      "Damien McCormick": 122,
+      "AJ Ricker": 105,
+      "Marilyn Steiner": 109,
+      "Terrance Tolbert": 114,
+      "Total Votes Cast": 450,
+      "Overvotes": 0,
+      "Undervotes": 192,
+      "Contest Total": 642
+    },
+    {
+      "Precinct": "RV-N",
+      "Damien McCormick": 61,
+      "AJ Ricker": 63,
+      "Marilyn Steiner": 56,
+      "Terrance Tolbert": 47,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 112,
+      "Contest Total": 339
+    },
+    {
+      "Precinct": "RV-P",
+      "Damien McCormick": 123,
+      "AJ Ricker": 116,
+      "Marilyn Steiner": 135,
+      "Terrance Tolbert": 108,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 235,
+      "Contest Total": 717
+    }
+  ]
+}

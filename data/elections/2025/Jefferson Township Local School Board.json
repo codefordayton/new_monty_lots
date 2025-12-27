@@ -1,0 +1,116 @@
+{
+  "race": "Jefferson Township Local School Board",
+  "precincts": 11,
+  "results": [
+    {
+      "Precinct": "DAY 14-A2",
+      "Patricia Williams Babetto": 51,
+      "Michelle Cooper": 62,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 113,
+      "Overvotes": 0,
+      "Undervotes": 148,
+      "Contest Total": 261
+    },
+    {
+      "Precinct": "DAY 14-A3",
+      "Patricia Williams Babetto": 4,
+      "Michelle Cooper": 3,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 7,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 24
+    },
+    {
+      "Precinct": "DAY 14-C2",
+      "Patricia Williams Babetto": 7,
+      "Michelle Cooper": 11,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 18,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 69
+    },
+    {
+      "Precinct": "DAY 14-C3",
+      "Patricia Williams Babetto": 0,
+      "Michelle Cooper": 0,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "JEFTWP-A1",
+      "Patricia Williams Babetto": 147,
+      "Michelle Cooper": 212,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 721,
+      "Contest Total": 1080
+    },
+    {
+      "Precinct": "JEFTWP-B2",
+      "Patricia Williams Babetto": 29,
+      "Michelle Cooper": 43,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 72,
+      "Overvotes": 0,
+      "Undervotes": 90,
+      "Contest Total": 162
+    },
+    {
+      "Precinct": "JEFTWP-B4",
+      "Patricia Williams Babetto": 23,
+      "Michelle Cooper": 27,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 50,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 135
+    },
+    {
+      "Precinct": "JEFTWP-C1",
+      "Patricia Williams Babetto": 118,
+      "Michelle Cooper": 180,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 298,
+      "Overvotes": 0,
+      "Undervotes": 749,
+      "Contest Total": 1047
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Patricia Williams Babetto": 137,
+      "Michelle Cooper": 214,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 351,
+      "Overvotes": 0,
+      "Undervotes": 486,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "MOR 2-A2",
+      "Patricia Williams Babetto": 16,
+      "Michelle Cooper": 37,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 53,
+      "Overvotes": 0,
+      "Undervotes": 151,
+      "Contest Total": 204
+    },
+    {
+      "Precinct": "WCR-A2",
+      "Patricia Williams Babetto": 1,
+      "Michelle Cooper": 2,
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 27
+    }
+  ]
+}

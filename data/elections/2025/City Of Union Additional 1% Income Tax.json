@@ -1,0 +1,69 @@
+{
+  "race": "City Of Union Additional 1% Income Tax",
+  "precincts": 7,
+  "results": [
+    {
+      "Precinct": "UN-A",
+      "FOR THE INCOME TAX": 52,
+      "AGAINST THE INCOME TAX": 112,
+      "Total Votes Cast": 164,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 165
+    },
+    {
+      "Precinct": "UN-B",
+      "FOR THE INCOME TAX": 89,
+      "AGAINST THE INCOME TAX": 194,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 288
+    },
+    {
+      "Precinct": "UN-C1",
+      "FOR THE INCOME TAX": 78,
+      "AGAINST THE INCOME TAX": 137,
+      "Total Votes Cast": 215,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 221
+    },
+    {
+      "Precinct": "UN-C2",
+      "FOR THE INCOME TAX": 21,
+      "AGAINST THE INCOME TAX": 68,
+      "Total Votes Cast": 89,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 91
+    },
+    {
+      "Precinct": "UN-C3",
+      "FOR THE INCOME TAX": 0,
+      "AGAINST THE INCOME TAX": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 1
+    },
+    {
+      "Precinct": "UN-D",
+      "FOR THE INCOME TAX": 126,
+      "AGAINST THE INCOME TAX": 233,
+      "Total Votes Cast": 359,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 361
+    },
+    {
+      "Precinct": "UN-E",
+      "FOR THE INCOME TAX": 77,
+      "AGAINST THE INCOME TAX": 190,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 268
+    }
+  ]
+}

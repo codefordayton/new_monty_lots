@@ -1,0 +1,50 @@
+{
+  "race": "Preble County Education Service Center",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "CLATWP-C2",
+      "Shelly Lykins": 18,
+      "Jessica Spitler": 21,
+      "John Chris Tilton": 18,
+      "Total Votes Cast": 57,
+      "Overvotes": 0,
+      "Undervotes": 108,
+      "Contest Total": 165,
+      "": 55
+    },
+    {
+      "Precinct": "CLATWP-C4",
+      "Shelly Lykins": 2,
+      "Jessica Spitler": 4,
+      "John Chris Tilton": 4,
+      "Total Votes Cast": 10,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 30,
+      "": 10
+    },
+    {
+      "Precinct": "GERTWP-A3",
+      "Shelly Lykins": 23,
+      "Jessica Spitler": 23,
+      "John Chris Tilton": 19,
+      "Total Votes Cast": 65,
+      "Overvotes": 0,
+      "Undervotes": 94,
+      "Contest Total": 159,
+      "": 53
+    },
+    {
+      "Precinct": "JAKTWP-B2",
+      "Shelly Lykins": 0,
+      "Jessica Spitler": 0,
+      "John Chris Tilton": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0,
+      "": null
+    }
+  ]
+}

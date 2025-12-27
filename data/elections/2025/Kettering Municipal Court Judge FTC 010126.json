@@ -1,0 +1,906 @@
+{
+  "race": "Kettering Municipal Court Judge FTC 010126",
+  "precincts": 100,
+  "results": [
+    {
+      "Precinct": "CV-A",
+      "Patricia N. Campbell": 65,
+      "Candidate Withdrawn": 9,
+      "Total Votes Cast": 74,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 86
+    },
+    {
+      "Precinct": "CV-B",
+      "Patricia N. Campbell": 140,
+      "Candidate Withdrawn": 50,
+      "Total Votes Cast": 190,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 249
+    },
+    {
+      "Precinct": "CV-C",
+      "Patricia N. Campbell": 97,
+      "Candidate Withdrawn": 23,
+      "Total Votes Cast": 120,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 143
+    },
+    {
+      "Precinct": "CV-D",
+      "Patricia N. Campbell": 76,
+      "Candidate Withdrawn": 22,
+      "Total Votes Cast": 98,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 119
+    },
+    {
+      "Precinct": "CV-E",
+      "Patricia N. Campbell": 145,
+      "Candidate Withdrawn": 53,
+      "Total Votes Cast": 198,
+      "Overvotes": 1,
+      "Undervotes": 53,
+      "Contest Total": 252
+    },
+    {
+      "Precinct": "CV-F",
+      "Patricia N. Campbell": 171,
+      "Candidate Withdrawn": 52,
+      "Total Votes Cast": 223,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 272
+    },
+    {
+      "Precinct": "CV-G",
+      "Patricia N. Campbell": 189,
+      "Candidate Withdrawn": 50,
+      "Total Votes Cast": 239,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 305
+    },
+    {
+      "Precinct": "CV-H",
+      "Patricia N. Campbell": 212,
+      "Candidate Withdrawn": 81,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 113,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "CV-I1",
+      "Patricia N. Campbell": 192,
+      "Candidate Withdrawn": 79,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 328
+    },
+    {
+      "Precinct": "CV-I2",
+      "Patricia N. Campbell": 0,
+      "Candidate Withdrawn": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "CV-J",
+      "Patricia N. Campbell": 137,
+      "Candidate Withdrawn": 48,
+      "Total Votes Cast": 185,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 248
+    },
+    {
+      "Precinct": "CV-K",
+      "Patricia N. Campbell": 183,
+      "Candidate Withdrawn": 40,
+      "Total Votes Cast": 223,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 288
+    },
+    {
+      "Precinct": "CV-L",
+      "Patricia N. Campbell": 184,
+      "Candidate Withdrawn": 76,
+      "Total Votes Cast": 260,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "CV-M",
+      "Patricia N. Campbell": 144,
+      "Candidate Withdrawn": 52,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 245
+    },
+    {
+      "Precinct": "CV-N",
+      "Patricia N. Campbell": 161,
+      "Candidate Withdrawn": 39,
+      "Total Votes Cast": 200,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 247
+    },
+    {
+      "Precinct": "CV-O",
+      "Patricia N. Campbell": 191,
+      "Candidate Withdrawn": 51,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 319
+    },
+    {
+      "Precinct": "CV-P",
+      "Patricia N. Campbell": 156,
+      "Candidate Withdrawn": 72,
+      "Total Votes Cast": 228,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 298
+    },
+    {
+      "Precinct": "CV-Q",
+      "Patricia N. Campbell": 141,
+      "Candidate Withdrawn": 40,
+      "Total Votes Cast": 181,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 243
+    },
+    {
+      "Precinct": "CV-R",
+      "Patricia N. Campbell": 106,
+      "Candidate Withdrawn": 36,
+      "Total Votes Cast": 142,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 180
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Patricia N. Campbell": 111,
+      "Candidate Withdrawn": 33,
+      "Total Votes Cast": 144,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 181
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Patricia N. Campbell": 94,
+      "Candidate Withdrawn": 49,
+      "Total Votes Cast": 143,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 167
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Patricia N. Campbell": 163,
+      "Candidate Withdrawn": 66,
+      "Total Votes Cast": 229,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 280
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Patricia N. Campbell": 163,
+      "Candidate Withdrawn": 52,
+      "Total Votes Cast": 215,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 261
+    },
+    {
+      "Precinct": "KT 1-E1",
+      "Patricia N. Campbell": 99,
+      "Candidate Withdrawn": 23,
+      "Total Votes Cast": 122,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 141
+    },
+    {
+      "Precinct": "KT 1-E2",
+      "Patricia N. Campbell": 53,
+      "Candidate Withdrawn": 19,
+      "Total Votes Cast": 72,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 80
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Patricia N. Campbell": 149,
+      "Candidate Withdrawn": 39,
+      "Total Votes Cast": 188,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 218
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Patricia N. Campbell": 119,
+      "Candidate Withdrawn": 38,
+      "Total Votes Cast": 157,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 192
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Patricia N. Campbell": 148,
+      "Candidate Withdrawn": 49,
+      "Total Votes Cast": 197,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 221
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Patricia N. Campbell": 181,
+      "Candidate Withdrawn": 38,
+      "Total Votes Cast": 219,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 254
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Patricia N. Campbell": 151,
+      "Candidate Withdrawn": 48,
+      "Total Votes Cast": 199,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 249
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Patricia N. Campbell": 223,
+      "Candidate Withdrawn": 55,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 325
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Patricia N. Campbell": 176,
+      "Candidate Withdrawn": 69,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 296
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Patricia N. Campbell": 187,
+      "Candidate Withdrawn": 44,
+      "Total Votes Cast": 231,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 269
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Patricia N. Campbell": 176,
+      "Candidate Withdrawn": 61,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 278
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Patricia N. Campbell": 134,
+      "Candidate Withdrawn": 41,
+      "Total Votes Cast": 175,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 216
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Patricia N. Campbell": 210,
+      "Candidate Withdrawn": 96,
+      "Total Votes Cast": 306,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 378
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Patricia N. Campbell": 233,
+      "Candidate Withdrawn": 70,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Patricia N. Campbell": 185,
+      "Candidate Withdrawn": 55,
+      "Total Votes Cast": 240,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Patricia N. Campbell": 97,
+      "Candidate Withdrawn": 22,
+      "Total Votes Cast": 119,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 126
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Patricia N. Campbell": 188,
+      "Candidate Withdrawn": 69,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 291
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Patricia N. Campbell": 229,
+      "Candidate Withdrawn": 50,
+      "Total Votes Cast": 279,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 340
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Patricia N. Campbell": 213,
+      "Candidate Withdrawn": 74,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 349
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Patricia N. Campbell": 112,
+      "Candidate Withdrawn": 23,
+      "Total Votes Cast": 135,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 162
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Patricia N. Campbell": 192,
+      "Candidate Withdrawn": 52,
+      "Total Votes Cast": 244,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 292
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Patricia N. Campbell": 130,
+      "Candidate Withdrawn": 52,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 224
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Patricia N. Campbell": 191,
+      "Candidate Withdrawn": 58,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 286
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Patricia N. Campbell": 208,
+      "Candidate Withdrawn": 46,
+      "Total Votes Cast": 254,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 296
+    },
+    {
+      "Precinct": "KT 3-I1",
+      "Patricia N. Campbell": 206,
+      "Candidate Withdrawn": 59,
+      "Total Votes Cast": 265,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "KT 3-I2",
+      "Patricia N. Campbell": 1,
+      "Candidate Withdrawn": 1,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 2
+    },
+    {
+      "Precinct": "KT 3-I3",
+      "Patricia N. Campbell": 0,
+      "Candidate Withdrawn": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Patricia N. Campbell": 245,
+      "Candidate Withdrawn": 55,
+      "Total Votes Cast": 300,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 353
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Patricia N. Campbell": 266,
+      "Candidate Withdrawn": 74,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Patricia N. Campbell": 300,
+      "Candidate Withdrawn": 64,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 438
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Patricia N. Campbell": 290,
+      "Candidate Withdrawn": 50,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Patricia N. Campbell": 133,
+      "Candidate Withdrawn": 54,
+      "Total Votes Cast": 187,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 224
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Patricia N. Campbell": 252,
+      "Candidate Withdrawn": 60,
+      "Total Votes Cast": 312,
+      "Overvotes": 1,
+      "Undervotes": 54,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Patricia N. Campbell": 180,
+      "Candidate Withdrawn": 46,
+      "Total Votes Cast": 226,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 273
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Patricia N. Campbell": 224,
+      "Candidate Withdrawn": 59,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 349
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Patricia N. Campbell": 327,
+      "Candidate Withdrawn": 76,
+      "Total Votes Cast": 403,
+      "Overvotes": 1,
+      "Undervotes": 88,
+      "Contest Total": 492
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Patricia N. Campbell": 95,
+      "Candidate Withdrawn": 46,
+      "Total Votes Cast": 141,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 176
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Patricia N. Campbell": 242,
+      "Candidate Withdrawn": 49,
+      "Total Votes Cast": 291,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 352
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Patricia N. Campbell": 233,
+      "Candidate Withdrawn": 36,
+      "Total Votes Cast": 269,
+      "Overvotes": 1,
+      "Undervotes": 45,
+      "Contest Total": 315
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Patricia N. Campbell": 205,
+      "Candidate Withdrawn": 49,
+      "Total Votes Cast": 254,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 301
+    },
+    {
+      "Precinct": "MOR 1-A1",
+      "Patricia N. Campbell": 15,
+      "Candidate Withdrawn": 11,
+      "Total Votes Cast": 26,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 34
+    },
+    {
+      "Precinct": "MOR 1-A2",
+      "Patricia N. Campbell": 17,
+      "Candidate Withdrawn": 6,
+      "Total Votes Cast": 23,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 29
+    },
+    {
+      "Precinct": "MOR 2-A1",
+      "Patricia N. Campbell": 99,
+      "Candidate Withdrawn": 34,
+      "Total Votes Cast": 133,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 163
+    },
+    {
+      "Precinct": "MOR 2-A2",
+      "Patricia N. Campbell": 33,
+      "Candidate Withdrawn": 16,
+      "Total Votes Cast": 49,
+      "Overvotes": 1,
+      "Undervotes": 18,
+      "Contest Total": 68
+    },
+    {
+      "Precinct": "MOR 3-A1",
+      "Patricia N. Campbell": 73,
+      "Candidate Withdrawn": 29,
+      "Total Votes Cast": 102,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 121
+    },
+    {
+      "Precinct": "MOR 3-A2",
+      "Patricia N. Campbell": 0,
+      "Candidate Withdrawn": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Patricia N. Campbell": 53,
+      "Candidate Withdrawn": 11,
+      "Total Votes Cast": 64,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 76
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Patricia N. Campbell": 23,
+      "Candidate Withdrawn": 11,
+      "Total Votes Cast": 34,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 46
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Patricia N. Campbell": 148,
+      "Candidate Withdrawn": 40,
+      "Total Votes Cast": 188,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 253
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Patricia N. Campbell": 136,
+      "Candidate Withdrawn": 80,
+      "Total Votes Cast": 216,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 289
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Patricia N. Campbell": 164,
+      "Candidate Withdrawn": 66,
+      "Total Votes Cast": 230,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 301
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Patricia N. Campbell": 120,
+      "Candidate Withdrawn": 53,
+      "Total Votes Cast": 173,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 219
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Patricia N. Campbell": 200,
+      "Candidate Withdrawn": 45,
+      "Total Votes Cast": 245,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 300
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Patricia N. Campbell": 106,
+      "Candidate Withdrawn": 61,
+      "Total Votes Cast": 167,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Patricia N. Campbell": 199,
+      "Candidate Withdrawn": 69,
+      "Total Votes Cast": 268,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 338
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Patricia N. Campbell": 139,
+      "Candidate Withdrawn": 60,
+      "Total Votes Cast": 199,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 270
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Patricia N. Campbell": 113,
+      "Candidate Withdrawn": 20,
+      "Total Votes Cast": 133,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 160
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Patricia N. Campbell": 115,
+      "Candidate Withdrawn": 66,
+      "Total Votes Cast": 181,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 229
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Patricia N. Campbell": 164,
+      "Candidate Withdrawn": 39,
+      "Total Votes Cast": 203,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 249
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Patricia N. Campbell": 106,
+      "Candidate Withdrawn": 34,
+      "Total Votes Cast": 140,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 161
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Patricia N. Campbell": 151,
+      "Candidate Withdrawn": 62,
+      "Total Votes Cast": 213,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 265
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Patricia N. Campbell": 116,
+      "Candidate Withdrawn": 32,
+      "Total Votes Cast": 148,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 168
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Patricia N. Campbell": 114,
+      "Candidate Withdrawn": 50,
+      "Total Votes Cast": 164,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 220
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Patricia N. Campbell": 120,
+      "Candidate Withdrawn": 39,
+      "Total Votes Cast": 159,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 221
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Patricia N. Campbell": 128,
+      "Candidate Withdrawn": 56,
+      "Total Votes Cast": 184,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 226
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Patricia N. Campbell": 99,
+      "Candidate Withdrawn": 42,
+      "Total Votes Cast": 141,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 200
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Patricia N. Campbell": 136,
+      "Candidate Withdrawn": 46,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 214
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Patricia N. Campbell": 100,
+      "Candidate Withdrawn": 39,
+      "Total Votes Cast": 139,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 173
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Patricia N. Campbell": 156,
+      "Candidate Withdrawn": 58,
+      "Total Votes Cast": 214,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 268
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Patricia N. Campbell": 128,
+      "Candidate Withdrawn": 55,
+      "Total Votes Cast": 183,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 249
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Patricia N. Campbell": 90,
+      "Candidate Withdrawn": 30,
+      "Total Votes Cast": 120,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 153
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Patricia N. Campbell": 102,
+      "Candidate Withdrawn": 56,
+      "Total Votes Cast": 158,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 211
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Patricia N. Campbell": 166,
+      "Candidate Withdrawn": 65,
+      "Total Votes Cast": 231,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 295
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Patricia N. Campbell": 127,
+      "Candidate Withdrawn": 56,
+      "Total Votes Cast": 183,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 255
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Patricia N. Campbell": 169,
+      "Candidate Withdrawn": 42,
+      "Total Votes Cast": 211,
+      "Overvotes": 1,
+      "Undervotes": 83,
+      "Contest Total": 295
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Patricia N. Campbell": 120,
+      "Candidate Withdrawn": 24,
+      "Total Votes Cast": 144,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 169
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Patricia N. Campbell": 193,
+      "Candidate Withdrawn": 56,
+      "Total Votes Cast": 249,
+      "Overvotes": 1,
+      "Undervotes": 62,
+      "Contest Total": 312
+    }
+  ]
+}

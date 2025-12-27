@@ -234,6 +234,106 @@ koop.server.get('/api/styles/config/:layerId', (req, res) => {
   });
 });
 
+// Election data API endpoints
+koop.server.use('/data/elections', require('express').static(path.join(__dirname, 'data/elections')));
+
+// List all available election years
+koop.server.get('/api/elections', (req, res) => {
+  const electionsDir = path.join(__dirname, 'data/elections');
+
+  fs.readdir(electionsDir, (err, files) => {
+    if (err) {
+      console.error('Error reading elections directory:', err);
+      return res.status(500).json({ error: 'Unable to read elections directory' });
+    }
+
+    const years = files
+      .filter(file => {
+        const filePath = path.join(electionsDir, file);
+        return fs.statSync(filePath).isDirectory();
+      })
+      .sort()
+      .reverse(); // Most recent first
+
+    res.json({
+      years: years,
+      count: years.length,
+    });
+  });
+});
+
+// Get metadata for a specific election year
+koop.server.get('/api/elections/:year', (req, res) => {
+  const year = req.params.year;
+  const metadataPath = path.join(__dirname, `data/elections/${year}/metadata.json`);
+
+  fs.readFile(metadataPath, 'utf8', (err, data) => {
+    if (err) {
+      if (err.code === 'ENOENT') {
+        return res.status(404).json({ error: `Election data for year ${year} not found` });
+      }
+      console.error(`Error reading metadata for ${year}:`, err);
+      return res.status(500).json({ error: 'Unable to read election metadata' });
+    }
+
+    try {
+      const metadata = JSON.parse(data);
+      res.json(metadata);
+    } catch (parseError) {
+      console.error(`Error parsing metadata for ${year}:`, parseError);
+      res.status(500).json({ error: 'Invalid metadata format' });
+    }
+  });
+});
+
+// Get statistics for a specific election year
+koop.server.get('/api/elections/:year/statistics', (req, res) => {
+  const year = req.params.year;
+  const statsPath = path.join(__dirname, `data/elections/${year}/statistics.json`);
+
+  fs.readFile(statsPath, 'utf8', (err, data) => {
+    if (err) {
+      if (err.code === 'ENOENT') {
+        return res.status(404).json({ error: `Statistics for year ${year} not found` });
+      }
+      console.error(`Error reading statistics for ${year}:`, err);
+      return res.status(500).json({ error: 'Unable to read election statistics' });
+    }
+
+    try {
+      const statistics = JSON.parse(data);
+      res.json(statistics);
+    } catch (parseError) {
+      console.error(`Error parsing statistics for ${year}:`, parseError);
+      res.status(500).json({ error: 'Invalid statistics format' });
+    }
+  });
+});
+
+// Get results for a specific race
+koop.server.get('/api/elections/:year/races/:raceId', (req, res) => {
+  const { year, raceId } = req.params;
+  const racePath = path.join(__dirname, `data/elections/${year}/${raceId}.json`);
+
+  fs.readFile(racePath, 'utf8', (err, data) => {
+    if (err) {
+      if (err.code === 'ENOENT') {
+        return res.status(404).json({ error: `Race ${raceId} not found for year ${year}` });
+      }
+      console.error(`Error reading race ${raceId} for ${year}:`, err);
+      return res.status(500).json({ error: 'Unable to read race data' });
+    }
+
+    try {
+      const raceData = JSON.parse(data);
+      res.json(raceData);
+    } catch (parseError) {
+      console.error(`Error parsing race ${raceId} for ${year}:`, parseError);
+      res.status(500).json({ error: 'Invalid race data format' });
+    }
+  });
+});
+
 // Initialize style configuration on startup
 loadMainStyleConfig();
 

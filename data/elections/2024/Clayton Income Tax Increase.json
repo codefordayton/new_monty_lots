@@ -1,0 +1,96 @@
+{
+  "race": "Clayton Income Tax Increase",
+  "precincts": 10,
+  "results": [
+    {
+      "Precinct": "CTN 1-A",
+      "For the Income Tax": 274,
+      "Against the Income Tax": 326,
+      "Total Votes Cast": 600,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "For the Income Tax": 342,
+      "Against the Income Tax": 329,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "For the Income Tax": 445,
+      "Against the Income Tax": 462,
+      "Total Votes Cast": 907,
+      "Overvotes": 1,
+      "Undervotes": 29,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "For the Income Tax": 327,
+      "Against the Income Tax": 248,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "For the Income Tax": 366,
+      "Against the Income Tax": 262,
+      "Total Votes Cast": 628,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "For the Income Tax": 506,
+      "Against the Income Tax": 334,
+      "Total Votes Cast": 840,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 857
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "For the Income Tax": 492,
+      "Against the Income Tax": 368,
+      "Total Votes Cast": 860,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 896
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "For the Income Tax": 453,
+      "Against the Income Tax": 386,
+      "Total Votes Cast": 839,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "For the Income Tax": 413,
+      "Against the Income Tax": 386,
+      "Total Votes Cast": 799,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "For the Income Tax": 369,
+      "Against the Income Tax": 340,
+      "Total Votes Cast": 709,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 737
+    }
+  ]
+}

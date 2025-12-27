@@ -1,0 +1,96 @@
+{
+  "race": "Northridge Local School Board",
+  "precincts": 10,
+  "results": [
+    {
+      "Precinct": "DAY 3-B1",
+      "Margie Glock": 43,
+      "Nicole Lowe": 35,
+      "Total Votes Cast": 78,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 148
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Margie Glock": 82,
+      "Nicole Lowe": 96,
+      "Total Votes Cast": 178,
+      "Overvotes": 0,
+      "Undervotes": 152,
+      "Contest Total": 330
+    },
+    {
+      "Precinct": "DAY 3-F2",
+      "Margie Glock": 1,
+      "Nicole Lowe": 2,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 4
+    },
+    {
+      "Precinct": "DAY 3-G2",
+      "Margie Glock": 30,
+      "Nicole Lowe": 34,
+      "Total Votes Cast": 64,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 110
+    },
+    {
+      "Precinct": "DAY 3-G4",
+      "Margie Glock": 0,
+      "Nicole Lowe": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Margie Glock": 53,
+      "Nicole Lowe": 70,
+      "Total Votes Cast": 123,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 196
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Margie Glock": 86,
+      "Nicole Lowe": 95,
+      "Total Votes Cast": 181,
+      "Overvotes": 0,
+      "Undervotes": 93,
+      "Contest Total": 274
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Margie Glock": 63,
+      "Nicole Lowe": 66,
+      "Total Votes Cast": 129,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 198
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Margie Glock": 42,
+      "Nicole Lowe": 36,
+      "Total Votes Cast": 78,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 130
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Margie Glock": 67,
+      "Nicole Lowe": 78,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 99,
+      "Contest Total": 244
+    }
+  ]
+}

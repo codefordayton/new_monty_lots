@@ -1,0 +1,17 @@
+{
+  "race": "Phillipsburg Council",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "PHBG",
+      "John Ritter": 53,
+      "Jill A. Ritter": 66,
+      "Jacob M. Groh": 49,
+      "Chrystal Beavers": 51,
+      "Total Votes Cast": 219,
+      "Overvotes": 0,
+      "Undervotes": 137,
+      "Contest Total": 356
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "race": "West Carrollton Charter Amendments",
+  "precincts": 11,
+  "results": [
+    {
+      "Precinct": "WCR-A1",
+      "YES": 60,
+      "NO": 50,
+      "Total Votes Cast": 110,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 122
+    },
+    {
+      "Precinct": "WCR-A2",
+      "YES": 1,
+      "NO": 6,
+      "Total Votes Cast": 7,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 9
+    },
+    {
+      "Precinct": "WCR-A3",
+      "YES": 0,
+      "NO": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "WCR-B",
+      "YES": 93,
+      "NO": 67,
+      "Total Votes Cast": 160,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "WCR-C",
+      "YES": 101,
+      "NO": 73,
+      "Total Votes Cast": 174,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 188
+    },
+    {
+      "Precinct": "WCR-D",
+      "YES": 116,
+      "NO": 84,
+      "Total Votes Cast": 200,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 211
+    },
+    {
+      "Precinct": "WCR-E",
+      "YES": 49,
+      "NO": 30,
+      "Total Votes Cast": 79,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 88
+    },
+    {
+      "Precinct": "WCR-F",
+      "YES": 47,
+      "NO": 33,
+      "Total Votes Cast": 80,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 93
+    },
+    {
+      "Precinct": "WCR-G",
+      "YES": 123,
+      "NO": 52,
+      "Total Votes Cast": 175,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 196
+    },
+    {
+      "Precinct": "WCR-H",
+      "YES": 72,
+      "NO": 62,
+      "Total Votes Cast": 134,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 145
+    },
+    {
+      "Precinct": "WCR-I",
+      "YES": 40,
+      "NO": 21,
+      "Total Votes Cast": 61,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 64
+    }
+  ]
+}

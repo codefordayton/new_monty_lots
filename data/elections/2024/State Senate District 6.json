@@ -1,0 +1,2373 @@
+{
+  "race": "State Senate District 6",
+  "precincts": 263,
+  "results": [
+    {
+      "Precinct": "CV-A",
+      "Willis E. Blackshear Jr. (DEM)": 327,
+      "Charlotte McGuire (REP)": 272,
+      "Total Votes Cast": 599,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Willis E. Blackshear Jr. (DEM)": 355,
+      "Charlotte McGuire (REP)": 472,
+      "Total Votes Cast": 827,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Willis E. Blackshear Jr. (DEM)": 204,
+      "Charlotte McGuire (REP)": 329,
+      "Total Votes Cast": 533,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Willis E. Blackshear Jr. (DEM)": 273,
+      "Charlotte McGuire (REP)": 319,
+      "Total Votes Cast": 592,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Willis E. Blackshear Jr. (DEM)": 302,
+      "Charlotte McGuire (REP)": 481,
+      "Total Votes Cast": 783,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Willis E. Blackshear Jr. (DEM)": 360,
+      "Charlotte McGuire (REP)": 514,
+      "Total Votes Cast": 874,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Willis E. Blackshear Jr. (DEM)": 411,
+      "Charlotte McGuire (REP)": 524,
+      "Total Votes Cast": 935,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Willis E. Blackshear Jr. (DEM)": 400,
+      "Charlotte McGuire (REP)": 549,
+      "Total Votes Cast": 949,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Willis E. Blackshear Jr. (DEM)": 363,
+      "Charlotte McGuire (REP)": 677,
+      "Total Votes Cast": 1040,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Willis E. Blackshear Jr. (DEM)": 316,
+      "Charlotte McGuire (REP)": 551,
+      "Total Votes Cast": 867,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Willis E. Blackshear Jr. (DEM)": 356,
+      "Charlotte McGuire (REP)": 518,
+      "Total Votes Cast": 874,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Willis E. Blackshear Jr. (DEM)": 393,
+      "Charlotte McGuire (REP)": 577,
+      "Total Votes Cast": 970,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Willis E. Blackshear Jr. (DEM)": 319,
+      "Charlotte McGuire (REP)": 499,
+      "Total Votes Cast": 818,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Willis E. Blackshear Jr. (DEM)": 309,
+      "Charlotte McGuire (REP)": 420,
+      "Total Votes Cast": 729,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Willis E. Blackshear Jr. (DEM)": 439,
+      "Charlotte McGuire (REP)": 587,
+      "Total Votes Cast": 1026,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Willis E. Blackshear Jr. (DEM)": 387,
+      "Charlotte McGuire (REP)": 515,
+      "Total Votes Cast": 902,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Willis E. Blackshear Jr. (DEM)": 365,
+      "Charlotte McGuire (REP)": 451,
+      "Total Votes Cast": 816,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Willis E. Blackshear Jr. (DEM)": 378,
+      "Charlotte McGuire (REP)": 446,
+      "Total Votes Cast": 824,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Willis E. Blackshear Jr. (DEM)": 123,
+      "Charlotte McGuire (REP)": 68,
+      "Total Votes Cast": 191,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Willis E. Blackshear Jr. (DEM)": 518,
+      "Charlotte McGuire (REP)": 185,
+      "Total Votes Cast": 703,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Willis E. Blackshear Jr. (DEM)": 384,
+      "Charlotte McGuire (REP)": 120,
+      "Total Votes Cast": 504,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Willis E. Blackshear Jr. (DEM)": 245,
+      "Charlotte McGuire (REP)": 79,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Willis E. Blackshear Jr. (DEM)": 466,
+      "Charlotte McGuire (REP)": 150,
+      "Total Votes Cast": 616,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Willis E. Blackshear Jr. (DEM)": 180,
+      "Charlotte McGuire (REP)": 227,
+      "Total Votes Cast": 407,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Willis E. Blackshear Jr. (DEM)": 326,
+      "Charlotte McGuire (REP)": 159,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Willis E. Blackshear Jr. (DEM)": 272,
+      "Charlotte McGuire (REP)": 226,
+      "Total Votes Cast": 498,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Willis E. Blackshear Jr. (DEM)": 170,
+      "Charlotte McGuire (REP)": 191,
+      "Total Votes Cast": 361,
+      "Overvotes": 1,
+      "Undervotes": 28,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Willis E. Blackshear Jr. (DEM)": 111,
+      "Charlotte McGuire (REP)": 138,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Willis E. Blackshear Jr. (DEM)": 163,
+      "Charlotte McGuire (REP)": 191,
+      "Total Votes Cast": 354,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Willis E. Blackshear Jr. (DEM)": 394,
+      "Charlotte McGuire (REP)": 455,
+      "Total Votes Cast": 849,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Willis E. Blackshear Jr. (DEM)": 244,
+      "Charlotte McGuire (REP)": 220,
+      "Total Votes Cast": 464,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Willis E. Blackshear Jr. (DEM)": 120,
+      "Charlotte McGuire (REP)": 133,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Willis E. Blackshear Jr. (DEM)": 366,
+      "Charlotte McGuire (REP)": 322,
+      "Total Votes Cast": 688,
+      "Overvotes": 1,
+      "Undervotes": 40,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Willis E. Blackshear Jr. (DEM)": 152,
+      "Charlotte McGuire (REP)": 297,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Willis E. Blackshear Jr. (DEM)": 183,
+      "Charlotte McGuire (REP)": 278,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Willis E. Blackshear Jr. (DEM)": 432,
+      "Charlotte McGuire (REP)": 356,
+      "Total Votes Cast": 788,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Willis E. Blackshear Jr. (DEM)": 332,
+      "Charlotte McGuire (REP)": 339,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Willis E. Blackshear Jr. (DEM)": 442,
+      "Charlotte McGuire (REP)": 410,
+      "Total Votes Cast": 852,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Willis E. Blackshear Jr. (DEM)": 332,
+      "Charlotte McGuire (REP)": 450,
+      "Total Votes Cast": 782,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Willis E. Blackshear Jr. (DEM)": 377,
+      "Charlotte McGuire (REP)": 120,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Willis E. Blackshear Jr. (DEM)": 291,
+      "Charlotte McGuire (REP)": 91,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Willis E. Blackshear Jr. (DEM)": 296,
+      "Charlotte McGuire (REP)": 107,
+      "Total Votes Cast": 403,
+      "Overvotes": 1,
+      "Undervotes": 25,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Willis E. Blackshear Jr. (DEM)": 305,
+      "Charlotte McGuire (REP)": 38,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Willis E. Blackshear Jr. (DEM)": 302,
+      "Charlotte McGuire (REP)": 64,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Willis E. Blackshear Jr. (DEM)": 249,
+      "Charlotte McGuire (REP)": 50,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Willis E. Blackshear Jr. (DEM)": 369,
+      "Charlotte McGuire (REP)": 59,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Willis E. Blackshear Jr. (DEM)": 383,
+      "Charlotte McGuire (REP)": 36,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Willis E. Blackshear Jr. (DEM)": 373,
+      "Charlotte McGuire (REP)": 41,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Willis E. Blackshear Jr. (DEM)": 348,
+      "Charlotte McGuire (REP)": 31,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Willis E. Blackshear Jr. (DEM)": 328,
+      "Charlotte McGuire (REP)": 33,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Willis E. Blackshear Jr. (DEM)": 260,
+      "Charlotte McGuire (REP)": 31,
+      "Total Votes Cast": 291,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Willis E. Blackshear Jr. (DEM)": 349,
+      "Charlotte McGuire (REP)": 305,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Willis E. Blackshear Jr. (DEM)": 409,
+      "Charlotte McGuire (REP)": 242,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Willis E. Blackshear Jr. (DEM)": 396,
+      "Charlotte McGuire (REP)": 256,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Willis E. Blackshear Jr. (DEM)": 367,
+      "Charlotte McGuire (REP)": 267,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Willis E. Blackshear Jr. (DEM)": 456,
+      "Charlotte McGuire (REP)": 362,
+      "Total Votes Cast": 818,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Willis E. Blackshear Jr. (DEM)": 419,
+      "Charlotte McGuire (REP)": 334,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Willis E. Blackshear Jr. (DEM)": 450,
+      "Charlotte McGuire (REP)": 369,
+      "Total Votes Cast": 819,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Willis E. Blackshear Jr. (DEM)": 320,
+      "Charlotte McGuire (REP)": 311,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Willis E. Blackshear Jr. (DEM)": 290,
+      "Charlotte McGuire (REP)": 267,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Willis E. Blackshear Jr. (DEM)": 208,
+      "Charlotte McGuire (REP)": 259,
+      "Total Votes Cast": 467,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Willis E. Blackshear Jr. (DEM)": 246,
+      "Charlotte McGuire (REP)": 206,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Willis E. Blackshear Jr. (DEM)": 261,
+      "Charlotte McGuire (REP)": 314,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Willis E. Blackshear Jr. (DEM)": 246,
+      "Charlotte McGuire (REP)": 255,
+      "Total Votes Cast": 501,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Willis E. Blackshear Jr. (DEM)": 197,
+      "Charlotte McGuire (REP)": 169,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Willis E. Blackshear Jr. (DEM)": 179,
+      "Charlotte McGuire (REP)": 218,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Willis E. Blackshear Jr. (DEM)": 228,
+      "Charlotte McGuire (REP)": 182,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Willis E. Blackshear Jr. (DEM)": 233,
+      "Charlotte McGuire (REP)": 322,
+      "Total Votes Cast": 555,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Willis E. Blackshear Jr. (DEM)": 194,
+      "Charlotte McGuire (REP)": 250,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Willis E. Blackshear Jr. (DEM)": 344,
+      "Charlotte McGuire (REP)": 303,
+      "Total Votes Cast": 647,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Willis E. Blackshear Jr. (DEM)": 320,
+      "Charlotte McGuire (REP)": 115,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Willis E. Blackshear Jr. (DEM)": 253,
+      "Charlotte McGuire (REP)": 254,
+      "Total Votes Cast": 507,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Willis E. Blackshear Jr. (DEM)": 206,
+      "Charlotte McGuire (REP)": 165,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Willis E. Blackshear Jr. (DEM)": 367,
+      "Charlotte McGuire (REP)": 39,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Willis E. Blackshear Jr. (DEM)": 225,
+      "Charlotte McGuire (REP)": 25,
+      "Total Votes Cast": 250,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Willis E. Blackshear Jr. (DEM)": 411,
+      "Charlotte McGuire (REP)": 79,
+      "Total Votes Cast": 490,
+      "Overvotes": 1,
+      "Undervotes": 23,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Willis E. Blackshear Jr. (DEM)": 167,
+      "Charlotte McGuire (REP)": 27,
+      "Total Votes Cast": 194,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Willis E. Blackshear Jr. (DEM)": 249,
+      "Charlotte McGuire (REP)": 39,
+      "Total Votes Cast": 288,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Willis E. Blackshear Jr. (DEM)": 483,
+      "Charlotte McGuire (REP)": 59,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Willis E. Blackshear Jr. (DEM)": 393,
+      "Charlotte McGuire (REP)": 54,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Willis E. Blackshear Jr. (DEM)": 462,
+      "Charlotte McGuire (REP)": 51,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Willis E. Blackshear Jr. (DEM)": 330,
+      "Charlotte McGuire (REP)": 30,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Willis E. Blackshear Jr. (DEM)": 362,
+      "Charlotte McGuire (REP)": 53,
+      "Total Votes Cast": 415,
+      "Overvotes": 1,
+      "Undervotes": 32,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Willis E. Blackshear Jr. (DEM)": 384,
+      "Charlotte McGuire (REP)": 50,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Willis E. Blackshear Jr. (DEM)": 298,
+      "Charlotte McGuire (REP)": 33,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Willis E. Blackshear Jr. (DEM)": 336,
+      "Charlotte McGuire (REP)": 50,
+      "Total Votes Cast": 386,
+      "Overvotes": 1,
+      "Undervotes": 12,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Willis E. Blackshear Jr. (DEM)": 641,
+      "Charlotte McGuire (REP)": 92,
+      "Total Votes Cast": 733,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Willis E. Blackshear Jr. (DEM)": 390,
+      "Charlotte McGuire (REP)": 47,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Willis E. Blackshear Jr. (DEM)": 266,
+      "Charlotte McGuire (REP)": 72,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Willis E. Blackshear Jr. (DEM)": 333,
+      "Charlotte McGuire (REP)": 101,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Willis E. Blackshear Jr. (DEM)": 404,
+      "Charlotte McGuire (REP)": 67,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Willis E. Blackshear Jr. (DEM)": 245,
+      "Charlotte McGuire (REP)": 54,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Willis E. Blackshear Jr. (DEM)": 275,
+      "Charlotte McGuire (REP)": 47,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Willis E. Blackshear Jr. (DEM)": 446,
+      "Charlotte McGuire (REP)": 98,
+      "Total Votes Cast": 544,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Willis E. Blackshear Jr. (DEM)": 309,
+      "Charlotte McGuire (REP)": 85,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Willis E. Blackshear Jr. (DEM)": 291,
+      "Charlotte McGuire (REP)": 94,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Willis E. Blackshear Jr. (DEM)": 179,
+      "Charlotte McGuire (REP)": 13,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Willis E. Blackshear Jr. (DEM)": 425,
+      "Charlotte McGuire (REP)": 45,
+      "Total Votes Cast": 470,
+      "Overvotes": 1,
+      "Undervotes": 22,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Willis E. Blackshear Jr. (DEM)": 343,
+      "Charlotte McGuire (REP)": 36,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Willis E. Blackshear Jr. (DEM)": 325,
+      "Charlotte McGuire (REP)": 440,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Willis E. Blackshear Jr. (DEM)": 368,
+      "Charlotte McGuire (REP)": 445,
+      "Total Votes Cast": 813,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Willis E. Blackshear Jr. (DEM)": 217,
+      "Charlotte McGuire (REP)": 328,
+      "Total Votes Cast": 545,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Willis E. Blackshear Jr. (DEM)": 220,
+      "Charlotte McGuire (REP)": 358,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Willis E. Blackshear Jr. (DEM)": 311,
+      "Charlotte McGuire (REP)": 46,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Willis E. Blackshear Jr. (DEM)": 312,
+      "Charlotte McGuire (REP)": 40,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Willis E. Blackshear Jr. (DEM)": 490,
+      "Charlotte McGuire (REP)": 63,
+      "Total Votes Cast": 553,
+      "Overvotes": 1,
+      "Undervotes": 19,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Willis E. Blackshear Jr. (DEM)": 590,
+      "Charlotte McGuire (REP)": 107,
+      "Total Votes Cast": 697,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Willis E. Blackshear Jr. (DEM)": 460,
+      "Charlotte McGuire (REP)": 75,
+      "Total Votes Cast": 535,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Willis E. Blackshear Jr. (DEM)": 732,
+      "Charlotte McGuire (REP)": 53,
+      "Total Votes Cast": 785,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Willis E. Blackshear Jr. (DEM)": 400,
+      "Charlotte McGuire (REP)": 127,
+      "Total Votes Cast": 527,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Willis E. Blackshear Jr. (DEM)": 444,
+      "Charlotte McGuire (REP)": 454,
+      "Total Votes Cast": 898,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Willis E. Blackshear Jr. (DEM)": 327,
+      "Charlotte McGuire (REP)": 196,
+      "Total Votes Cast": 523,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Willis E. Blackshear Jr. (DEM)": 237,
+      "Charlotte McGuire (REP)": 424,
+      "Total Votes Cast": 661,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Willis E. Blackshear Jr. (DEM)": 595,
+      "Charlotte McGuire (REP)": 69,
+      "Total Votes Cast": 664,
+      "Overvotes": 1,
+      "Undervotes": 18,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Willis E. Blackshear Jr. (DEM)": 341,
+      "Charlotte McGuire (REP)": 274,
+      "Total Votes Cast": 615,
+      "Overvotes": 1,
+      "Undervotes": 41,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Willis E. Blackshear Jr. (DEM)": 210,
+      "Charlotte McGuire (REP)": 396,
+      "Total Votes Cast": 606,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Willis E. Blackshear Jr. (DEM)": 321,
+      "Charlotte McGuire (REP)": 489,
+      "Total Votes Cast": 810,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Willis E. Blackshear Jr. (DEM)": 367,
+      "Charlotte McGuire (REP)": 421,
+      "Total Votes Cast": 788,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Willis E. Blackshear Jr. (DEM)": 263,
+      "Charlotte McGuire (REP)": 374,
+      "Total Votes Cast": 637,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Willis E. Blackshear Jr. (DEM)": 266,
+      "Charlotte McGuire (REP)": 364,
+      "Total Votes Cast": 630,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Willis E. Blackshear Jr. (DEM)": 283,
+      "Charlotte McGuire (REP)": 380,
+      "Total Votes Cast": 663,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Willis E. Blackshear Jr. (DEM)": 373,
+      "Charlotte McGuire (REP)": 486,
+      "Total Votes Cast": 859,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Willis E. Blackshear Jr. (DEM)": 330,
+      "Charlotte McGuire (REP)": 399,
+      "Total Votes Cast": 729,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Willis E. Blackshear Jr. (DEM)": 323,
+      "Charlotte McGuire (REP)": 391,
+      "Total Votes Cast": 714,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Willis E. Blackshear Jr. (DEM)": 302,
+      "Charlotte McGuire (REP)": 393,
+      "Total Votes Cast": 695,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Willis E. Blackshear Jr. (DEM)": 331,
+      "Charlotte McGuire (REP)": 413,
+      "Total Votes Cast": 744,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Willis E. Blackshear Jr. (DEM)": 387,
+      "Charlotte McGuire (REP)": 432,
+      "Total Votes Cast": 819,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Willis E. Blackshear Jr. (DEM)": 295,
+      "Charlotte McGuire (REP)": 461,
+      "Total Votes Cast": 756,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Willis E. Blackshear Jr. (DEM)": 260,
+      "Charlotte McGuire (REP)": 362,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Willis E. Blackshear Jr. (DEM)": 352,
+      "Charlotte McGuire (REP)": 613,
+      "Total Votes Cast": 965,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Willis E. Blackshear Jr. (DEM)": 349,
+      "Charlotte McGuire (REP)": 465,
+      "Total Votes Cast": 814,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Willis E. Blackshear Jr. (DEM)": 258,
+      "Charlotte McGuire (REP)": 367,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Willis E. Blackshear Jr. (DEM)": 269,
+      "Charlotte McGuire (REP)": 251,
+      "Total Votes Cast": 520,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Willis E. Blackshear Jr. (DEM)": 367,
+      "Charlotte McGuire (REP)": 412,
+      "Total Votes Cast": 779,
+      "Overvotes": 1,
+      "Undervotes": 48,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Willis E. Blackshear Jr. (DEM)": 430,
+      "Charlotte McGuire (REP)": 353,
+      "Total Votes Cast": 783,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Willis E. Blackshear Jr. (DEM)": 280,
+      "Charlotte McGuire (REP)": 470,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Willis E. Blackshear Jr. (DEM)": 401,
+      "Charlotte McGuire (REP)": 257,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Willis E. Blackshear Jr. (DEM)": 361,
+      "Charlotte McGuire (REP)": 442,
+      "Total Votes Cast": 803,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Willis E. Blackshear Jr. (DEM)": 308,
+      "Charlotte McGuire (REP)": 327,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Willis E. Blackshear Jr. (DEM)": 269,
+      "Charlotte McGuire (REP)": 381,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Willis E. Blackshear Jr. (DEM)": 351,
+      "Charlotte McGuire (REP)": 407,
+      "Total Votes Cast": 758,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Willis E. Blackshear Jr. (DEM)": 266,
+      "Charlotte McGuire (REP)": 388,
+      "Total Votes Cast": 654,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Willis E. Blackshear Jr. (DEM)": 298,
+      "Charlotte McGuire (REP)": 344,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Willis E. Blackshear Jr. (DEM)": 406,
+      "Charlotte McGuire (REP)": 485,
+      "Total Votes Cast": 891,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Willis E. Blackshear Jr. (DEM)": 482,
+      "Charlotte McGuire (REP)": 397,
+      "Total Votes Cast": 879,
+      "Overvotes": 1,
+      "Undervotes": 42,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Willis E. Blackshear Jr. (DEM)": 539,
+      "Charlotte McGuire (REP)": 342,
+      "Total Votes Cast": 881,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Willis E. Blackshear Jr. (DEM)": 230,
+      "Charlotte McGuire (REP)": 296,
+      "Total Votes Cast": 526,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Willis E. Blackshear Jr. (DEM)": 396,
+      "Charlotte McGuire (REP)": 377,
+      "Total Votes Cast": 773,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Willis E. Blackshear Jr. (DEM)": 332,
+      "Charlotte McGuire (REP)": 356,
+      "Total Votes Cast": 688,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Willis E. Blackshear Jr. (DEM)": 383,
+      "Charlotte McGuire (REP)": 350,
+      "Total Votes Cast": 733,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Willis E. Blackshear Jr. (DEM)": 418,
+      "Charlotte McGuire (REP)": 522,
+      "Total Votes Cast": 940,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Willis E. Blackshear Jr. (DEM)": 286,
+      "Charlotte McGuire (REP)": 354,
+      "Total Votes Cast": 640,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Willis E. Blackshear Jr. (DEM)": 440,
+      "Charlotte McGuire (REP)": 361,
+      "Total Votes Cast": 801,
+      "Overvotes": 1,
+      "Undervotes": 46,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Willis E. Blackshear Jr. (DEM)": 413,
+      "Charlotte McGuire (REP)": 304,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Willis E. Blackshear Jr. (DEM)": 364,
+      "Charlotte McGuire (REP)": 382,
+      "Total Votes Cast": 746,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Willis E. Blackshear Jr. (DEM)": 302,
+      "Charlotte McGuire (REP)": 446,
+      "Total Votes Cast": 748,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Willis E. Blackshear Jr. (DEM)": 297,
+      "Charlotte McGuire (REP)": 362,
+      "Total Votes Cast": 659,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Willis E. Blackshear Jr. (DEM)": 166,
+      "Charlotte McGuire (REP)": 621,
+      "Total Votes Cast": 787,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Willis E. Blackshear Jr. (DEM)": 303,
+      "Charlotte McGuire (REP)": 321,
+      "Total Votes Cast": 624,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 659
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Willis E. Blackshear Jr. (DEM)": 325,
+      "Charlotte McGuire (REP)": 602,
+      "Total Votes Cast": 927,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Willis E. Blackshear Jr. (DEM)": 338,
+      "Charlotte McGuire (REP)": 370,
+      "Total Votes Cast": 708,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Willis E. Blackshear Jr. (DEM)": 233,
+      "Charlotte McGuire (REP)": 408,
+      "Total Votes Cast": 641,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Willis E. Blackshear Jr. (DEM)": 277,
+      "Charlotte McGuire (REP)": 379,
+      "Total Votes Cast": 656,
+      "Overvotes": 1,
+      "Undervotes": 46,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Willis E. Blackshear Jr. (DEM)": 202,
+      "Charlotte McGuire (REP)": 203,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Willis E. Blackshear Jr. (DEM)": 138,
+      "Charlotte McGuire (REP)": 520,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Willis E. Blackshear Jr. (DEM)": 327,
+      "Charlotte McGuire (REP)": 556,
+      "Total Votes Cast": 883,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Willis E. Blackshear Jr. (DEM)": 244,
+      "Charlotte McGuire (REP)": 332,
+      "Total Votes Cast": 576,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Willis E. Blackshear Jr. (DEM)": 270,
+      "Charlotte McGuire (REP)": 401,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Willis E. Blackshear Jr. (DEM)": 294,
+      "Charlotte McGuire (REP)": 471,
+      "Total Votes Cast": 765,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Willis E. Blackshear Jr. (DEM)": 264,
+      "Charlotte McGuire (REP)": 446,
+      "Total Votes Cast": 710,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Willis E. Blackshear Jr. (DEM)": 267,
+      "Charlotte McGuire (REP)": 236,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Willis E. Blackshear Jr. (DEM)": 354,
+      "Charlotte McGuire (REP)": 398,
+      "Total Votes Cast": 752,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Willis E. Blackshear Jr. (DEM)": 181,
+      "Charlotte McGuire (REP)": 218,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Willis E. Blackshear Jr. (DEM)": 217,
+      "Charlotte McGuire (REP)": 492,
+      "Total Votes Cast": 709,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Willis E. Blackshear Jr. (DEM)": 218,
+      "Charlotte McGuire (REP)": 360,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Willis E. Blackshear Jr. (DEM)": 263,
+      "Charlotte McGuire (REP)": 308,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Willis E. Blackshear Jr. (DEM)": 234,
+      "Charlotte McGuire (REP)": 446,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Willis E. Blackshear Jr. (DEM)": 131,
+      "Charlotte McGuire (REP)": 303,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Willis E. Blackshear Jr. (DEM)": 285,
+      "Charlotte McGuire (REP)": 503,
+      "Total Votes Cast": 788,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Willis E. Blackshear Jr. (DEM)": 150,
+      "Charlotte McGuire (REP)": 344,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Willis E. Blackshear Jr. (DEM)": 194,
+      "Charlotte McGuire (REP)": 237,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Willis E. Blackshear Jr. (DEM)": 220,
+      "Charlotte McGuire (REP)": 141,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Willis E. Blackshear Jr. (DEM)": 470,
+      "Charlotte McGuire (REP)": 328,
+      "Total Votes Cast": 798,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Willis E. Blackshear Jr. (DEM)": 442,
+      "Charlotte McGuire (REP)": 350,
+      "Total Votes Cast": 792,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Willis E. Blackshear Jr. (DEM)": 408,
+      "Charlotte McGuire (REP)": 234,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Willis E. Blackshear Jr. (DEM)": 408,
+      "Charlotte McGuire (REP)": 243,
+      "Total Votes Cast": 651,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Willis E. Blackshear Jr. (DEM)": 467,
+      "Charlotte McGuire (REP)": 214,
+      "Total Votes Cast": 681,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Willis E. Blackshear Jr. (DEM)": 552,
+      "Charlotte McGuire (REP)": 287,
+      "Total Votes Cast": 839,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Willis E. Blackshear Jr. (DEM)": 409,
+      "Charlotte McGuire (REP)": 307,
+      "Total Votes Cast": 716,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Willis E. Blackshear Jr. (DEM)": 306,
+      "Charlotte McGuire (REP)": 268,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PM",
+      "Willis E. Blackshear Jr. (DEM)": 230,
+      "Charlotte McGuire (REP)": 274,
+      "Total Votes Cast": 504,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "RV-A",
+      "Willis E. Blackshear Jr. (DEM)": 238,
+      "Charlotte McGuire (REP)": 414,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Willis E. Blackshear Jr. (DEM)": 173,
+      "Charlotte McGuire (REP)": 351,
+      "Total Votes Cast": 524,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Willis E. Blackshear Jr. (DEM)": 300,
+      "Charlotte McGuire (REP)": 356,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Willis E. Blackshear Jr. (DEM)": 201,
+      "Charlotte McGuire (REP)": 483,
+      "Total Votes Cast": 684,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Willis E. Blackshear Jr. (DEM)": 158,
+      "Charlotte McGuire (REP)": 424,
+      "Total Votes Cast": 582,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Willis E. Blackshear Jr. (DEM)": 248,
+      "Charlotte McGuire (REP)": 319,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Willis E. Blackshear Jr. (DEM)": 175,
+      "Charlotte McGuire (REP)": 333,
+      "Total Votes Cast": 508,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Willis E. Blackshear Jr. (DEM)": 115,
+      "Charlotte McGuire (REP)": 217,
+      "Total Votes Cast": 332,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Willis E. Blackshear Jr. (DEM)": 160,
+      "Charlotte McGuire (REP)": 322,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Willis E. Blackshear Jr. (DEM)": 162,
+      "Charlotte McGuire (REP)": 317,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Willis E. Blackshear Jr. (DEM)": 285,
+      "Charlotte McGuire (REP)": 367,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Willis E. Blackshear Jr. (DEM)": 110,
+      "Charlotte McGuire (REP)": 285,
+      "Total Votes Cast": 395,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Willis E. Blackshear Jr. (DEM)": 258,
+      "Charlotte McGuire (REP)": 413,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Willis E. Blackshear Jr. (DEM)": 194,
+      "Charlotte McGuire (REP)": 296,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Willis E. Blackshear Jr. (DEM)": 249,
+      "Charlotte McGuire (REP)": 427,
+      "Total Votes Cast": 676,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Willis E. Blackshear Jr. (DEM)": 284,
+      "Charlotte McGuire (REP)": 429,
+      "Total Votes Cast": 713,
+      "Overvotes": 1,
+      "Undervotes": 43,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Willis E. Blackshear Jr. (DEM)": 482,
+      "Charlotte McGuire (REP)": 220,
+      "Total Votes Cast": 702,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Willis E. Blackshear Jr. (DEM)": 262,
+      "Charlotte McGuire (REP)": 125,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Willis E. Blackshear Jr. (DEM)": 454,
+      "Charlotte McGuire (REP)": 51,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Willis E. Blackshear Jr. (DEM)": 364,
+      "Charlotte McGuire (REP)": 56,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Willis E. Blackshear Jr. (DEM)": 618,
+      "Charlotte McGuire (REP)": 81,
+      "Total Votes Cast": 699,
+      "Overvotes": 1,
+      "Undervotes": 31,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Willis E. Blackshear Jr. (DEM)": 499,
+      "Charlotte McGuire (REP)": 92,
+      "Total Votes Cast": 591,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Willis E. Blackshear Jr. (DEM)": 576,
+      "Charlotte McGuire (REP)": 105,
+      "Total Votes Cast": 681,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Willis E. Blackshear Jr. (DEM)": 422,
+      "Charlotte McGuire (REP)": 66,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Willis E. Blackshear Jr. (DEM)": 281,
+      "Charlotte McGuire (REP)": 125,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Willis E. Blackshear Jr. (DEM)": 432,
+      "Charlotte McGuire (REP)": 58,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 16,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Willis E. Blackshear Jr. (DEM)": 292,
+      "Charlotte McGuire (REP)": 152,
+      "Total Votes Cast": 444,
+      "Overvotes": 1,
+      "Undervotes": 27,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Willis E. Blackshear Jr. (DEM)": 240,
+      "Charlotte McGuire (REP)": 337,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Willis E. Blackshear Jr. (DEM)": 260,
+      "Charlotte McGuire (REP)": 177,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Willis E. Blackshear Jr. (DEM)": 517,
+      "Charlotte McGuire (REP)": 128,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Willis E. Blackshear Jr. (DEM)": 569,
+      "Charlotte McGuire (REP)": 83,
+      "Total Votes Cast": 652,
+      "Overvotes": 1,
+      "Undervotes": 17,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Willis E. Blackshear Jr. (DEM)": 454,
+      "Charlotte McGuire (REP)": 76,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Willis E. Blackshear Jr. (DEM)": 343,
+      "Charlotte McGuire (REP)": 85,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Willis E. Blackshear Jr. (DEM)": 375,
+      "Charlotte McGuire (REP)": 72,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Willis E. Blackshear Jr. (DEM)": 252,
+      "Charlotte McGuire (REP)": 477,
+      "Total Votes Cast": 729,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Willis E. Blackshear Jr. (DEM)": 404,
+      "Charlotte McGuire (REP)": 630,
+      "Total Votes Cast": 1034,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Willis E. Blackshear Jr. (DEM)": 346,
+      "Charlotte McGuire (REP)": 507,
+      "Total Votes Cast": 853,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Willis E. Blackshear Jr. (DEM)": 252,
+      "Charlotte McGuire (REP)": 377,
+      "Total Votes Cast": 629,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Willis E. Blackshear Jr. (DEM)": 368,
+      "Charlotte McGuire (REP)": 514,
+      "Total Votes Cast": 882,
+      "Overvotes": 1,
+      "Undervotes": 37,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Willis E. Blackshear Jr. (DEM)": 222,
+      "Charlotte McGuire (REP)": 334,
+      "Total Votes Cast": 556,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Willis E. Blackshear Jr. (DEM)": 404,
+      "Charlotte McGuire (REP)": 540,
+      "Total Votes Cast": 944,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Willis E. Blackshear Jr. (DEM)": 301,
+      "Charlotte McGuire (REP)": 458,
+      "Total Votes Cast": 759,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Willis E. Blackshear Jr. (DEM)": 314,
+      "Charlotte McGuire (REP)": 328,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Willis E. Blackshear Jr. (DEM)": 362,
+      "Charlotte McGuire (REP)": 457,
+      "Total Votes Cast": 819,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Willis E. Blackshear Jr. (DEM)": 291,
+      "Charlotte McGuire (REP)": 502,
+      "Total Votes Cast": 793,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Willis E. Blackshear Jr. (DEM)": 321,
+      "Charlotte McGuire (REP)": 359,
+      "Total Votes Cast": 680,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Willis E. Blackshear Jr. (DEM)": 334,
+      "Charlotte McGuire (REP)": 552,
+      "Total Votes Cast": 886,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Willis E. Blackshear Jr. (DEM)": 414,
+      "Charlotte McGuire (REP)": 392,
+      "Total Votes Cast": 806,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Willis E. Blackshear Jr. (DEM)": 366,
+      "Charlotte McGuire (REP)": 465,
+      "Total Votes Cast": 831,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Willis E. Blackshear Jr. (DEM)": 377,
+      "Charlotte McGuire (REP)": 562,
+      "Total Votes Cast": 939,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Willis E. Blackshear Jr. (DEM)": 419,
+      "Charlotte McGuire (REP)": 497,
+      "Total Votes Cast": 916,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Willis E. Blackshear Jr. (DEM)": 279,
+      "Charlotte McGuire (REP)": 399,
+      "Total Votes Cast": 678,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Willis E. Blackshear Jr. (DEM)": 273,
+      "Charlotte McGuire (REP)": 431,
+      "Total Votes Cast": 704,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Willis E. Blackshear Jr. (DEM)": 364,
+      "Charlotte McGuire (REP)": 337,
+      "Total Votes Cast": 701,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Willis E. Blackshear Jr. (DEM)": 337,
+      "Charlotte McGuire (REP)": 507,
+      "Total Votes Cast": 844,
+      "Overvotes": 0,
+      "Undervotes": 35,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Willis E. Blackshear Jr. (DEM)": 319,
+      "Charlotte McGuire (REP)": 469,
+      "Total Votes Cast": 788,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Willis E. Blackshear Jr. (DEM)": 267,
+      "Charlotte McGuire (REP)": 292,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Willis E. Blackshear Jr. (DEM)": 268,
+      "Charlotte McGuire (REP)": 403,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Willis E. Blackshear Jr. (DEM)": 454,
+      "Charlotte McGuire (REP)": 588,
+      "Total Votes Cast": 1042,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Willis E. Blackshear Jr. (DEM)": 296,
+      "Charlotte McGuire (REP)": 426,
+      "Total Votes Cast": 722,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Willis E. Blackshear Jr. (DEM)": 313,
+      "Charlotte McGuire (REP)": 465,
+      "Total Votes Cast": 778,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Willis E. Blackshear Jr. (DEM)": 267,
+      "Charlotte McGuire (REP)": 312,
+      "Total Votes Cast": 579,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Willis E. Blackshear Jr. (DEM)": 391,
+      "Charlotte McGuire (REP)": 569,
+      "Total Votes Cast": 960,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Willis E. Blackshear Jr. (DEM)": 234,
+      "Charlotte McGuire (REP)": 417,
+      "Total Votes Cast": 651,
+      "Overvotes": 1,
+      "Undervotes": 51,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Willis E. Blackshear Jr. (DEM)": 229,
+      "Charlotte McGuire (REP)": 451,
+      "Total Votes Cast": 680,
+      "Overvotes": 1,
+      "Undervotes": 55,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Willis E. Blackshear Jr. (DEM)": 209,
+      "Charlotte McGuire (REP)": 491,
+      "Total Votes Cast": 700,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Willis E. Blackshear Jr. (DEM)": 229,
+      "Charlotte McGuire (REP)": 470,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Willis E. Blackshear Jr. (DEM)": 270,
+      "Charlotte McGuire (REP)": 195,
+      "Total Votes Cast": 465,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Willis E. Blackshear Jr. (DEM)": 243,
+      "Charlotte McGuire (REP)": 292,
+      "Total Votes Cast": 535,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Willis E. Blackshear Jr. (DEM)": 316,
+      "Charlotte McGuire (REP)": 396,
+      "Total Votes Cast": 712,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Willis E. Blackshear Jr. (DEM)": 206,
+      "Charlotte McGuire (REP)": 460,
+      "Total Votes Cast": 666,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Willis E. Blackshear Jr. (DEM)": 312,
+      "Charlotte McGuire (REP)": 184,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 519
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "race": "Centerville Council",
+  "precincts": 19,
+  "results": [
+    {
+      "Precinct": "CV-A",
+      "Terry W. Posey": 45,
+      "JoAnne Rau": 61,
+      "Bill Serr": 49,
+      "Total Votes Cast": 155,
+      "Overvotes": 0,
+      "Undervotes": 103,
+      "Contest Total": 258
+    },
+    {
+      "Precinct": "CV-B",
+      "Terry W. Posey": 127,
+      "JoAnne Rau": 146,
+      "Bill Serr": 117,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 357,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "CV-C",
+      "Terry W. Posey": 92,
+      "JoAnne Rau": 94,
+      "Bill Serr": 78,
+      "Total Votes Cast": 264,
+      "Overvotes": 0,
+      "Undervotes": 165,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "CV-D",
+      "Terry W. Posey": 69,
+      "JoAnne Rau": 85,
+      "Bill Serr": 54,
+      "Total Votes Cast": 208,
+      "Overvotes": 0,
+      "Undervotes": 149,
+      "Contest Total": 357
+    },
+    {
+      "Precinct": "CV-E",
+      "Terry W. Posey": 137,
+      "JoAnne Rau": 158,
+      "Bill Serr": 141,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 320,
+      "Contest Total": 756
+    },
+    {
+      "Precinct": "CV-F",
+      "Terry W. Posey": 159,
+      "JoAnne Rau": 175,
+      "Bill Serr": 146,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 336,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "CV-G",
+      "Terry W. Posey": 169,
+      "JoAnne Rau": 200,
+      "Bill Serr": 160,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-H",
+      "Terry W. Posey": 242,
+      "JoAnne Rau": 275,
+      "Bill Serr": 227,
+      "Total Votes Cast": 744,
+      "Overvotes": 0,
+      "Undervotes": 474,
+      "Contest Total": 1218
+    },
+    {
+      "Precinct": "CV-I1",
+      "Terry W. Posey": 209,
+      "JoAnne Rau": 223,
+      "Bill Serr": 199,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 984
+    },
+    {
+      "Precinct": "CV-I2",
+      "Terry W. Posey": 0,
+      "JoAnne Rau": 0,
+      "Bill Serr": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "CV-J",
+      "Terry W. Posey": 144,
+      "JoAnne Rau": 172,
+      "Bill Serr": 156,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 272,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "CV-K",
+      "Terry W. Posey": 164,
+      "JoAnne Rau": 173,
+      "Bill Serr": 155,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 372,
+      "Contest Total": 864
+    },
+    {
+      "Precinct": "CV-L",
+      "Terry W. Posey": 209,
+      "JoAnne Rau": 219,
+      "Bill Serr": 191,
+      "Total Votes Cast": 619,
+      "Overvotes": 0,
+      "Undervotes": 380,
+      "Contest Total": 999
+    },
+    {
+      "Precinct": "CV-M",
+      "Terry W. Posey": 131,
+      "JoAnne Rau": 150,
+      "Bill Serr": 121,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 333,
+      "Contest Total": 735
+    },
+    {
+      "Precinct": "CV-N",
+      "Terry W. Posey": 157,
+      "JoAnne Rau": 163,
+      "Bill Serr": 175,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 246,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "CV-O",
+      "Terry W. Posey": 199,
+      "JoAnne Rau": 215,
+      "Bill Serr": 195,
+      "Total Votes Cast": 609,
+      "Overvotes": 0,
+      "Undervotes": 348,
+      "Contest Total": 957
+    },
+    {
+      "Precinct": "CV-P",
+      "Terry W. Posey": 186,
+      "JoAnne Rau": 189,
+      "Bill Serr": 164,
+      "Total Votes Cast": 539,
+      "Overvotes": 0,
+      "Undervotes": 355,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "CV-Q",
+      "Terry W. Posey": 129,
+      "JoAnne Rau": 155,
+      "Bill Serr": 127,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "CV-R",
+      "Terry W. Posey": 95,
+      "JoAnne Rau": 118,
+      "Bill Serr": 91,
+      "Total Votes Cast": 304,
+      "Overvotes": 0,
+      "Undervotes": 236,
+      "Contest Total": 540
+    }
+  ]
+}

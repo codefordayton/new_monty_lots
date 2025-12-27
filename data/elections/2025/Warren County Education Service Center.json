@@ -1,0 +1,39 @@
+{
+  "race": "Warren County Education Service Center",
+  "precincts": 3,
+  "results": [
+    {
+      "Precinct": "MBG 1-A2",
+      "Fred Anness": 0,
+      "Nona Cress": 0,
+      "Jiles Farley": 0,
+      "John Lazares": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MIATWP-J1",
+      "Fred Anness": 82,
+      "Nona Cress": 62,
+      "Jiles Farley": 80,
+      "John Lazares": 93,
+      "Total Votes Cast": 317,
+      "Overvotes": 0,
+      "Undervotes": 364,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "MIATWP-J2",
+      "Fred Anness": 19,
+      "Nona Cress": 19,
+      "Jiles Farley": 17,
+      "John Lazares": 22,
+      "Total Votes Cast": 77,
+      "Overvotes": 0,
+      "Undervotes": 121,
+      "Contest Total": 198
+    }
+  ]
+}

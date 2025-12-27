@@ -1,0 +1,710 @@
+{
+  "race": "State Rep District 37",
+  "precincts": 88,
+  "results": [
+    {
+      "Precincts": "CV-A",
+      "Tom Young (REP)": 405,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 638
+    },
+    {
+      "Precincts": "CV-B",
+      "Tom Young (REP)": 529,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 352,
+      "Contest Total": 881
+    },
+    {
+      "Precincts": "CV-C",
+      "Tom Young (REP)": 370,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 195,
+      "Contest Total": 565
+    },
+    {
+      "Precincts": "CV-D",
+      "Tom Young (REP)": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 249,
+      "Contest Total": 649
+    },
+    {
+      "Precincts": "CV-E",
+      "Tom Young (REP)": 524,
+      "Total Votes Cast": 524,
+      "Overvotes": 0,
+      "Undervotes": 295,
+      "Contest Total": 819
+    },
+    {
+      "Precincts": "CV-F",
+      "Tom Young (REP)": 593,
+      "Total Votes Cast": 593,
+      "Overvotes": 0,
+      "Undervotes": 343,
+      "Contest Total": 936
+    },
+    {
+      "Precincts": "CV-G",
+      "Tom Young (REP)": 625,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 380,
+      "Contest Total": 1005
+    },
+    {
+      "Precincts": "CV-H",
+      "Tom Young (REP)": 644,
+      "Total Votes Cast": 644,
+      "Overvotes": 0,
+      "Undervotes": 365,
+      "Contest Total": 1009
+    },
+    {
+      "Precincts": "CV-I",
+      "Tom Young (REP)": 742,
+      "Total Votes Cast": 742,
+      "Overvotes": 0,
+      "Undervotes": 349,
+      "Contest Total": 1091
+    },
+    {
+      "Precincts": "CV-J",
+      "Tom Young (REP)": 617,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 915
+    },
+    {
+      "Precincts": "CV-K",
+      "Tom Young (REP)": 594,
+      "Total Votes Cast": 594,
+      "Overvotes": 0,
+      "Undervotes": 349,
+      "Contest Total": 943
+    },
+    {
+      "Precincts": "CV-L",
+      "Tom Young (REP)": 667,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 365,
+      "Contest Total": 1032
+    },
+    {
+      "Precincts": "CV-M",
+      "Tom Young (REP)": 575,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 288,
+      "Contest Total": 863
+    },
+    {
+      "Precincts": "CV-N",
+      "Tom Young (REP)": 487,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 295,
+      "Contest Total": 782
+    },
+    {
+      "Precincts": "CV-O",
+      "Tom Young (REP)": 696,
+      "Total Votes Cast": 696,
+      "Overvotes": 0,
+      "Undervotes": 410,
+      "Contest Total": 1106
+    },
+    {
+      "Precincts": "CV-P",
+      "Tom Young (REP)": 594,
+      "Total Votes Cast": 594,
+      "Overvotes": 0,
+      "Undervotes": 370,
+      "Contest Total": 964
+    },
+    {
+      "Precincts": "CV-Q",
+      "Tom Young (REP)": 533,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 348,
+      "Contest Total": 881
+    },
+    {
+      "Precincts": "CV-R",
+      "Tom Young (REP)": 552,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 329,
+      "Contest Total": 881
+    },
+    {
+      "Precincts": "DAY 14-C",
+      "Tom Young (REP)": 79,
+      "Total Votes Cast": 79,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 302
+    },
+    {
+      "Precincts": "JEFTWP-A",
+      "Tom Young (REP)": 514,
+      "Total Votes Cast": 514,
+      "Overvotes": 0,
+      "Undervotes": 425,
+      "Contest Total": 939
+    },
+    {
+      "Precincts": "JEFTWP-B",
+      "Tom Young (REP)": 240,
+      "Total Votes Cast": 240,
+      "Overvotes": 0,
+      "Undervotes": 213,
+      "Contest Total": 453
+    },
+    {
+      "Precincts": "JEFTWP-C",
+      "Tom Young (REP)": 461,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 694
+    },
+    {
+      "Precincts": "JEFTWP-D",
+      "Tom Young (REP)": 192,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 491,
+      "Contest Total": 683
+    },
+    {
+      "Precincts": "MIATWP-A",
+      "Tom Young (REP)": 532,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 284,
+      "Contest Total": 816
+    },
+    {
+      "Precincts": "MIATWP-B",
+      "Tom Young (REP)": 420,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 718
+    },
+    {
+      "Precincts": "MIATWP-C",
+      "Tom Young (REP)": 659,
+      "Total Votes Cast": 659,
+      "Overvotes": 0,
+      "Undervotes": 182,
+      "Contest Total": 841
+    },
+    {
+      "Precincts": "MIATWP-D",
+      "Tom Young (REP)": 401,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 258,
+      "Contest Total": 659
+    },
+    {
+      "Precincts": "MIATWP-E",
+      "Tom Young (REP)": 667,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 304,
+      "Contest Total": 971
+    },
+    {
+      "Precincts": "MIATWP-F",
+      "Tom Young (REP)": 491,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 264,
+      "Contest Total": 755
+    },
+    {
+      "Precincts": "MIATWP-G",
+      "Tom Young (REP)": 464,
+      "Total Votes Cast": 464,
+      "Overvotes": 0,
+      "Undervotes": 216,
+      "Contest Total": 680
+    },
+    {
+      "Precincts": "MIATWP-H",
+      "Tom Young (REP)": 460,
+      "Total Votes Cast": 460,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 703
+    },
+    {
+      "Precincts": "MIATWP-I",
+      "Tom Young (REP)": 260,
+      "Total Votes Cast": 260,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 429
+    },
+    {
+      "Precincts": "MIATWP-J",
+      "Tom Young (REP)": 544,
+      "Total Votes Cast": 544,
+      "Overvotes": 0,
+      "Undervotes": 153,
+      "Contest Total": 697
+    },
+    {
+      "Precincts": "MIATWP-K",
+      "Tom Young (REP)": 636,
+      "Total Votes Cast": 636,
+      "Overvotes": 0,
+      "Undervotes": 303,
+      "Contest Total": 939
+    },
+    {
+      "Precincts": "MIATWP-L",
+      "Tom Young (REP)": 393,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 616
+    },
+    {
+      "Precincts": "MIATWP-M",
+      "Tom Young (REP)": 475,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 226,
+      "Contest Total": 701
+    },
+    {
+      "Precincts": "MIATWP-N",
+      "Tom Young (REP)": 531,
+      "Total Votes Cast": 531,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 801
+    },
+    {
+      "Precincts": "MIATWP-O",
+      "Tom Young (REP)": 505,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 750
+    },
+    {
+      "Precincts": "MIATWP-P",
+      "Tom Young (REP)": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 194,
+      "Contest Total": 524
+    },
+    {
+      "Precincts": "MIATWP-Q",
+      "Tom Young (REP)": 495,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 301,
+      "Contest Total": 796
+    },
+    {
+      "Precincts": "MIATWP-R",
+      "Tom Young (REP)": 271,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 157,
+      "Contest Total": 428
+    },
+    {
+      "Precincts": "MIATWP-S",
+      "Tom Young (REP)": 542,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 751
+    },
+    {
+      "Precincts": "MIATWP-T",
+      "Tom Young (REP)": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 208,
+      "Contest Total": 625
+    },
+    {
+      "Precincts": "MIATWP-U",
+      "Tom Young (REP)": 378,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 225,
+      "Contest Total": 603
+    },
+    {
+      "Precincts": "MIATWP-V",
+      "Tom Young (REP)": 499,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 238,
+      "Contest Total": 737
+    },
+    {
+      "Precincts": "MOR 1-A",
+      "Tom Young (REP)": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 134,
+      "Contest Total": 464
+    },
+    {
+      "Precincts": "MOR 2-A",
+      "Tom Young (REP)": 577,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 257,
+      "Contest Total": 834
+    },
+    {
+      "Precincts": "MOR 3-A",
+      "Tom Young (REP)": 362,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 165,
+      "Contest Total": 527
+    },
+    {
+      "Precincts": "MOR 4-A",
+      "Tom Young (REP)": 287,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 467
+    },
+    {
+      "Precincts": "MOR 4-B",
+      "Tom Young (REP)": 202,
+      "Total Votes Cast": 202,
+      "Overvotes": 0,
+      "Undervotes": 182,
+      "Contest Total": 384
+    },
+    {
+      "Precincts": "WASTWP-A",
+      "Tom Young (REP)": 519,
+      "Total Votes Cast": 519,
+      "Overvotes": 0,
+      "Undervotes": 259,
+      "Contest Total": 778
+    },
+    {
+      "Precincts": "WASTWP-B",
+      "Tom Young (REP)": 733,
+      "Total Votes Cast": 733,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 1086
+    },
+    {
+      "Precincts": "WASTWP-C",
+      "Tom Young (REP)": 566,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 329,
+      "Contest Total": 895
+    },
+    {
+      "Precincts": "WASTWP-D",
+      "Tom Young (REP)": 429,
+      "Total Votes Cast": 429,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 657
+    },
+    {
+      "Precincts": "WASTWP-E",
+      "Tom Young (REP)": 595,
+      "Total Votes Cast": 595,
+      "Overvotes": 0,
+      "Undervotes": 325,
+      "Contest Total": 920
+    },
+    {
+      "Precincts": "WASTWP-F",
+      "Tom Young (REP)": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 229,
+      "Contest Total": 601
+    },
+    {
+      "Precincts": "WASTWP-G",
+      "Tom Young (REP)": 621,
+      "Total Votes Cast": 621,
+      "Overvotes": 0,
+      "Undervotes": 379,
+      "Contest Total": 1000
+    },
+    {
+      "Precincts": "WASTWP-H",
+      "Tom Young (REP)": 523,
+      "Total Votes Cast": 523,
+      "Overvotes": 0,
+      "Undervotes": 286,
+      "Contest Total": 809
+    },
+    {
+      "Precincts": "WASTWP-I",
+      "Tom Young (REP)": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 673
+    },
+    {
+      "Precincts": "WASTWP-J",
+      "Tom Young (REP)": 542,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 326,
+      "Contest Total": 868
+    },
+    {
+      "Precincts": "WASTWP-K",
+      "Tom Young (REP)": 541,
+      "Total Votes Cast": 541,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 819
+    },
+    {
+      "Precincts": "WASTWP-L",
+      "Tom Young (REP)": 421,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 728
+    },
+    {
+      "Precincts": "WASTWP-M",
+      "Tom Young (REP)": 638,
+      "Total Votes Cast": 638,
+      "Overvotes": 0,
+      "Undervotes": 299,
+      "Contest Total": 937
+    },
+    {
+      "Precincts": "WASTWP-N",
+      "Tom Young (REP)": 491,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 844
+    },
+    {
+      "Precincts": "WASTWP-O",
+      "Tom Young (REP)": 563,
+      "Total Votes Cast": 563,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 881
+    },
+    {
+      "Precincts": "WASTWP-P",
+      "Tom Young (REP)": 686,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 304,
+      "Contest Total": 990
+    },
+    {
+      "Precincts": "WASTWP-Q",
+      "Tom Young (REP)": 612,
+      "Total Votes Cast": 612,
+      "Overvotes": 0,
+      "Undervotes": 358,
+      "Contest Total": 970
+    },
+    {
+      "Precincts": "WASTWP-R",
+      "Tom Young (REP)": 499,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 212,
+      "Contest Total": 711
+    },
+    {
+      "Precincts": "WASTWP-S",
+      "Tom Young (REP)": 471,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 271,
+      "Contest Total": 742
+    },
+    {
+      "Precincts": "WASTWP-T",
+      "Tom Young (REP)": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 310,
+      "Contest Total": 740
+    },
+    {
+      "Precincts": "WASTWP-U",
+      "Tom Young (REP)": 612,
+      "Total Votes Cast": 612,
+      "Overvotes": 0,
+      "Undervotes": 267,
+      "Contest Total": 879
+    },
+    {
+      "Precincts": "WASTWP-V",
+      "Tom Young (REP)": 534,
+      "Total Votes Cast": 534,
+      "Overvotes": 0,
+      "Undervotes": 306,
+      "Contest Total": 840
+    },
+    {
+      "Precincts": "WASTWP-W",
+      "Tom Young (REP)": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 595
+    },
+    {
+      "Precincts": "WASTWP-X",
+      "Tom Young (REP)": 483,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 226,
+      "Contest Total": 709
+    },
+    {
+      "Precincts": "WASTWP-Y",
+      "Tom Young (REP)": 699,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 409,
+      "Contest Total": 1108
+    },
+    {
+      "Precincts": "WASTWP-Z",
+      "Tom Young (REP)": 488,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 272,
+      "Contest Total": 760
+    },
+    {
+      "Precincts": "WASTWP-AA",
+      "Tom Young (REP)": 523,
+      "Total Votes Cast": 523,
+      "Overvotes": 0,
+      "Undervotes": 305,
+      "Contest Total": 828
+    },
+    {
+      "Precincts": "WASTWP-BB",
+      "Tom Young (REP)": 388,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 236,
+      "Contest Total": 624
+    },
+    {
+      "Precincts": "WASTWP-CC",
+      "Tom Young (REP)": 624,
+      "Total Votes Cast": 624,
+      "Overvotes": 0,
+      "Undervotes": 404,
+      "Contest Total": 1028
+    },
+    {
+      "Precincts": "WCR-A",
+      "Tom Young (REP)": 470,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 703
+    },
+    {
+      "Precincts": "WCR-B",
+      "Tom Young (REP)": 492,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 244,
+      "Contest Total": 736
+    },
+    {
+      "Precincts": "WCR-C",
+      "Tom Young (REP)": 534,
+      "Total Votes Cast": 534,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 754
+    },
+    {
+      "Precincts": "WCR-D",
+      "Tom Young (REP)": 502,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 234,
+      "Contest Total": 736
+    },
+    {
+      "Precincts": "WCR-E",
+      "Tom Young (REP)": 274,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 206,
+      "Contest Total": 480
+    },
+    {
+      "Precincts": "WCR-F",
+      "Tom Young (REP)": 358,
+      "Total Votes Cast": 358,
+      "Overvotes": 0,
+      "Undervotes": 213,
+      "Contest Total": 571
+    },
+    {
+      "Precincts": "WCR-G",
+      "Tom Young (REP)": 467,
+      "Total Votes Cast": 467,
+      "Overvotes": 0,
+      "Undervotes": 288,
+      "Contest Total": 755
+    },
+    {
+      "Precincts": "WCR-H",
+      "Tom Young (REP)": 502,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 215,
+      "Contest Total": 717
+    },
+    {
+      "Precincts": "WCR-I",
+      "Tom Young (REP)": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 236,
+      "Contest Total": 519
+    }
+  ]
+}

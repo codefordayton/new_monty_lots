@@ -1,0 +1,38 @@
+{
+  "race": "Huber Heights Council Ward 4",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "HUB 4-A",
+      "Anita Kitchen": 135,
+      "Total Votes Cast": 135,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 197
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Anita Kitchen": 145,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Anita Kitchen": 132,
+      "Total Votes Cast": 132,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Anita Kitchen": 160,
+      "Total Votes Cast": 160,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 201
+    }
+  ]
+}

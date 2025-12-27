@@ -1,0 +1,105 @@
+{
+  "race": "Jefferson Township LSD Income Tax",
+  "precincts": 11,
+  "results": [
+    {
+      "Precinct": "DAY 14-A2",
+      "FOR THE INCOME TAX": 56,
+      "AGAINST THE INCOME TAX": 30,
+      "Total Votes Cast": 86,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 87
+    },
+    {
+      "Precinct": "DAY 14-A3",
+      "FOR THE INCOME TAX": 4,
+      "AGAINST THE INCOME TAX": 4,
+      "Total Votes Cast": 8,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 8
+    },
+    {
+      "Precinct": "DAY 14-C2",
+      "FOR THE INCOME TAX": 10,
+      "AGAINST THE INCOME TAX": 8,
+      "Total Votes Cast": 18,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 23
+    },
+    {
+      "Precinct": "DAY 14-C3",
+      "FOR THE INCOME TAX": 0,
+      "AGAINST THE INCOME TAX": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "JEFTWP-A1",
+      "FOR THE INCOME TAX": 115,
+      "AGAINST THE INCOME TAX": 241,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "JEFTWP-B2",
+      "FOR THE INCOME TAX": 27,
+      "AGAINST THE INCOME TAX": 27,
+      "Total Votes Cast": 54,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 54
+    },
+    {
+      "Precinct": "JEFTWP-B4",
+      "FOR THE INCOME TAX": 28,
+      "AGAINST THE INCOME TAX": 17,
+      "Total Votes Cast": 45,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 45
+    },
+    {
+      "Precinct": "JEFTWP-C1",
+      "FOR THE INCOME TAX": 73,
+      "AGAINST THE INCOME TAX": 273,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 349
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "FOR THE INCOME TAX": 178,
+      "AGAINST THE INCOME TAX": 97,
+      "Total Votes Cast": 275,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 279
+    },
+    {
+      "Precinct": "MOR 2-A2",
+      "FOR THE INCOME TAX": 13,
+      "AGAINST THE INCOME TAX": 55,
+      "Total Votes Cast": 68,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 68
+    },
+    {
+      "Precinct": "WCR-A2",
+      "FOR THE INCOME TAX": 3,
+      "AGAINST THE INCOME TAX": 6,
+      "Total Votes Cast": 9,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 9
+    }
+  ]
+}

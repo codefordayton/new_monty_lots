@@ -1,0 +1,456 @@
+{
+  "race": "Miami Township Trustees",
+  "precincts": 45,
+  "results": [
+    {
+      "Precinct": "MBG 1-A1",
+      "Drew Barry": 144,
+      "Bob Matthews": 63,
+      "Terry Posey Jr.": 154,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "MBG 1-A2",
+      "Drew Barry": 0,
+      "Bob Matthews": 0,
+      "Terry Posey Jr.": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MBG 1-A3",
+      "Drew Barry": 1,
+      "Bob Matthews": 0,
+      "Terry Posey Jr.": 1,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 2
+    },
+    {
+      "Precinct": "MBG 1-B1",
+      "Drew Barry": 119,
+      "Bob Matthews": 73,
+      "Terry Posey Jr.": 117,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 518
+    },
+    {
+      "Precinct": "MBG 1-B2",
+      "Drew Barry": 0,
+      "Bob Matthews": 0,
+      "Terry Posey Jr.": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Drew Barry": 155,
+      "Bob Matthews": 76,
+      "Terry Posey Jr.": 146,
+      "Total Votes Cast": 377,
+      "Overvotes": 0,
+      "Undervotes": 261,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "MBG 2-A1",
+      "Drew Barry": 72,
+      "Bob Matthews": 35,
+      "Terry Posey Jr.": 85,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 204,
+      "Contest Total": 396
+    },
+    {
+      "Precinct": "MBG 2-A2",
+      "Drew Barry": 0,
+      "Bob Matthews": 0,
+      "Terry Posey Jr.": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Drew Barry": 73,
+      "Bob Matthews": 62,
+      "Terry Posey Jr.": 82,
+      "Total Votes Cast": 217,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Drew Barry": 126,
+      "Bob Matthews": 64,
+      "Terry Posey Jr.": 130,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 548
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Drew Barry": 81,
+      "Bob Matthews": 49,
+      "Terry Posey Jr.": 80,
+      "Total Votes Cast": 210,
+      "Overvotes": 0,
+      "Undervotes": 134,
+      "Contest Total": 344
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Drew Barry": 121,
+      "Bob Matthews": 71,
+      "Terry Posey Jr.": 140,
+      "Total Votes Cast": 332,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 588
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Drew Barry": 100,
+      "Bob Matthews": 84,
+      "Terry Posey Jr.": 96,
+      "Total Votes Cast": 280,
+      "Overvotes": 0,
+      "Undervotes": 178,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Drew Barry": 120,
+      "Bob Matthews": 68,
+      "Terry Posey Jr.": 145,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 219,
+      "Contest Total": 552
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Drew Barry": 127,
+      "Bob Matthews": 62,
+      "Terry Posey Jr.": 123,
+      "Total Votes Cast": 312,
+      "Overvotes": 0,
+      "Undervotes": 226,
+      "Contest Total": 538
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Drew Barry": 134,
+      "Bob Matthews": 66,
+      "Terry Posey Jr.": 131,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 203,
+      "Contest Total": 534
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Drew Barry": 118,
+      "Bob Matthews": 47,
+      "Terry Posey Jr.": 106,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Drew Barry": 243,
+      "Bob Matthews": 107,
+      "Terry Posey Jr.": 207,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 257,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Drew Barry": 117,
+      "Bob Matthews": 40,
+      "Terry Posey Jr.": 123,
+      "Total Votes Cast": 280,
+      "Overvotes": 0,
+      "Undervotes": 100,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Drew Barry": 81,
+      "Bob Matthews": 43,
+      "Terry Posey Jr.": 87,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 286
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Drew Barry": 126,
+      "Bob Matthews": 61,
+      "Terry Posey Jr.": 123,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 156,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "MIATWP-D1",
+      "Drew Barry": 90,
+      "Bob Matthews": 28,
+      "Terry Posey Jr.": 94,
+      "Total Votes Cast": 212,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 292
+    },
+    {
+      "Precinct": "MIATWP-D2",
+      "Drew Barry": 20,
+      "Bob Matthews": 12,
+      "Terry Posey Jr.": 15,
+      "Total Votes Cast": 47,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 54
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Drew Barry": 240,
+      "Bob Matthews": 81,
+      "Terry Posey Jr.": 242,
+      "Total Votes Cast": 563,
+      "Overvotes": 0,
+      "Undervotes": 147,
+      "Contest Total": 710
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Drew Barry": 90,
+      "Bob Matthews": 34,
+      "Terry Posey Jr.": 103,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 304
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Drew Barry": 67,
+      "Bob Matthews": 38,
+      "Terry Posey Jr.": 66,
+      "Total Votes Cast": 171,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 248
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Drew Barry": 60,
+      "Bob Matthews": 45,
+      "Terry Posey Jr.": 61,
+      "Total Votes Cast": 166,
+      "Overvotes": 0,
+      "Undervotes": 96,
+      "Contest Total": 262
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Drew Barry": 54,
+      "Bob Matthews": 25,
+      "Terry Posey Jr.": 47,
+      "Total Votes Cast": 126,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 194
+    },
+    {
+      "Precinct": "MIATWP-J1",
+      "Drew Barry": 105,
+      "Bob Matthews": 53,
+      "Terry Posey Jr.": 98,
+      "Total Votes Cast": 256,
+      "Overvotes": 0,
+      "Undervotes": 198,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "MIATWP-J2",
+      "Drew Barry": 26,
+      "Bob Matthews": 22,
+      "Terry Posey Jr.": 24,
+      "Total Votes Cast": 72,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 132
+    },
+    {
+      "Precinct": "MIATWP-J3",
+      "Drew Barry": 0,
+      "Bob Matthews": 0,
+      "Terry Posey Jr.": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Drew Barry": 179,
+      "Bob Matthews": 50,
+      "Terry Posey Jr.": 165,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 126,
+      "Contest Total": 520
+    },
+    {
+      "Precinct": "MIATWP-L1",
+      "Drew Barry": 99,
+      "Bob Matthews": 46,
+      "Terry Posey Jr.": 112,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 336
+    },
+    {
+      "Precinct": "MIATWP-L2",
+      "Drew Barry": 0,
+      "Bob Matthews": 0,
+      "Terry Posey Jr.": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Drew Barry": 98,
+      "Bob Matthews": 45,
+      "Terry Posey Jr.": 112,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "MIATWP-N1",
+      "Drew Barry": 160,
+      "Bob Matthews": 48,
+      "Terry Posey Jr.": 170,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "MIATWP-N2",
+      "Drew Barry": 31,
+      "Bob Matthews": 11,
+      "Terry Posey Jr.": 26,
+      "Total Votes Cast": 68,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 88
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Drew Barry": 148,
+      "Bob Matthews": 59,
+      "Terry Posey Jr.": 156,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 127,
+      "Contest Total": 490
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Drew Barry": 53,
+      "Bob Matthews": 22,
+      "Terry Posey Jr.": 49,
+      "Total Votes Cast": 124,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 168
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Drew Barry": 93,
+      "Bob Matthews": 27,
+      "Terry Posey Jr.": 106,
+      "Total Votes Cast": 226,
+      "Overvotes": 0,
+      "Undervotes": 106,
+      "Contest Total": 332
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Drew Barry": 46,
+      "Bob Matthews": 35,
+      "Terry Posey Jr.": 55,
+      "Total Votes Cast": 136,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 182
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Drew Barry": 189,
+      "Bob Matthews": 38,
+      "Terry Posey Jr.": 160,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "MIATWP-T1",
+      "Drew Barry": 0,
+      "Bob Matthews": 0,
+      "Terry Posey Jr.": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Drew Barry": 66,
+      "Bob Matthews": 26,
+      "Terry Posey Jr.": 77,
+      "Total Votes Cast": 169,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 236
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Drew Barry": 82,
+      "Bob Matthews": 29,
+      "Terry Posey Jr.": 71,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 244
+    }
+  ]
+}

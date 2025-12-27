@@ -1,0 +1,114 @@
+{
+  "race": "Brookville Local School Board",
+  "precincts": 12,
+  "results": [
+    {
+      "Precinct": "BRK-A1",
+      "Joy Eyler": 180,
+      "Judy Hoover": 223,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 229,
+      "Contest Total": 632
+    },
+    {
+      "Precinct": "BRK-A2",
+      "Joy Eyler": 0,
+      "Judy Hoover": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 6
+    },
+    {
+      "Precinct": "BRK-B",
+      "Joy Eyler": 110,
+      "Judy Hoover": 148,
+      "Total Votes Cast": 258,
+      "Overvotes": 0,
+      "Undervotes": 156,
+      "Contest Total": 414
+    },
+    {
+      "Precinct": "BRK-C",
+      "Joy Eyler": 173,
+      "Judy Hoover": 184,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "BRK-D1",
+      "Joy Eyler": 124,
+      "Judy Hoover": 135,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 173,
+      "Contest Total": 432
+    },
+    {
+      "Precinct": "BRK-D2",
+      "Joy Eyler": 0,
+      "Judy Hoover": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 6
+    },
+    {
+      "Precinct": "CLATWP-B1",
+      "Joy Eyler": 88,
+      "Judy Hoover": 101,
+      "Total Votes Cast": 189,
+      "Overvotes": 0,
+      "Undervotes": 161,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "CLATWP-C1",
+      "Joy Eyler": 87,
+      "Judy Hoover": 108,
+      "Total Votes Cast": 195,
+      "Overvotes": 0,
+      "Undervotes": 131,
+      "Contest Total": 326
+    },
+    {
+      "Precinct": "CTN 1-B2",
+      "Joy Eyler": 0,
+      "Judy Hoover": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "PERTWP-A1",
+      "Joy Eyler": 83,
+      "Judy Hoover": 94,
+      "Total Votes Cast": 177,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 346
+    },
+    {
+      "Precinct": "PERTWP-B1",
+      "Joy Eyler": 110,
+      "Judy Hoover": 139,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 221,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 1-A2",
+      "Joy Eyler": 4,
+      "Judy Hoover": 7,
+      "Total Votes Cast": 11,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 22
+    }
+  ]
+}

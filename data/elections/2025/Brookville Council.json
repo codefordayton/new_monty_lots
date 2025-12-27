@@ -1,0 +1,66 @@
+{
+  "race": "Brookville Council",
+  "precincts": 6,
+  "results": [
+    {
+      "Precinct": "BRK-A1",
+      "Michael Hughes": 158,
+      "Jared Ledford": 179,
+      "Darren McNew": 168,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 443,
+      "Contest Total": 948
+    },
+    {
+      "Precinct": "BRK-A2",
+      "Michael Hughes": 1,
+      "Jared Ledford": 0,
+      "Darren McNew": 1,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 9
+    },
+    {
+      "Precinct": "BRK-B",
+      "Michael Hughes": 117,
+      "Jared Ledford": 120,
+      "Darren McNew": 115,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 269,
+      "Contest Total": 621
+    },
+    {
+      "Precinct": "BRK-C",
+      "Michael Hughes": 136,
+      "Jared Ledford": 154,
+      "Darren McNew": 129,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 451,
+      "Contest Total": 870
+    },
+    {
+      "Precinct": "BRK-D1",
+      "Michael Hughes": 108,
+      "Jared Ledford": 115,
+      "Darren McNew": 116,
+      "Total Votes Cast": 339,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 648
+    },
+    {
+      "Precinct": "BRK-D2",
+      "Michael Hughes": 2,
+      "Jared Ledford": 1,
+      "Darren McNew": 2,
+      "Total Votes Cast": 5,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 9
+    }
+  ]
+}

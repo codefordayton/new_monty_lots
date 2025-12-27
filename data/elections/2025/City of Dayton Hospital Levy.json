@@ -1,0 +1,1032 @@
+{
+  "race": "City of Dayton Hospital Levy",
+  "precincts": 114,
+  "results": [
+    {
+      "Precinct": "DAY 1-A",
+      "FOR THE LEVY": 49,
+      "AGAINST THE LEVY": 46,
+      "Total Votes Cast": 95,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 98
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "FOR THE LEVY": 184,
+      "AGAINST THE LEVY": 141,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 328
+    },
+    {
+      "Precinct": "DAY 1-C1",
+      "FOR THE LEVY": 73,
+      "AGAINST THE LEVY": 37,
+      "Total Votes Cast": 110,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 113
+    },
+    {
+      "Precinct": "DAY 1-C2",
+      "FOR THE LEVY": 40,
+      "AGAINST THE LEVY": 27,
+      "Total Votes Cast": 67,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 69
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "FOR THE LEVY": 110,
+      "AGAINST THE LEVY": 37,
+      "Total Votes Cast": 147,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 147
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "FOR THE LEVY": 194,
+      "AGAINST THE LEVY": 103,
+      "Total Votes Cast": 297,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "FOR THE LEVY": 44,
+      "AGAINST THE LEVY": 42,
+      "Total Votes Cast": 86,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 87
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "FOR THE LEVY": 147,
+      "AGAINST THE LEVY": 83,
+      "Total Votes Cast": 230,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 236
+    },
+    {
+      "Precinct": "DAY 2-C1",
+      "FOR THE LEVY": 63,
+      "AGAINST THE LEVY": 61,
+      "Total Votes Cast": 124,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 127
+    },
+    {
+      "Precinct": "DAY 2-C2",
+      "FOR THE LEVY": 0,
+      "AGAINST THE LEVY": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 2-D1",
+      "FOR THE LEVY": 35,
+      "AGAINST THE LEVY": 40,
+      "Total Votes Cast": 75,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 75
+    },
+    {
+      "Precinct": "DAY 2-D2",
+      "FOR THE LEVY": 0,
+      "AGAINST THE LEVY": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "FOR THE LEVY": 26,
+      "AGAINST THE LEVY": 23,
+      "Total Votes Cast": 49,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 50
+    },
+    {
+      "Precinct": "DAY 3-B1",
+      "FOR THE LEVY": 15,
+      "AGAINST THE LEVY": 59,
+      "Total Votes Cast": 74,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 74
+    },
+    {
+      "Precinct": "DAY 3-B2",
+      "FOR THE LEVY": 15,
+      "AGAINST THE LEVY": 17,
+      "Total Votes Cast": 32,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 34
+    },
+    {
+      "Precinct": "DAY 3-B3",
+      "FOR THE LEVY": 0,
+      "AGAINST THE LEVY": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 3-C1",
+      "FOR THE LEVY": 120,
+      "AGAINST THE LEVY": 151,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 273
+    },
+    {
+      "Precinct": "DAY 3-C2",
+      "FOR THE LEVY": 21,
+      "AGAINST THE LEVY": 53,
+      "Total Votes Cast": 74,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 74
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "FOR THE LEVY": 51,
+      "AGAINST THE LEVY": 110,
+      "Total Votes Cast": 161,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 165
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "FOR THE LEVY": 34,
+      "AGAINST THE LEVY": 46,
+      "Total Votes Cast": 80,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 82
+    },
+    {
+      "Precinct": "DAY 3-F1",
+      "FOR THE LEVY": 120,
+      "AGAINST THE LEVY": 208,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 3-F2",
+      "FOR THE LEVY": 0,
+      "AGAINST THE LEVY": 2,
+      "Total Votes Cast": 2,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 2
+    },
+    {
+      "Precinct": "DAY 3-G1",
+      "FOR THE LEVY": 15,
+      "AGAINST THE LEVY": 21,
+      "Total Votes Cast": 36,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 37
+    },
+    {
+      "Precinct": "DAY 3-G2",
+      "FOR THE LEVY": 23,
+      "AGAINST THE LEVY": 32,
+      "Total Votes Cast": 55,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 55
+    },
+    {
+      "Precinct": "DAY 3-G3",
+      "FOR THE LEVY": 0,
+      "AGAINST THE LEVY": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 3-G4",
+      "FOR THE LEVY": 0,
+      "AGAINST THE LEVY": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "FOR THE LEVY": 49,
+      "AGAINST THE LEVY": 64,
+      "Total Votes Cast": 113,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 114
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "FOR THE LEVY": 120,
+      "AGAINST THE LEVY": 189,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 310
+    },
+    {
+      "Precinct": "DAY 3-J1",
+      "FOR THE LEVY": 16,
+      "AGAINST THE LEVY": 15,
+      "Total Votes Cast": 31,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 31
+    },
+    {
+      "Precinct": "DAY 3-J2",
+      "FOR THE LEVY": 54,
+      "AGAINST THE LEVY": 101,
+      "Total Votes Cast": 155,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 159
+    },
+    {
+      "Precinct": "DAY 3-J3",
+      "FOR THE LEVY": 11,
+      "AGAINST THE LEVY": 2,
+      "Total Votes Cast": 13,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 13
+    },
+    {
+      "Precinct": "DAY 3-K1",
+      "FOR THE LEVY": 127,
+      "AGAINST THE LEVY": 156,
+      "Total Votes Cast": 283,
+      "Overvotes": 1,
+      "Undervotes": 2,
+      "Contest Total": 286
+    },
+    {
+      "Precinct": "DAY 3-K2",
+      "FOR THE LEVY": 12,
+      "AGAINST THE LEVY": 24,
+      "Total Votes Cast": 36,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 37
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "FOR THE LEVY": 106,
+      "AGAINST THE LEVY": 168,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 276
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "FOR THE LEVY": 127,
+      "AGAINST THE LEVY": 75,
+      "Total Votes Cast": 202,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 209
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "FOR THE LEVY": 98,
+      "AGAINST THE LEVY": 47,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 146
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "FOR THE LEVY": 92,
+      "AGAINST THE LEVY": 98,
+      "Total Votes Cast": 190,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "FOR THE LEVY": 128,
+      "AGAINST THE LEVY": 42,
+      "Total Votes Cast": 170,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "FOR THE LEVY": 115,
+      "AGAINST THE LEVY": 54,
+      "Total Votes Cast": 169,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 170
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "FOR THE LEVY": 71,
+      "AGAINST THE LEVY": 35,
+      "Total Votes Cast": 106,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 108
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "FOR THE LEVY": 127,
+      "AGAINST THE LEVY": 57,
+      "Total Votes Cast": 184,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 191
+    },
+    {
+      "Precinct": "DAY 6-A1",
+      "FOR THE LEVY": 117,
+      "AGAINST THE LEVY": 42,
+      "Total Votes Cast": 159,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 173
+    },
+    {
+      "Precinct": "DAY 6-A2",
+      "FOR THE LEVY": 0,
+      "AGAINST THE LEVY": 1,
+      "Total Votes Cast": 1,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 1
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "FOR THE LEVY": 114,
+      "AGAINST THE LEVY": 53,
+      "Total Votes Cast": 167,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "FOR THE LEVY": 100,
+      "AGAINST THE LEVY": 46,
+      "Total Votes Cast": 146,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 155
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "FOR THE LEVY": 100,
+      "AGAINST THE LEVY": 29,
+      "Total Votes Cast": 129,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 136
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "FOR THE LEVY": 91,
+      "AGAINST THE LEVY": 68,
+      "Total Votes Cast": 159,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 161
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "FOR THE LEVY": 127,
+      "AGAINST THE LEVY": 110,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 246
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "FOR THE LEVY": 132,
+      "AGAINST THE LEVY": 91,
+      "Total Votes Cast": 223,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 225
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "FOR THE LEVY": 115,
+      "AGAINST THE LEVY": 116,
+      "Total Votes Cast": 231,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 235
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "FOR THE LEVY": 117,
+      "AGAINST THE LEVY": 84,
+      "Total Votes Cast": 201,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 204
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "FOR THE LEVY": 172,
+      "AGAINST THE LEVY": 212,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 393
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "FOR THE LEVY": 158,
+      "AGAINST THE LEVY": 132,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 294
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "FOR THE LEVY": 138,
+      "AGAINST THE LEVY": 172,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 317
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "FOR THE LEVY": 91,
+      "AGAINST THE LEVY": 80,
+      "Total Votes Cast": 171,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 173
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "FOR THE LEVY": 118,
+      "AGAINST THE LEVY": 92,
+      "Total Votes Cast": 210,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 215
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "FOR THE LEVY": 78,
+      "AGAINST THE LEVY": 63,
+      "Total Votes Cast": 141,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 143
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "FOR THE LEVY": 88,
+      "AGAINST THE LEVY": 76,
+      "Total Votes Cast": 164,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 166
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "FOR THE LEVY": 81,
+      "AGAINST THE LEVY": 103,
+      "Total Votes Cast": 184,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 185
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "FOR THE LEVY": 89,
+      "AGAINST THE LEVY": 94,
+      "Total Votes Cast": 183,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 186
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "FOR THE LEVY": 73,
+      "AGAINST THE LEVY": 70,
+      "Total Votes Cast": 143,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 144
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "FOR THE LEVY": 45,
+      "AGAINST THE LEVY": 54,
+      "Total Votes Cast": 99,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 104
+    },
+    {
+      "Precinct": "DAY 11-C1",
+      "FOR THE LEVY": 81,
+      "AGAINST THE LEVY": 34,
+      "Total Votes Cast": 115,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 115
+    },
+    {
+      "Precinct": "DAY 11-C2",
+      "FOR THE LEVY": 1,
+      "AGAINST THE LEVY": 10,
+      "Total Votes Cast": 11,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 11
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "FOR THE LEVY": 58,
+      "AGAINST THE LEVY": 100,
+      "Total Votes Cast": 158,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 162
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "FOR THE LEVY": 71,
+      "AGAINST THE LEVY": 68,
+      "Total Votes Cast": 139,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 146
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "FOR THE LEVY": 124,
+      "AGAINST THE LEVY": 84,
+      "Total Votes Cast": 208,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "FOR THE LEVY": 128,
+      "AGAINST THE LEVY": 72,
+      "Total Votes Cast": 200,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 201
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "FOR THE LEVY": 71,
+      "AGAINST THE LEVY": 75,
+      "Total Votes Cast": 146,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 148
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "FOR THE LEVY": 54,
+      "AGAINST THE LEVY": 27,
+      "Total Votes Cast": 81,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 85
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "FOR THE LEVY": 89,
+      "AGAINST THE LEVY": 51,
+      "Total Votes Cast": 140,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 151
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "FOR THE LEVY": 46,
+      "AGAINST THE LEVY": 14,
+      "Total Votes Cast": 60,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 63
+    },
+    {
+      "Precinct": "DAY 14-A1",
+      "FOR THE LEVY": 97,
+      "AGAINST THE LEVY": 34,
+      "Total Votes Cast": 131,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 140
+    },
+    {
+      "Precinct": "DAY 14-A2",
+      "FOR THE LEVY": 57,
+      "AGAINST THE LEVY": 27,
+      "Total Votes Cast": 84,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 87
+    },
+    {
+      "Precinct": "DAY 14-A3",
+      "FOR THE LEVY": 3,
+      "AGAINST THE LEVY": 5,
+      "Total Votes Cast": 8,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 8
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "FOR THE LEVY": 42,
+      "AGAINST THE LEVY": 19,
+      "Total Votes Cast": 61,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 62
+    },
+    {
+      "Precinct": "DAY 14-C1",
+      "FOR THE LEVY": 76,
+      "AGAINST THE LEVY": 23,
+      "Total Votes Cast": 99,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 102
+    },
+    {
+      "Precinct": "DAY 14-C2",
+      "FOR THE LEVY": 10,
+      "AGAINST THE LEVY": 12,
+      "Total Votes Cast": 22,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 23
+    },
+    {
+      "Precinct": "DAY 14-C3",
+      "FOR THE LEVY": 0,
+      "AGAINST THE LEVY": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "FOR THE LEVY": 145,
+      "AGAINST THE LEVY": 38,
+      "Total Votes Cast": 183,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 186
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "FOR THE LEVY": 134,
+      "AGAINST THE LEVY": 37,
+      "Total Votes Cast": 171,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 179
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "FOR THE LEVY": 139,
+      "AGAINST THE LEVY": 55,
+      "Total Votes Cast": 194,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "FOR THE LEVY": 89,
+      "AGAINST THE LEVY": 27,
+      "Total Votes Cast": 116,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 123
+    },
+    {
+      "Precinct": "DAY 15-D1",
+      "FOR THE LEVY": 64,
+      "AGAINST THE LEVY": 24,
+      "Total Votes Cast": 88,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 90
+    },
+    {
+      "Precinct": "DAY 15-D2",
+      "FOR THE LEVY": 50,
+      "AGAINST THE LEVY": 28,
+      "Total Votes Cast": 78,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 85
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "FOR THE LEVY": 120,
+      "AGAINST THE LEVY": 54,
+      "Total Votes Cast": 174,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 177
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "FOR THE LEVY": 94,
+      "AGAINST THE LEVY": 26,
+      "Total Votes Cast": 120,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 120
+    },
+    {
+      "Precinct": "DAY 16-C1",
+      "FOR THE LEVY": 100,
+      "AGAINST THE LEVY": 37,
+      "Total Votes Cast": 137,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 144
+    },
+    {
+      "Precinct": "DAY 16-C2",
+      "FOR THE LEVY": 0,
+      "AGAINST THE LEVY": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "FOR THE LEVY": 236,
+      "AGAINST THE LEVY": 85,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 332
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "FOR THE LEVY": 142,
+      "AGAINST THE LEVY": 46,
+      "Total Votes Cast": 188,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 200
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "FOR THE LEVY": 71,
+      "AGAINST THE LEVY": 39,
+      "Total Votes Cast": 110,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 112
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "FOR THE LEVY": 68,
+      "AGAINST THE LEVY": 48,
+      "Total Votes Cast": 116,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 122
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "FOR THE LEVY": 122,
+      "AGAINST THE LEVY": 47,
+      "Total Votes Cast": 169,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "FOR THE LEVY": 85,
+      "AGAINST THE LEVY": 37,
+      "Total Votes Cast": 122,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 123
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "FOR THE LEVY": 105,
+      "AGAINST THE LEVY": 32,
+      "Total Votes Cast": 137,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 142
+    },
+    {
+      "Precinct": "DAY 18-B1",
+      "FOR THE LEVY": 158,
+      "AGAINST THE LEVY": 99,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 265
+    },
+    {
+      "Precinct": "DAY 18-B2",
+      "FOR THE LEVY": 2,
+      "AGAINST THE LEVY": 1,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 3
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "FOR THE LEVY": 70,
+      "AGAINST THE LEVY": 40,
+      "Total Votes Cast": 110,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 112
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "FOR THE LEVY": 75,
+      "AGAINST THE LEVY": 49,
+      "Total Votes Cast": 124,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 125
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "FOR THE LEVY": 52,
+      "AGAINST THE LEVY": 12,
+      "Total Votes Cast": 64,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 66
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "FOR THE LEVY": 98,
+      "AGAINST THE LEVY": 54,
+      "Total Votes Cast": 152,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 154
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "FOR THE LEVY": 120,
+      "AGAINST THE LEVY": 40,
+      "Total Votes Cast": 160,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 163
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "FOR THE LEVY": 121,
+      "AGAINST THE LEVY": 128,
+      "Total Votes Cast": 249,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 252
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "FOR THE LEVY": 114,
+      "AGAINST THE LEVY": 132,
+      "Total Votes Cast": 246,
+      "Overvotes": 1,
+      "Undervotes": 6,
+      "Contest Total": 253
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "FOR THE LEVY": 64,
+      "AGAINST THE LEVY": 121,
+      "Total Votes Cast": 185,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 187
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "FOR THE LEVY": 56,
+      "AGAINST THE LEVY": 92,
+      "Total Votes Cast": 148,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 150
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "FOR THE LEVY": 94,
+      "AGAINST THE LEVY": 36,
+      "Total Votes Cast": 130,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 135
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "FOR THE LEVY": 78,
+      "AGAINST THE LEVY": 37,
+      "Total Votes Cast": 115,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 118
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "FOR THE LEVY": 162,
+      "AGAINST THE LEVY": 62,
+      "Total Votes Cast": 224,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 235
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "FOR THE LEVY": 246,
+      "AGAINST THE LEVY": 106,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 363
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "FOR THE LEVY": 179,
+      "AGAINST THE LEVY": 85,
+      "Total Votes Cast": 264,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 274
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "FOR THE LEVY": 269,
+      "AGAINST THE LEVY": 88,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 368
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "FOR THE LEVY": 126,
+      "AGAINST THE LEVY": 120,
+      "Total Votes Cast": 246,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 251
+    }
+  ]
+}

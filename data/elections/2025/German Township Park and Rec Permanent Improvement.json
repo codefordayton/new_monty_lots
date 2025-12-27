@@ -1,0 +1,105 @@
+{
+  "race": "German Township Park and Rec Permanent Improvement",
+  "precincts": 11,
+  "results": [
+    {
+      "Precinct": "GERTWP-A1",
+      "FOR THE TAX LEVY": 72,
+      "AGAINST THE TAX LEVY": 191,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 268
+    },
+    {
+      "Precinct": "GERTWP-A2",
+      "FOR THE TAX LEVY": 17,
+      "AGAINST THE TAX LEVY": 18,
+      "Total Votes Cast": 35,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 37
+    },
+    {
+      "Precinct": "GERTWP-A3",
+      "FOR THE TAX LEVY": 16,
+      "AGAINST THE TAX LEVY": 36,
+      "Total Votes Cast": 52,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 53
+    },
+    {
+      "Precinct": "GERTWP-B1",
+      "FOR THE TAX LEVY": 87,
+      "AGAINST THE TAX LEVY": 233,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 324
+    },
+    {
+      "Precinct": "GERTWP-B2",
+      "FOR THE TAX LEVY": 5,
+      "AGAINST THE TAX LEVY": 7,
+      "Total Votes Cast": 12,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 12
+    },
+    {
+      "Precinct": "GTN-A",
+      "FOR THE TAX LEVY": 128,
+      "AGAINST THE TAX LEVY": 165,
+      "Total Votes Cast": 293,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 300
+    },
+    {
+      "Precinct": "GTN-B",
+      "FOR THE TAX LEVY": 58,
+      "AGAINST THE TAX LEVY": 87,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 147
+    },
+    {
+      "Precinct": "GTN-C1",
+      "FOR THE TAX LEVY": 141,
+      "AGAINST THE TAX LEVY": 139,
+      "Total Votes Cast": 280,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 284
+    },
+    {
+      "Precinct": "GTN-C2",
+      "FOR THE TAX LEVY": 0,
+      "AGAINST THE TAX LEVY": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "GTN-D1",
+      "FOR THE TAX LEVY": 79,
+      "AGAINST THE TAX LEVY": 150,
+      "Total Votes Cast": 229,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 236
+    },
+    {
+      "Precinct": "GTN-D2",
+      "FOR THE TAX LEVY": 0,
+      "AGAINST THE TAX LEVY": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

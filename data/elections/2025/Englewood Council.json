@@ -1,0 +1,126 @@
+{
+  "race": "Englewood Council",
+  "precincts": 10,
+  "results": [
+    {
+      "Precinct": "ENG-A",
+      "Andrew Gough": 184,
+      "Jake Jagels": 121,
+      "Ryan Ley": 69,
+      "Brad Rarick": 178,
+      "Courtney Rietman": 201,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 231,
+      "Contest Total": 984
+    },
+    {
+      "Precinct": "ENG-B",
+      "Andrew Gough": 100,
+      "Jake Jagels": 140,
+      "Ryan Ley": 34,
+      "Brad Rarick": 118,
+      "Courtney Rietman": 165,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 777
+    },
+    {
+      "Precinct": "ENG-C",
+      "Andrew Gough": 115,
+      "Jake Jagels": 85,
+      "Ryan Ley": 56,
+      "Brad Rarick": 99,
+      "Courtney Rietman": 133,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 145,
+      "Contest Total": 633
+    },
+    {
+      "Precinct": "ENG-D",
+      "Andrew Gough": 132,
+      "Jake Jagels": 119,
+      "Ryan Ley": 54,
+      "Brad Rarick": 136,
+      "Courtney Rietman": 159,
+      "Total Votes Cast": 600,
+      "Overvotes": 0,
+      "Undervotes": 168,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "ENG-E",
+      "Andrew Gough": 141,
+      "Jake Jagels": 118,
+      "Ryan Ley": 66,
+      "Brad Rarick": 129,
+      "Courtney Rietman": 188,
+      "Total Votes Cast": 642,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-F",
+      "Andrew Gough": 132,
+      "Jake Jagels": 108,
+      "Ryan Ley": 46,
+      "Brad Rarick": 131,
+      "Courtney Rietman": 148,
+      "Total Votes Cast": 565,
+      "Overvotes": 0,
+      "Undervotes": 161,
+      "Contest Total": 726
+    },
+    {
+      "Precinct": "ENG-G",
+      "Andrew Gough": 132,
+      "Jake Jagels": 148,
+      "Ryan Ley": 51,
+      "Brad Rarick": 139,
+      "Courtney Rietman": 173,
+      "Total Votes Cast": 643,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 876
+    },
+    {
+      "Precinct": "ENG-H",
+      "Andrew Gough": 75,
+      "Jake Jagels": 98,
+      "Ryan Ley": 54,
+      "Brad Rarick": 89,
+      "Courtney Rietman": 119,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 195,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "ENG-I",
+      "Andrew Gough": 103,
+      "Jake Jagels": 83,
+      "Ryan Ley": 39,
+      "Brad Rarick": 104,
+      "Courtney Rietman": 142,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 117,
+      "Contest Total": 588
+    },
+    {
+      "Precinct": "ENG-J",
+      "Andrew Gough": 99,
+      "Jake Jagels": 101,
+      "Ryan Ley": 42,
+      "Brad Rarick": 86,
+      "Courtney Rietman": 146,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 207,
+      "Contest Total": 681
+    }
+  ]
+}

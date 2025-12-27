@@ -1,0 +1,15 @@
+{
+  "race": "Verona Fire 4 Mil Tax Levy",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "CLATWP-C 4",
+      "FOR THE TAX LEVY": 6,
+      "AGAINST THE TAX LEVY": 4,
+      "Total Votes Cast": 10,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 10
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "race": "Local Option - DAY 7-B - W. Social Tap & Table - 5-R",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "DAY 7-B",
+      "Yes": 228,
+      "No": 53,
+      "Total Votes Cast": 281,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 298
+    }
+  ]
+}

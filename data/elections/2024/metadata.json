@@ -1,0 +1,351 @@
+{
+  "year": "2024",
+  "statistics_file": "statistics.json",
+  "races": [
+    {
+      "id": "13. City of Huber Heights - Charter Amendment Sec.",
+      "name": "13. City of Huber Heights - Charter Amendment Sec.",
+      "file": "13. City of Huber Heights - Charter Amendment Sec..json"
+    },
+    {
+      "id": "16. City of Riverside - Charter Amendment Sec. 4.12",
+      "name": "16. City of Riverside - Charter Amendment Sec. 4.12",
+      "file": "16. City of Riverside - Charter Amendment Sec. 4.12.json"
+    },
+    {
+      "id": "17. City of Riverside - Charter Amendment Sec. 5.03(A)",
+      "name": "17. City of Riverside - Charter Amendment Sec. 5.03(A)",
+      "file": "17. City of Riverside - Charter Amendment Sec. 5.03(A).json"
+    },
+    {
+      "id": "Beavercreek CSD - Bond issue 4.9 mills - 37 yrs",
+      "name": "Beavercreek CSD - Bond issue 4.9 mills - 37 yrs",
+      "file": "Beavercreek CSD - Bond issue 4.9 mills - 37 yrs.json"
+    },
+    {
+      "id": "Brookville Referendum on Ordinance",
+      "name": "Brookville Referendum on Ordinance",
+      "file": "Brookville Referendum on Ordinance.json"
+    },
+    {
+      "id": "Butler Township - Resolution to adopt Limited home",
+      "name": "Butler Township - Resolution to adopt Limited home",
+      "file": "Butler Township - Resolution to adopt Limited home.json"
+    },
+    {
+      "id": "Centerville CSD - Additional 3.9 mills",
+      "name": "Centerville CSD - Additional 3.9 mills",
+      "file": "Centerville CSD - Additional 3.9 mills.json"
+    },
+    {
+      "id": "Centerville Charter Amendments",
+      "name": "Centerville Charter Amendments",
+      "file": "Centerville Charter Amendments.json"
+    },
+    {
+      "id": "City of Carlisle - Electric Aggregation",
+      "name": "City of Carlisle - Electric Aggregation",
+      "file": "City of Carlisle - Electric Aggregation.json"
+    },
+    {
+      "id": "City of Carlisle - Gas Aggregation",
+      "name": "City of Carlisle - Gas Aggregation",
+      "file": "City of Carlisle - Gas Aggregation.json"
+    },
+    {
+      "id": "City of Huber Heights - Charter Amendment Sec. ",
+      "name": "City of Huber Heights - Charter Amendment Sec. ",
+      "file": "City of Huber Heights - Charter Amendment Sec. .json"
+    },
+    {
+      "id": "City of Huber Heights - Charter Amendment Sec. 4.04, 4.12 & 5.12",
+      "name": "City of Huber Heights - Charter Amendment Sec. 4.04, 4.12 & 5.12",
+      "file": "City of Huber Heights - Charter Amendment Sec. 4.04, 4.12 & 5.12.json"
+    },
+    {
+      "id": "City of Huber Heights - Charter Amendment Sec. 9.07 & 13.08",
+      "name": "City of Huber Heights - Charter Amendment Sec. 9.07 & 13.08",
+      "file": "City of Huber Heights - Charter Amendment Sec. 9.07 & 13.08.json"
+    },
+    {
+      "id": "City of Huber Heights - Charter Amendment Sec.",
+      "name": "City of Huber Heights - Charter Amendment Sec.",
+      "file": "City of Huber Heights - Charter Amendment Sec..json"
+    },
+    {
+      "id": "City of Riverside - Charter Amendment Sec. 6.03(I)",
+      "name": "City of Riverside - Charter Amendment Sec. 6.03(I)",
+      "file": "City of Riverside - Charter Amendment Sec. 6.03(I).json"
+    },
+    {
+      "id": "City of Riverside - Charter Amendment Sec. 9.03",
+      "name": "City of Riverside - Charter Amendment Sec. 9.03",
+      "file": "City of Riverside - Charter Amendment Sec. 9.03.json"
+    },
+    {
+      "id": "City of Riverside - Charter Amendment Sec. 9.05",
+      "name": "City of Riverside - Charter Amendment Sec. 9.05",
+      "file": "City of Riverside - Charter Amendment Sec. 9.05.json"
+    },
+    {
+      "id": "City of Riverside - Charter Amendment Sec.13.04",
+      "name": "City of Riverside - Charter Amendment Sec.13.04",
+      "file": "City of Riverside - Charter Amendment Sec.13.04.json"
+    },
+    {
+      "id": "Clayton Income Tax Increase",
+      "name": "Clayton Income Tax Increase",
+      "file": "Clayton Income Tax Increase.json"
+    },
+    {
+      "id": "Clerk of Common Pleas Court",
+      "name": "Clerk of Common Pleas Court",
+      "file": "Clerk of Common Pleas Court.json"
+    },
+    {
+      "id": "Coroner",
+      "name": "Coroner",
+      "file": "Coroner.json"
+    },
+    {
+      "id": "County Commissioner FTC 010325",
+      "name": "County Commissioner FTC 010325",
+      "file": "County Commissioner FTC 010325.json"
+    },
+    {
+      "id": "County Commissioner",
+      "name": "County Commissioner",
+      "file": "County Commissioner.json"
+    },
+    {
+      "id": "County Engineer",
+      "name": "County Engineer",
+      "file": "County Engineer.json"
+    },
+    {
+      "id": "County Recorder",
+      "name": "County Recorder",
+      "file": "County Recorder.json"
+    },
+    {
+      "id": "County Treasurer",
+      "name": "County Treasurer",
+      "file": "County Treasurer.json"
+    },
+    {
+      "id": "Court of Appeals Judge District 2",
+      "name": "Court of Appeals Judge District 2",
+      "file": "Court of Appeals Judge District 2.json"
+    },
+    {
+      "id": "Dayton Metro Library - Additional 1 mill - 5 yrs ",
+      "name": "Dayton Metro Library - Additional 1 mill - 5 yrs ",
+      "file": "Dayton Metro Library - Additional 1 mill - 5 yrs .json"
+    },
+    {
+      "id": "Five Rivers Metro Parks - Additional 1 mill",
+      "name": "Five Rivers Metro Parks - Additional 1 mill",
+      "file": "Five Rivers Metro Parks - Additional 1 mill.json"
+    },
+    {
+      "id": "German Township EMS (Incorp. and Unincorp.) - Additional 4 mills - Cont. period of time",
+      "name": "German Township EMS (Incorp. and Unincorp.) - Additional 4 mills - Cont. period of time",
+      "file": "German Township EMS (Incorp. and Unincorp.) - Additional 4 mills - Cont. period of time.json"
+    },
+    {
+      "id": "Harrison Township - Replacement 4 mills - 5 yrs ",
+      "name": "Harrison Township - Replacement 4 mills - 5 yrs ",
+      "file": "Harrison Township - Replacement 4 mills - 5 yrs .json"
+    },
+    {
+      "id": "Issue 1",
+      "name": "Issue 1",
+      "file": "Issue 1.json"
+    },
+    {
+      "id": "Jefferson Township - Additional 7 mills - 5 yrs ",
+      "name": "Jefferson Township - Additional 7 mills - 5 yrs ",
+      "file": "Jefferson Township - Additional 7 mills - 5 yrs .json"
+    },
+    {
+      "id": "Jefferson Township Road - Additional 10 mills - 5 yrs",
+      "name": "Jefferson Township Road - Additional 10 mills - 5 yrs",
+      "file": "Jefferson Township Road - Additional 10 mills - 5 yrs.json"
+    },
+    {
+      "id": "Judge of Common Pleas Court FTC 010325",
+      "name": "Judge of Common Pleas Court FTC 010325",
+      "file": "Judge of Common Pleas Court FTC 010325.json"
+    },
+    {
+      "id": "Judge of Common Pleas Court FTC 010525",
+      "name": "Judge of Common Pleas Court FTC 010525",
+      "file": "Judge of Common Pleas Court FTC 010525.json"
+    },
+    {
+      "id": "Judge of the Common Pleas Court DR FTC 010225",
+      "name": "Judge of the Common Pleas Court DR FTC 010225",
+      "file": "Judge of the Common Pleas Court DR FTC 010225.json"
+    },
+    {
+      "id": "Judge of the Common Pleas Court DR FTC 010425",
+      "name": "Judge of the Common Pleas Court DR FTC 010425",
+      "file": "Judge of the Common Pleas Court DR FTC 010425.json"
+    },
+    {
+      "id": "Judge of the Common Pleas Court FTC 010625",
+      "name": "Judge of the Common Pleas Court FTC 010625",
+      "file": "Judge of the Common Pleas Court FTC 010625.json"
+    },
+    {
+      "id": "Judge of the Common Pleas Court FTC 070125",
+      "name": "Judge of the Common Pleas Court FTC 070125",
+      "file": "Judge of the Common Pleas Court FTC 070125.json"
+    },
+    {
+      "id": "Judge of the Common Pleas Court FTC 070225",
+      "name": "Judge of the Common Pleas Court FTC 070225",
+      "file": "Judge of the Common Pleas Court FTC 070225.json"
+    },
+    {
+      "id": "Judge of the Common Pleas Court JD FTC 010125",
+      "name": "Judge of the Common Pleas Court JD FTC 010125",
+      "file": "Judge of the Common Pleas Court JD FTC 010125.json"
+    },
+    {
+      "id": "Judge of the Common Pleas Court UTE 070127",
+      "name": "Judge of the Common Pleas Court UTE 070127",
+      "file": "Judge of the Common Pleas Court UTE 070127.json"
+    },
+    {
+      "id": "Justice of Supreme Court 1",
+      "name": "Justice of Supreme Court 1",
+      "file": "Justice of Supreme Court 1.json"
+    },
+    {
+      "id": "Justice of Supreme Court 2",
+      "name": "Justice of Supreme Court 2",
+      "file": "Justice of Supreme Court 2.json"
+    },
+    {
+      "id": "Justice of Supreme Court 3",
+      "name": "Justice of Supreme Court 3",
+      "file": "Justice of Supreme Court 3.json"
+    },
+    {
+      "id": "Local Option - DAY 4-C - Mozaik Lounge - 5-R Q1",
+      "name": "Local Option - DAY 4-C - Mozaik Lounge - 5-R Q1",
+      "file": "Local Option - DAY 4-C - Mozaik Lounge - 5-R Q1.json"
+    },
+    {
+      "id": "Local Option - DAY 4-C - Mozaik Lounge - 5-R Q2",
+      "name": "Local Option - DAY 4-C - Mozaik Lounge - 5-R Q2",
+      "file": "Local Option - DAY 4-C - Mozaik Lounge - 5-R Q2.json"
+    },
+    {
+      "id": "Local Option - DAY 7-B - W. Social Tap & Table - 5-R",
+      "name": "Local Option - DAY 7-B - W. Social Tap & Table - 5-R",
+      "file": "Local Option - DAY 7-B - W. Social Tap & Table - 5-R.json"
+    },
+    {
+      "id": "Local Option - HUB 1-D - Wawa #7200 - 5-R Q2 ",
+      "name": "Local Option - HUB 1-D - Wawa #7200 - 5-R Q2 ",
+      "file": "Local Option - HUB 1-D - Wawa #7200 - 5-R Q2 .json"
+    },
+    {
+      "id": "Mad River LSD - Additional 2.9 mills",
+      "name": "Mad River LSD - Additional 2.9 mills",
+      "file": "Mad River LSD - Additional 2.9 mills.json"
+    },
+    {
+      "id": "Moraine Council Ward 1",
+      "name": "Moraine Council Ward 1",
+      "file": "Moraine Council Ward 1.json"
+    },
+    {
+      "id": "New Lebanon LSD - Renewal 0.75% income tax",
+      "name": "New Lebanon LSD - Renewal 0.75% income tax",
+      "file": "New Lebanon LSD - Renewal 0.75% income tax.json"
+    },
+    {
+      "id": "Presidential",
+      "name": "Presidential",
+      "file": "Presidential.json"
+    },
+    {
+      "id": "Prosecuting Attorney",
+      "name": "Prosecuting Attorney",
+      "file": "Prosecuting Attorney.json"
+    },
+    {
+      "id": "Rep District 10",
+      "name": "Rep District 10",
+      "file": "Rep District 10.json"
+    },
+    {
+      "id": "Riverside Police - Renewal 4.95 mills - 5 yrs",
+      "name": "Riverside Police - Renewal 4.95 mills - 5 yrs",
+      "file": "Riverside Police - Renewal 4.95 mills - 5 yrs.json"
+    },
+    {
+      "id": "Senate",
+      "name": "Senate",
+      "file": "Senate.json"
+    },
+    {
+      "id": "Sheriff",
+      "name": "Sheriff",
+      "file": "Sheriff.json"
+    },
+    {
+      "id": "State Rep District 36",
+      "name": "State Rep District 36",
+      "file": "State Rep District 36.json"
+    },
+    {
+      "id": "State Rep District 37",
+      "name": "State Rep District 37",
+      "file": "State Rep District 37.json"
+    },
+    {
+      "id": "State Rep District 38",
+      "name": "State Rep District 38",
+      "file": "State Rep District 38.json"
+    },
+    {
+      "id": "State Rep District 39",
+      "name": "State Rep District 39",
+      "file": "State Rep District 39.json"
+    },
+    {
+      "id": "State Rep District 40",
+      "name": "State Rep District 40",
+      "file": "State Rep District 40.json"
+    },
+    {
+      "id": "State Senate District 6",
+      "name": "State Senate District 6",
+      "file": "State Senate District 6.json"
+    },
+    {
+      "id": "Village of New Lebanon Council ",
+      "name": "Village of New Lebanon Council ",
+      "file": "Village of New Lebanon Council .json"
+    },
+    {
+      "id": "Village of Phillipsburg - Additional 3 mills - 5 yrs",
+      "name": "Village of Phillipsburg - Additional 3 mills - 5 yrs",
+      "file": "Village of Phillipsburg - Additional 3 mills - 5 yrs.json"
+    },
+    {
+      "id": "Village of Verona Fire - Additional 4 mills - Cont.",
+      "name": "Village of Verona Fire - Additional 4 mills - Cont.",
+      "file": "Village of Verona Fire - Additional 4 mills - Cont..json"
+    },
+    {
+      "id": "Village of Verona Fire - Replacement 1 mill - 5 yrs",
+      "name": "Village of Verona Fire - Replacement 1 mill - 5 yrs",
+      "file": "Village of Verona Fire - Replacement 1 mill - 5 yrs.json"
+    }
+  ]
+}

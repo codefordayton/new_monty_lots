@@ -1,0 +1,26 @@
+{
+  "race": "Preble Shawnee Local School Board",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "GERTWP-A3",
+      "Karla F. Lynch": 21,
+      "Darrick Murphy": 18,
+      "Julia Singleton": 20,
+      "Total Votes Cast": 59,
+      "Overvotes": 0,
+      "Undervotes": 100,
+      "Contest Total": 159
+    },
+    {
+      "Precinct": "JAKTWP-B2",
+      "Karla F. Lynch": 0,
+      "Darrick Murphy": 0,
+      "Julia Singleton": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

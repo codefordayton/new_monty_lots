@@ -1,0 +1,206 @@
+{
+  "race": "Huber Heights Council at Large",
+  "precincts": 25,
+  "results": [
+    {
+      "Precinct": "HUB 1-A",
+      "Nancy L. Byrge": 119,
+      "Total Votes Cast": 119,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Nancy L. Byrge": 226,
+      "Total Votes Cast": 226,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 324
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Nancy L. Byrge": 121,
+      "Total Votes Cast": 121,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 189
+    },
+    {
+      "Precinct": "HUB 1-D1",
+      "Nancy L. Byrge": 171,
+      "Total Votes Cast": 171,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 251
+    },
+    {
+      "Precinct": "HUB 1-D2",
+      "Nancy L. Byrge": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Nancy L. Byrge": 176,
+      "Total Votes Cast": 176,
+      "Overvotes": 0,
+      "Undervotes": 86,
+      "Contest Total": 262
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Nancy L. Byrge": 198,
+      "Total Votes Cast": 198,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Nancy L. Byrge": 135,
+      "Total Votes Cast": 135,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 204
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Nancy L. Byrge": 82,
+      "Total Votes Cast": 82,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 121
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Nancy L. Byrge": 116,
+      "Total Votes Cast": 116,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Nancy L. Byrge": 148,
+      "Total Votes Cast": 148,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 228
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Nancy L. Byrge": 96,
+      "Total Votes Cast": 96,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 158
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Nancy L. Byrge": 140,
+      "Total Votes Cast": 140,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 197
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Nancy L. Byrge": 141,
+      "Total Votes Cast": 141,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Nancy L. Byrge": 117,
+      "Total Votes Cast": 117,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 195
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Nancy L. Byrge": 156,
+      "Total Votes Cast": 156,
+      "Overvotes": 0,
+      "Undervotes": 45,
+      "Contest Total": 201
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Nancy L. Byrge": 117,
+      "Total Votes Cast": 117,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 182
+    },
+    {
+      "Precinct": "HUB 5-B1",
+      "Nancy L. Byrge": 140,
+      "Total Votes Cast": 140,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 198
+    },
+    {
+      "Precinct": "HUB 5-B2",
+      "Nancy L. Byrge": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Nancy L. Byrge": 138,
+      "Total Votes Cast": 138,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 196
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Nancy L. Byrge": 118,
+      "Total Votes Cast": 118,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 167
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Nancy L. Byrge": 127,
+      "Total Votes Cast": 127,
+      "Overvotes": 0,
+      "Undervotes": 76,
+      "Contest Total": 203
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Nancy L. Byrge": 192,
+      "Total Votes Cast": 192,
+      "Overvotes": 0,
+      "Undervotes": 107,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Nancy L. Byrge": 204,
+      "Total Votes Cast": 204,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 292
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Nancy L. Byrge": 160,
+      "Total Votes Cast": 160,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 247
+    }
+  ]
+}

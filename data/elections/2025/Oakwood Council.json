@@ -1,0 +1,86 @@
+{
+  "race": "Oakwood Council",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "OAK-A",
+      "Sam Dorf": 221,
+      "Sarena Kelley": 194,
+      "Leigh S. Turben": 237,
+      "Total Votes Cast": 652,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "OAK-B",
+      "Sam Dorf": 237,
+      "Sarena Kelley": 238,
+      "Leigh S. Turben": 284,
+      "Total Votes Cast": 759,
+      "Overvotes": 0,
+      "Undervotes": 109,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "OAK-C",
+      "Sam Dorf": 219,
+      "Sarena Kelley": 167,
+      "Leigh S. Turben": 216,
+      "Total Votes Cast": 602,
+      "Overvotes": 0,
+      "Undervotes": 100,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-D",
+      "Sam Dorf": 218,
+      "Sarena Kelley": 179,
+      "Leigh S. Turben": 199,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 108,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "OAK-E",
+      "Sam Dorf": 248,
+      "Sarena Kelley": 164,
+      "Leigh S. Turben": 199,
+      "Total Votes Cast": 611,
+      "Overvotes": 0,
+      "Undervotes": 123,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "OAK-F",
+      "Sam Dorf": 314,
+      "Sarena Kelley": 238,
+      "Leigh S. Turben": 303,
+      "Total Votes Cast": 855,
+      "Overvotes": 0,
+      "Undervotes": 109,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "OAK-G",
+      "Sam Dorf": 203,
+      "Sarena Kelley": 221,
+      "Leigh S. Turben": 243,
+      "Total Votes Cast": 667,
+      "Overvotes": 0,
+      "Undervotes": 103,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "OAK-H",
+      "Sam Dorf": 154,
+      "Sarena Kelley": 187,
+      "Leigh S. Turben": 221,
+      "Total Votes Cast": 562,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 628
+    }
+  ]
+}

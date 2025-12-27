@@ -1,0 +1,336 @@
+{
+  "race": "Northmont School Board",
+  "precincts": 33,
+  "results": [
+    {
+      "Precinct": "CLATWP-A",
+      "Linda Blum": 94,
+      "Chris Pulos": 87,
+      "Jane A. Woodie": 103,
+      "Total Votes Cast": 284,
+      "Overvotes": 0,
+      "Undervotes": 400,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "CLATWP-B2",
+      "Linda Blum": 9,
+      "Chris Pulos": 8,
+      "Jane A. Woodie": 8,
+      "Total Votes Cast": 25,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 54
+    },
+    {
+      "Precinct": "CLATWP-C3",
+      "Linda Blum": 39,
+      "Chris Pulos": 33,
+      "Jane A. Woodie": 34,
+      "Total Votes Cast": 106,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 273
+    },
+    {
+      "Precinct": "CTN 1-A1",
+      "Linda Blum": 161,
+      "Chris Pulos": 152,
+      "Jane A. Woodie": 161,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 636,
+      "Contest Total": 1110
+    },
+    {
+      "Precinct": "CTN 1-A2",
+      "Linda Blum": 1,
+      "Chris Pulos": 2,
+      "Jane A. Woodie": 1,
+      "Total Votes Cast": 4,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 6
+    },
+    {
+      "Precinct": "CTN 1-B1",
+      "Linda Blum": 41,
+      "Chris Pulos": 30,
+      "Jane A. Woodie": 31,
+      "Total Votes Cast": 102,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 207
+    },
+    {
+      "Precinct": "CTN 1-B3",
+      "Linda Blum": 177,
+      "Chris Pulos": 154,
+      "Jane A. Woodie": 158,
+      "Total Votes Cast": 489,
+      "Overvotes": 0,
+      "Undervotes": 444,
+      "Contest Total": 933
+    },
+    {
+      "Precinct": "CTN 1-C1",
+      "Linda Blum": 231,
+      "Chris Pulos": 215,
+      "Jane A. Woodie": 233,
+      "Total Votes Cast": 679,
+      "Overvotes": 0,
+      "Undervotes": 647,
+      "Contest Total": 1326
+    },
+    {
+      "Precinct": "CTN 1-C2",
+      "Linda Blum": 12,
+      "Chris Pulos": 10,
+      "Jane A. Woodie": 11,
+      "Total Votes Cast": 33,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 63
+    },
+    {
+      "Precinct": "CTN 1-D1",
+      "Linda Blum": 145,
+      "Chris Pulos": 119,
+      "Jane A. Woodie": 119,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 334,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Linda Blum": 132,
+      "Chris Pulos": 123,
+      "Jane A. Woodie": 123,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 345,
+      "Contest Total": 723
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Linda Blum": 222,
+      "Chris Pulos": 198,
+      "Jane A. Woodie": 200,
+      "Total Votes Cast": 620,
+      "Overvotes": 0,
+      "Undervotes": 421,
+      "Contest Total": 1041
+    },
+    {
+      "Precinct": "CTN 2-C1",
+      "Linda Blum": 216,
+      "Chris Pulos": 175,
+      "Jane A. Woodie": 200,
+      "Total Votes Cast": 591,
+      "Overvotes": 0,
+      "Undervotes": 459,
+      "Contest Total": 1050
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Linda Blum": 247,
+      "Chris Pulos": 196,
+      "Jane A. Woodie": 212,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 545,
+      "Contest Total": 1200
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Linda Blum": 212,
+      "Chris Pulos": 186,
+      "Jane A. Woodie": 193,
+      "Total Votes Cast": 591,
+      "Overvotes": 0,
+      "Undervotes": 477,
+      "Contest Total": 1068
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Linda Blum": 143,
+      "Chris Pulos": 122,
+      "Jane A. Woodie": 132,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "ENG-A",
+      "Linda Blum": 217,
+      "Chris Pulos": 186,
+      "Jane A. Woodie": 194,
+      "Total Votes Cast": 597,
+      "Overvotes": 0,
+      "Undervotes": 387,
+      "Contest Total": 984
+    },
+    {
+      "Precinct": "ENG-B",
+      "Linda Blum": 155,
+      "Chris Pulos": 131,
+      "Jane A. Woodie": 140,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 351,
+      "Contest Total": 777
+    },
+    {
+      "Precinct": "ENG-C",
+      "Linda Blum": 143,
+      "Chris Pulos": 120,
+      "Jane A. Woodie": 125,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 633
+    },
+    {
+      "Precinct": "ENG-D",
+      "Linda Blum": 170,
+      "Chris Pulos": 159,
+      "Jane A. Woodie": 167,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 272,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "ENG-E",
+      "Linda Blum": 203,
+      "Chris Pulos": 158,
+      "Jane A. Woodie": 181,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 343,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-F",
+      "Linda Blum": 149,
+      "Chris Pulos": 137,
+      "Jane A. Woodie": 161,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 279,
+      "Contest Total": 726
+    },
+    {
+      "Precinct": "ENG-G",
+      "Linda Blum": 192,
+      "Chris Pulos": 157,
+      "Jane A. Woodie": 180,
+      "Total Votes Cast": 529,
+      "Overvotes": 0,
+      "Undervotes": 347,
+      "Contest Total": 876
+    },
+    {
+      "Precinct": "ENG-H",
+      "Linda Blum": 137,
+      "Chris Pulos": 106,
+      "Jane A. Woodie": 121,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 266,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "ENG-I",
+      "Linda Blum": 137,
+      "Chris Pulos": 118,
+      "Jane A. Woodie": 125,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 208,
+      "Contest Total": 588
+    },
+    {
+      "Precinct": "ENG-J",
+      "Linda Blum": 154,
+      "Chris Pulos": 117,
+      "Jane A. Woodie": 134,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 276,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "PHBG",
+      "Linda Blum": 39,
+      "Chris Pulos": 39,
+      "Jane A. Woodie": 55,
+      "Total Votes Cast": 133,
+      "Overvotes": 0,
+      "Undervotes": 134,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "TR 1-B2",
+      "Linda Blum": 14,
+      "Chris Pulos": 10,
+      "Jane A. Woodie": 12,
+      "Total Votes Cast": 36,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 66
+    },
+    {
+      "Precinct": "UN-A",
+      "Linda Blum": 90,
+      "Chris Pulos": 80,
+      "Jane A. Woodie": 77,
+      "Total Votes Cast": 247,
+      "Overvotes": 0,
+      "Undervotes": 248,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "UN-B",
+      "Linda Blum": 170,
+      "Chris Pulos": 137,
+      "Jane A. Woodie": 147,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 410,
+      "Contest Total": 864
+    },
+    {
+      "Precinct": "UN-C1",
+      "Linda Blum": 117,
+      "Chris Pulos": 98,
+      "Jane A. Woodie": 107,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 341,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "UN-D",
+      "Linda Blum": 215,
+      "Chris Pulos": 187,
+      "Jane A. Woodie": 206,
+      "Total Votes Cast": 608,
+      "Overvotes": 0,
+      "Undervotes": 475,
+      "Contest Total": 1083
+    },
+    {
+      "Precinct": "UN-E",
+      "Linda Blum": 137,
+      "Chris Pulos": 125,
+      "Jane A. Woodie": 127,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 415,
+      "Contest Total": 804
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "race": "Riverside Police - Renewal 4.95 mills - 5 yrs",
+  "precincts": 17,
+  "results": [
+    {
+      "Precinct": "PM",
+      "Yes": 252,
+      "No": 210,
+      "Total Votes Cast": 462,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-A",
+      "Yes": 381,
+      "No": 254,
+      "Total Votes Cast": 635,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "RV-B",
+      "Yes": 215,
+      "No": 291,
+      "Total Votes Cast": 506,
+      "Overvotes": 1,
+      "Undervotes": 53,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Yes": 312,
+      "No": 334,
+      "Total Votes Cast": 646,
+      "Overvotes": 1,
+      "Undervotes": 61,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Yes": 343,
+      "No": 327,
+      "Total Votes Cast": 670,
+      "Overvotes": 1,
+      "Undervotes": 57,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Yes": 232,
+      "No": 335,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 619
+    },
+    {
+      "Precinct": "RV-F",
+      "Yes": 315,
+      "No": 238,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Yes": 244,
+      "No": 250,
+      "Total Votes Cast": 494,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "RV-H",
+      "Yes": 162,
+      "No": 156,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 360
+    },
+    {
+      "Precinct": "RV-I",
+      "Yes": 239,
+      "No": 245,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Yes": 238,
+      "No": 235,
+      "Total Votes Cast": 473,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Yes": 367,
+      "No": 276,
+      "Total Votes Cast": 643,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 690
+    },
+    {
+      "Precinct": "RV-L",
+      "Yes": 160,
+      "No": 211,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 420
+    },
+    {
+      "Precinct": "RV-M",
+      "Yes": 367,
+      "No": 299,
+      "Total Votes Cast": 666,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 714
+    },
+    {
+      "Precinct": "RV-N",
+      "Yes": 211,
+      "No": 244,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Yes": 330,
+      "No": 329,
+      "Total Votes Cast": 659,
+      "Overvotes": 1,
+      "Undervotes": 56,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-P",
+      "Yes": 349,
+      "No": 360,
+      "Total Votes Cast": 709,
+      "Overvotes": 1,
+      "Undervotes": 46,
+      "Contest Total": 756
+    }
+  ]
+}

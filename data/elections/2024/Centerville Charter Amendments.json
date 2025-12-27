@@ -1,0 +1,168 @@
+{
+  "race": "Centerville Charter Amendments",
+  "precincts": 18,
+  "results": [
+    {
+      "Precinct": "CV-A",
+      "Yes": 290,
+      "No": 197,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 148,
+      "Contest Total": 635
+    },
+    {
+      "Precinct": "CV-B",
+      "Yes": 395,
+      "No": 332,
+      "Total Votes Cast": 727,
+      "Overvotes": 1,
+      "Undervotes": 152,
+      "Contest Total": 880
+    },
+    {
+      "Precinct": "CV-C",
+      "Yes": 225,
+      "No": 234,
+      "Total Votes Cast": 459,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 564
+    },
+    {
+      "Precinct": "CV-D",
+      "Yes": 274,
+      "No": 252,
+      "Total Votes Cast": 526,
+      "Overvotes": 0,
+      "Undervotes": 122,
+      "Contest Total": 648
+    },
+    {
+      "Precinct": "CV-E",
+      "Yes": 359,
+      "No": 316,
+      "Total Votes Cast": 675,
+      "Overvotes": 0,
+      "Undervotes": 140,
+      "Contest Total": 815
+    },
+    {
+      "Precinct": "CV-F",
+      "Yes": 376,
+      "No": 394,
+      "Total Votes Cast": 770,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "CV-G",
+      "Yes": 426,
+      "No": 396,
+      "Total Votes Cast": 822,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 1002
+    },
+    {
+      "Precinct": "CV-H",
+      "Yes": 458,
+      "No": 354,
+      "Total Votes Cast": 812,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-I",
+      "Yes": 472,
+      "No": 444,
+      "Total Votes Cast": 916,
+      "Overvotes": 0,
+      "Undervotes": 171,
+      "Contest Total": 1087
+    },
+    {
+      "Precinct": "CV-J",
+      "Yes": 361,
+      "No": 393,
+      "Total Votes Cast": 754,
+      "Overvotes": 0,
+      "Undervotes": 160,
+      "Contest Total": 914
+    },
+    {
+      "Precinct": "CV-K",
+      "Yes": 382,
+      "No": 406,
+      "Total Votes Cast": 788,
+      "Overvotes": 0,
+      "Undervotes": 155,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Yes": 406,
+      "No": 441,
+      "Total Votes Cast": 847,
+      "Overvotes": 0,
+      "Undervotes": 185,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Yes": 336,
+      "No": 376,
+      "Total Votes Cast": 712,
+      "Overvotes": 0,
+      "Undervotes": 147,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "CV-N",
+      "Yes": 390,
+      "No": 234,
+      "Total Votes Cast": 624,
+      "Overvotes": 0,
+      "Undervotes": 153,
+      "Contest Total": 777
+    },
+    {
+      "Precinct": "CV-O",
+      "Yes": 500,
+      "No": 416,
+      "Total Votes Cast": 916,
+      "Overvotes": 0,
+      "Undervotes": 187,
+      "Contest Total": 1103
+    },
+    {
+      "Precinct": "CV-P",
+      "Yes": 418,
+      "No": 391,
+      "Total Votes Cast": 809,
+      "Overvotes": 0,
+      "Undervotes": 154,
+      "Contest Total": 963
+    },
+    {
+      "Precinct": "CV-Q",
+      "Yes": 397,
+      "No": 317,
+      "Total Votes Cast": 714,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Yes": 351,
+      "No": 366,
+      "Total Votes Cast": 717,
+      "Overvotes": 0,
+      "Undervotes": 163,
+      "Contest Total": 880
+    }
+  ]
+}

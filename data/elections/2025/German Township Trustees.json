@@ -1,0 +1,116 @@
+{
+  "race": "German Township Trustees",
+  "precincts": 11,
+  "results": [
+    {
+      "Precinct": "GERTWP-A1",
+      "Isaac Morton": 117,
+      "Jim Rowland": 98,
+      "Jake Stubbs": 180,
+      "Total Votes Cast": 395,
+      "Overvotes": 2,
+      "Undervotes": 139,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "GERTWP-A2",
+      "Isaac Morton": 16,
+      "Jim Rowland": 15,
+      "Jake Stubbs": 15,
+      "Total Votes Cast": 46,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 74
+    },
+    {
+      "Precinct": "GERTWP-A3",
+      "Isaac Morton": 24,
+      "Jim Rowland": 22,
+      "Jake Stubbs": 29,
+      "Total Votes Cast": 75,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 106
+    },
+    {
+      "Precinct": "GERTWP-B1",
+      "Isaac Morton": 118,
+      "Jim Rowland": 158,
+      "Jake Stubbs": 192,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 648
+    },
+    {
+      "Precinct": "GERTWP-B2",
+      "Isaac Morton": 10,
+      "Jim Rowland": 1,
+      "Jake Stubbs": 3,
+      "Total Votes Cast": 14,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 24
+    },
+    {
+      "Precinct": "GTN-A",
+      "Isaac Morton": 92,
+      "Jim Rowland": 151,
+      "Jake Stubbs": 184,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 173,
+      "Contest Total": 600
+    },
+    {
+      "Precinct": "GTN-B",
+      "Isaac Morton": 51,
+      "Jim Rowland": 61,
+      "Jake Stubbs": 85,
+      "Total Votes Cast": 197,
+      "Overvotes": 0,
+      "Undervotes": 97,
+      "Contest Total": 294
+    },
+    {
+      "Precinct": "GTN-C1",
+      "Isaac Morton": 100,
+      "Jim Rowland": 137,
+      "Jake Stubbs": 162,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 568
+    },
+    {
+      "Precinct": "GTN-C2",
+      "Isaac Morton": 0,
+      "Jim Rowland": 0,
+      "Jake Stubbs": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "GTN-D1",
+      "Isaac Morton": 71,
+      "Jim Rowland": 106,
+      "Jake Stubbs": 137,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 158,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "GTN-D2",
+      "Isaac Morton": 0,
+      "Jim Rowland": 0,
+      "Jake Stubbs": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

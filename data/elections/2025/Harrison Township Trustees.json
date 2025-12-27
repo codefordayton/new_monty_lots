@@ -1,0 +1,186 @@
+{
+  "race": "Harrison Township Trustees",
+  "precincts": 18,
+  "results": [
+    {
+      "Precinct": "DAY 3-G4",
+      "Clinton Ball": 0,
+      "Georgeann Godsey": 0,
+      "Roland Winburn": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 16-C2",
+      "Clinton Ball": 0,
+      "Georgeann Godsey": 0,
+      "Roland Winburn": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 18-B2",
+      "Clinton Ball": 1,
+      "Georgeann Godsey": 1,
+      "Roland Winburn": 2,
+      "Total Votes Cast": 4,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 6
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Clinton Ball": 55,
+      "Georgeann Godsey": 55,
+      "Roland Winburn": 40,
+      "Total Votes Cast": 150,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 196
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Clinton Ball": 100,
+      "Georgeann Godsey": 49,
+      "Roland Winburn": 48,
+      "Total Votes Cast": 197,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 274
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Clinton Ball": 61,
+      "Georgeann Godsey": 40,
+      "Roland Winburn": 39,
+      "Total Votes Cast": 140,
+      "Overvotes": 2,
+      "Undervotes": 56,
+      "Contest Total": 198
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Clinton Ball": 97,
+      "Georgeann Godsey": 163,
+      "Roland Winburn": 193,
+      "Total Votes Cast": 453,
+      "Overvotes": 0,
+      "Undervotes": 173,
+      "Contest Total": 626
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Clinton Ball": 31,
+      "Georgeann Godsey": 37,
+      "Roland Winburn": 28,
+      "Total Votes Cast": 96,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 130
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Clinton Ball": 21,
+      "Georgeann Godsey": 68,
+      "Roland Winburn": 100,
+      "Total Votes Cast": 189,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 256
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Clinton Ball": 53,
+      "Georgeann Godsey": 85,
+      "Roland Winburn": 128,
+      "Total Votes Cast": 266,
+      "Overvotes": 0,
+      "Undervotes": 112,
+      "Contest Total": 378
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Clinton Ball": 48,
+      "Georgeann Godsey": 99,
+      "Roland Winburn": 103,
+      "Total Votes Cast": 250,
+      "Overvotes": 0,
+      "Undervotes": 108,
+      "Contest Total": 358
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Clinton Ball": 31,
+      "Georgeann Godsey": 72,
+      "Roland Winburn": 91,
+      "Total Votes Cast": 194,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 274
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Clinton Ball": 58,
+      "Georgeann Godsey": 89,
+      "Roland Winburn": 167,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 114,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Clinton Ball": 34,
+      "Georgeann Godsey": 53,
+      "Roland Winburn": 79,
+      "Total Votes Cast": 166,
+      "Overvotes": 0,
+      "Undervotes": 82,
+      "Contest Total": 248
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Clinton Ball": 72,
+      "Georgeann Godsey": 174,
+      "Roland Winburn": 258,
+      "Total Votes Cast": 504,
+      "Overvotes": 0,
+      "Undervotes": 178,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Clinton Ball": 85,
+      "Georgeann Godsey": 152,
+      "Roland Winburn": 286,
+      "Total Votes Cast": 523,
+      "Overvotes": 0,
+      "Undervotes": 225,
+      "Contest Total": 748
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Clinton Ball": 98,
+      "Georgeann Godsey": 32,
+      "Roland Winburn": 35,
+      "Total Votes Cast": 165,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 244
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Clinton Ball": 53,
+      "Georgeann Godsey": 138,
+      "Roland Winburn": 211,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 152,
+      "Contest Total": 554
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "race": "Tri-County North Local School Board UTE 123127",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "CLATWP-C2",
+      "Aaron Michael Fritz": 30,
+      "Total Votes Cast": 30,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 55
+    },
+    {
+      "Precinct": "CLATWP-C4",
+      "Aaron Michael Fritz": 6,
+      "Total Votes Cast": 6,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 10
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "race": "Perry Township Trustees",
+  "precincts": 9,
+  "results": [
+    {
+      "Precinct": "BRK-D1",
+      "Albert Acker": 96,
+      "Blaine Heeter": 88,
+      "Johnston Hayes": 33,
+      "Robin L. Lewis": 33,
+      "Jessica Miller": 63,
+      "Total Votes Cast": 313,
+      "Overvotes": 2,
+      "Undervotes": 117,
+      "Contest Total": 432
+    },
+    {
+      "Precinct": "BRK-D2",
+      "Albert Acker": 3,
+      "Blaine Heeter": 1,
+      "Johnston Hayes": 2,
+      "Robin L. Lewis": 0,
+      "Jessica Miller": 0,
+      "Total Votes Cast": 6,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 6
+    },
+    {
+      "Precinct": "PERTWP-A1",
+      "Albert Acker": 68,
+      "Blaine Heeter": 101,
+      "Johnston Hayes": 45,
+      "Robin L. Lewis": 25,
+      "Jessica Miller": 35,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 346
+    },
+    {
+      "Precinct": "PERTWP-A2",
+      "Albert Acker": 11,
+      "Blaine Heeter": 33,
+      "Johnston Hayes": 21,
+      "Robin L. Lewis": 10,
+      "Jessica Miller": 9,
+      "Total Votes Cast": 84,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 98
+    },
+    {
+      "Precinct": "PERTWP-B1",
+      "Albert Acker": 122,
+      "Blaine Heeter": 132,
+      "Johnston Hayes": 62,
+      "Robin L. Lewis": 44,
+      "Jessica Miller": 50,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "PERTWP-B2",
+      "Albert Acker": 3,
+      "Blaine Heeter": 8,
+      "Johnston Hayes": 6,
+      "Robin L. Lewis": 6,
+      "Jessica Miller": 3,
+      "Total Votes Cast": 26,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 38
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Albert Acker": 130,
+      "Blaine Heeter": 106,
+      "Johnston Hayes": 50,
+      "Robin L. Lewis": 78,
+      "Jessica Miller": 59,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 107,
+      "Contest Total": 530
+    },
+    {
+      "Precinct": "PNLB1",
+      "Albert Acker": 35,
+      "Blaine Heeter": 25,
+      "Johnston Hayes": 26,
+      "Robin L. Lewis": 31,
+      "Jessica Miller": 46,
+      "Total Votes Cast": 163,
+      "Overvotes": 0,
+      "Undervotes": 81,
+      "Contest Total": 244
+    },
+    {
+      "Precinct": "PNLB2",
+      "Albert Acker": 0,
+      "Blaine Heeter": 0,
+      "Johnston Hayes": 0,
+      "Robin L. Lewis": 0,
+      "Jessica Miller": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

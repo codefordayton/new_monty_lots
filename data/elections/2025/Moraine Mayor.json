@@ -1,0 +1,78 @@
+{
+  "race": "Moraine Mayor",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "MOR 1-A1",
+      "Teri Murphy": 10,
+      "Erica Watts": 21,
+      "Total Votes Cast": 31,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 34
+    },
+    {
+      "Precinct": "MOR 1-A2",
+      "Teri Murphy": 18,
+      "Erica Watts": 9,
+      "Total Votes Cast": 27,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 29
+    },
+    {
+      "Precinct": "MOR 2-A1",
+      "Teri Murphy": 83,
+      "Erica Watts": 77,
+      "Total Votes Cast": 160,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 163
+    },
+    {
+      "Precinct": "MOR 2-A2",
+      "Teri Murphy": 36,
+      "Erica Watts": 18,
+      "Total Votes Cast": 54,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 68
+    },
+    {
+      "Precinct": "MOR 3-A1",
+      "Teri Murphy": 54,
+      "Erica Watts": 63,
+      "Total Votes Cast": 117,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 121
+    },
+    {
+      "Precinct": "MOR 3-A2",
+      "Teri Murphy": 0,
+      "Erica Watts": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Teri Murphy": 44,
+      "Erica Watts": 27,
+      "Total Votes Cast": 71,
+      "Overvotes": 0,
+      "Undervotes": 5,
+      "Contest Total": 76
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Teri Murphy": 14,
+      "Erica Watts": 23,
+      "Total Votes Cast": 37,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 46
+    }
+  ]
+}

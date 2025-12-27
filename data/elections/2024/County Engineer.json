@@ -1,0 +1,3054 @@
+{
+  "race": "County Engineer",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Andrew J. Shahan (DEM)": 488,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 435,
+      "Contest Total": 923
+    },
+    {
+      "Precinct": "BRK-B",
+      "Andrew J. Shahan (DEM)": 354,
+      "Total Votes Cast": 354,
+      "Overvotes": 0,
+      "Undervotes": 345,
+      "Contest Total": 699
+    },
+    {
+      "Precinct": "BRK-C",
+      "Andrew J. Shahan (DEM)": 428,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 483,
+      "Contest Total": 911
+    },
+    {
+      "Precinct": "BRK-D",
+      "Andrew J. Shahan (DEM)": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 435,
+      "Contest Total": 784
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Andrew J. Shahan (DEM)": 414,
+      "Total Votes Cast": 414,
+      "Overvotes": 0,
+      "Undervotes": 415,
+      "Contest Total": 829
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Andrew J. Shahan (DEM)": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Andrew J. Shahan (DEM)": 492,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 433,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Andrew J. Shahan (DEM)": 500,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 361,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Andrew J. Shahan (DEM)": 361,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 236,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Andrew J. Shahan (DEM)": 356,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 331,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Andrew J. Shahan (DEM)": 314,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 207,
+      "Contest Total": 521
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Andrew J. Shahan (DEM)": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 319,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Andrew J. Shahan (DEM)": 282,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 338,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Andrew J. Shahan (DEM)": 380,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 551,
+      "Contest Total": 931
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Andrew J. Shahan (DEM)": 299,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Andrew J. Shahan (DEM)": 455,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 238,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Andrew J. Shahan (DEM)": 533,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 408,
+      "Contest Total": 941
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Andrew J. Shahan (DEM)": 424,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 599
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Andrew J. Shahan (DEM)": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 238,
+      "Contest Total": 655
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Andrew J. Shahan (DEM)": 592,
+      "Total Votes Cast": 592,
+      "Overvotes": 0,
+      "Undervotes": 266,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Andrew J. Shahan (DEM)": 623,
+      "Total Votes Cast": 623,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 897
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Andrew J. Shahan (DEM)": 561,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 302,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Andrew J. Shahan (DEM)": 546,
+      "Total Votes Cast": 546,
+      "Overvotes": 0,
+      "Undervotes": 282,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Andrew J. Shahan (DEM)": 530,
+      "Total Votes Cast": 530,
+      "Overvotes": 0,
+      "Undervotes": 208,
+      "Contest Total": 738
+    },
+    {
+      "Precinct": "CV-A",
+      "Andrew J. Shahan (DEM)": 432,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 206,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "CV-B",
+      "Andrew J. Shahan (DEM)": 496,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 385,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-C",
+      "Andrew J. Shahan (DEM)": 303,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 262,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "CV-D",
+      "Andrew J. Shahan (DEM)": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 259,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-E",
+      "Andrew J. Shahan (DEM)": 448,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 371,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "CV-F",
+      "Andrew J. Shahan (DEM)": 508,
+      "Total Votes Cast": 508,
+      "Overvotes": 0,
+      "Undervotes": 428,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "CV-G",
+      "Andrew J. Shahan (DEM)": 586,
+      "Total Votes Cast": 586,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 1005
+    },
+    {
+      "Precinct": "CV-H",
+      "Andrew J. Shahan (DEM)": 581,
+      "Total Votes Cast": 581,
+      "Overvotes": 0,
+      "Undervotes": 428,
+      "Contest Total": 1009
+    },
+    {
+      "Precinct": "CV-I",
+      "Andrew J. Shahan (DEM)": 575,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 516,
+      "Contest Total": 1091
+    },
+    {
+      "Precinct": "CV-J",
+      "Andrew J. Shahan (DEM)": 496,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "CV-K",
+      "Andrew J. Shahan (DEM)": 532,
+      "Total Votes Cast": 532,
+      "Overvotes": 0,
+      "Undervotes": 411,
+      "Contest Total": 943
+    },
+    {
+      "Precinct": "CV-L",
+      "Andrew J. Shahan (DEM)": 572,
+      "Total Votes Cast": 572,
+      "Overvotes": 0,
+      "Undervotes": 460,
+      "Contest Total": 1032
+    },
+    {
+      "Precinct": "CV-M",
+      "Andrew J. Shahan (DEM)": 498,
+      "Total Votes Cast": 498,
+      "Overvotes": 0,
+      "Undervotes": 365,
+      "Contest Total": 863
+    },
+    {
+      "Precinct": "CV-N",
+      "Andrew J. Shahan (DEM)": 461,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 321,
+      "Contest Total": 782
+    },
+    {
+      "Precinct": "CV-O",
+      "Andrew J. Shahan (DEM)": 636,
+      "Total Votes Cast": 636,
+      "Overvotes": 0,
+      "Undervotes": 470,
+      "Contest Total": 1106
+    },
+    {
+      "Precinct": "CV-P",
+      "Andrew J. Shahan (DEM)": 549,
+      "Total Votes Cast": 549,
+      "Overvotes": 0,
+      "Undervotes": 415,
+      "Contest Total": 964
+    },
+    {
+      "Precinct": "CV-Q",
+      "Andrew J. Shahan (DEM)": 495,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "CV-R",
+      "Andrew J. Shahan (DEM)": 513,
+      "Total Votes Cast": 513,
+      "Overvotes": 0,
+      "Undervotes": 368,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Andrew J. Shahan (DEM)": 123,
+      "Total Votes Cast": 123,
+      "Overvotes": 0,
+      "Undervotes": 90,
+      "Contest Total": 213
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Andrew J. Shahan (DEM)": 539,
+      "Total Votes Cast": 539,
+      "Overvotes": 0,
+      "Undervotes": 200,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Andrew J. Shahan (DEM)": 404,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 118,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Andrew J. Shahan (DEM)": 235,
+      "Total Votes Cast": 235,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Andrew J. Shahan (DEM)": 464,
+      "Total Votes Cast": 464,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 641
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Andrew J. Shahan (DEM)": 257,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 186,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Andrew J. Shahan (DEM)": 364,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 147,
+      "Contest Total": 511
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Andrew J. Shahan (DEM)": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Andrew J. Shahan (DEM)": 228,
+      "Total Votes Cast": 228,
+      "Overvotes": 0,
+      "Undervotes": 162,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Andrew J. Shahan (DEM)": 145,
+      "Total Votes Cast": 145,
+      "Overvotes": 0,
+      "Undervotes": 126,
+      "Contest Total": 271
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Andrew J. Shahan (DEM)": 216,
+      "Total Votes Cast": 216,
+      "Overvotes": 0,
+      "Undervotes": 172,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Andrew J. Shahan (DEM)": 547,
+      "Total Votes Cast": 547,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 901
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Andrew J. Shahan (DEM)": 302,
+      "Total Votes Cast": 302,
+      "Overvotes": 0,
+      "Undervotes": 197,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Andrew J. Shahan (DEM)": 173,
+      "Total Votes Cast": 173,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 277
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Andrew J. Shahan (DEM)": 454,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 275,
+      "Contest Total": 729
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Andrew J. Shahan (DEM)": 253,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 231,
+      "Contest Total": 484
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Andrew J. Shahan (DEM)": 269,
+      "Total Votes Cast": 269,
+      "Overvotes": 0,
+      "Undervotes": 230,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Andrew J. Shahan (DEM)": 539,
+      "Total Votes Cast": 539,
+      "Overvotes": 0,
+      "Undervotes": 307,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Andrew J. Shahan (DEM)": 421,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 719
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Andrew J. Shahan (DEM)": 564,
+      "Total Votes Cast": 564,
+      "Overvotes": 0,
+      "Undervotes": 330,
+      "Contest Total": 894
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Andrew J. Shahan (DEM)": 474,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 345,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Andrew J. Shahan (DEM)": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 96,
+      "Contest Total": 513
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Andrew J. Shahan (DEM)": 308,
+      "Total Votes Cast": 308,
+      "Overvotes": 0,
+      "Undervotes": 90,
+      "Contest Total": 398
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Andrew J. Shahan (DEM)": 321,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 108,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Andrew J. Shahan (DEM)": 298,
+      "Total Votes Cast": 298,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Andrew J. Shahan (DEM)": 319,
+      "Total Votes Cast": 319,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Andrew J. Shahan (DEM)": 253,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 68,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Andrew J. Shahan (DEM)": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Andrew J. Shahan (DEM)": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 446
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Andrew J. Shahan (DEM)": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Andrew J. Shahan (DEM)": 331,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 388
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Andrew J. Shahan (DEM)": 325,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 380
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Andrew J. Shahan (DEM)": 261,
+      "Total Votes Cast": 261,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Andrew J. Shahan (DEM)": 434,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 704
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Andrew J. Shahan (DEM)": 468,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 677
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Andrew J. Shahan (DEM)": 457,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 235,
+      "Contest Total": 692
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Andrew J. Shahan (DEM)": 422,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 676
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Andrew J. Shahan (DEM)": 547,
+      "Total Votes Cast": 547,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Andrew J. Shahan (DEM)": 497,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 299,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Andrew J. Shahan (DEM)": 538,
+      "Total Votes Cast": 538,
+      "Overvotes": 0,
+      "Undervotes": 328,
+      "Contest Total": 866
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Andrew J. Shahan (DEM)": 424,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 246,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Andrew J. Shahan (DEM)": 365,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 226,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Andrew J. Shahan (DEM)": 267,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 504
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Andrew J. Shahan (DEM)": 302,
+      "Total Votes Cast": 302,
+      "Overvotes": 0,
+      "Undervotes": 178,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Andrew J. Shahan (DEM)": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 266,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Andrew J. Shahan (DEM)": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 533
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Andrew J. Shahan (DEM)": 238,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 144,
+      "Contest Total": 382
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Andrew J. Shahan (DEM)": 253,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 178,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Andrew J. Shahan (DEM)": 299,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 134,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Andrew J. Shahan (DEM)": 337,
+      "Total Votes Cast": 337,
+      "Overvotes": 0,
+      "Undervotes": 257,
+      "Contest Total": 594
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Andrew J. Shahan (DEM)": 263,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 202,
+      "Contest Total": 465
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Andrew J. Shahan (DEM)": 439,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 252,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Andrew J. Shahan (DEM)": 312,
+      "Total Votes Cast": 312,
+      "Overvotes": 0,
+      "Undervotes": 146,
+      "Contest Total": 458
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Andrew J. Shahan (DEM)": 348,
+      "Total Votes Cast": 348,
+      "Overvotes": 0,
+      "Undervotes": 183,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Andrew J. Shahan (DEM)": 242,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 163,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Andrew J. Shahan (DEM)": 362,
+      "Total Votes Cast": 362,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 426
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Andrew J. Shahan (DEM)": 227,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 267
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Andrew J. Shahan (DEM)": 437,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Andrew J. Shahan (DEM)": 178,
+      "Total Votes Cast": 178,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 205
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Andrew J. Shahan (DEM)": 250,
+      "Total Votes Cast": 250,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 302
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Andrew J. Shahan (DEM)": 501,
+      "Total Votes Cast": 501,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Andrew J. Shahan (DEM)": 403,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 473
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Andrew J. Shahan (DEM)": 472,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 536
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Andrew J. Shahan (DEM)": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Andrew J. Shahan (DEM)": 382,
+      "Total Votes Cast": 382,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 448
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Andrew J. Shahan (DEM)": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Andrew J. Shahan (DEM)": 308,
+      "Total Votes Cast": 308,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 350
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Andrew J. Shahan (DEM)": 337,
+      "Total Votes Cast": 337,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Andrew J. Shahan (DEM)": 660,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 92,
+      "Contest Total": 752
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Andrew J. Shahan (DEM)": 396,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 451
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Andrew J. Shahan (DEM)": 280,
+      "Total Votes Cast": 280,
+      "Overvotes": 0,
+      "Undervotes": 67,
+      "Contest Total": 347
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Andrew J. Shahan (DEM)": 366,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 100,
+      "Contest Total": 466
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Andrew J. Shahan (DEM)": 420,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 495
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Andrew J. Shahan (DEM)": 257,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 313
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Andrew J. Shahan (DEM)": 281,
+      "Total Votes Cast": 281,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 337
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Andrew J. Shahan (DEM)": 465,
+      "Total Votes Cast": 465,
+      "Overvotes": 0,
+      "Undervotes": 106,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Andrew J. Shahan (DEM)": 337,
+      "Total Votes Cast": 337,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Andrew J. Shahan (DEM)": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 83,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Andrew J. Shahan (DEM)": 179,
+      "Total Votes Cast": 179,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 202
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Andrew J. Shahan (DEM)": 439,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Andrew J. Shahan (DEM)": 340,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Andrew J. Shahan (DEM)": 453,
+      "Total Votes Cast": 453,
+      "Overvotes": 0,
+      "Undervotes": 360,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Andrew J. Shahan (DEM)": 485,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 389,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Andrew J. Shahan (DEM)": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 246,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Andrew J. Shahan (DEM)": 320,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 300,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Andrew J. Shahan (DEM)": 321,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 374
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Andrew J. Shahan (DEM)": 328,
+      "Total Votes Cast": 328,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 372
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Andrew J. Shahan (DEM)": 499,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 573
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Andrew J. Shahan (DEM)": 616,
+      "Total Votes Cast": 616,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Andrew J. Shahan (DEM)": 472,
+      "Total Votes Cast": 472,
+      "Overvotes": 0,
+      "Undervotes": 84,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Andrew J. Shahan (DEM)": 712,
+      "Total Votes Cast": 712,
+      "Overvotes": 0,
+      "Undervotes": 100,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Andrew J. Shahan (DEM)": 409,
+      "Total Votes Cast": 409,
+      "Overvotes": 0,
+      "Undervotes": 147,
+      "Contest Total": 556
+    },
+    {
+      "Precinct": "ENG-A",
+      "Andrew J. Shahan (DEM)": 558,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 275,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "ENG-B",
+      "Andrew J. Shahan (DEM)": 458,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 317,
+      "Contest Total": 775
+    },
+    {
+      "Precinct": "ENG-C",
+      "Andrew J. Shahan (DEM)": 490,
+      "Total Votes Cast": 490,
+      "Overvotes": 0,
+      "Undervotes": 247,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "ENG-D",
+      "Andrew J. Shahan (DEM)": 539,
+      "Total Votes Cast": 539,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "ENG-E",
+      "Andrew J. Shahan (DEM)": 574,
+      "Total Votes Cast": 574,
+      "Overvotes": 0,
+      "Undervotes": 278,
+      "Contest Total": 852
+    },
+    {
+      "Precinct": "ENG-F",
+      "Andrew J. Shahan (DEM)": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 308,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "ENG-G",
+      "Andrew J. Shahan (DEM)": 527,
+      "Total Votes Cast": 527,
+      "Overvotes": 0,
+      "Undervotes": 290,
+      "Contest Total": 817
+    },
+    {
+      "Precinct": "ENG-H",
+      "Andrew J. Shahan (DEM)": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 227,
+      "Contest Total": 629
+    },
+    {
+      "Precinct": "ENG-I",
+      "Andrew J. Shahan (DEM)": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 202,
+      "Contest Total": 586
+    },
+    {
+      "Precinct": "ENG-J",
+      "Andrew J. Shahan (DEM)": 491,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 224,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "FARM",
+      "Andrew J. Shahan (DEM)": 251,
+      "Total Votes Cast": 251,
+      "Overvotes": 0,
+      "Undervotes": 306,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Andrew J. Shahan (DEM)": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 578,
+      "Contest Total": 977
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Andrew J. Shahan (DEM)": 406,
+      "Total Votes Cast": 406,
+      "Overvotes": 0,
+      "Undervotes": 545,
+      "Contest Total": 951
+    },
+    {
+      "Precinct": "GTN-A",
+      "Andrew J. Shahan (DEM)": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 410,
+      "Contest Total": 800
+    },
+    {
+      "Precinct": "GTN-B",
+      "Andrew J. Shahan (DEM)": 364,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 383,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "GTN-C",
+      "Andrew J. Shahan (DEM)": 373,
+      "Total Votes Cast": 373,
+      "Overvotes": 0,
+      "Undervotes": 396,
+      "Contest Total": 769
+    },
+    {
+      "Precinct": "GTN-D",
+      "Andrew J. Shahan (DEM)": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 447,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Andrew J. Shahan (DEM)": 222,
+      "Total Votes Cast": 222,
+      "Overvotes": 0,
+      "Undervotes": 211,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Andrew J. Shahan (DEM)": 289,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 251,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Andrew J. Shahan (DEM)": 311,
+      "Total Votes Cast": 311,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 565
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Andrew J. Shahan (DEM)": 583,
+      "Total Votes Cast": 583,
+      "Overvotes": 0,
+      "Undervotes": 215,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Andrew J. Shahan (DEM)": 198,
+      "Total Votes Cast": 198,
+      "Overvotes": 0,
+      "Undervotes": 145,
+      "Contest Total": 343
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Andrew J. Shahan (DEM)": 270,
+      "Total Votes Cast": 270,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Andrew J. Shahan (DEM)": 440,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 545
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Andrew J. Shahan (DEM)": 487,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 95,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Andrew J. Shahan (DEM)": 434,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 112,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Andrew J. Shahan (DEM)": 446,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 89,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Andrew J. Shahan (DEM)": 427,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Andrew J. Shahan (DEM)": 584,
+      "Total Votes Cast": 584,
+      "Overvotes": 0,
+      "Undervotes": 178,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Andrew J. Shahan (DEM)": 728,
+      "Total Votes Cast": 728,
+      "Overvotes": 0,
+      "Undervotes": 126,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Andrew J. Shahan (DEM)": 286,
+      "Total Votes Cast": 286,
+      "Overvotes": 0,
+      "Undervotes": 219,
+      "Contest Total": 505
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Andrew J. Shahan (DEM)": 608,
+      "Total Votes Cast": 608,
+      "Overvotes": 0,
+      "Undervotes": 137,
+      "Contest Total": 745
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Andrew J. Shahan (DEM)": 436,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 380,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Andrew J. Shahan (DEM)": 623,
+      "Total Votes Cast": 623,
+      "Overvotes": 0,
+      "Undervotes": 348,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Andrew J. Shahan (DEM)": 500,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 236,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Andrew J. Shahan (DEM)": 550,
+      "Total Votes Cast": 550,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Andrew J. Shahan (DEM)": 512,
+      "Total Votes Cast": 512,
+      "Overvotes": 0,
+      "Undervotes": 320,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Andrew J. Shahan (DEM)": 507,
+      "Total Votes Cast": 507,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 885
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Andrew J. Shahan (DEM)": 363,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 267,
+      "Contest Total": 630
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Andrew J. Shahan (DEM)": 428,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 152,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Andrew J. Shahan (DEM)": 345,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Andrew J. Shahan (DEM)": 499,
+      "Total Votes Cast": 499,
+      "Overvotes": 0,
+      "Undervotes": 347,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Andrew J. Shahan (DEM)": 408,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 242,
+      "Contest Total": 650
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Andrew J. Shahan (DEM)": 479,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 325,
+      "Contest Total": 804
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Andrew J. Shahan (DEM)": 436,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 319,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Andrew J. Shahan (DEM)": 524,
+      "Total Votes Cast": 524,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 837
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Andrew J. Shahan (DEM)": 545,
+      "Total Votes Cast": 545,
+      "Overvotes": 0,
+      "Undervotes": 251,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Andrew J. Shahan (DEM)": 476,
+      "Total Votes Cast": 476,
+      "Overvotes": 0,
+      "Undervotes": 268,
+      "Contest Total": 744
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Andrew J. Shahan (DEM)": 475,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 271,
+      "Contest Total": 746
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Andrew J. Shahan (DEM)": 449,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 300,
+      "Contest Total": 749
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Andrew J. Shahan (DEM)": 483,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 288,
+      "Contest Total": 771
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Andrew J. Shahan (DEM)": 391,
+      "Total Votes Cast": 391,
+      "Overvotes": 0,
+      "Undervotes": 247,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Andrew J. Shahan (DEM)": 487,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 865
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Andrew J. Shahan (DEM)": 481,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 808
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Andrew J. Shahan (DEM)": 429,
+      "Total Votes Cast": 429,
+      "Overvotes": 0,
+      "Undervotes": 332,
+      "Contest Total": 761
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Andrew J. Shahan (DEM)": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 559,
+      "Contest Total": 959
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Andrew J. Shahan (DEM)": 247,
+      "Total Votes Cast": 247,
+      "Overvotes": 0,
+      "Undervotes": 425,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Andrew J. Shahan (DEM)": 566,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 373,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Andrew J. Shahan (DEM)": 393,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 157,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Andrew J. Shahan (DEM)": 360,
+      "Total Votes Cast": 360,
+      "Overvotes": 0,
+      "Undervotes": 334,
+      "Contest Total": 694
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Andrew J. Shahan (DEM)": 597,
+      "Total Votes Cast": 597,
+      "Overvotes": 0,
+      "Undervotes": 86,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Andrew J. Shahan (DEM)": 209,
+      "Total Votes Cast": 209,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Andrew J. Shahan (DEM)": 337,
+      "Total Votes Cast": 337,
+      "Overvotes": 0,
+      "Undervotes": 410,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Andrew J. Shahan (DEM)": 437,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 220,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Andrew J. Shahan (DEM)": 337,
+      "Total Votes Cast": 337,
+      "Overvotes": 0,
+      "Undervotes": 315,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Andrew J. Shahan (DEM)": 485,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 389,
+      "Contest Total": 874
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Andrew J. Shahan (DEM)": 514,
+      "Total Votes Cast": 514,
+      "Overvotes": 0,
+      "Undervotes": 329,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Andrew J. Shahan (DEM)": 393,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 289,
+      "Contest Total": 682
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Andrew J. Shahan (DEM)": 383,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 284,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Andrew J. Shahan (DEM)": 386,
+      "Total Votes Cast": 386,
+      "Overvotes": 0,
+      "Undervotes": 323,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Andrew J. Shahan (DEM)": 544,
+      "Total Votes Cast": 544,
+      "Overvotes": 0,
+      "Undervotes": 368,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Andrew J. Shahan (DEM)": 474,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Andrew J. Shahan (DEM)": 433,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 333,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Andrew J. Shahan (DEM)": 444,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 295,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Andrew J. Shahan (DEM)": 484,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 793
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Andrew J. Shahan (DEM)": 540,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 333,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Andrew J. Shahan (DEM)": 461,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 348,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Andrew J. Shahan (DEM)": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 664
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Andrew J. Shahan (DEM)": 557,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 473,
+      "Contest Total": 1030
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Andrew J. Shahan (DEM)": 492,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Andrew J. Shahan (DEM)": 381,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 279,
+      "Contest Total": 660
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Andrew J. Shahan (DEM)": 363,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 191,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Andrew J. Shahan (DEM)": 509,
+      "Total Votes Cast": 509,
+      "Overvotes": 0,
+      "Undervotes": 319,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Andrew J. Shahan (DEM)": 548,
+      "Total Votes Cast": 548,
+      "Overvotes": 0,
+      "Undervotes": 265,
+      "Contest Total": 813
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Andrew J. Shahan (DEM)": 442,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 350,
+      "Contest Total": 792
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Andrew J. Shahan (DEM)": 491,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 211,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Andrew J. Shahan (DEM)": 497,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 349,
+      "Contest Total": 846
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Andrew J. Shahan (DEM)": 418,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 266,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Andrew J. Shahan (DEM)": 419,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 260,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Andrew J. Shahan (DEM)": 496,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Andrew J. Shahan (DEM)": 371,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 317,
+      "Contest Total": 688
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Andrew J. Shahan (DEM)": 394,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 671
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Andrew J. Shahan (DEM)": 571,
+      "Total Votes Cast": 571,
+      "Overvotes": 0,
+      "Undervotes": 375,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Andrew J. Shahan (DEM)": 591,
+      "Total Votes Cast": 591,
+      "Overvotes": 0,
+      "Undervotes": 331,
+      "Contest Total": 922
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Andrew J. Shahan (DEM)": 645,
+      "Total Votes Cast": 645,
+      "Overvotes": 0,
+      "Undervotes": 294,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Andrew J. Shahan (DEM)": 317,
+      "Total Votes Cast": 317,
+      "Overvotes": 0,
+      "Undervotes": 246,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Andrew J. Shahan (DEM)": 492,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 322,
+      "Contest Total": 814
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Andrew J. Shahan (DEM)": 431,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 300,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Andrew J. Shahan (DEM)": 471,
+      "Total Votes Cast": 471,
+      "Overvotes": 0,
+      "Undervotes": 299,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Andrew J. Shahan (DEM)": 579,
+      "Total Votes Cast": 579,
+      "Overvotes": 0,
+      "Undervotes": 417,
+      "Contest Total": 996
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Andrew J. Shahan (DEM)": 421,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 258,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Andrew J. Shahan (DEM)": 548,
+      "Total Votes Cast": 548,
+      "Overvotes": 0,
+      "Undervotes": 300,
+      "Contest Total": 848
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Andrew J. Shahan (DEM)": 495,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 271,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Andrew J. Shahan (DEM)": 500,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 291,
+      "Contest Total": 791
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Andrew J. Shahan (DEM)": 441,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 459,
+      "Contest Total": 900
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Andrew J. Shahan (DEM)": 434,
+      "Total Votes Cast": 434,
+      "Overvotes": 0,
+      "Undervotes": 425,
+      "Contest Total": 859
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Andrew J. Shahan (DEM)": 451,
+      "Total Votes Cast": 451,
+      "Overvotes": 0,
+      "Undervotes": 325,
+      "Contest Total": 776
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Andrew J. Shahan (DEM)": 337,
+      "Total Votes Cast": 337,
+      "Overvotes": 0,
+      "Undervotes": 273,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Andrew J. Shahan (DEM)": 421,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Andrew J. Shahan (DEM)": 431,
+      "Total Votes Cast": 431,
+      "Overvotes": 0,
+      "Undervotes": 430,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Andrew J. Shahan (DEM)": 340,
+      "Total Votes Cast": 340,
+      "Overvotes": 0,
+      "Undervotes": 256,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Andrew J. Shahan (DEM)": 423,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 372,
+      "Contest Total": 795
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Andrew J. Shahan (DEM)": 405,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 290,
+      "Contest Total": 695
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Andrew J. Shahan (DEM)": 455,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 388,
+      "Contest Total": 843
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Andrew J. Shahan (DEM)": 410,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 330,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Andrew J. Shahan (DEM)": 344,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 662
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Andrew J. Shahan (DEM)": 343,
+      "Total Votes Cast": 343,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Andrew J. Shahan (DEM)": 591,
+      "Total Votes Cast": 591,
+      "Overvotes": 0,
+      "Undervotes": 509,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Andrew J. Shahan (DEM)": 449,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 367,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Andrew J. Shahan (DEM)": 402,
+      "Total Votes Cast": 402,
+      "Overvotes": 0,
+      "Undervotes": 316,
+      "Contest Total": 718
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Andrew J. Shahan (DEM)": 349,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 492,
+      "Contest Total": 841
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Andrew J. Shahan (DEM)": 411,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Andrew J. Shahan (DEM)": 500,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 471,
+      "Contest Total": 971
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Andrew J. Shahan (DEM)": 479,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 276,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Andrew J. Shahan (DEM)": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 308,
+      "Contest Total": 680
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Andrew J. Shahan (DEM)": 424,
+      "Total Votes Cast": 424,
+      "Overvotes": 0,
+      "Undervotes": 279,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Andrew J. Shahan (DEM)": 261,
+      "Total Votes Cast": 261,
+      "Overvotes": 0,
+      "Undervotes": 168,
+      "Contest Total": 429
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Andrew J. Shahan (DEM)": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 419,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Andrew J. Shahan (DEM)": 503,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 436,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Andrew J. Shahan (DEM)": 322,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 294,
+      "Contest Total": 616
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Andrew J. Shahan (DEM)": 420,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 281,
+      "Contest Total": 701
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Andrew J. Shahan (DEM)": 454,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 347,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Andrew J. Shahan (DEM)": 398,
+      "Total Votes Cast": 398,
+      "Overvotes": 0,
+      "Undervotes": 352,
+      "Contest Total": 750
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Andrew J. Shahan (DEM)": 350,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 174,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Andrew J. Shahan (DEM)": 515,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 281,
+      "Contest Total": 796
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Andrew J. Shahan (DEM)": 254,
+      "Total Votes Cast": 254,
+      "Overvotes": 0,
+      "Undervotes": 174,
+      "Contest Total": 428
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Andrew J. Shahan (DEM)": 365,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Andrew J. Shahan (DEM)": 336,
+      "Total Votes Cast": 336,
+      "Overvotes": 0,
+      "Undervotes": 289,
+      "Contest Total": 625
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Andrew J. Shahan (DEM)": 352,
+      "Total Votes Cast": 352,
+      "Overvotes": 0,
+      "Undervotes": 251,
+      "Contest Total": 603
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Andrew J. Shahan (DEM)": 393,
+      "Total Votes Cast": 393,
+      "Overvotes": 0,
+      "Undervotes": 344,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Andrew J. Shahan (DEM)": 247,
+      "Total Votes Cast": 247,
+      "Overvotes": 0,
+      "Undervotes": 217,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Andrew J. Shahan (DEM)": 463,
+      "Total Votes Cast": 463,
+      "Overvotes": 0,
+      "Undervotes": 371,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Andrew J. Shahan (DEM)": 264,
+      "Total Votes Cast": 264,
+      "Overvotes": 0,
+      "Undervotes": 263,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Andrew J. Shahan (DEM)": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 189,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Andrew J. Shahan (DEM)": 287,
+      "Total Votes Cast": 287,
+      "Overvotes": 0,
+      "Undervotes": 97,
+      "Contest Total": 384
+    },
+    {
+      "Precinct": "OAK-A",
+      "Andrew J. Shahan (DEM)": 551,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 282,
+      "Contest Total": 833
+    },
+    {
+      "Precinct": "OAK-B",
+      "Andrew J. Shahan (DEM)": 519,
+      "Total Votes Cast": 519,
+      "Overvotes": 0,
+      "Undervotes": 308,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "OAK-C",
+      "Andrew J. Shahan (DEM)": 443,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 238,
+      "Contest Total": 681
+    },
+    {
+      "Precinct": "OAK-D",
+      "Andrew J. Shahan (DEM)": 466,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 684
+    },
+    {
+      "Precinct": "OAK-E",
+      "Andrew J. Shahan (DEM)": 478,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 224,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "OAK-F",
+      "Andrew J. Shahan (DEM)": 602,
+      "Total Votes Cast": 602,
+      "Overvotes": 0,
+      "Undervotes": 267,
+      "Contest Total": 869
+    },
+    {
+      "Precinct": "OAK-G",
+      "Andrew J. Shahan (DEM)": 493,
+      "Total Votes Cast": 493,
+      "Overvotes": 0,
+      "Undervotes": 261,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "OAK-H",
+      "Andrew J. Shahan (DEM)": 388,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 222,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Andrew J. Shahan (DEM)": 234,
+      "Total Votes Cast": 234,
+      "Overvotes": 0,
+      "Undervotes": 364,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Andrew J. Shahan (DEM)": 283,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 370,
+      "Contest Total": 653
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Andrew J. Shahan (DEM)": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 458,
+      "Contest Total": 768
+    },
+    {
+      "Precinct": "PHBG",
+      "Andrew J. Shahan (DEM)": 125,
+      "Total Votes Cast": 125,
+      "Overvotes": 0,
+      "Undervotes": 112,
+      "Contest Total": 237
+    },
+    {
+      "Precinct": "PM",
+      "Andrew J. Shahan (DEM)": 331,
+      "Total Votes Cast": 331,
+      "Overvotes": 0,
+      "Undervotes": 196,
+      "Contest Total": 527
+    },
+    {
+      "Precinct": "PNLB",
+      "Andrew J. Shahan (DEM)": 250,
+      "Total Votes Cast": 250,
+      "Overvotes": 0,
+      "Undervotes": 281,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "RV-A",
+      "Andrew J. Shahan (DEM)": 368,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 302,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "RV-B",
+      "Andrew J. Shahan (DEM)": 280,
+      "Total Votes Cast": 280,
+      "Overvotes": 0,
+      "Undervotes": 280,
+      "Contest Total": 560
+    },
+    {
+      "Precinct": "RV-C",
+      "Andrew J. Shahan (DEM)": 411,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 297,
+      "Contest Total": 708
+    },
+    {
+      "Precinct": "RV-D",
+      "Andrew J. Shahan (DEM)": 347,
+      "Total Votes Cast": 347,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "RV-E",
+      "Andrew J. Shahan (DEM)": 306,
+      "Total Votes Cast": 306,
+      "Overvotes": 0,
+      "Undervotes": 314,
+      "Contest Total": 620
+    },
+    {
+      "Precinct": "RV-F",
+      "Andrew J. Shahan (DEM)": 364,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "RV-G",
+      "Andrew J. Shahan (DEM)": 281,
+      "Total Votes Cast": 281,
+      "Overvotes": 0,
+      "Undervotes": 258,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "RV-H",
+      "Andrew J. Shahan (DEM)": 211,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 151,
+      "Contest Total": 362
+    },
+    {
+      "Precinct": "RV-I",
+      "Andrew J. Shahan (DEM)": 257,
+      "Total Votes Cast": 257,
+      "Overvotes": 0,
+      "Undervotes": 269,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "RV-J",
+      "Andrew J. Shahan (DEM)": 289,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 512
+    },
+    {
+      "Precinct": "RV-K",
+      "Andrew J. Shahan (DEM)": 404,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 287,
+      "Contest Total": 691
+    },
+    {
+      "Precinct": "RV-L",
+      "Andrew J. Shahan (DEM)": 207,
+      "Total Votes Cast": 207,
+      "Overvotes": 0,
+      "Undervotes": 214,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "RV-M",
+      "Andrew J. Shahan (DEM)": 418,
+      "Total Votes Cast": 418,
+      "Overvotes": 0,
+      "Undervotes": 298,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "RV-N",
+      "Andrew J. Shahan (DEM)": 299,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 522
+    },
+    {
+      "Precinct": "RV-O",
+      "Andrew J. Shahan (DEM)": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 317,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "RV-P",
+      "Andrew J. Shahan (DEM)": 461,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 296,
+      "Contest Total": 757
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Andrew J. Shahan (DEM)": 554,
+      "Total Votes Cast": 554,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 734
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Andrew J. Shahan (DEM)": 299,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 107,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Andrew J. Shahan (DEM)": 466,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 535
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Andrew J. Shahan (DEM)": 381,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 440
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Andrew J. Shahan (DEM)": 640,
+      "Total Votes Cast": 640,
+      "Overvotes": 0,
+      "Undervotes": 91,
+      "Contest Total": 731
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Andrew J. Shahan (DEM)": 522,
+      "Total Votes Cast": 522,
+      "Overvotes": 0,
+      "Undervotes": 90,
+      "Contest Total": 612
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Andrew J. Shahan (DEM)": 590,
+      "Total Votes Cast": 590,
+      "Overvotes": 0,
+      "Undervotes": 119,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Andrew J. Shahan (DEM)": 444,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 519
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Andrew J. Shahan (DEM)": 327,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Andrew J. Shahan (DEM)": 446,
+      "Total Votes Cast": 446,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 506
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Andrew J. Shahan (DEM)": 321,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 151,
+      "Contest Total": 472
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Andrew J. Shahan (DEM)": 356,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 254,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Andrew J. Shahan (DEM)": 307,
+      "Total Votes Cast": 307,
+      "Overvotes": 0,
+      "Undervotes": 163,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Andrew J. Shahan (DEM)": 557,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 126,
+      "Contest Total": 683
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Andrew J. Shahan (DEM)": 583,
+      "Total Votes Cast": 583,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Andrew J. Shahan (DEM)": 477,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 86,
+      "Contest Total": 563
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Andrew J. Shahan (DEM)": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Andrew J. Shahan (DEM)": 398,
+      "Total Votes Cast": 398,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "UN-A",
+      "Andrew J. Shahan (DEM)": 273,
+      "Total Votes Cast": 273,
+      "Overvotes": 0,
+      "Undervotes": 206,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "UN-B",
+      "Andrew J. Shahan (DEM)": 404,
+      "Total Votes Cast": 404,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "UN-C",
+      "Andrew J. Shahan (DEM)": 447,
+      "Total Votes Cast": 447,
+      "Overvotes": 0,
+      "Undervotes": 351,
+      "Contest Total": 798
+    },
+    {
+      "Precinct": "UN-D",
+      "Andrew J. Shahan (DEM)": 502,
+      "Total Votes Cast": 502,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "UN-E",
+      "Andrew J. Shahan (DEM)": 421,
+      "Total Votes Cast": 421,
+      "Overvotes": 0,
+      "Undervotes": 406,
+      "Contest Total": 827
+    },
+    {
+      "Precinct": "VD-A",
+      "Andrew J. Shahan (DEM)": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 326,
+      "Contest Total": 716
+    },
+    {
+      "Precinct": "VD-B",
+      "Andrew J. Shahan (DEM)": 252,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 445
+    },
+    {
+      "Precinct": "VD-C",
+      "Andrew J. Shahan (DEM)": 433,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 405,
+      "Contest Total": 838
+    },
+    {
+      "Precinct": "VD-D",
+      "Andrew J. Shahan (DEM)": 432,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 741
+    },
+    {
+      "Precinct": "VD-E",
+      "Andrew J. Shahan (DEM)": 280,
+      "Total Votes Cast": 280,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "VD-F",
+      "Andrew J. Shahan (DEM)": 468,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 382,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "VD-G",
+      "Andrew J. Shahan (DEM)": 346,
+      "Total Votes Cast": 346,
+      "Overvotes": 0,
+      "Undervotes": 317,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "VD-H",
+      "Andrew J. Shahan (DEM)": 475,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 430,
+      "Contest Total": 905
+    },
+    {
+      "Precinct": "VD-I",
+      "Andrew J. Shahan (DEM)": 379,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 375,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "VD-J",
+      "Andrew J. Shahan (DEM)": 478,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 474,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "VD-K",
+      "Andrew J. Shahan (DEM)": 500,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 878
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Andrew J. Shahan (DEM)": 397,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 778
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Andrew J. Shahan (DEM)": 600,
+      "Total Votes Cast": 600,
+      "Overvotes": 0,
+      "Undervotes": 486,
+      "Contest Total": 1086
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Andrew J. Shahan (DEM)": 488,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 407,
+      "Contest Total": 895
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Andrew J. Shahan (DEM)": 364,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 657
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Andrew J. Shahan (DEM)": 544,
+      "Total Votes Cast": 544,
+      "Overvotes": 0,
+      "Undervotes": 376,
+      "Contest Total": 920
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Andrew J. Shahan (DEM)": 330,
+      "Total Votes Cast": 330,
+      "Overvotes": 0,
+      "Undervotes": 271,
+      "Contest Total": 601
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Andrew J. Shahan (DEM)": 553,
+      "Total Votes Cast": 553,
+      "Overvotes": 0,
+      "Undervotes": 447,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Andrew J. Shahan (DEM)": 428,
+      "Total Votes Cast": 428,
+      "Overvotes": 0,
+      "Undervotes": 381,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Andrew J. Shahan (DEM)": 430,
+      "Total Votes Cast": 430,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Andrew J. Shahan (DEM)": 525,
+      "Total Votes Cast": 525,
+      "Overvotes": 0,
+      "Undervotes": 343,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Andrew J. Shahan (DEM)": 443,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 376,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Andrew J. Shahan (DEM)": 417,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 311,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Andrew J. Shahan (DEM)": 485,
+      "Total Votes Cast": 485,
+      "Overvotes": 0,
+      "Undervotes": 452,
+      "Contest Total": 937
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Andrew J. Shahan (DEM)": 545,
+      "Total Votes Cast": 545,
+      "Overvotes": 0,
+      "Undervotes": 299,
+      "Contest Total": 844
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Andrew J. Shahan (DEM)": 482,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 881
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Andrew J. Shahan (DEM)": 567,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 990
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Andrew J. Shahan (DEM)": 588,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 382,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Andrew J. Shahan (DEM)": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 285,
+      "Contest Total": 711
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Andrew J. Shahan (DEM)": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 742
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Andrew J. Shahan (DEM)": 463,
+      "Total Votes Cast": 463,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 740
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Andrew J. Shahan (DEM)": 486,
+      "Total Votes Cast": 486,
+      "Overvotes": 0,
+      "Undervotes": 393,
+      "Contest Total": 879
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Andrew J. Shahan (DEM)": 425,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 415,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Andrew J. Shahan (DEM)": 350,
+      "Total Votes Cast": 350,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 595
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Andrew J. Shahan (DEM)": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 310,
+      "Contest Total": 709
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Andrew J. Shahan (DEM)": 665,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 443,
+      "Contest Total": 1108
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Andrew J. Shahan (DEM)": 423,
+      "Total Votes Cast": 423,
+      "Overvotes": 0,
+      "Undervotes": 337,
+      "Contest Total": 760
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Andrew J. Shahan (DEM)": 440,
+      "Total Votes Cast": 440,
+      "Overvotes": 0,
+      "Undervotes": 388,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Andrew J. Shahan (DEM)": 361,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 263,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Andrew J. Shahan (DEM)": 564,
+      "Total Votes Cast": 564,
+      "Overvotes": 0,
+      "Undervotes": 464,
+      "Contest Total": 1028
+    },
+    {
+      "Precinct": "WCR-A",
+      "Andrew J. Shahan (DEM)": 376,
+      "Total Votes Cast": 376,
+      "Overvotes": 0,
+      "Undervotes": 327,
+      "Contest Total": 703
+    },
+    {
+      "Precinct": "WCR-B",
+      "Andrew J. Shahan (DEM)": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 351,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-C",
+      "Andrew J. Shahan (DEM)": 376,
+      "Total Votes Cast": 376,
+      "Overvotes": 0,
+      "Undervotes": 378,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "WCR-D",
+      "Andrew J. Shahan (DEM)": 385,
+      "Total Votes Cast": 385,
+      "Overvotes": 0,
+      "Undervotes": 351,
+      "Contest Total": 736
+    },
+    {
+      "Precinct": "WCR-E",
+      "Andrew J. Shahan (DEM)": 332,
+      "Total Votes Cast": 332,
+      "Overvotes": 0,
+      "Undervotes": 148,
+      "Contest Total": 480
+    },
+    {
+      "Precinct": "WCR-F",
+      "Andrew J. Shahan (DEM)": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "WCR-G",
+      "Andrew J. Shahan (DEM)": 442,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 313,
+      "Contest Total": 755
+    },
+    {
+      "Precinct": "WCR-H",
+      "Andrew J. Shahan (DEM)": 364,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 353,
+      "Contest Total": 717
+    },
+    {
+      "Precinct": "WCR-I",
+      "Andrew J. Shahan (DEM)": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 147,
+      "Contest Total": 519
+    }
+  ]
+}

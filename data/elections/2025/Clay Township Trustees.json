@@ -1,0 +1,149 @@
+{
+  "race": "Clay Township Trustees",
+  "precincts": 13,
+  "results": [
+    {
+      "Precinct": "BRK-A1",
+      "Lori Hartman": 124,
+      "Mark Haworth": 191,
+      "Angela Howell": 147,
+      "Total Votes Cast": 462,
+      "Overvotes": 0,
+      "Undervotes": 170,
+      "Contest Total": 632,
+      "": null
+    },
+    {
+      "Precinct": "BRK-A2",
+      "Lori Hartman": 0,
+      "Mark Haworth": 3,
+      "Angela Howell": 2,
+      "Total Votes Cast": 5,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 6,
+      "": null
+    },
+    {
+      "Precinct": "BRK-B",
+      "Lori Hartman": 82,
+      "Mark Haworth": 126,
+      "Angela Howell": 101,
+      "Total Votes Cast": 309,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 414,
+      "": null
+    },
+    {
+      "Precinct": "BRK-C",
+      "Lori Hartman": 127,
+      "Mark Haworth": 149,
+      "Angela Howell": 150,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 154,
+      "Contest Total": 580,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Lori Hartman": 121,
+      "Mark Haworth": 109,
+      "Angela Howell": 133,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 93,
+      "Contest Total": 456,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-B1",
+      "Lori Hartman": 68,
+      "Mark Haworth": 107,
+      "Angela Howell": 88,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 350,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-B2",
+      "Lori Hartman": 6,
+      "Mark Haworth": 15,
+      "Angela Howell": 6,
+      "Total Votes Cast": 27,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 36,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-C1",
+      "Lori Hartman": 54,
+      "Mark Haworth": 115,
+      "Angela Howell": 69,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 88,
+      "Contest Total": 326,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-C2",
+      "Lori Hartman": 19,
+      "Mark Haworth": 38,
+      "Angela Howell": 27,
+      "Total Votes Cast": 84,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 110,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-C3",
+      "Lori Hartman": 38,
+      "Mark Haworth": 48,
+      "Angela Howell": 49,
+      "Total Votes Cast": 135,
+      "Overvotes": 0,
+      "Undervotes": 47,
+      "Contest Total": 182,
+      "": null
+    },
+    {
+      "Precinct": "CLATWP-C4",
+      "Lori Hartman": 3,
+      "Mark Haworth": 6,
+      "Angela Howell": 2,
+      "Total Votes Cast": 11,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 20,
+      "": null
+    },
+    {
+      "Precinct": "CTN 1-C2",
+      "Lori Hartman": 9,
+      "Mark Haworth": 6,
+      "Angela Howell": 8,
+      "Total Votes Cast": 23,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 42,
+      "": 21
+    },
+    {
+      "Precinct": "PHBG",
+      "Lori Hartman": 49,
+      "Mark Haworth": 42,
+      "Angela Howell": 39,
+      "Total Votes Cast": 130,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 178,
+      "": null
+    }
+  ]
+}

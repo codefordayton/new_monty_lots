@@ -1,0 +1,114 @@
+{
+  "race": "Jefferson Township Trustees",
+  "precincts": 12,
+  "results": [
+    {
+      "Precinct": "DAY 14-A3",
+      "Sheila Back": 5,
+      "Vera Powell": 3,
+      "Total Votes Cast": 8,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 16
+    },
+    {
+      "Precinct": "DAY 14-C3",
+      "Sheila Back": 0,
+      "Vera Powell": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "JEFTWP-A1",
+      "Sheila Back": 223,
+      "Vera Powell": 158,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 339,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "JEFTWP-A2",
+      "Sheila Back": 15,
+      "Vera Powell": 14,
+      "Total Votes Cast": 29,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 80
+    },
+    {
+      "Precinct": "JEFTWP-A3",
+      "Sheila Back": 5,
+      "Vera Powell": 3,
+      "Total Votes Cast": 8,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 16
+    },
+    {
+      "Precinct": "JEFTWP-B1",
+      "Sheila Back": 37,
+      "Vera Powell": 29,
+      "Total Votes Cast": 66,
+      "Overvotes": 0,
+      "Undervotes": 50,
+      "Contest Total": 116
+    },
+    {
+      "Precinct": "JEFTWP-B2",
+      "Sheila Back": 36,
+      "Vera Powell": 33,
+      "Total Votes Cast": 69,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 108
+    },
+    {
+      "Precinct": "JEFTWP-B3",
+      "Sheila Back": 6,
+      "Vera Powell": 7,
+      "Total Votes Cast": 13,
+      "Overvotes": 0,
+      "Undervotes": 9,
+      "Contest Total": 22
+    },
+    {
+      "Precinct": "JEFTWP-B4",
+      "Sheila Back": 33,
+      "Vera Powell": 20,
+      "Total Votes Cast": 53,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 90
+    },
+    {
+      "Precinct": "JEFTWP-C1",
+      "Sheila Back": 164,
+      "Vera Powell": 150,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 698
+    },
+    {
+      "Precinct": "JEFTWP-C2",
+      "Sheila Back": 0,
+      "Vera Powell": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Sheila Back": 220,
+      "Vera Powell": 141,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 197,
+      "Contest Total": 558
+    }
+  ]
+}

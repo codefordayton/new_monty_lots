@@ -1,0 +1,436 @@
+{
+  "race": "Kettering School Board",
+  "precincts": 43,
+  "results": [
+    {
+      "Precinct": "KT 1-A",
+      "Toby K. Henderson": 86,
+      "Bill Lautar": 86,
+      "Mark J. Martin": 86,
+      "Total Votes Cast": 258,
+      "Overvotes": 0,
+      "Undervotes": 285,
+      "Contest Total": 543
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Toby K. Henderson": 79,
+      "Bill Lautar": 92,
+      "Mark J. Martin": 84,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 246,
+      "Contest Total": 501
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Toby K. Henderson": 124,
+      "Bill Lautar": 141,
+      "Mark J. Martin": 118,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 457,
+      "Contest Total": 840
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Toby K. Henderson": 122,
+      "Bill Lautar": 131,
+      "Mark J. Martin": 118,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 412,
+      "Contest Total": 783
+    },
+    {
+      "Precinct": "KT 1-E1",
+      "Toby K. Henderson": 77,
+      "Bill Lautar": 85,
+      "Mark J. Martin": 72,
+      "Total Votes Cast": 234,
+      "Overvotes": 0,
+      "Undervotes": 189,
+      "Contest Total": 423
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Toby K. Henderson": 107,
+      "Bill Lautar": 107,
+      "Mark J. Martin": 106,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 334,
+      "Contest Total": 654
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Toby K. Henderson": 97,
+      "Bill Lautar": 102,
+      "Mark J. Martin": 101,
+      "Total Votes Cast": 300,
+      "Overvotes": 0,
+      "Undervotes": 276,
+      "Contest Total": 576
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Toby K. Henderson": 101,
+      "Bill Lautar": 98,
+      "Mark J. Martin": 104,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 360,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Toby K. Henderson": 131,
+      "Bill Lautar": 146,
+      "Mark J. Martin": 131,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 354,
+      "Contest Total": 762
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Toby K. Henderson": 104,
+      "Bill Lautar": 124,
+      "Mark J. Martin": 113,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 406,
+      "Contest Total": 747
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Toby K. Henderson": 185,
+      "Bill Lautar": 191,
+      "Mark J. Martin": 183,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 416,
+      "Contest Total": 975
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Toby K. Henderson": 160,
+      "Bill Lautar": 159,
+      "Mark J. Martin": 154,
+      "Total Votes Cast": 473,
+      "Overvotes": 0,
+      "Undervotes": 415,
+      "Contest Total": 888
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Toby K. Henderson": 125,
+      "Bill Lautar": 138,
+      "Mark J. Martin": 120,
+      "Total Votes Cast": 383,
+      "Overvotes": 0,
+      "Undervotes": 424,
+      "Contest Total": 807
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Toby K. Henderson": 158,
+      "Bill Lautar": 173,
+      "Mark J. Martin": 157,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 834
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Toby K. Henderson": 100,
+      "Bill Lautar": 111,
+      "Mark J. Martin": 95,
+      "Total Votes Cast": 306,
+      "Overvotes": 0,
+      "Undervotes": 342,
+      "Contest Total": 648
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Toby K. Henderson": 199,
+      "Bill Lautar": 235,
+      "Mark J. Martin": 205,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 495,
+      "Contest Total": 1134
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Toby K. Henderson": 203,
+      "Bill Lautar": 209,
+      "Mark J. Martin": 195,
+      "Total Votes Cast": 607,
+      "Overvotes": 0,
+      "Undervotes": 422,
+      "Contest Total": 1029
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Toby K. Henderson": 156,
+      "Bill Lautar": 162,
+      "Mark J. Martin": 152,
+      "Total Votes Cast": 470,
+      "Overvotes": 0,
+      "Undervotes": 361,
+      "Contest Total": 831
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Toby K. Henderson": 68,
+      "Bill Lautar": 66,
+      "Mark J. Martin": 65,
+      "Total Votes Cast": 199,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 378
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Toby K. Henderson": 155,
+      "Bill Lautar": 157,
+      "Mark J. Martin": 144,
+      "Total Votes Cast": 456,
+      "Overvotes": 0,
+      "Undervotes": 417,
+      "Contest Total": 873
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Toby K. Henderson": 165,
+      "Bill Lautar": 184,
+      "Mark J. Martin": 176,
+      "Total Votes Cast": 525,
+      "Overvotes": 0,
+      "Undervotes": 495,
+      "Contest Total": 1020
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Toby K. Henderson": 170,
+      "Bill Lautar": 218,
+      "Mark J. Martin": 173,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 486,
+      "Contest Total": 1047
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Toby K. Henderson": 77,
+      "Bill Lautar": 87,
+      "Mark J. Martin": 87,
+      "Total Votes Cast": 251,
+      "Overvotes": 0,
+      "Undervotes": 235,
+      "Contest Total": 486
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Toby K. Henderson": 158,
+      "Bill Lautar": 171,
+      "Mark J. Martin": 163,
+      "Total Votes Cast": 492,
+      "Overvotes": 0,
+      "Undervotes": 384,
+      "Contest Total": 876
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Toby K. Henderson": 111,
+      "Bill Lautar": 130,
+      "Mark J. Martin": 122,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 309,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Toby K. Henderson": 157,
+      "Bill Lautar": 163,
+      "Mark J. Martin": 147,
+      "Total Votes Cast": 467,
+      "Overvotes": 0,
+      "Undervotes": 391,
+      "Contest Total": 858
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Toby K. Henderson": 151,
+      "Bill Lautar": 165,
+      "Mark J. Martin": 162,
+      "Total Votes Cast": 478,
+      "Overvotes": 0,
+      "Undervotes": 410,
+      "Contest Total": 888
+    },
+    {
+      "Precinct": "KT 3-I1",
+      "Toby K. Henderson": 176,
+      "Bill Lautar": 202,
+      "Mark J. Martin": 181,
+      "Total Votes Cast": 559,
+      "Overvotes": 0,
+      "Undervotes": 380,
+      "Contest Total": 939
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Toby K. Henderson": 184,
+      "Bill Lautar": 192,
+      "Mark J. Martin": 174,
+      "Total Votes Cast": 550,
+      "Overvotes": 0,
+      "Undervotes": 509,
+      "Contest Total": 1059
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Toby K. Henderson": 200,
+      "Bill Lautar": 222,
+      "Mark J. Martin": 202,
+      "Total Votes Cast": 624,
+      "Overvotes": 0,
+      "Undervotes": 522,
+      "Contest Total": 1146
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Toby K. Henderson": 207,
+      "Bill Lautar": 226,
+      "Mark J. Martin": 198,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 683,
+      "Contest Total": 1314
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Toby K. Henderson": 190,
+      "Bill Lautar": 191,
+      "Mark J. Martin": 201,
+      "Total Votes Cast": 582,
+      "Overvotes": 0,
+      "Undervotes": 639,
+      "Contest Total": 1221
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Toby K. Henderson": 126,
+      "Bill Lautar": 132,
+      "Mark J. Martin": 122,
+      "Total Votes Cast": 380,
+      "Overvotes": 0,
+      "Undervotes": 292,
+      "Contest Total": 672
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Toby K. Henderson": 198,
+      "Bill Lautar": 183,
+      "Mark J. Martin": 180,
+      "Total Votes Cast": 561,
+      "Overvotes": 0,
+      "Undervotes": 540,
+      "Contest Total": 1101
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Toby K. Henderson": 135,
+      "Bill Lautar": 149,
+      "Mark J. Martin": 136,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 399,
+      "Contest Total": 819
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Toby K. Henderson": 175,
+      "Bill Lautar": 198,
+      "Mark J. Martin": 184,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 490,
+      "Contest Total": 1047
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Toby K. Henderson": 266,
+      "Bill Lautar": 279,
+      "Mark J. Martin": 255,
+      "Total Votes Cast": 800,
+      "Overvotes": 0,
+      "Undervotes": 676,
+      "Contest Total": 1476
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Toby K. Henderson": 81,
+      "Bill Lautar": 88,
+      "Mark J. Martin": 89,
+      "Total Votes Cast": 258,
+      "Overvotes": 0,
+      "Undervotes": 270,
+      "Contest Total": 528
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Toby K. Henderson": 193,
+      "Bill Lautar": 204,
+      "Mark J. Martin": 187,
+      "Total Votes Cast": 584,
+      "Overvotes": 0,
+      "Undervotes": 472,
+      "Contest Total": 1056
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Toby K. Henderson": 184,
+      "Bill Lautar": 190,
+      "Mark J. Martin": 183,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 388,
+      "Contest Total": 945
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Toby K. Henderson": 134,
+      "Bill Lautar": 156,
+      "Mark J. Martin": 146,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 467,
+      "Contest Total": 903
+    },
+    {
+      "Precinct": "MOR 1-A1",
+      "Toby K. Henderson": 14,
+      "Bill Lautar": 14,
+      "Mark J. Martin": 12,
+      "Total Votes Cast": 40,
+      "Overvotes": 0,
+      "Undervotes": 62,
+      "Contest Total": 102
+    },
+    {
+      "Precinct": "MOR 3-A2",
+      "Toby K. Henderson": 0,
+      "Bill Lautar": 0,
+      "Mark J. Martin": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

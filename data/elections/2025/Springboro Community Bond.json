@@ -1,0 +1,15 @@
+{
+  "race": "Springboro Community Bond",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MIATWP-T2",
+      "FOR THE BOND ISSUE": 130,
+      "AGAINST THE BOND ISSUE": 49,
+      "Total Votes Cast": 179,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 180
+    }
+  ]
+}

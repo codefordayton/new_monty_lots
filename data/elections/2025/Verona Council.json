@@ -1,0 +1,14 @@
+{
+  "race": "Verona Council",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "CLATWP-C4",
+      "No Valid Petition Filed": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 40
+    }
+  ]
+}

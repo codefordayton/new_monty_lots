@@ -1,0 +1,78 @@
+{
+  "race": "Butler Township - Resolution to adopt Limited home",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "BTLTWP-A",
+      "For Adoption of a Limited Home Rule Government": 327,
+      "Against Adoption of a Limited Home Rule Government": 428,
+      "Total Votes Cast": 755,
+      "Overvotes": 0,
+      "Undervotes": 73,
+      "Contest Total": 828
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "For Adoption of a Limited Home Rule Government": 260,
+      "Against Adoption of a Limited Home Rule Government": 398,
+      "Total Votes Cast": 658,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "For Adoption of a Limited Home Rule Government": 401,
+      "Against Adoption of a Limited Home Rule Government": 445,
+      "Total Votes Cast": 846,
+      "Overvotes": 0,
+      "Undervotes": 79,
+      "Contest Total": 925
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "For Adoption of a Limited Home Rule Government": 397,
+      "Against Adoption of a Limited Home Rule Government": 377,
+      "Total Votes Cast": 774,
+      "Overvotes": 1,
+      "Undervotes": 86,
+      "Contest Total": 861
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "For Adoption of a Limited Home Rule Government": 317,
+      "Against Adoption of a Limited Home Rule Government": 233,
+      "Total Votes Cast": 550,
+      "Overvotes": 0,
+      "Undervotes": 46,
+      "Contest Total": 596
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "For Adoption of a Limited Home Rule Government": 321,
+      "Against Adoption of a Limited Home Rule Government": 292,
+      "Total Votes Cast": 613,
+      "Overvotes": 0,
+      "Undervotes": 74,
+      "Contest Total": 687
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "For Adoption of a Limited Home Rule Government": 241,
+      "Against Adoption of a Limited Home Rule Government": 209,
+      "Total Votes Cast": 450,
+      "Overvotes": 1,
+      "Undervotes": 69,
+      "Contest Total": 520
+    },
+    {
+      "Precinct": "UN-C",
+      "For Adoption of a Limited Home Rule Government": 1,
+      "Against Adoption of a Limited Home Rule Government": 4,
+      "Total Votes Cast": 5,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 5
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "race": "Oakwood Municipal Court Judge",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "OAK-A",
+      "Molly Stitsinger": 288,
+      "Total Votes Cast": 288,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 375
+    },
+    {
+      "Precinct": "OAK-B",
+      "Molly Stitsinger": 329,
+      "Total Votes Cast": 329,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "OAK-C",
+      "Molly Stitsinger": 247,
+      "Total Votes Cast": 247,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 351
+    },
+    {
+      "Precinct": "OAK-D",
+      "Molly Stitsinger": 229,
+      "Total Votes Cast": 229,
+      "Overvotes": 0,
+      "Undervotes": 123,
+      "Contest Total": 352
+    },
+    {
+      "Precinct": "OAK-E",
+      "Molly Stitsinger": 252,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 115,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "OAK-F",
+      "Molly Stitsinger": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 144,
+      "Contest Total": 482
+    },
+    {
+      "Precinct": "OAK-G",
+      "Molly Stitsinger": 284,
+      "Total Votes Cast": 284,
+      "Overvotes": 0,
+      "Undervotes": 101,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "OAK-H",
+      "Molly Stitsinger": 236,
+      "Total Votes Cast": 236,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 314
+    }
+  ]
+}
