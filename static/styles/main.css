@@ -639,3 +639,319 @@ body {
   margin-top: 4px;
   transition: width 0.3s ease;
 }
+
+/* Comparison Mode Styles */
+.comparison-toggle {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 10px;
+  background: #f8f9fa;
+  border-radius: 4px;
+  transition: background 0.2s ease;
+}
+
+.comparison-toggle:hover {
+  background: #e9ecef;
+}
+
+.comparison-toggle input[type="checkbox"] {
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.comparison-toggle span {
+  font-weight: 500;
+  color: #495057;
+  font-size: 14px;
+}
+
+.comparison-summary {
+  margin-top: 15px;
+  padding: 15px;
+  background: #fff3cd;
+  border-radius: 4px;
+  border-left: 3px solid #ffc107;
+}
+
+.comparison-summary h4 {
+  margin: 0 0 12px 0;
+  color: #856404;
+  font-size: 15px;
+}
+
+.comparison-stat {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 0;
+  font-size: 13px;
+  border-bottom: 1px solid #f8e5a0;
+}
+
+.comparison-stat:last-child {
+  border-bottom: none;
+}
+
+.comparison-stat .label {
+  color: #856404;
+  font-weight: 500;
+}
+
+.comparison-stat .value {
+  color: #856404;
+  font-weight: 600;
+}
+
+.comparison-stat .increase {
+  color: #28a745;
+}
+
+.comparison-stat .decrease {
+  color: #dc3545;
+}
+
+.comparison-legend {
+  margin-top: 12px;
+  padding: 10px;
+  background: white;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.comparison-legend-title {
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #495057;
+}
+
+.comparison-legend-item {
+  display: flex;
+  align-items: center;
+  margin: 4px 0;
+}
+
+.comparison-legend-color {
+  width: 20px;
+  height: 12px;
+  margin-right: 8px;
+  border-radius: 2px;
+}
+
+/* Precinct Summary Panel */
+.precinct-summary-panel {
+  position: fixed;
+  top: 0;
+  right: -600px;
+  width: 600px;
+  height: 100vh;
+  background: white;
+  box-shadow: -2px 0 10px rgba(0, 0, 0, 0.2);
+  z-index: 2000;
+  transition: right 0.3s ease-in-out;
+  display: flex;
+  flex-direction: column;
+}
+
+.precinct-summary-panel.active {
+  right: 0;
+}
+
+.precinct-summary-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: #007bff;
+  color: white;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.precinct-summary-header h2 {
+  margin: 0;
+  font-size: 24px;
+  color: white;
+  border: none;
+  padding: 0;
+}
+
+.close-button {
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 32px;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.2s;
+}
+
+.close-button:hover {
+  opacity: 0.7;
+}
+
+.precinct-summary-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px;
+}
+
+.summary-section {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.summary-section:last-child {
+  border-bottom: none;
+}
+
+.summary-section h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #495057;
+  font-size: 20px;
+}
+
+.summary-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.summary-table th {
+  background: #f8f9fa;
+  padding: 10px;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid #dee2e6;
+  font-size: 13px;
+}
+
+.summary-table td {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+  font-size: 14px;
+}
+
+.summary-table tr:last-child td {
+  border-bottom: none;
+}
+
+.race-count {
+  color: #6c757d;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.race-card {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.race-card h4 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  color: #007bff;
+  font-size: 16px;
+}
+
+.race-results {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.race-results td {
+  padding: 6px 0;
+  font-size: 14px;
+}
+
+.race-results .candidate-name {
+  font-weight: 500;
+}
+
+.race-results .candidate-votes {
+  text-align: right;
+  padding-right: 15px;
+}
+
+.race-results .candidate-percent {
+  text-align: right;
+  color: #6c757d;
+  width: 60px;
+}
+
+.race-total {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 2px solid #dee2e6;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.comparison-section {
+  background: #fff3cd;
+  padding: 15px;
+  border-radius: 6px;
+  border: 1px solid #ffc107;
+}
+
+.comparison-stat-large {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.comparison-stat-large .stat-label {
+  font-weight: 600;
+}
+
+.comparison-stat-large .stat-value {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.comparison-stat-large .stat-value.increase {
+  color: #28a745;
+}
+
+.comparison-stat-large .stat-value.decrease {
+  color: #dc3545;
+}
+
+/* View Precinct Details button in popups */
+.view-precinct-details {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 8px 16px;
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  border: none;
+  transition: background 0.2s;
+}
+
+.view-precinct-details:hover {
+  background: #0056b3;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .precinct-summary-panel {
+    width: 100%;
+    right: -100%;
+  }
+}

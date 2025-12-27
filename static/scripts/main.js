@@ -13,6 +13,7 @@ import { toggleLegend } from './components/Legend.js';
 import { initializeSidebarToggle } from './components/SidebarToggle.js';
 import { initializeAdvancedSearch } from './components/AdvancedSearch.js';
 import { initializeElectionUI } from './components/ElectionUI.js';
+import { precinctSummary } from './components/PrecinctSummary.js';
 
 // Initialize the Leaflet map
 const map = L.map('map').setView([39.7589, -84.1916], 10);
@@ -27,6 +28,14 @@ setMap(map);
 
 // Make toggleLegend available globally for onclick handler in HTML
 window.toggleLegend = toggleLegend;
+
+// Initialize precinct summary component
+precinctSummary.initialize();
+
+// Make precinct summary available globally for popup buttons
+window.openPrecinctSummary = (precinctCode) => {
+  precinctSummary.showPrecinct(precinctCode);
+};
 
 // Map click handler
 function onMapClick(_e) {

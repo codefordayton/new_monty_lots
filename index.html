@@ -88,22 +88,38 @@
         <div class="election-section" id="election-section" style="display: none">
           <h3>Election Data</h3>
 
+          <!-- Comparison Mode Toggle -->
           <div class="election-controls">
-            <label for="election-year">Year:</label>
-            <select id="election-year">
-              <option value="">-- Select Year --</option>
-            </select>
+            <label class="comparison-toggle">
+              <input type="checkbox" id="comparison-mode-toggle" />
+              <span>Compare 2024 vs 2025 Turnout</span>
+            </label>
           </div>
 
-          <div class="election-controls" id="race-selector-container" style="display: none">
-            <label for="race-selector">Race:</label>
-            <select id="race-selector">
-              <option value="">-- Select Race --</option>
-            </select>
+          <!-- Single Year Mode Controls -->
+          <div id="single-year-controls">
+            <div class="election-controls">
+              <label for="election-year">Year:</label>
+              <select id="election-year">
+                <option value="">-- Select Year --</option>
+              </select>
+            </div>
+
+            <div class="election-controls" id="race-selector-container" style="display: none">
+              <label for="race-selector">Race:</label>
+              <select id="race-selector">
+                <option value="">-- Select Race --</option>
+              </select>
+            </div>
+
+            <div id="race-summary" class="race-summary" style="display: none">
+              <!-- Race summary will be dynamically populated -->
+            </div>
           </div>
 
-          <div id="race-summary" class="race-summary" style="display: none">
-            <!-- Race summary will be dynamically populated -->
+          <!-- Comparison Mode Summary -->
+          <div id="comparison-summary" class="comparison-summary" style="display: none">
+            <!-- Comparison statistics will be dynamically populated -->
           </div>
         </div>
 
