@@ -109,17 +109,57 @@
               <label for="race-selector">Race:</label>
               <select id="race-selector">
                 <option value="">-- Select Race --</option>
+                <option value="__TURNOUT__">📊 View Voter Turnout</option>
               </select>
             </div>
 
             <div id="race-summary" class="race-summary" style="display: none">
               <!-- Race summary will be dynamically populated -->
             </div>
+
+            <div id="turnout-summary" class="turnout-summary" style="display: none">
+              <!-- Turnout summary will be dynamically populated -->
+            </div>
           </div>
 
           <!-- Comparison Mode Summary -->
           <div id="comparison-summary" class="comparison-summary" style="display: none">
             <!-- Comparison statistics will be dynamically populated -->
+          </div>
+        </div>
+
+        <!-- Precinct Filters Section -->
+        <div class="filter-section" id="filter-section" style="display: none">
+          <h3>Filter Precincts</h3>
+
+          <div class="filter-controls">
+            <label for="precinct-search">Search by Name:</label>
+            <input type="text" id="precinct-search" placeholder="Enter precinct name..." />
+          </div>
+
+          <div class="filter-controls">
+            <label for="turnout-filter">Turnout Range:</label>
+            <div class="range-inputs">
+              <input type="number" id="turnout-min" placeholder="Min %" min="0" max="100" step="1" />
+              <span>to</span>
+              <input type="number" id="turnout-max" placeholder="Max %" min="0" max="100" step="1" />
+            </div>
+          </div>
+
+          <div class="filter-controls">
+            <label for="winner-filter">Filter by Winner:</label>
+            <select id="winner-filter">
+              <option value="">-- All Winners --</option>
+            </select>
+          </div>
+
+          <div class="filter-actions">
+            <button id="apply-filters" class="btn btn-primary">Apply Filters</button>
+            <button id="clear-filters" class="btn btn-secondary">Clear All</button>
+          </div>
+
+          <div id="filter-results" class="filter-results" style="display: none">
+            <!-- Filter results summary -->
           </div>
         </div>
 

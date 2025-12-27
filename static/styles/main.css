@@ -666,7 +666,8 @@ body {
   font-size: 14px;
 }
 
-.comparison-summary {
+.comparison-summary,
+.turnout-summary {
   margin-top: 15px;
   padding: 15px;
   background: #fff3cd;
@@ -674,7 +675,8 @@ body {
   border-left: 3px solid #ffc107;
 }
 
-.comparison-summary h4 {
+.comparison-summary h4,
+.turnout-summary h4 {
   margin: 0 0 12px 0;
   color: #856404;
   font-size: 15px;
@@ -954,4 +956,126 @@ body {
     width: 100%;
     right: -100%;
   }
+}
+
+/* Filter Section */
+.filter-section {
+  margin-bottom: 20px;
+  padding: 15px;
+  background: #f8f9fa;
+  border-radius: 6px;
+  border: 1px solid #dee2e6;
+}
+
+.filter-section h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #495057;
+  font-size: 18px;
+}
+
+.filter-controls {
+  margin-bottom: 15px;
+}
+
+.filter-controls label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 600;
+  font-size: 13px;
+  color: #495057;
+}
+
+.filter-controls input[type="text"],
+.filter-controls input[type="number"],
+.filter-controls select {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: border-color 0.2s;
+}
+
+.filter-controls input[type="text"]:focus,
+.filter-controls input[type="number"]:focus,
+.filter-controls select:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.1);
+}
+
+.range-inputs {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.range-inputs input {
+  flex: 1;
+  width: auto;
+}
+
+.range-inputs span {
+  color: #6c757d;
+  font-size: 13px;
+}
+
+.filter-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 15px;
+}
+
+.btn {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-primary {
+  background: #007bff;
+  color: white;
+}
+
+.btn-primary:hover {
+  background: #0056b3;
+}
+
+.btn-secondary {
+  background: #6c757d;
+  color: white;
+}
+
+.btn-secondary:hover {
+  background: #5a6268;
+}
+
+.filter-results {
+  margin-top: 15px;
+  padding: 12px;
+  background: #d1ecf1;
+  border: 1px solid #bee5eb;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.filter-results strong {
+  color: #0c5460;
+}
+
+.filter-highlight {
+  fill-opacity: 1 !important;
+  stroke: #007bff !important;
+  stroke-width: 3 !important;
+}
+
+.filter-dimmed {
+  fill-opacity: 0.2 !important;
+  stroke-opacity: 0.3 !important;
 }

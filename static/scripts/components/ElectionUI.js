@@ -5,6 +5,7 @@
 
 import { RaceDataManager } from '../race-data-manager.js';
 import { getLayerGroup } from '../state/LayerState.js';
+import { precinctFilter } from './PrecinctFilter.js';
 
 let raceManager = null;
 let currentPrecinctLayer = null;
@@ -54,6 +55,9 @@ export async function initializeElectionUI() {
   if (comparisonToggle) {
     comparisonToggle.addEventListener('change', handleComparisonToggle);
   }
+
+  // Initialize precinct filter
+  precinctFilter.initialize();
 
   // Detect when precinct layers are loaded
   detectPrecinctLayer();
@@ -112,6 +116,7 @@ function detectPrecinctLayer() {
       if (layerGroup) {
         currentPrecinctLayer = layerGroup;
         raceManager.setPrecinctLayer(currentPrecinctLayer);
+        precinctFilter.setPrecinctLayer(currentPrecinctLayer);
         console.log('Precinct layer detected:', layerId);
         clearInterval(checkInterval);
         return;
@@ -160,6 +165,18 @@ function populateRaceSelector(races) {
   // Clear existing options (except first)
   raceSelect.innerHTML = '<option value="">-- Select Race --</option>';
 
+  // Add turnout visualization option
+  const turnoutOption = document.createElement('option');
+  turnoutOption.value = '__TURNOUT__';
+  turnoutOption.textContent = '📊 View Voter Turnout';
+  raceSelect.appendChild(turnoutOption);
+
+  // Add separator
+  const separator = document.createElement('option');
+  separator.disabled = true;
+  separator.textContent = '─────────────────────';
+  raceSelect.appendChild(separator);
+
   // Add race options
   races.forEach(race => {
     const option = document.createElement('option');
@@ -203,6 +220,12 @@ async function handleRaceChange(event) {
     return;
   }
 
+  // Check if this is the turnout visualization
+  if (raceId === '__TURNOUT__') {
+    await displayTurnoutVisualization();
+    return;
+  }
+
   // Load race data
   const raceData = await raceManager.loadRaceData(raceManager.currentYear, raceId);
 
@@ -219,6 +242,10 @@ async function handleRaceChange(event) {
 
     // Update race summary
     displayRaceSummary();
+
+    // Update filter with new race data
+    precinctFilter.setElectionData(raceManager.currentYear, raceData);
+    precinctFilter.show();
 
     // Re-style the layer based on race data
     if (currentPrecinctLayer) {
@@ -380,7 +407,11 @@ function calculateComparisonStats(stats2024, stats2025) {
  * Parse turnout value from string or number
  */
 function parseTurnoutValue(value) {
-  if (typeof value === 'number') return value / 100; // Already a decimal
+  if (typeof value === 'number') {
+    // If number is greater than 1, it's a percentage (e.g., 78.35)
+    // If less than or equal to 1, it's already a decimal (e.g., 0.7835)
+    return value > 1 ? value / 100 : value;
+  }
   if (typeof value === 'string') {
     // Remove % sign and convert to decimal (e.g., "78.35%" -> 0.7835)
     return parseFloat(value.replace('%', '')) / 100;
@@ -648,6 +679,219 @@ function displayRaceSummary() {
 }
 
 /**
+ * Display turnout visualization
+ */
+async function displayTurnoutVisualization() {
+  if (!currentPrecinctLayer || !raceManager.currentYear) {
+    console.error('Cannot display turnout: missing precinct layer or year');
+    return;
+  }
+
+  // Clear any existing race data
+  if (raceManager) {
+    raceManager.clearRaceData();
+  }
+
+  // Hide race summary, show turnout summary
+  const raceSummary = document.getElementById('race-summary');
+  const turnoutSummary = document.getElementById('turnout-summary');
+  if (raceSummary) raceSummary.style.display = 'none';
+  if (turnoutSummary) turnoutSummary.style.display = 'block';
+
+  // Load statistics data
+  const statsPath = `/data/elections/${raceManager.currentYear}/statistics.json`;
+
+  try {
+    const response = await fetch(statsPath);
+    const statsData = await response.json();
+
+    // Inject turnout data into precincts
+    injectTurnoutData(statsData);
+
+    // Apply turnout styling
+    applyTurnoutStyling();
+
+    // Display turnout summary
+    displayTurnoutSummary(statsData);
+
+    // Update popups
+    rebindPopups();
+
+  } catch (error) {
+    console.error('Failed to load statistics data:', error);
+    if (turnoutSummary) {
+      turnoutSummary.innerHTML = '<p style="color: #dc3545;">Failed to load turnout data</p>';
+    }
+  }
+}
+
+/**
+ * Inject turnout data into precinct features
+ */
+function injectTurnoutData(statsData) {
+  if (!currentPrecinctLayer || !statsData.results) return;
+
+  let matchedCount = 0;
+
+  currentPrecinctLayer.eachLayer(layer => {
+    if (!layer.feature || !layer.feature.properties) return;
+
+    const precinctCode = normalizePrecinctCode(
+      layer.feature.properties.VLABEL || layer.feature.properties.Precinct
+    );
+
+    // Find exact match or aggregate sub-precincts
+    let stats = statsData.results.find(r =>
+      normalizePrecinctCode(r.Precinct) === precinctCode
+    );
+
+    if (!stats) {
+      const subPrecincts = statsData.results.filter(r => {
+        const rCode = normalizePrecinctCode(r.Precinct);
+        return rCode.startsWith(precinctCode) && rCode.length > precinctCode.length;
+      });
+
+      if (subPrecincts && subPrecincts.length > 0) {
+        stats = aggregateStatistics(subPrecincts);
+      }
+    }
+
+    if (stats) {
+      layer.feature.properties._turnoutData = stats;
+      matchedCount++;
+    } else {
+      delete layer.feature.properties._turnoutData;
+    }
+  });
+
+  console.log(`Injected turnout data: ${matchedCount} precincts`);
+}
+
+/**
+ * Apply turnout-based styling to precincts
+ */
+function applyTurnoutStyling() {
+  if (!currentPrecinctLayer) return;
+
+  currentPrecinctLayer.eachLayer(layer => {
+    if (!layer.feature) return;
+
+    const style = getTurnoutStyle(layer.feature);
+    layer.setStyle(style);
+  });
+}
+
+/**
+ * Get style for a feature based on turnout data
+ */
+function getTurnoutStyle(feature) {
+  const turnoutData = feature.properties?._turnoutData;
+
+  if (!turnoutData) {
+    return {
+      fillColor: '#cccccc',
+      weight: 1,
+      opacity: 1,
+      color: '#666',
+      fillOpacity: 0.5
+    };
+  }
+
+  const turnout = parseTurnoutValue(turnoutData['Voter Turnout - Total']);
+  const turnoutPercent = turnout * 100;
+
+  let fillColor;
+
+  // Color scale for turnout percentage
+  if (turnoutPercent >= 80) {
+    fillColor = '#006d2c'; // Dark green - very high turnout
+  } else if (turnoutPercent >= 70) {
+    fillColor = '#31a354'; // Medium green - high turnout
+  } else if (turnoutPercent >= 60) {
+    fillColor = '#74c476'; // Light green - good turnout
+  } else if (turnoutPercent >= 50) {
+    fillColor = '#bae4b3'; // Very light green - moderate turnout
+  } else if (turnoutPercent >= 40) {
+    fillColor = '#fee08b'; // Yellow - below average turnout
+  } else if (turnoutPercent >= 30) {
+    fillColor = '#fdae61'; // Orange - low turnout
+  } else if (turnoutPercent >= 20) {
+    fillColor = '#f46d43'; // Dark orange - very low turnout
+  } else {
+    fillColor = '#d73027'; // Red - extremely low turnout
+  }
+
+  return {
+    fillColor: fillColor,
+    weight: 1,
+    opacity: 1,
+    color: '#666',
+    fillOpacity: 0.7
+  };
+}
+
+/**
+ * Display turnout summary statistics
+ */
+function displayTurnoutSummary(statsData) {
+  const summaryDiv = document.getElementById('turnout-summary');
+  if (!summaryDiv || !statsData.results) return;
+
+  // Calculate summary statistics
+  const turnouts = statsData.results.map(r => parseTurnoutValue(r['Voter Turnout - Total']));
+  const avgTurnout = turnouts.reduce((sum, t) => sum + t, 0) / turnouts.length;
+  const maxTurnout = Math.max(...turnouts);
+  const minTurnout = Math.min(...turnouts);
+
+  let html = `<h4>${raceManager.currentYear} Voter Turnout</h4>`;
+
+  html += '<div class="summary-stat"><strong>Average Turnout:</strong> <span>' + (avgTurnout * 100).toFixed(2) + '%</span></div>';
+  html += '<div class="summary-stat"><strong>Highest:</strong> <span>' + (maxTurnout * 100).toFixed(2) + '%</span></div>';
+  html += '<div class="summary-stat"><strong>Lowest:</strong> <span>' + (minTurnout * 100).toFixed(2) + '%</span></div>';
+  html += '<div class="summary-stat"><strong>Precincts:</strong> <span>' + statsData.results.length + '</span></div>';
+
+  // Legend
+  html += '<hr style="margin: 10px 0; border: none; border-top: 1px solid #dee2e6;">';
+  html += '<h5 style="margin: 10px 0 5px 0; font-size: 14px;">Turnout Legend</h5>';
+  html += '<div class="comparison-legend">';
+  html += '<div class="comparison-legend-item">';
+  html += '<div class="comparison-legend-color" style="background: #006d2c;"></div>';
+  html += '<span>80%+</span>';
+  html += '</div>';
+  html += '<div class="comparison-legend-item">';
+  html += '<div class="comparison-legend-color" style="background: #31a354;"></div>';
+  html += '<span>70-80%</span>';
+  html += '</div>';
+  html += '<div class="comparison-legend-item">';
+  html += '<div class="comparison-legend-color" style="background: #74c476;"></div>';
+  html += '<span>60-70%</span>';
+  html += '</div>';
+  html += '<div class="comparison-legend-item">';
+  html += '<div class="comparison-legend-color" style="background: #bae4b3;"></div>';
+  html += '<span>50-60%</span>';
+  html += '</div>';
+  html += '<div class="comparison-legend-item">';
+  html += '<div class="comparison-legend-color" style="background: #fee08b;"></div>';
+  html += '<span>40-50%</span>';
+  html += '</div>';
+  html += '<div class="comparison-legend-item">';
+  html += '<div class="comparison-legend-color" style="background: #fdae61;"></div>';
+  html += '<span>30-40%</span>';
+  html += '</div>';
+  html += '<div class="comparison-legend-item">';
+  html += '<div class="comparison-legend-color" style="background: #f46d43;"></div>';
+  html += '<span>20-30%</span>';
+  html += '</div>';
+  html += '<div class="comparison-legend-item">';
+  html += '<div class="comparison-legend-color" style="background: #d73027;"></div>';
+  html += '<span>&lt;20%</span>';
+  html += '</div>';
+  html += '</div>';
+
+  summaryDiv.innerHTML = html;
+}
+
+/**
  * Clear race data and reset UI
  */
 function clearRaceData() {
@@ -656,8 +900,26 @@ function clearRaceData() {
   }
 
   const summaryDiv = document.getElementById('race-summary');
+  const turnoutSummaryDiv = document.getElementById('turnout-summary');
+
   if (summaryDiv) {
     summaryDiv.style.display = 'none';
+  }
+
+  if (turnoutSummaryDiv) {
+    turnoutSummaryDiv.style.display = 'none';
+  }
+
+  // Hide filter section
+  precinctFilter.hide();
+
+  // Clear turnout data from features
+  if (currentPrecinctLayer) {
+    currentPrecinctLayer.eachLayer(layer => {
+      if (layer.feature && layer.feature.properties) {
+        delete layer.feature.properties._turnoutData;
+      }
+    });
   }
 
   // Reset precinct layer styling
@@ -765,46 +1027,6 @@ function getRaceStyle(feature) {
 /**
  * Get style based on voter turnout
  */
-function getTurnoutStyle(feature) {
-  const year = raceManager.currentYear || '2025';
-  const turnoutKey = `${year}_Voter_Turnout_Total`;
-  const turnout = feature.properties[turnoutKey];
-
-  if (turnout == null) {
-    return {
-      fillColor: '#cccccc',
-      weight: 1,
-      opacity: 1,
-      color: '#666',
-      fillOpacity: 0.5
-    };
-  }
-
-  // Color by turnout percentage
-  const percentage = turnout * 100;
-
-  let fillColor = '#f7f7f7';
-  if (percentage >= 70) {
-    fillColor = '#006d2c'; // Dark green - very high turnout
-  } else if (percentage >= 60) {
-    fillColor = '#31a354'; // Medium green - high turnout
-  } else if (percentage >= 50) {
-    fillColor = '#74c476'; // Light green - moderate turnout
-  } else if (percentage >= 40) {
-    fillColor = '#bae4b3'; // Very light green - low-moderate turnout
-  } else {
-    fillColor = '#edf8e9'; // Almost white - low turnout
-  }
-
-  return {
-    fillColor: fillColor,
-    weight: 1,
-    opacity: 1,
-    color: '#666',
-    fillOpacity: 0.7
-  };
-}
-
 /**
  * Update popup content to include race results
  */

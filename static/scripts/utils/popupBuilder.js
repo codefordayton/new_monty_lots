@@ -135,6 +135,9 @@ export async function createPopupContent(layerId, properties, geometry) {
   // Check if this feature has race data
   if (properties && properties._currentRace) {
     content += buildRacePopupContent(properties._currentRace);
+  } else if (properties && properties._turnoutData) {
+    // Show turnout data if available
+    content += buildTurnoutPopupContent(properties._turnoutData);
   } else {
     // Add properties if they exist
     if (properties && Object.keys(properties).length > 0) {
@@ -292,6 +295,93 @@ export function buildComparisonPopupContent(precinctCode, compData) {
   } else if (Math.abs(compData.change * 100) < 0.5) {
     content += `<p style="margin: 10px 0 0 0; padding: 8px; background: #e2e3e5; border-radius: 4px; font-size: 12px; color: #383d41;">`;
     content += 'Voter turnout remained relatively stable between 2024 and 2025.';
+    content += '</p>';
+  }
+
+  content += '</div>';
+
+  return content;
+}
+
+/**
+ * Build popup content for turnout data
+ * @param {Object} turnoutData - Turnout statistics data
+ * @returns {string} HTML content for turnout display
+ */
+function buildTurnoutPopupContent(turnoutData) {
+  if (!turnoutData || typeof turnoutData !== 'object') {
+    return '<p>No turnout data available</p>';
+  }
+
+  let content = '<div style="margin-top: 10px;">';
+
+  // Display precinct name if available
+  if (turnoutData.Precinct) {
+    content += `<p style="margin: 0 0 10px 0; font-weight: 600;">Precinct: ${turnoutData.Precinct}</p>`;
+  }
+
+  // Parse turnout value
+  const turnoutValue = turnoutData['Voter Turnout - Total'];
+  let turnoutPercent;
+
+  if (typeof turnoutValue === 'number') {
+    turnoutPercent = turnoutValue > 1 ? turnoutValue : turnoutValue * 100;
+  } else if (typeof turnoutValue === 'string') {
+    turnoutPercent = parseFloat(turnoutValue.replace('%', ''));
+  } else {
+    turnoutPercent = 0;
+  }
+
+  // Display turnout information
+  content += '<table style="width: 100%; border-collapse: collapse; margin-bottom: 10px;">';
+
+  content += `
+    <tr style="border-bottom: 1px solid #eee;">
+      <td style="padding: 6px 8px 6px 0; font-weight: 600; font-size: 14px;">Voter Turnout:</td>
+      <td style="padding: 6px 0; text-align: right; font-size: 14px; color: #007bff;">
+        <strong>${turnoutPercent.toFixed(2)}%</strong>
+      </td>
+    </tr>
+  `;
+
+  // Add registered voters if available
+  if (turnoutData['Registered Voters - Total']) {
+    const registered = typeof turnoutData['Registered Voters - Total'] === 'string'
+      ? turnoutData['Registered Voters - Total']
+      : turnoutData['Registered Voters - Total'].toLocaleString();
+
+    content += `
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 6px 8px 6px 0; font-weight: 500; font-size: 13px;">Registered Voters:</td>
+        <td style="padding: 6px 0; text-align: right; font-size: 13px;">${registered}</td>
+      </tr>
+    `;
+  }
+
+  // Add ballots cast if available
+  if (turnoutData['Ballots Cast - Total']) {
+    const ballotsCast = typeof turnoutData['Ballots Cast - Total'] === 'string'
+      ? turnoutData['Ballots Cast - Total']
+      : turnoutData['Ballots Cast - Total'].toLocaleString();
+
+    content += `
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 6px 8px 6px 0; font-weight: 500; font-size: 13px;">Ballots Cast:</td>
+        <td style="padding: 6px 0; text-align: right; font-size: 13px;">${ballotsCast}</td>
+      </tr>
+    `;
+  }
+
+  content += '</table>';
+
+  // Add context message based on turnout level
+  if (turnoutPercent >= 70) {
+    content += '<p style="margin: 10px 0 0 0; padding: 8px; background: #d4edda; border-radius: 4px; font-size: 12px; color: #155724;">';
+    content += '<strong>High turnout</strong> for this precinct.';
+    content += '</p>';
+  } else if (turnoutPercent < 40) {
+    content += '<p style="margin: 10px 0 0 0; padding: 8px; background: #f8d7da; border-radius: 4px; font-size: 12px; color: #721c24;">';
+    content += '<strong>Low turnout</strong> for this precinct.';
     content += '</p>';
   }
 
