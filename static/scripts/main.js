@@ -14,9 +14,11 @@ import { initializeSidebarToggle } from './components/SidebarToggle.js';
 import { initializeAdvancedSearch } from './components/AdvancedSearch.js';
 import { initializeElectionUI } from './components/ElectionUI.js';
 import { PrecinctSummary } from './components/PrecinctSummary.js';
+import { AboutModal } from './components/AboutModal.js';
 
-// Create precinct summary instance FIRST
+// Create component instances FIRST
 let precinctSummary = null;
+const aboutModal = new AboutModal();
 
 // Define global functions IMMEDIATELY (before any async operations)
 // These must be available before popups are created
@@ -70,6 +72,9 @@ async function initializeApp() {
     // Initialize precinct summary component
     precinctSummary.initialize();
 
+    // Initialize about modal
+    aboutModal.initialize();
+
     // Initialize search bar after a brief delay to allow layers to load
     setTimeout(() => {
       loadFromURL();
@@ -97,6 +102,14 @@ document.addEventListener('DOMContentLoaded', function () {
   initializeSidebarToggle();
   initializeAdvancedSearch();
   initializeElectionUI();
+
+  // Setup about button click handler
+  const aboutButton = document.getElementById('about-button');
+  if (aboutButton) {
+    aboutButton.addEventListener('click', () => {
+      aboutModal.show();
+    });
+  }
 });
 
 // Start the application
