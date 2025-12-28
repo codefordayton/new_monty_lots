@@ -309,9 +309,12 @@ export class AboutModal {
             <li><strong>Select an election year</strong> from the dropdown (2024 or 2025)</li>
             <li><strong>Choose a race to visualize</strong> or view overall turnout</li>
             <li><strong>Click on any precinct</strong> to see detailed results</li>
-            <li><strong>Use the search bar</strong> to find your address and see your precinct</li>
+            <li><strong>Use the search bar</strong> to search precinct names and properties</li>
             <li><strong>Toggle comparison mode</strong> to see 2024 vs 2025 differences</li>
           </ol>
+          <p class="small-text">
+            <em>Tip: Load parcel layers from "Advanced: Election Layers" to enable address-based search.</em>
+          </p>
         </div>
 
         <div class="learn-card">
