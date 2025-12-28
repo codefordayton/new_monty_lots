@@ -159,7 +159,7 @@ export class AboutModal {
         <p>
           <a href="https://codefordayton.org" target="_blank">Code for Dayton</a> is a volunteer civic
           technology organization working to improve our community through data, design, and technology.
-          We're part of the national <a href="https://www.codeforamerica.org/programs/brigade-network" target="_blank">Code for America Brigade Network</a>.
+          We're part of the <a href="https://www.civictechnologists.org/" target="_blank">Alliance of Civic Technologists (ACT)</a> network.
         </p>
 
         <div class="mission-box">
