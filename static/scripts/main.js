@@ -15,6 +15,21 @@ import { initializeAdvancedSearch } from './components/AdvancedSearch.js';
 import { initializeElectionUI } from './components/ElectionUI.js';
 import { PrecinctSummary } from './components/PrecinctSummary.js';
 
+// Create precinct summary instance FIRST
+let precinctSummary = null;
+
+// Define global functions IMMEDIATELY (before any async operations)
+// These must be available before popups are created
+window.toggleLegend = toggleLegend;
+window.openPrecinctSummary = function(precinctCode) {
+  if (!precinctSummary) {
+    console.warn('PrecinctSummary not yet initialized, initializing now...');
+    precinctSummary = new PrecinctSummary();
+    precinctSummary.initialize();
+  }
+  precinctSummary.show(precinctCode);
+};
+
 // Initialize the Leaflet map
 const map = L.map('map').setView([39.7589, -84.1916], 10);
 
@@ -27,13 +42,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 setMap(map);
 
 // Create precinct summary instance
-const precinctSummary = new PrecinctSummary();
-
-// Make functions available globally for onclick handlers in HTML
-window.toggleLegend = toggleLegend;
-window.openPrecinctSummary = function(precinctCode) {
-  precinctSummary.show(precinctCode);
-};
+precinctSummary = new PrecinctSummary();
 
 // Map click handler
 function onMapClick(_e) {

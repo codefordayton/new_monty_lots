@@ -56,9 +56,18 @@ export class RaceDataManager {
    */
   async loadRaceData(year, raceId) {
     try {
-      const response = await fetch(`/api/elections/${year}/races/${raceId}`);
+      // Decode raceId in case it's already encoded (from select value)
+      // Then re-encode it properly for the URL
+      const decodedRaceId = decodeURIComponent(raceId);
+      const encodedRaceId = encodeURIComponent(decodedRaceId);
+      const response = await fetch(`/api/elections/${year}/races/${encodedRaceId}`);
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+      }
+
       const data = await response.json();
-      this.currentRace = raceId;
+      this.currentRace = decodedRaceId;
       this.raceData = data;
       return data;
     } catch (error) {
