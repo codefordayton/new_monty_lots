@@ -67,7 +67,7 @@ export async function initializeElectionUI() {
 /**
  * Handle comparison mode toggle
  */
-function handleComparisonToggle(event) {
+async function handleComparisonToggle(event) {
   const isComparisonMode = event.target.checked;
 
   const singleYearControls = document.getElementById('single-year-controls');
@@ -82,8 +82,24 @@ function handleComparisonToggle(event) {
     // Clear any selected race
     clearRaceData();
 
-    // Enable and display comparison mode
-    displayComparisonMode();
+    // Auto-load both precinct layers for comparison
+    showLoadingFeedback('Loading 2024 and 2025 election data for comparison...');
+
+    try {
+      // Load both years' data
+      await Promise.all([
+        autoLoadPrecinctLayer('2024'),
+        autoLoadPrecinctLayer('2025')
+      ]);
+
+      hideLoadingFeedback();
+
+      // Enable and display comparison mode
+      await displayComparisonMode();
+    } catch (error) {
+      console.error('Error loading comparison data:', error);
+      showErrorFeedback('Failed to load comparison data. Please try again.');
+    }
   } else {
     // Show single year controls
     if (singleYearControls) {
