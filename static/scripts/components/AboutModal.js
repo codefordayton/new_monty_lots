@@ -171,15 +171,6 @@ export class AboutModal {
           </p>
         </div>
 
-        <h3>Key Features</h3>
-        <ul>
-          <li>🗺️ Interactive precinct-level mapping</li>
-          <li>📊 2024 vs 2025 election comparison</li>
-          <li>🔍 Search by address or precinct</li>
-          <li>📈 Detailed turnout statistics</li>
-          <li>🏆 Race-by-race results visualization</li>
-        </ul>
-
         <h3>Data Sources</h3>
         <p>
           Election data sourced from the Montgomery County Board of Elections.
@@ -224,11 +215,8 @@ export class AboutModal {
           <div class="download-card">
             <h4>🗳️ Race Results (JSON)</h4>
             <p class="small-text">Individual race files available in the elections directory</p>
-            <a href="/data/elections/2024/" target="_blank" class="download-button">
-              Browse 2024 Races
-            </a>
-            <a href="/data/elections/2025/" target="_blank" class="download-button">
-              Browse 2025 Races
+            <a href="https://github.com/codefordayton/new_monty_lots/tree/main/data" target="_blank" class="download-button">
+              View on GitHub
             </a>
           </div>
         </div>
@@ -384,7 +372,6 @@ export class AboutModal {
             <li><a href="https://codefordayton.org" target="_blank">Website</a></li>
             <li><a href="https://www.meetup.com/code-for-dayton/" target="_blank">Meetup Group</a></li>
             <li><a href="https://github.com/codefordayton" target="_blank">GitHub Organization</a></li>
-            <li><a href="https://codefordayton.slack.com" target="_blank">Slack Community</a></li>
           </ul>
         </div>
 
