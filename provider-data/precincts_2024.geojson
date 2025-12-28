@@ -53,7 +53,7 @@
         "2024_Registered_Voters_Total": 811,
         "2024_Ballots_Cast_Total": 687,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "84.71%"
+        "2024_Voter_Turnout_Total": 0.8471
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -647,10 +647,10 @@
         "GlobalID": "{39061EFE-CDDC-42E8-8B22-60EAA95E0965}",
         "Shape_STAr": 225314794.241,
         "Shape_STLe": 71825.9207127,
-        "2024_Registered_Voters_Total": "1,194",
+        "2024_Registered_Voters_Total": 1194,
         "2024_Ballots_Cast_Total": 931,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "77.97%"
+        "2024_Voter_Turnout_Total": 0.7797
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1327,7 +1327,7 @@
         "2024_Registered_Voters_Total": 947,
         "2024_Ballots_Cast_Total": 499,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "52.69%"
+        "2024_Voter_Turnout_Total": 0.5268999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2432,7 +2432,7 @@
         "2024_Registered_Voters_Total": 873,
         "2024_Ballots_Cast_Total": 399,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "45.70%"
+        "2024_Voter_Turnout_Total": 0.457
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2517,7 +2517,7 @@
         "2024_Registered_Voters_Total": 791,
         "2024_Ballots_Cast_Total": 620,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "78.38%"
+        "2024_Voter_Turnout_Total": 0.7837999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2711,10 +2711,10 @@
         "GlobalID": "{ED846C10-3611-459F-89B0-5B032D6B54AC}",
         "Shape_STAr": 12337659.4766,
         "Shape_STLe": 22753.1421346,
-        "2024_Registered_Voters_Total": "1,165",
+        "2024_Registered_Voters_Total": 1165,
         "2024_Ballots_Cast_Total": 878,
         "2024_Ballots_Cast_Blank": 9,
-        "2024_Voter_Turnout_Total": "75.36%"
+        "2024_Voter_Turnout_Total": 0.7536
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3527,7 +3527,7 @@
         "2024_Registered_Voters_Total": 985,
         "2024_Ballots_Cast_Total": 539,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "54.72%"
+        "2024_Voter_Turnout_Total": 0.5472
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4036,7 +4036,7 @@
         "2024_Registered_Voters_Total": 760,
         "2024_Ballots_Cast_Total": 458,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "60.26%"
+        "2024_Voter_Turnout_Total": 0.6026
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4377,7 +4377,7 @@
         "2024_Registered_Voters_Total": 644,
         "2024_Ballots_Cast_Total": 362,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "56.21%"
+        "2024_Voter_Turnout_Total": 0.5621
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4947,10 +4947,10 @@
         "GlobalID": "{2C18A645-7386-455A-9301-2041E1D7587F}",
         "Shape_STAr": 32476135.963299997,
         "Shape_STLe": 26167.1561963,
-        "2024_Registered_Voters_Total": "1,220",
+        "2024_Registered_Voters_Total": 1220,
         "2024_Ballots_Cast_Total": 990,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "81.15%"
+        "2024_Voter_Turnout_Total": 0.8115000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5619,7 +5619,7 @@
         "2024_Registered_Voters_Total": 791,
         "2024_Ballots_Cast_Total": 620,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "78.38%"
+        "2024_Voter_Turnout_Total": 0.7837999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6577,10 +6577,10 @@
         "GlobalID": "{A014236E-0D84-458C-BDAB-5D04DE33887C}",
         "Shape_STAr": 19936797.277,
         "Shape_STLe": 33589.2172443,
-        "2024_Registered_Voters_Total": "1,158",
+        "2024_Registered_Voters_Total": 1158,
         "2024_Ballots_Cast_Total": 946,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "81.69%"
+        "2024_Voter_Turnout_Total": 0.8169
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8154,10 +8154,10 @@
         "GlobalID": "{6FBD1B29-88B7-4569-AE36-832972B1498A}",
         "Shape_STAr": 119804287.792,
         "Shape_STLe": 55199.5067925,
-        "2024_Registered_Voters_Total": "1,194",
+        "2024_Registered_Voters_Total": 1194,
         "2024_Ballots_Cast_Total": 931,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "77.97%"
+        "2024_Voter_Turnout_Total": 0.7797
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8507,10 +8507,10 @@
         "GlobalID": "{44A31632-F9F1-4D39-BDC2-3B1E77EC8517}",
         "Shape_STAr": 25455427.3764,
         "Shape_STLe": 31817.5660587,
-        "2024_Registered_Voters_Total": "1,020",
+        "2024_Registered_Voters_Total": 1020,
         "2024_Ballots_Cast_Total": 729,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "71.47%"
+        "2024_Voter_Turnout_Total": 0.7147
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10187,7 +10187,7 @@
         "2024_Registered_Voters_Total": 937,
         "2024_Ballots_Cast_Total": 573,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "61.15%"
+        "2024_Voter_Turnout_Total": 0.6114999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10808,7 +10808,7 @@
         "2024_Registered_Voters_Total": 996,
         "2024_Ballots_Cast_Total": 513,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "51.51%"
+        "2024_Voter_Turnout_Total": 0.5151
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11250,10 +11250,10 @@
         "GlobalID": "{EAEFB104-E99B-4430-A3A2-8D26C5859BA7}",
         "Shape_STAr": 11106195.6864,
         "Shape_STLe": 18061.6253316,
-        "2024_Registered_Voters_Total": "1,423",
+        "2024_Registered_Voters_Total": 1423,
         "2024_Ballots_Cast_Total": 812,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "57.06%"
+        "2024_Voter_Turnout_Total": 0.5706
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12278,7 +12278,7 @@
         "2024_Registered_Voters_Total": 961,
         "2024_Ballots_Cast_Total": 754,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "78.46%"
+        "2024_Voter_Turnout_Total": 0.7846
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12691,7 +12691,7 @@
         "2024_Registered_Voters_Total": 614,
         "2024_Ballots_Cast_Total": 406,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "66.12%"
+        "2024_Voter_Turnout_Total": 0.6612
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14296,7 +14296,7 @@
         "2024_Registered_Voters_Total": 816,
         "2024_Ballots_Cast_Total": 535,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "65.56%"
+        "2024_Voter_Turnout_Total": 0.6556000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14865,7 +14865,7 @@
         "2024_Registered_Voters_Total": 791,
         "2024_Ballots_Cast_Total": 620,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "78.38%"
+        "2024_Voter_Turnout_Total": 0.7837999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16558,7 +16558,7 @@
         "2024_Registered_Voters_Total": 695,
         "2024_Ballots_Cast_Total": 557,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "80.14%"
+        "2024_Voter_Turnout_Total": 0.8014
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17171,7 +17171,7 @@
         "2024_Registered_Voters_Total": 772,
         "2024_Ballots_Cast_Total": 521,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "67.49%"
+        "2024_Voter_Turnout_Total": 0.6748999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17776,7 +17776,7 @@
         "2024_Registered_Voters_Total": 848,
         "2024_Ballots_Cast_Total": 691,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "81.49%"
+        "2024_Voter_Turnout_Total": 0.8149
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18525,7 +18525,7 @@
         "2024_Registered_Voters_Total": 694,
         "2024_Ballots_Cast_Total": 506,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "72.91%"
+        "2024_Voter_Turnout_Total": 0.7291
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19495,10 +19495,10 @@
         "GlobalID": "{0BF552EF-CC07-4F4A-AA4E-814C671FE429}",
         "Shape_STAr": 96660255.43370001,
         "Shape_STLe": 77878.88047620002,
-        "2024_Registered_Voters_Total": "1,135",
+        "2024_Registered_Voters_Total": 1135,
         "2024_Ballots_Cast_Total": 941,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "82.91%"
+        "2024_Voter_Turnout_Total": 0.8291
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21908,10 +21908,10 @@
         "GlobalID": "{11AB80EA-1FE9-4E16-B881-15E07C7BDBF0}",
         "Shape_STAr": 274992400.983,
         "Shape_STLe": 109305.471331,
-        "2024_Registered_Voters_Total": "1,174",
+        "2024_Registered_Voters_Total": 1174,
         "2024_Ballots_Cast_Total": 959,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "81.69%"
+        "2024_Voter_Turnout_Total": 0.8169
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24432,7 +24432,7 @@
         "2024_Registered_Voters_Total": 883,
         "2024_Ballots_Cast_Total": 610,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "69.08%"
+        "2024_Voter_Turnout_Total": 0.6908
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26334,10 +26334,10 @@
         "GlobalID": "{81C15A10-80CE-4609-9CC3-EBABF1A1B1C7}",
         "Shape_STAr": 13154559.7582,
         "Shape_STLe": 18357.6685986,
-        "2024_Registered_Voters_Total": "1,139",
+        "2024_Registered_Voters_Total": 1139,
         "2024_Ballots_Cast_Total": 881,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "77.35%"
+        "2024_Voter_Turnout_Total": 0.7735
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27022,7 +27022,7 @@
         "2024_Registered_Voters_Total": 651,
         "2024_Ballots_Cast_Total": 479,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "73.58%"
+        "2024_Voter_Turnout_Total": 0.7358
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27995,7 +27995,7 @@
         "2024_Registered_Voters_Total": 856,
         "2024_Ballots_Cast_Total": 620,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "72.43%"
+        "2024_Voter_Turnout_Total": 0.7243
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28860,7 +28860,7 @@
         "2024_Registered_Voters_Total": 826,
         "2024_Ballots_Cast_Total": 663,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "80.27%"
+        "2024_Voter_Turnout_Total": 0.8027
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29322,10 +29322,10 @@
         "GlobalID": "{771167E3-5834-4C30-8C7F-1E4E14AB9885}",
         "Shape_STAr": 11560899.9808,
         "Shape_STLe": 16759.6048083,
-        "2024_Registered_Voters_Total": "1,183",
+        "2024_Registered_Voters_Total": 1183,
         "2024_Ballots_Cast_Total": 796,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "67.29%"
+        "2024_Voter_Turnout_Total": 0.6729
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30019,10 +30019,10 @@
         "GlobalID": "{A0B85811-FE82-482C-9268-0C2706F99361}",
         "Shape_STAr": 23399925.2527,
         "Shape_STLe": 26301.146786,
-        "2024_Registered_Voters_Total": "1,207",
+        "2024_Registered_Voters_Total": 1207,
         "2024_Ballots_Cast_Total": 709,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "58.74%"
+        "2024_Voter_Turnout_Total": 0.5874
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30924,10 +30924,10 @@
         "GlobalID": "{8A3F5F88-947D-4BE8-99B0-40B643AC1C63}",
         "Shape_STAr": 7237388.175569999,
         "Shape_STLe": 13376.4265014,
-        "2024_Registered_Voters_Total": "1,055",
+        "2024_Registered_Voters_Total": 1055,
         "2024_Ballots_Cast_Total": 493,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "46.73%"
+        "2024_Voter_Turnout_Total": 0.4673
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31644,7 +31644,7 @@
         "2024_Registered_Voters_Total": 859,
         "2024_Ballots_Cast_Total": 429,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "49.94%"
+        "2024_Voter_Turnout_Total": 0.49939999999999996
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32661,7 +32661,7 @@
         "2024_Registered_Voters_Total": 833,
         "2024_Ballots_Cast_Total": 560,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "67.23%"
+        "2024_Voter_Turnout_Total": 0.6723
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33194,7 +33194,7 @@
         "2024_Registered_Voters_Total": 975,
         "2024_Ballots_Cast_Total": 701,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "71.90%"
+        "2024_Voter_Turnout_Total": 0.7190000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33775,7 +33775,7 @@
         "2024_Registered_Voters_Total": 606,
         "2024_Ballots_Cast_Total": 202,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "33.33%"
+        "2024_Voter_Turnout_Total": 0.3333
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34080,7 +34080,7 @@
         "2024_Registered_Voters_Total": 936,
         "2024_Ballots_Cast_Total": 545,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "58.23%"
+        "2024_Voter_Turnout_Total": 0.5822999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34633,7 +34633,7 @@
         "2024_Registered_Voters_Total": 830,
         "2024_Ballots_Cast_Total": 505,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "60.84%"
+        "2024_Voter_Turnout_Total": 0.6084
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35390,7 +35390,7 @@
         "2024_Registered_Voters_Total": 964,
         "2024_Ballots_Cast_Total": 390,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "40.46%"
+        "2024_Voter_Turnout_Total": 0.4046
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36856,10 +36856,10 @@
         "GlobalID": "{08185131-B785-470F-A0DE-0BAED74F2087}",
         "Shape_STAr": 8094214.752530001,
         "Shape_STLe": 13126.1304957,
-        "2024_Registered_Voters_Total": "1,151",
+        "2024_Registered_Voters_Total": 1151,
         "2024_Ballots_Cast_Total": 900,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "78.19%"
+        "2024_Voter_Turnout_Total": 0.7818999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37296,7 +37296,7 @@
         "2024_Registered_Voters_Total": 799,
         "2024_Ballots_Cast_Total": 531,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "66.46%"
+        "2024_Voter_Turnout_Total": 0.6646
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37429,7 +37429,7 @@
         "2024_Registered_Voters_Total": 851,
         "2024_Ballots_Cast_Total": 688,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "80.85%"
+        "2024_Voter_Turnout_Total": 0.8085
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37659,10 +37659,10 @@
         "GlobalID": "{40AC28C5-7794-4FC8-BD29-B89265E0D548}",
         "Shape_STAr": 11050077.3287,
         "Shape_STLe": 18759.739163,
-        "2024_Registered_Voters_Total": "1,158",
+        "2024_Registered_Voters_Total": 1158,
         "2024_Ballots_Cast_Total": 885,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "76.42%"
+        "2024_Voter_Turnout_Total": 0.7642
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38384,10 +38384,10 @@
         "GlobalID": "{8040EE74-1D13-4EF6-B568-FE8F47EFF499}",
         "Shape_STAr": 59520879.3985,
         "Shape_STLe": 37343.09945300001,
-        "2024_Registered_Voters_Total": "1,099",
+        "2024_Registered_Voters_Total": 1099,
         "2024_Ballots_Cast_Total": 816,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "74.25%"
+        "2024_Voter_Turnout_Total": 0.7425
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39460,7 +39460,7 @@
         "2024_Registered_Voters_Total": 898,
         "2024_Ballots_Cast_Total": 610,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "67.93%"
+        "2024_Voter_Turnout_Total": 0.6793
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39810,10 +39810,10 @@
         "GlobalID": "{BDC1D802-B3C5-4FE8-9D05-35444C4F627C}",
         "Shape_STAr": 4036185.77356,
         "Shape_STLe": 9113.09921185,
-        "2024_Registered_Voters_Total": "1,151",
+        "2024_Registered_Voters_Total": 1151,
         "2024_Ballots_Cast_Total": 900,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "78.19%"
+        "2024_Voter_Turnout_Total": 0.7818999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40051,10 +40051,10 @@
         "GlobalID": "{865EBF2C-DB98-48AB-B95B-06EC68970106}",
         "Shape_STAr": 1403851.5816,
         "Shape_STLe": 8933.40064256,
-        "2024_Registered_Voters_Total": "1,201",
+        "2024_Registered_Voters_Total": 1201,
         "2024_Ballots_Cast_Total": 904,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "75.27%"
+        "2024_Voter_Turnout_Total": 0.7526999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40276,10 +40276,10 @@
         "GlobalID": "{55D51125-65C5-41BA-9392-2E42A74506A9}",
         "Shape_STAr": 5693943.68291,
         "Shape_STLe": 10283.2214026,
-        "2024_Registered_Voters_Total": "1,122",
+        "2024_Registered_Voters_Total": 1122,
         "2024_Ballots_Cast_Total": 746,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "66.49%"
+        "2024_Voter_Turnout_Total": 0.6648999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41061,10 +41061,10 @@
         "GlobalID": "{60422AB0-A195-47AE-B1A7-231A5F304441}",
         "Shape_STAr": 9396128.77388,
         "Shape_STLe": 14502.4819276,
-        "2024_Registered_Voters_Total": "1,090",
+        "2024_Registered_Voters_Total": 1090,
         "2024_Ballots_Cast_Total": 846,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "77.61%"
+        "2024_Voter_Turnout_Total": 0.7761
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41982,10 +41982,10 @@
         "GlobalID": "{14C018F2-DCFE-4EBA-B759-A01FA17D9FFF}",
         "Shape_STAr": 231846077.783,
         "Shape_STLe": 84173.15609410002,
-        "2024_Registered_Voters_Total": "1,174",
+        "2024_Registered_Voters_Total": 1174,
         "2024_Ballots_Cast_Total": 959,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "81.69%"
+        "2024_Voter_Turnout_Total": 0.8169
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60679,10 +60679,10 @@
         "GlobalID": "{F65323ED-5FF2-4AEA-B380-F8CFD82349FF}",
         "Shape_STAr": 19279356.6437,
         "Shape_STLe": 18127.1260407,
-        "2024_Registered_Voters_Total": "1,208",
+        "2024_Registered_Voters_Total": 1208,
         "2024_Ballots_Cast_Total": 834,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "69.04%"
+        "2024_Voter_Turnout_Total": 0.6904
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61591,7 +61591,7 @@
         "2024_Registered_Voters_Total": 820,
         "2024_Ballots_Cast_Total": 527,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "64.27%"
+        "2024_Voter_Turnout_Total": 0.6426999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62077,10 +62077,10 @@
         "GlobalID": "{CE4B13C1-202A-4DD9-8DF7-CF52F4EFC1CF}",
         "Shape_STAr": 956578.108466,
         "Shape_STLe": 8563.96757636,
-        "2024_Registered_Voters_Total": "1,135",
+        "2024_Registered_Voters_Total": 1135,
         "2024_Ballots_Cast_Total": 941,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "82.91%"
+        "2024_Voter_Turnout_Total": 0.8291
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62429,7 +62429,7 @@
         "2024_Registered_Voters_Total": 795,
         "2024_Ballots_Cast_Total": 599,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "75.35%"
+        "2024_Voter_Turnout_Total": 0.7535
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62894,7 +62894,7 @@
         "2024_Registered_Voters_Total": 672,
         "2024_Ballots_Cast_Total": 479,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "71.28%"
+        "2024_Voter_Turnout_Total": 0.7128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62984,10 +62984,10 @@
         "GlobalID": "{9C416713-C839-4F6A-A347-C619C2ED54BB}",
         "Shape_STAr": 19004398.0462,
         "Shape_STLe": 21857.9240965,
-        "2024_Registered_Voters_Total": "1,247",
+        "2024_Registered_Voters_Total": 1247,
         "2024_Ballots_Cast_Total": 939,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "75.30%"
+        "2024_Voter_Turnout_Total": 0.753
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63281,10 +63281,10 @@
         "GlobalID": "{0F94F5EA-CC33-4205-B42D-0F39BB1BD121}",
         "Shape_STAr": 15983900.662,
         "Shape_STLe": 37819.7688659,
-        "2024_Registered_Voters_Total": "1,153",
+        "2024_Registered_Voters_Total": 1153,
         "2024_Ballots_Cast_Total": 563,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "48.83%"
+        "2024_Voter_Turnout_Total": 0.48829999999999996
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65586,10 +65586,10 @@
         "GlobalID": "{C1DDB7EB-6610-4DE8-BEB9-76FEFE16A87A}",
         "Shape_STAr": 7999952.79894,
         "Shape_STLe": 18703.1883264,
-        "2024_Registered_Voters_Total": "1,041",
+        "2024_Registered_Voters_Total": 1041,
         "2024_Ballots_Cast_Total": 828,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "79.54%"
+        "2024_Voter_Turnout_Total": 0.7954000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66475,10 +66475,10 @@
         "GlobalID": "{2F98C724-1A24-4798-B7DF-CB3B05CD24CD}",
         "Shape_STAr": 11461784.6801,
         "Shape_STLe": 18058.9404361,
-        "2024_Registered_Voters_Total": "1,030",
+        "2024_Registered_Voters_Total": 1030,
         "2024_Ballots_Cast_Total": 807,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "78.35%"
+        "2024_Voter_Turnout_Total": 0.7835
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67167,7 +67167,7 @@
         "2024_Registered_Voters_Total": 962,
         "2024_Ballots_Cast_Total": 717,
         "2024_Ballots_Cast_Blank": 13,
-        "2024_Voter_Turnout_Total": "74.53%"
+        "2024_Voter_Turnout_Total": 0.7453
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68096,7 +68096,7 @@
         "2024_Registered_Voters_Total": 887,
         "2024_Ballots_Cast_Total": 571,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "64.37%"
+        "2024_Voter_Turnout_Total": 0.6437
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69505,7 +69505,7 @@
         "2024_Registered_Voters_Total": 961,
         "2024_Ballots_Cast_Total": 446,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "46.41%"
+        "2024_Voter_Turnout_Total": 0.46409999999999996
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71654,7 +71654,7 @@
         "2024_Registered_Voters_Total": 813,
         "2024_Ballots_Cast_Total": 448,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "55.10%"
+        "2024_Voter_Turnout_Total": 0.551
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75411,7 +75411,7 @@
         "2024_Registered_Voters_Total": 966,
         "2024_Ballots_Cast_Total": 415,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "42.96%"
+        "2024_Voter_Turnout_Total": 0.4296
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75885,10 +75885,10 @@
         "GlobalID": "{C5069E58-4058-4463-8B92-6AB6C6A90C20}",
         "Shape_STAr": 29888061.0365,
         "Shape_STLe": 38062.854799,
-        "2024_Registered_Voters_Total": "1,151",
+        "2024_Registered_Voters_Total": 1151,
         "2024_Ballots_Cast_Total": 977,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "84.88%"
+        "2024_Voter_Turnout_Total": 0.8488
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77270,10 +77270,10 @@
         "GlobalID": "{FEC39D6F-4407-422A-AB59-BC15CC0188DB}",
         "Shape_STAr": 10901245.2356,
         "Shape_STLe": 15453.4562526,
-        "2024_Registered_Voters_Total": "1,004",
+        "2024_Registered_Voters_Total": 1004,
         "2024_Ballots_Cast_Total": 740,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "73.71%"
+        "2024_Voter_Turnout_Total": 0.7371
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78011,10 +78011,10 @@
         "GlobalID": "{CF17E469-11A6-48B7-9BFB-9A6921A0C77C}",
         "Shape_STAr": 29446691.5754,
         "Shape_STLe": 28524.2764245,
-        "2024_Registered_Voters_Total": "1,070",
+        "2024_Registered_Voters_Total": 1070,
         "2024_Ballots_Cast_Total": 895,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "83.64%"
+        "2024_Voter_Turnout_Total": 0.8364
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79171,7 +79171,7 @@
         "2024_Registered_Voters_Total": 954,
         "2024_Ballots_Cast_Total": 657,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "68.87%"
+        "2024_Voter_Turnout_Total": 0.6887000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79837,10 +79837,10 @@
         "GlobalID": "{A78FC135-9AEE-4BC0-A905-1C741C3E698F}",
         "Shape_STAr": 6031687.92612,
         "Shape_STLe": 13809.7255656,
-        "2024_Registered_Voters_Total": "1,174",
+        "2024_Registered_Voters_Total": 1174,
         "2024_Ballots_Cast_Total": 676,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "57.58%"
+        "2024_Voter_Turnout_Total": 0.5758
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80329,7 +80329,7 @@
         "2024_Registered_Voters_Total": 914,
         "2024_Ballots_Cast_Total": 499,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "54.60%"
+        "2024_Voter_Turnout_Total": 0.546
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81094,7 +81094,7 @@
         "2024_Registered_Voters_Total": 602,
         "2024_Ballots_Cast_Total": 388,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "64.45%"
+        "2024_Voter_Turnout_Total": 0.6445000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81472,10 +81472,10 @@
         "GlobalID": "{993D8088-E186-42E6-899B-62E12E35266E}",
         "Shape_STAr": 8996224.80673,
         "Shape_STLe": 13428.0190391,
-        "2024_Registered_Voters_Total": "1,006",
+        "2024_Registered_Voters_Total": 1006,
         "2024_Ballots_Cast_Total": 793,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "78.83%"
+        "2024_Voter_Turnout_Total": 0.7883
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82056,7 +82056,7 @@
         "2024_Registered_Voters_Total": 991,
         "2024_Ballots_Cast_Total": 716,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "72.25%"
+        "2024_Voter_Turnout_Total": 0.7225
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83513,7 +83513,7 @@
         "2024_Registered_Voters_Total": 624,
         "2024_Ballots_Cast_Total": 431,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "69.07%"
+        "2024_Voter_Turnout_Total": 0.6907
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84058,7 +84058,7 @@
         "2024_Registered_Voters_Total": 883,
         "2024_Ballots_Cast_Total": 610,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "69.08%"
+        "2024_Voter_Turnout_Total": 0.6908
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84375,7 +84375,7 @@
         "2024_Registered_Voters_Total": 902,
         "2024_Ballots_Cast_Total": 470,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "52.11%"
+        "2024_Voter_Turnout_Total": 0.5211
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85276,7 +85276,7 @@
         "2024_Registered_Voters_Total": 847,
         "2024_Ballots_Cast_Total": 440,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "51.95%"
+        "2024_Voter_Turnout_Total": 0.5195000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86162,10 +86162,10 @@
         "GlobalID": "{97DF2BD2-D0E2-429E-B61A-BBF8DCC23A9A}",
         "Shape_STAr": 15752486.7256,
         "Shape_STLe": 16848.014499,
-        "2024_Registered_Voters_Total": "1,044",
+        "2024_Registered_Voters_Total": 1044,
         "2024_Ballots_Cast_Total": 879,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "84.20%"
+        "2024_Voter_Turnout_Total": 0.8420000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87022,7 +87022,7 @@
         "2024_Registered_Voters_Total": 746,
         "2024_Ballots_Cast_Total": 586,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "78.55%"
+        "2024_Voter_Turnout_Total": 0.7855
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87787,7 +87787,7 @@
         "2024_Registered_Voters_Total": 785,
         "2024_Ballots_Cast_Total": 629,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "80.13%"
+        "2024_Voter_Turnout_Total": 0.8012999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88780,7 +88780,7 @@
         "2024_Registered_Voters_Total": 944,
         "2024_Ballots_Cast_Total": 809,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "85.70%"
+        "2024_Voter_Turnout_Total": 0.857
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89710,10 +89710,10 @@
         "GlobalID": "{C9720983-BF7F-4C19-BC3B-7C4295551E85}",
         "Shape_STAr": 12351037.7133,
         "Shape_STLe": 16810.5672983,
-        "2024_Registered_Voters_Total": "1,078",
+        "2024_Registered_Voters_Total": 1078,
         "2024_Ballots_Cast_Total": 704,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "65.31%"
+        "2024_Voter_Turnout_Total": 0.6531
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90231,10 +90231,10 @@
         "GlobalID": "{1ADD0A54-7F8F-4287-996C-022677EF3BCE}",
         "Shape_STAr": 33466836.015399996,
         "Shape_STLe": 35179.5397115,
-        "2024_Registered_Voters_Total": "1,427",
+        "2024_Registered_Voters_Total": 1427,
         "2024_Ballots_Cast_Total": 213,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "14.93%"
+        "2024_Voter_Turnout_Total": 0.1493
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91468,10 +91468,10 @@
         "GlobalID": "{4B6ACD24-3CAD-441A-8E50-7787ADB16FF6}",
         "Shape_STAr": 11611233.5707,
         "Shape_STLe": 20480.5170181,
-        "2024_Registered_Voters_Total": "1,009",
+        "2024_Registered_Voters_Total": 1009,
         "2024_Ballots_Cast_Total": 833,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "82.56%"
+        "2024_Voter_Turnout_Total": 0.8256
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92204,7 +92204,7 @@
         "2024_Registered_Voters_Total": 337,
         "2024_Ballots_Cast_Total": 237,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "70.33%"
+        "2024_Voter_Turnout_Total": 0.7033
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92882,10 +92882,10 @@
         "GlobalID": "{616C113A-48FD-4F64-BEE7-1A68ECC5F891}",
         "Shape_STAr": 8514389.40265,
         "Shape_STLe": 22509.1842807,
-        "2024_Registered_Voters_Total": "1,125",
+        "2024_Registered_Voters_Total": 1125,
         "2024_Ballots_Cast_Total": 771,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "68.53%"
+        "2024_Voter_Turnout_Total": 0.6853
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93787,10 +93787,10 @@
         "GlobalID": "{AB0035BC-2998-445D-849C-9F9245E3C743}",
         "Shape_STAr": 1343232.1741,
         "Shape_STLe": 5768.23190325,
-        "2024_Registered_Voters_Total": "1,194",
+        "2024_Registered_Voters_Total": 1194,
         "2024_Ballots_Cast_Total": 931,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "77.97%"
+        "2024_Voter_Turnout_Total": 0.7797
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93984,10 +93984,10 @@
         "GlobalID": "{13578A3A-A837-4B1D-BDF5-38AFCA5F2EED}",
         "Shape_STAr": 13946024.2568,
         "Shape_STLe": 24803.9797823,
-        "2024_Registered_Voters_Total": "1,133",
+        "2024_Registered_Voters_Total": 1133,
         "2024_Ballots_Cast_Total": 936,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "82.61%"
+        "2024_Voter_Turnout_Total": 0.8261
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95580,7 +95580,7 @@
         "2024_Registered_Voters_Total": 813,
         "2024_Ballots_Cast_Total": 448,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "55.10%"
+        "2024_Voter_Turnout_Total": 0.551
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96094,10 +96094,10 @@
         "GlobalID": "{26D7212E-267A-4272-8178-45E8BAB2DFDE}",
         "Shape_STAr": 6969284.444430001,
         "Shape_STLe": 12684.590218,
-        "2024_Registered_Voters_Total": "1,125",
+        "2024_Registered_Voters_Total": 1125,
         "2024_Ballots_Cast_Total": 677,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "60.18%"
+        "2024_Voter_Turnout_Total": 0.6018
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96610,7 +96610,7 @@
         "2024_Registered_Voters_Total": 901,
         "2024_Ballots_Cast_Total": 698,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "77.47%"
+        "2024_Voter_Turnout_Total": 0.7746999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97288,10 +97288,10 @@
         "GlobalID": "{3DC654B3-FB66-4B02-9401-C0942292562E}",
         "Shape_STAr": 12473480.7858,
         "Shape_STLe": 20614.8016808,
-        "2024_Registered_Voters_Total": "1,065",
+        "2024_Registered_Voters_Total": 1065,
         "2024_Ballots_Cast_Total": 776,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "72.86%"
+        "2024_Voter_Turnout_Total": 0.7286
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98168,7 +98168,7 @@
         "2024_Registered_Voters_Total": 934,
         "2024_Ballots_Cast_Total": 434,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "46.47%"
+        "2024_Voter_Turnout_Total": 0.4647
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98522,10 +98522,10 @@
         "GlobalID": "{E5135D16-4FAD-44B6-A85B-AB8F9961B7D0}",
         "Shape_STAr": 13612612.8278,
         "Shape_STLe": 15724.0039891,
-        "2024_Registered_Voters_Total": "1,190",
+        "2024_Registered_Voters_Total": 1190,
         "2024_Ballots_Cast_Total": 796,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "66.89%"
+        "2024_Voter_Turnout_Total": 0.6689
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99374,7 +99374,7 @@
         "2024_Registered_Voters_Total": 699,
         "2024_Ballots_Cast_Total": 337,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "48.21%"
+        "2024_Voter_Turnout_Total": 0.48210000000000003
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99620,10 +99620,10 @@
         "GlobalID": "{8A2CB05B-BB74-4C79-9E65-FCED9C55A37A}",
         "Shape_STAr": 36522274.3783,
         "Shape_STLe": 29494.1915793,
-        "2024_Registered_Voters_Total": "1,098",
+        "2024_Registered_Voters_Total": 1098,
         "2024_Ballots_Cast_Total": 925,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "84.24%"
+        "2024_Voter_Turnout_Total": 0.8423999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100772,7 +100772,7 @@
         "2024_Registered_Voters_Total": 922,
         "2024_Ballots_Cast_Total": 484,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "52.49%"
+        "2024_Voter_Turnout_Total": 0.5249
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103341,7 +103341,7 @@
         "2024_Registered_Voters_Total": 831,
         "2024_Ballots_Cast_Total": 670,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "80.63%"
+        "2024_Voter_Turnout_Total": 0.8062999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103662,7 +103662,7 @@
         "2024_Registered_Voters_Total": 702,
         "2024_Ballots_Cast_Total": 597,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "85.04%"
+        "2024_Voter_Turnout_Total": 0.8504
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104111,7 +104111,7 @@
         "2024_Registered_Voters_Total": 825,
         "2024_Ballots_Cast_Total": 662,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "80.24%"
+        "2024_Voter_Turnout_Total": 0.8024
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104876,7 +104876,7 @@
         "2024_Registered_Voters_Total": 976,
         "2024_Ballots_Cast_Total": 817,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "83.71%"
+        "2024_Voter_Turnout_Total": 0.8371
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105582,10 +105582,10 @@
         "GlobalID": "{3EE8BC0B-E0AE-49BB-8073-0936DEE182ED}",
         "Shape_STAr": 12330682.606,
         "Shape_STLe": 18958.3927643,
-        "2024_Registered_Voters_Total": "1,153",
+        "2024_Registered_Voters_Total": 1153,
         "2024_Ballots_Cast_Total": 897,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "77.80%"
+        "2024_Voter_Turnout_Total": 0.778
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106350,7 +106350,7 @@
         "2024_Registered_Voters_Total": 898,
         "2024_Ballots_Cast_Total": 374,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "41.65%"
+        "2024_Voter_Turnout_Total": 0.4165
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107028,10 +107028,10 @@
         "GlobalID": "{238123B7-16C4-49EA-8023-34171B352C78}",
         "Shape_STAr": 19510917.0195,
         "Shape_STLe": 19278.2489412,
-        "2024_Registered_Voters_Total": "1,109",
+        "2024_Registered_Voters_Total": 1109,
         "2024_Ballots_Cast_Total": 828,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "74.66%"
+        "2024_Voter_Turnout_Total": 0.7465999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107396,7 +107396,7 @@
         "2024_Registered_Voters_Total": 704,
         "2024_Ballots_Cast_Total": 601,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "85.37%"
+        "2024_Voter_Turnout_Total": 0.8537
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108302,10 +108302,10 @@
         "GlobalID": "{ADD22F40-F6ED-46F2-A250-C885479E4351}",
         "Shape_STAr": 6935351.926429999,
         "Shape_STLe": 13839.010143,
-        "2024_Registered_Voters_Total": "1,112",
+        "2024_Registered_Voters_Total": 1112,
         "2024_Ballots_Cast_Total": 466,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "41.91%"
+        "2024_Voter_Turnout_Total": 0.4191
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108826,7 +108826,7 @@
         "2024_Registered_Voters_Total": 829,
         "2024_Ballots_Cast_Total": 679,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "81.91%"
+        "2024_Voter_Turnout_Total": 0.8190999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109556,10 +109556,10 @@
         "GlobalID": "{4C1B86FE-5839-4232-8EF0-C15ED0176F5B}",
         "Shape_STAr": 18993534.3217,
         "Shape_STLe": 21031.2371311,
-        "2024_Registered_Voters_Total": "1,051",
+        "2024_Registered_Voters_Total": 1051,
         "2024_Ballots_Cast_Total": 550,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "52.33%"
+        "2024_Voter_Turnout_Total": 0.5233
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110401,10 +110401,10 @@
         "GlobalID": "{D0A308F2-68B5-405A-A49E-4A7A7077B392}",
         "Shape_STAr": 15196123.0232,
         "Shape_STLe": 27752.4467466,
-        "2024_Registered_Voters_Total": "1,129",
+        "2024_Registered_Voters_Total": 1129,
         "2024_Ballots_Cast_Total": 943,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "83.53%"
+        "2024_Voter_Turnout_Total": 0.8353
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111953,7 +111953,7 @@
         "2024_Registered_Voters_Total": 903,
         "2024_Ballots_Cast_Total": 684,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "75.75%"
+        "2024_Voter_Turnout_Total": 0.7575
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112898,7 +112898,7 @@
         "2024_Registered_Voters_Total": 845,
         "2024_Ballots_Cast_Total": 454,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "53.73%"
+        "2024_Voter_Turnout_Total": 0.5373
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113583,7 +113583,7 @@
         "2024_Registered_Voters_Total": 937,
         "2024_Ballots_Cast_Total": 717,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "76.52%"
+        "2024_Voter_Turnout_Total": 0.7652
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114265,10 +114265,10 @@
         "GlobalID": "{F023C957-BB1C-46B9-B4B5-5FA423278DE7}",
         "Shape_STAr": 13372050.1916,
         "Shape_STLe": 18592.5613382,
-        "2024_Registered_Voters_Total": "1,008",
+        "2024_Registered_Voters_Total": 1008,
         "2024_Ballots_Cast_Total": 740,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "73.41%"
+        "2024_Voter_Turnout_Total": 0.7341
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115109,7 +115109,7 @@
         "2024_Registered_Voters_Total": 672,
         "2024_Ballots_Cast_Total": 479,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "71.28%"
+        "2024_Voter_Turnout_Total": 0.7128
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115823,10 +115823,10 @@
         "GlobalID": "{D7B40265-A3CA-4E9F-B963-AFB0FBDA178C}",
         "Shape_STAr": 14545087.0079,
         "Shape_STLe": 35479.1309686,
-        "2024_Registered_Voters_Total": "1,083",
+        "2024_Registered_Voters_Total": 1083,
         "2024_Ballots_Cast_Total": 683,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "63.07%"
+        "2024_Voter_Turnout_Total": 0.6307
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117820,10 +117820,10 @@
         "GlobalID": "{C456D4CF-CA50-41E7-B2B7-F19C4D20128B}",
         "Shape_STAr": 9204046.15644,
         "Shape_STLe": 19060.2626239,
-        "2024_Registered_Voters_Total": "1,014",
+        "2024_Registered_Voters_Total": 1014,
         "2024_Ballots_Cast_Total": 372,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "36.69%"
+        "2024_Voter_Turnout_Total": 0.3669
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118828,7 +118828,7 @@
         "2024_Registered_Voters_Total": 709,
         "2024_Ballots_Cast_Total": 470,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "66.29%"
+        "2024_Voter_Turnout_Total": 0.6629
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119185,7 +119185,7 @@
         "2024_Registered_Voters_Total": 863,
         "2024_Ballots_Cast_Total": 380,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "44.03%"
+        "2024_Voter_Turnout_Total": 0.4403
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119875,10 +119875,10 @@
         "GlobalID": "{F9AB6751-94FE-4709-BCB7-6D00AD40F000}",
         "Shape_STAr": 30112318.2966,
         "Shape_STLe": 28262.881687,
-        "2024_Registered_Voters_Total": "1,215",
+        "2024_Registered_Voters_Total": 1215,
         "2024_Ballots_Cast_Total": 807,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "66.42%"
+        "2024_Voter_Turnout_Total": 0.6642
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120819,7 +120819,7 @@
         "2024_Registered_Voters_Total": 571,
         "2024_Ballots_Cast_Total": 321,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "56.22%"
+        "2024_Voter_Turnout_Total": 0.5622
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -121976,7 +121976,7 @@
         "2024_Registered_Voters_Total": 756,
         "2024_Ballots_Cast_Total": 433,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "57.28%"
+        "2024_Voter_Turnout_Total": 0.5728
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -122758,10 +122758,10 @@
         "GlobalID": "{8B40F978-0FC9-411F-8299-4F67059B2D94}",
         "Shape_STAr": 10165594.318,
         "Shape_STLe": 20818.920753,
-        "2024_Registered_Voters_Total": "1,246",
+        "2024_Registered_Voters_Total": 1246,
         "2024_Ballots_Cast_Total": 874,
         "2024_Ballots_Cast_Blank": 9,
-        "2024_Voter_Turnout_Total": "70.14%"
+        "2024_Voter_Turnout_Total": 0.7014
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -123795,10 +123795,10 @@
         "GlobalID": "{130CEB3E-EEAD-40D5-8044-3095D390B874}",
         "Shape_STAr": 12187748.060499998,
         "Shape_STLe": 24561.2928987,
-        "2024_Registered_Voters_Total": "1,103",
+        "2024_Registered_Voters_Total": 1103,
         "2024_Ballots_Cast_Total": 813,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "73.71%"
+        "2024_Voter_Turnout_Total": 0.7371
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -125512,10 +125512,10 @@
         "GlobalID": "{2502C082-ADDD-4094-B3D7-A01B4ED66D7E}",
         "Shape_STAr": 9632788.51963,
         "Shape_STLe": 18246.5250166,
-        "2024_Registered_Voters_Total": "1,259",
+        "2024_Registered_Voters_Total": 1259,
         "2024_Ballots_Cast_Total": 843,
         "2024_Ballots_Cast_Blank": 10,
-        "2024_Voter_Turnout_Total": "66.96%"
+        "2024_Voter_Turnout_Total": 0.6696
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -126537,10 +126537,10 @@
         "GlobalID": "{48BB270B-2115-45BE-80C2-C3301A1C62F3}",
         "Shape_STAr": 2814789.48686,
         "Shape_STLe": 7465.83160635,
-        "2024_Registered_Voters_Total": "1,156",
+        "2024_Registered_Voters_Total": 1156,
         "2024_Ballots_Cast_Total": 951,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "82.27%"
+        "2024_Voter_Turnout_Total": 0.8227
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -126773,7 +126773,7 @@
         "2024_Registered_Voters_Total": 653,
         "2024_Ballots_Cast_Total": 271,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "41.50%"
+        "2024_Voter_Turnout_Total": 0.415
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -128735,10 +128735,10 @@
         "GlobalID": "{3CA78356-955E-459B-A0D3-082469A2C75F}",
         "Shape_STAr": 5635247.45212,
         "Shape_STLe": 12964.5755497,
-        "2024_Registered_Voters_Total": "1,109",
+        "2024_Registered_Voters_Total": 1109,
         "2024_Ballots_Cast_Total": 755,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "68.08%"
+        "2024_Voter_Turnout_Total": 0.6808
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -129152,10 +129152,10 @@
         "GlobalID": "{D4947336-7285-49A4-8C48-91AD0DECE521}",
         "Shape_STAr": 7763311.76017,
         "Shape_STLe": 15009.3949275,
-        "2024_Registered_Voters_Total": "1,053",
+        "2024_Registered_Voters_Total": 1053,
         "2024_Ballots_Cast_Total": 703,
         "2024_Ballots_Cast_Blank": 9,
-        "2024_Voter_Turnout_Total": "66.76%"
+        "2024_Voter_Turnout_Total": 0.6676000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -130928,7 +130928,7 @@
         "2024_Registered_Voters_Total": 882,
         "2024_Ballots_Cast_Total": 615,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "69.73%"
+        "2024_Voter_Turnout_Total": 0.6973
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -131326,10 +131326,10 @@
         "GlobalID": "{F63C4AF6-B790-456D-BB10-E22D0A72114F}",
         "Shape_STAr": 6187212.761189999,
         "Shape_STLe": 14514.4423964,
-        "2024_Registered_Voters_Total": "1,126",
+        "2024_Registered_Voters_Total": 1126,
         "2024_Ballots_Cast_Total": 796,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "70.69%"
+        "2024_Voter_Turnout_Total": 0.7069
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -131898,7 +131898,7 @@
         "2024_Registered_Voters_Total": 866,
         "2024_Ballots_Cast_Total": 591,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "68.24%"
+        "2024_Voter_Turnout_Total": 0.6823999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -132359,7 +132359,7 @@
         "2024_Registered_Voters_Total": 756,
         "2024_Ballots_Cast_Total": 384,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "50.79%"
+        "2024_Voter_Turnout_Total": 0.5079
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -133033,10 +133033,10 @@
         "GlobalID": "{C6607AB3-9F7A-41F0-88BC-7C52EAC6C668}",
         "Shape_STAr": 1993759.54824,
         "Shape_STLe": 7416.41800557,
-        "2024_Registered_Voters_Total": "1,142",
+        "2024_Registered_Voters_Total": 1142,
         "2024_Ballots_Cast_Total": 901,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "78.90%"
+        "2024_Voter_Turnout_Total": 0.789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -133417,7 +133417,7 @@
         "2024_Registered_Voters_Total": 902,
         "2024_Ballots_Cast_Total": 470,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "52.11%"
+        "2024_Voter_Turnout_Total": 0.5211
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -134754,7 +134754,7 @@
         "2024_Registered_Voters_Total": 961,
         "2024_Ballots_Cast_Total": 446,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "46.41%"
+        "2024_Voter_Turnout_Total": 0.46409999999999996
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -135044,10 +135044,10 @@
         "GlobalID": "{BEB12EA2-0D53-48BF-B43B-B8550750D602}",
         "Shape_STAr": 15242921.8926,
         "Shape_STLe": 18122.2610568,
-        "2024_Registered_Voters_Total": "1,189",
+        "2024_Registered_Voters_Total": 1189,
         "2024_Ballots_Cast_Total": 719,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "60.47%"
+        "2024_Voter_Turnout_Total": 0.6047
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -135657,10 +135657,10 @@
         "GlobalID": "{EB972492-F358-4F2E-B821-DF39D1769812}",
         "Shape_STAr": 13279093.6882,
         "Shape_STLe": 22574.6349567,
-        "2024_Registered_Voters_Total": "1,232",
-        "2024_Ballots_Cast_Total": "1,030",
+        "2024_Registered_Voters_Total": 1232,
+        "2024_Ballots_Cast_Total": 1030,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "83.60%"
+        "2024_Voter_Turnout_Total": 0.836
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -136705,7 +136705,7 @@
         "2024_Registered_Voters_Total": 787,
         "2024_Ballots_Cast_Total": 554,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "70.39%"
+        "2024_Voter_Turnout_Total": 0.7039
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -137066,7 +137066,7 @@
         "2024_Registered_Voters_Total": 724,
         "2024_Ballots_Cast_Total": 379,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "52.35%"
+        "2024_Voter_Turnout_Total": 0.5235
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -137959,7 +137959,7 @@
         "2024_Registered_Voters_Total": 773,
         "2024_Ballots_Cast_Total": 671,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "86.80%"
+        "2024_Voter_Turnout_Total": 0.868
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -139005,10 +139005,10 @@
         "GlobalID": "{F7EC56A9-A3EC-497E-B65B-A2A516370CCC}",
         "Shape_STAr": 16076795.4298,
         "Shape_STLe": 18853.2720889,
-        "2024_Registered_Voters_Total": "1,003",
+        "2024_Registered_Voters_Total": 1003,
         "2024_Ballots_Cast_Total": 840,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "83.75%"
+        "2024_Voter_Turnout_Total": 0.8375
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -139506,10 +139506,10 @@
         "GlobalID": "{B6EA5D7D-EAE9-4BD6-A03D-9BE916B86BD3}",
         "Shape_STAr": 61366065.709400006,
         "Shape_STLe": 64468.3970727,
-        "2024_Registered_Voters_Total": "1,189",
+        "2024_Registered_Voters_Total": 1189,
         "2024_Ballots_Cast_Total": 719,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "60.47%"
+        "2024_Voter_Turnout_Total": 0.6047
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -141395,10 +141395,10 @@
         "GlobalID": "{CA6D7C2C-B077-48E5-876C-4622E29C931D}",
         "Shape_STAr": 7469418.574430001,
         "Shape_STLe": 16265.0069478,
-        "2024_Registered_Voters_Total": "1,082",
+        "2024_Registered_Voters_Total": 1082,
         "2024_Ballots_Cast_Total": 691,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "63.86%"
+        "2024_Voter_Turnout_Total": 0.6386
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -141940,10 +141940,10 @@
         "GlobalID": "{93415E8A-5808-4A7B-98EE-6061208A9EEB}",
         "Shape_STAr": 33339867.0168,
         "Shape_STLe": 29098.6315076,
-        "2024_Registered_Voters_Total": "1,354",
+        "2024_Registered_Voters_Total": 1354,
         "2024_Ballots_Cast_Total": 970,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "71.64%"
+        "2024_Voter_Turnout_Total": 0.7164
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -143012,7 +143012,7 @@
         "2024_Registered_Voters_Total": 859,
         "2024_Ballots_Cast_Total": 681,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "79.28%"
+        "2024_Voter_Turnout_Total": 0.7928000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -143389,7 +143389,7 @@
         "2024_Registered_Voters_Total": 888,
         "2024_Ballots_Cast_Total": 702,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "79.05%"
+        "2024_Voter_Turnout_Total": 0.7905
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -143826,7 +143826,7 @@
         "2024_Registered_Voters_Total": 873,
         "2024_Ballots_Cast_Total": 684,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "78.35%"
+        "2024_Voter_Turnout_Total": 0.7835
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -144132,10 +144132,10 @@
         "GlobalID": "{77F51E6C-C810-4C30-8BC3-314FB050ED3B}",
         "Shape_STAr": 10816257.7286,
         "Shape_STLe": 29485.2371188,
-        "2024_Registered_Voters_Total": "1,066",
+        "2024_Registered_Voters_Total": 1066,
         "2024_Ballots_Cast_Total": 819,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "76.83%"
+        "2024_Voter_Turnout_Total": 0.7683
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -145817,10 +145817,10 @@
         "GlobalID": "{0937383A-16FC-4EC6-9B81-00C4F7D38FB3}",
         "Shape_STAr": 20150975.4224,
         "Shape_STLe": 28529.1736773,
-        "2024_Registered_Voters_Total": "1,088",
+        "2024_Registered_Voters_Total": 1088,
         "2024_Ballots_Cast_Total": 536,
         "2024_Ballots_Cast_Blank": 10,
-        "2024_Voter_Turnout_Total": "49.26%"
+        "2024_Voter_Turnout_Total": 0.4926
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -147265,7 +147265,7 @@
         "2024_Registered_Voters_Total": 681,
         "2024_Ballots_Cast_Total": 429,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "63%"
+        "2024_Voter_Turnout_Total": 63
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -147534,7 +147534,7 @@
         "2024_Registered_Voters_Total": 944,
         "2024_Ballots_Cast_Total": 679,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "71.93%"
+        "2024_Voter_Turnout_Total": 0.7193
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -148919,7 +148919,7 @@
         "2024_Registered_Voters_Total": 756,
         "2024_Ballots_Cast_Total": 384,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "50.79%"
+        "2024_Voter_Turnout_Total": 0.5079
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -149076,7 +149076,7 @@
         "2024_Registered_Voters_Total": 862,
         "2024_Ballots_Cast_Total": 664,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "77.03%"
+        "2024_Voter_Turnout_Total": 0.7703
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -149722,10 +149722,10 @@
         "GlobalID": "{DF4126E0-3D5C-4253-81B6-50A668C996E7}",
         "Shape_STAr": 15610317.7969,
         "Shape_STLe": 17572.1961779,
-        "2024_Registered_Voters_Total": "1,000",
+        "2024_Registered_Voters_Total": 1000,
         "2024_Ballots_Cast_Total": 736,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "73.60%"
+        "2024_Voter_Turnout_Total": 0.736
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -150802,7 +150802,7 @@
         "2024_Registered_Voters_Total": 933,
         "2024_Ballots_Cast_Total": 641,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "68.70%"
+        "2024_Voter_Turnout_Total": 0.687
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -151123,7 +151123,7 @@
         "2024_Registered_Voters_Total": 709,
         "2024_Ballots_Cast_Total": 563,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "79.41%"
+        "2024_Voter_Turnout_Total": 0.7940999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -152045,10 +152045,10 @@
         "GlobalID": "{EF981EA6-FB8A-4C87-B679-0025726EEA48}",
         "Shape_STAr": 11501267.6334,
         "Shape_STLe": 18436.4359069,
-        "2024_Registered_Voters_Total": "1,302",
+        "2024_Registered_Voters_Total": 1302,
         "2024_Ballots_Cast_Total": 971,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "74.58%"
+        "2024_Voter_Turnout_Total": 0.7458
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -153130,10 +153130,10 @@
         "GlobalID": "{20E29E64-DB31-4646-AE37-9798A78C9371}",
         "Shape_STAr": 19146943.5798,
         "Shape_STLe": 34213.6619255,
-        "2024_Registered_Voters_Total": "1,071",
+        "2024_Registered_Voters_Total": 1071,
         "2024_Ballots_Cast_Total": 620,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "57.89%"
+        "2024_Voter_Turnout_Total": 0.5789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -154419,10 +154419,10 @@
         "GlobalID": "{5F58F492-0F83-48BE-A483-8E6378E48557}",
         "Shape_STAr": 17156238.1518,
         "Shape_STLe": 35395.6312924,
-        "2024_Registered_Voters_Total": "1,263",
-        "2024_Ballots_Cast_Total": "1,091",
+        "2024_Registered_Voters_Total": 1263,
+        "2024_Ballots_Cast_Total": 1091,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "86.38%"
+        "2024_Voter_Turnout_Total": 0.8637999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -156227,7 +156227,7 @@
         "2024_Registered_Voters_Total": 678,
         "2024_Ballots_Cast_Total": 565,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "83.33%"
+        "2024_Voter_Turnout_Total": 0.8332999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -157096,7 +157096,7 @@
         "2024_Registered_Voters_Total": 937,
         "2024_Ballots_Cast_Total": 522,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "55.71%"
+        "2024_Voter_Turnout_Total": 0.5571
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -157606,10 +157606,10 @@
         "GlobalID": "{6670B217-EE82-4CFF-8E68-9AC98CE1B048}",
         "Shape_STAr": 36271705.9617,
         "Shape_STLe": 28721.2956711,
-        "2024_Registered_Voters_Total": "1,228",
+        "2024_Registered_Voters_Total": 1228,
         "2024_Ballots_Cast_Total": 736,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "59.93%"
+        "2024_Voter_Turnout_Total": 0.5992999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -158095,10 +158095,10 @@
         "GlobalID": "{9CA24D57-0162-47D2-8EC5-DFA6BAD4E5FA}",
         "Shape_STAr": 14121455.740299998,
         "Shape_STLe": 23325.1671284,
-        "2024_Registered_Voters_Total": "1,104",
+        "2024_Registered_Voters_Total": 1104,
         "2024_Ballots_Cast_Total": 881,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "79.80%"
+        "2024_Voter_Turnout_Total": 0.7979999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -158908,10 +158908,10 @@
         "GlobalID": "{FC8138E4-FC92-475C-80C3-BECD13DAC0D8}",
         "Shape_STAr": 13202229.0609,
         "Shape_STLe": 29818.5131816,
-        "2024_Registered_Voters_Total": "1,014",
+        "2024_Registered_Voters_Total": 1014,
         "2024_Ballots_Cast_Total": 612,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "60.36%"
+        "2024_Voter_Turnout_Total": 0.6036
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -160093,10 +160093,10 @@
         "GlobalID": "{C1FDC46A-9718-4A9F-95A9-D1D240022E40}",
         "Shape_STAr": 18000592.8585,
         "Shape_STLe": 27558.0517256,
-        "2024_Registered_Voters_Total": "1,148",
+        "2024_Registered_Voters_Total": 1148,
         "2024_Ballots_Cast_Total": 582,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "50.70%"
+        "2024_Voter_Turnout_Total": 0.507
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -160922,10 +160922,10 @@
         "GlobalID": "{0F5159C6-217D-4ED8-988E-D2C2F1E9E8FD}",
         "Shape_STAr": 16198780.8918,
         "Shape_STLe": 16816.2436233,
-        "2024_Registered_Voters_Total": "1,215",
+        "2024_Registered_Voters_Total": 1215,
         "2024_Ballots_Cast_Total": 964,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "79.34%"
+        "2024_Voter_Turnout_Total": 0.7934
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -161438,7 +161438,7 @@
         "2024_Registered_Voters_Total": 966,
         "2024_Ballots_Cast_Total": 741,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "76.71%"
+        "2024_Voter_Turnout_Total": 0.7670999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -162251,7 +162251,7 @@
         "2024_Registered_Voters_Total": 914,
         "2024_Ballots_Cast_Total": 302,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "33.04%"
+        "2024_Voter_Turnout_Total": 0.33039999999999997
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -162321,10 +162321,10 @@
         "GlobalID": "{C9B4F14F-3D25-4B95-98CD-CB23092C6E67}",
         "Shape_STAr": 14121942.828,
         "Shape_STLe": 20266.5466284,
-        "2024_Registered_Voters_Total": "1,187",
+        "2024_Registered_Voters_Total": 1187,
         "2024_Ballots_Cast_Total": 531,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "44.73%"
+        "2024_Voter_Turnout_Total": 0.4473
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -162957,7 +162957,7 @@
         "2024_Registered_Voters_Total": 889,
         "2024_Ballots_Cast_Total": 473,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "53.21%"
+        "2024_Voter_Turnout_Total": 0.5321
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -163855,10 +163855,10 @@
         "GlobalID": "{49300916-F7A4-486A-BBA5-4BFEBDB978D4}",
         "Shape_STAr": 32176942.1417,
         "Shape_STLe": 30048.0437406,
-        "2024_Registered_Voters_Total": "1,222",
+        "2024_Registered_Voters_Total": 1222,
         "2024_Ballots_Cast_Total": 816,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "66.78%"
+        "2024_Voter_Turnout_Total": 0.6678000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -165128,10 +165128,10 @@
         "GlobalID": "{BE779E67-E6B3-4D32-B19B-6D4D21450F57}",
         "Shape_STAr": 15241599.093,
         "Shape_STLe": 23400.0559424,
-        "2024_Registered_Voters_Total": "1,076",
+        "2024_Registered_Voters_Total": 1076,
         "2024_Ballots_Cast_Total": 863,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "80.20%"
+        "2024_Voter_Turnout_Total": 0.802
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -165741,10 +165741,10 @@
         "GlobalID": "{C27DA062-842F-4BC1-9B3D-4D291E689806}",
         "Shape_STAr": 14446268.4418,
         "Shape_STLe": 17048.1401804,
-        "2024_Registered_Voters_Total": "1,199",
+        "2024_Registered_Voters_Total": 1199,
         "2024_Ballots_Cast_Total": 559,
         "2024_Ballots_Cast_Blank": 9,
-        "2024_Voter_Turnout_Total": "46.62%"
+        "2024_Voter_Turnout_Total": 0.46619999999999995
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -166297,7 +166297,7 @@
         "2024_Registered_Voters_Total": 932,
         "2024_Ballots_Cast_Total": 519,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "55.69%"
+        "2024_Voter_Turnout_Total": 0.5569
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -167227,10 +167227,10 @@
         "GlobalID": "{E4DAC390-3EF6-48AD-85B1-D14B1560D851}",
         "Shape_STAr": 7552243.14087,
         "Shape_STLe": 11439.0251803,
-        "2024_Registered_Voters_Total": "1,145",
+        "2024_Registered_Voters_Total": 1145,
         "2024_Ballots_Cast_Total": 702,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "61.31%"
+        "2024_Voter_Turnout_Total": 0.6131
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -168007,7 +168007,7 @@
         "2024_Registered_Voters_Total": 873,
         "2024_Ballots_Cast_Total": 399,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "45.70%"
+        "2024_Voter_Turnout_Total": 0.457
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -168557,10 +168557,10 @@
         "GlobalID": "{1AECA77F-0A2B-49A8-9A01-8FF4F00D9AE0}",
         "Shape_STAr": 6682547.95642,
         "Shape_STLe": 15837.055188,
-        "2024_Registered_Voters_Total": "1,021",
+        "2024_Registered_Voters_Total": 1021,
         "2024_Ballots_Cast_Total": 546,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "53.48%"
+        "2024_Voter_Turnout_Total": 0.5347999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -169454,10 +169454,10 @@
         "GlobalID": "{49ABD9F3-ED3C-4EE7-8E5C-DCC10B19723D}",
         "Shape_STAr": 13577131.991299998,
         "Shape_STLe": 20635.1395586,
-        "2024_Registered_Voters_Total": "1,050",
+        "2024_Registered_Voters_Total": 1050,
         "2024_Ballots_Cast_Total": 734,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "69.90%"
+        "2024_Voter_Turnout_Total": 0.6990000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -170018,7 +170018,7 @@
         "2024_Registered_Voters_Total": 614,
         "2024_Ballots_Cast_Total": 406,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "66.12%"
+        "2024_Voter_Turnout_Total": 0.6612
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -170847,7 +170847,7 @@
         "2024_Registered_Voters_Total": 932,
         "2024_Ballots_Cast_Total": 673,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "72.21%"
+        "2024_Voter_Turnout_Total": 0.7221
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -171348,7 +171348,7 @@
         "2024_Registered_Voters_Total": 789,
         "2024_Ballots_Cast_Total": 511,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "64.77%"
+        "2024_Voter_Turnout_Total": 0.6476999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -171901,7 +171901,7 @@
         "2024_Registered_Voters_Total": 734,
         "2024_Ballots_Cast_Total": 347,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "47.28%"
+        "2024_Voter_Turnout_Total": 0.4728
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -172354,7 +172354,7 @@
         "2024_Registered_Voters_Total": 770,
         "2024_Ballots_Cast_Total": 451,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "58.57%"
+        "2024_Voter_Turnout_Total": 0.5857
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -172943,7 +172943,7 @@
         "2024_Registered_Voters_Total": 822,
         "2024_Ballots_Cast_Total": 596,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "72.51%"
+        "2024_Voter_Turnout_Total": 0.7251000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -173529,10 +173529,10 @@
         "GlobalID": "{156D6FF6-E4D5-4EB9-9ACC-D1CF37EABDBF}",
         "Shape_STAr": 6091443.95792,
         "Shape_STLe": 11696.7201108,
-        "2024_Registered_Voters_Total": "1,123",
+        "2024_Registered_Voters_Total": 1123,
         "2024_Ballots_Cast_Total": 495,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "44.08%"
+        "2024_Voter_Turnout_Total": 0.44079999999999997
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -173934,10 +173934,10 @@
         "GlobalID": "{AEFDD107-FD5C-4817-A5EC-CCF11628DD95}",
         "Shape_STAr": 309234740.25,
         "Shape_STLe": 103732.287755,
-        "2024_Registered_Voters_Total": "1,247",
+        "2024_Registered_Voters_Total": 1247,
         "2024_Ballots_Cast_Total": 939,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "75.30%"
+        "2024_Voter_Turnout_Total": 0.753
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -176543,10 +176543,10 @@
         "GlobalID": "{7D593E17-9D7F-4D33-9F30-3121F7B207A6}",
         "Shape_STAr": 18478109.5576,
         "Shape_STLe": 28240.172866,
-        "2024_Registered_Voters_Total": "1,029",
+        "2024_Registered_Voters_Total": 1029,
         "2024_Ballots_Cast_Total": 747,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "72.59%"
+        "2024_Voter_Turnout_Total": 0.7259
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -177288,10 +177288,10 @@
         "GlobalID": "{50041A6E-CC43-455B-A6FF-BE8EA85DD6AB}",
         "Shape_STAr": 14855997.3222,
         "Shape_STLe": 20609.8105456,
-        "2024_Registered_Voters_Total": "1,143",
+        "2024_Registered_Voters_Total": 1143,
         "2024_Ballots_Cast_Total": 971,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "84.95%"
+        "2024_Voter_Turnout_Total": 0.8495
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -179736,7 +179736,7 @@
         "2024_Registered_Voters_Total": 844,
         "2024_Ballots_Cast_Total": 660,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "78.20%"
+        "2024_Voter_Turnout_Total": 0.782
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -180206,10 +180206,10 @@
         "GlobalID": "{972286FC-D759-4FBB-BDC4-D6618D1D4D66}",
         "Shape_STAr": 10748974.5931,
         "Shape_STLe": 14087.6096524,
-        "2024_Registered_Voters_Total": "1,210",
+        "2024_Registered_Voters_Total": 1210,
         "2024_Ballots_Cast_Total": 874,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "72.23%"
+        "2024_Voter_Turnout_Total": 0.7223
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -180530,7 +180530,7 @@
         "2024_Registered_Voters_Total": 971,
         "2024_Ballots_Cast_Total": 731,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "75.28%"
+        "2024_Voter_Turnout_Total": 0.7528
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -181276,10 +181276,10 @@
         "GlobalID": "{54D724B5-BC09-45DD-AC0C-35203407E4AC}",
         "Shape_STAr": 15702888.9219,
         "Shape_STLe": 22270.0007526,
-        "2024_Registered_Voters_Total": "1,202",
+        "2024_Registered_Voters_Total": 1202,
         "2024_Ballots_Cast_Total": 752,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "62.56%"
+        "2024_Voter_Turnout_Total": 0.6256
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -182424,7 +182424,7 @@
         "2024_Registered_Voters_Total": 776,
         "2024_Ballots_Cast_Total": 350,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "45.10%"
+        "2024_Voter_Turnout_Total": 0.451
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -183497,7 +183497,7 @@
         "2024_Registered_Voters_Total": 720,
         "2024_Ballots_Cast_Total": 480,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "66.67%"
+        "2024_Voter_Turnout_Total": 0.6667000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -183999,10 +183999,10 @@
         "GlobalID": "{6B360207-8363-45FD-B3BD-6988002A4931}",
         "Shape_STAr": 10848746.5893,
         "Shape_STLe": 15613.2765412,
-        "2024_Registered_Voters_Total": "1,079",
+        "2024_Registered_Voters_Total": 1079,
         "2024_Ballots_Cast_Total": 814,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "75.44%"
+        "2024_Voter_Turnout_Total": 0.7544
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -185023,7 +185023,7 @@
         "2024_Registered_Voters_Total": 821,
         "2024_Ballots_Cast_Total": 313,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "38.12%"
+        "2024_Voter_Turnout_Total": 0.3812
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -185424,7 +185424,7 @@
         "2024_Registered_Voters_Total": 601,
         "2024_Ballots_Cast_Total": 205,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "34.11%"
+        "2024_Voter_Turnout_Total": 0.3411
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -186166,10 +186166,10 @@
         "GlobalID": "{CA0E303C-BE58-4692-A0B5-58394582FDB4}",
         "Shape_STAr": 14799054.7761,
         "Shape_STLe": 26781.4505183,
-        "2024_Registered_Voters_Total": "1,082",
+        "2024_Registered_Voters_Total": 1082,
         "2024_Ballots_Cast_Total": 844,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "78%"
+        "2024_Voter_Turnout_Total": 78
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -186827,10 +186827,10 @@
         "GlobalID": "{9098D38C-45E4-4E22-AC0A-75DDEDC2C60A}",
         "Shape_STAr": 3562886.66354,
         "Shape_STLe": 8019.87634766,
-        "2024_Registered_Voters_Total": "1,051",
+        "2024_Registered_Voters_Total": 1051,
         "2024_Ballots_Cast_Total": 550,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "52.33%"
+        "2024_Voter_Turnout_Total": 0.5233
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -187331,7 +187331,7 @@
         "2024_Registered_Voters_Total": 800,
         "2024_Ballots_Cast_Total": 367,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "45.87%"
+        "2024_Voter_Turnout_Total": 0.4587
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -188036,7 +188036,7 @@
         "2024_Registered_Voters_Total": 767,
         "2024_Ballots_Cast_Total": 426,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "55.54%"
+        "2024_Voter_Turnout_Total": 0.5554
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -188705,7 +188705,7 @@
         "2024_Registered_Voters_Total": 991,
         "2024_Ballots_Cast_Total": 716,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "72.25%"
+        "2024_Voter_Turnout_Total": 0.7225
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -188806,7 +188806,7 @@
         "2024_Registered_Voters_Total": 729,
         "2024_Ballots_Cast_Total": 504,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "69.14%"
+        "2024_Voter_Turnout_Total": 0.6914
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -189215,7 +189215,7 @@
         "2024_Registered_Voters_Total": 814,
         "2024_Ballots_Cast_Total": 533,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "65.48%"
+        "2024_Voter_Turnout_Total": 0.6548
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -189688,7 +189688,7 @@
         "2024_Registered_Voters_Total": 770,
         "2024_Ballots_Cast_Total": 267,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "34.68%"
+        "2024_Voter_Turnout_Total": 0.3468
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -190410,10 +190410,10 @@
         "GlobalID": "{D2AD9D61-985A-4408-9A86-8A0F872FB32F}",
         "Shape_STAr": 11727009.8946,
         "Shape_STLe": 18334.9743767,
-        "2024_Registered_Voters_Total": "1,142",
+        "2024_Registered_Voters_Total": 1142,
         "2024_Ballots_Cast_Total": 527,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "46.15%"
+        "2024_Voter_Turnout_Total": 0.46149999999999997
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -191034,7 +191034,7 @@
         "2024_Registered_Voters_Total": 644,
         "2024_Ballots_Cast_Total": 362,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "56.21%"
+        "2024_Voter_Turnout_Total": 0.5621
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -191296,10 +191296,10 @@
         "GlobalID": "{EB7C6A88-0C4C-4A89-AFBF-2BC6044C13CA}",
         "Shape_STAr": 32870380.508300003,
         "Shape_STLe": 45430.1260429,
-        "2024_Registered_Voters_Total": "1,097",
+        "2024_Registered_Voters_Total": 1097,
         "2024_Ballots_Cast_Total": 852,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "77.67%"
+        "2024_Voter_Turnout_Total": 0.7767000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -192840,7 +192840,7 @@
         "2024_Registered_Voters_Total": 942,
         "2024_Ballots_Cast_Total": 715,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "75.90%"
+        "2024_Voter_Turnout_Total": 0.759
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -194093,7 +194093,7 @@
         "2024_Registered_Voters_Total": 877,
         "2024_Ballots_Cast_Total": 697,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "79.48%"
+        "2024_Voter_Turnout_Total": 0.7948000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -194314,7 +194314,7 @@
         "2024_Registered_Voters_Total": 624,
         "2024_Ballots_Cast_Total": 431,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "69.07%"
+        "2024_Voter_Turnout_Total": 0.6907
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -195151,7 +195151,7 @@
         "2024_Registered_Voters_Total": 866,
         "2024_Ballots_Cast_Total": 407,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "47%"
+        "2024_Voter_Turnout_Total": 47
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -195772,7 +195772,7 @@
         "2024_Registered_Voters_Total": 961,
         "2024_Ballots_Cast_Total": 682,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "70.97%"
+        "2024_Voter_Turnout_Total": 0.7097
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -196069,7 +196069,7 @@
         "2024_Registered_Voters_Total": 922,
         "2024_Ballots_Cast_Total": 484,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "52.49%"
+        "2024_Voter_Turnout_Total": 0.5249
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -196186,7 +196186,7 @@
         "2024_Registered_Voters_Total": 985,
         "2024_Ballots_Cast_Total": 539,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "54.72%"
+        "2024_Voter_Turnout_Total": 0.5472
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -196271,7 +196271,7 @@
         "2024_Registered_Voters_Total": 937,
         "2024_Ballots_Cast_Total": 770,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "82.18%"
+        "2024_Voter_Turnout_Total": 0.8218000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -196989,10 +196989,10 @@
         "GlobalID": "{BCEF0AB0-0CB5-4944-A0BF-31E3E9AFF5BE}",
         "Shape_STAr": 24393309.800500005,
         "Shape_STLe": 27574.9499335,
-        "2024_Registered_Voters_Total": "1,177",
+        "2024_Registered_Voters_Total": 1177,
         "2024_Ballots_Cast_Total": 996,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "84.62%"
+        "2024_Voter_Turnout_Total": 0.8462000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -198729,7 +198729,7 @@
         "2024_Registered_Voters_Total": 877,
         "2024_Ballots_Cast_Total": 697,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "79.48%"
+        "2024_Voter_Turnout_Total": 0.7948000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -198906,7 +198906,7 @@
         "2024_Registered_Voters_Total": 877,
         "2024_Ballots_Cast_Total": 697,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "79.48%"
+        "2024_Voter_Turnout_Total": 0.7948000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -199059,7 +199059,7 @@
         "2024_Registered_Voters_Total": 877,
         "2024_Ballots_Cast_Total": 697,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "79.48%"
+        "2024_Voter_Turnout_Total": 0.7948000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -199205,10 +199205,10 @@
         "GlobalID": "{35AA9163-5D7E-4611-A1A1-85FAF5CFBCDB}",
         "Shape_STAr": 9345090.8095,
         "Shape_STLe": 17637.2999396,
-        "2024_Registered_Voters_Total": "1,113",
+        "2024_Registered_Voters_Total": 1113,
         "2024_Ballots_Cast_Total": 813,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "73.05%"
+        "2024_Voter_Turnout_Total": 0.7304999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -200177,7 +200177,7 @@
         "2024_Registered_Voters_Total": 653,
         "2024_Ballots_Cast_Total": 271,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "41.50%"
+        "2024_Voter_Turnout_Total": 0.415
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -200259,10 +200259,10 @@
         "GlobalID": "{E5BD5ACC-D89A-4243-890B-6A9B1A59705F}",
         "Shape_STAr": 31961.8271974,
         "Shape_STLe": 914.3101787,
-        "2024_Registered_Voters_Total": "1,202",
+        "2024_Registered_Voters_Total": 1202,
         "2024_Ballots_Cast_Total": 752,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "62.56%"
+        "2024_Voter_Turnout_Total": 0.6256
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -200347,7 +200347,7 @@
         "2024_Registered_Voters_Total": 995,
         "2024_Ballots_Cast_Total": 791,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "79.50%"
+        "2024_Voter_Turnout_Total": 0.795
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -201012,7 +201012,7 @@
         "2024_Registered_Voters_Total": 717,
         "2024_Ballots_Cast_Total": 539,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "75.17%"
+        "2024_Voter_Turnout_Total": 0.7517
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -201473,7 +201473,7 @@
         "2024_Registered_Voters_Total": 914,
         "2024_Ballots_Cast_Total": 302,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "33.04%"
+        "2024_Voter_Turnout_Total": 0.33039999999999997
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -201990,7 +201990,7 @@
         "2024_Registered_Voters_Total": 904,
         "2024_Ballots_Cast_Total": 667,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "73.78%"
+        "2024_Voter_Turnout_Total": 0.7378
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -202111,7 +202111,7 @@
         "2024_Registered_Voters_Total": 912,
         "2024_Ballots_Cast_Total": 514,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "56.36%"
+        "2024_Voter_Turnout_Total": 0.5636
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -202685,10 +202685,10 @@
         "GlobalID": "{6D03F3EA-1542-496E-9EBA-B9E5F9BBCCDC}",
         "Shape_STAr": 49623.617903,
         "Shape_STLe": 891.168172126,
-        "2024_Registered_Voters_Total": "1,178",
+        "2024_Registered_Voters_Total": 1178,
         "2024_Ballots_Cast_Total": 923,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "78.35%"
+        "2024_Voter_Turnout_Total": 0.7835
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -202781,7 +202781,7 @@
         "2024_Registered_Voters_Total": 618,
         "2024_Ballots_Cast_Total": 277,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "44.82%"
+        "2024_Voter_Turnout_Total": 0.4482
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -203694,7 +203694,7 @@
         "2024_Registered_Voters_Total": 875,
         "2024_Ballots_Cast_Total": 556,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "63.54%"
+        "2024_Voter_Turnout_Total": 0.6354
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -204095,7 +204095,7 @@
         "2024_Registered_Voters_Total": 998,
         "2024_Ballots_Cast_Total": 443,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "44.39%"
+        "2024_Voter_Turnout_Total": 0.4439
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -204696,7 +204696,7 @@
         "2024_Registered_Voters_Total": 784,
         "2024_Ballots_Cast_Total": 385,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "49.11%"
+        "2024_Voter_Turnout_Total": 0.4911
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -205342,10 +205342,10 @@
         "GlobalID": "{AF31B91F-2430-4685-B9EF-10610C257AF5}",
         "Shape_STAr": 43385.9480287,
         "Shape_STLe": 2391.31546277,
-        "2024_Registered_Voters_Total": "1,119",
+        "2024_Registered_Voters_Total": 1119,
         "2024_Ballots_Cast_Total": 798,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "71.31%"
+        "2024_Voter_Turnout_Total": 0.7131000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -205522,7 +205522,7 @@
         "2024_Registered_Voters_Total": 848,
         "2024_Ballots_Cast_Total": 691,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "81.49%"
+        "2024_Voter_Turnout_Total": 0.8149
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -205659,7 +205659,7 @@
         "2024_Registered_Voters_Total": 678,
         "2024_Ballots_Cast_Total": 421,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "62.09%"
+        "2024_Voter_Turnout_Total": 0.6209
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -205933,10 +205933,10 @@
         "GlobalID": "{8340B4A5-3E95-4216-9F29-8B17A6C9301E}",
         "Shape_STAr": 15179135.9875,
         "Shape_STLe": 32124.6616571,
-        "2024_Registered_Voters_Total": "1,289",
+        "2024_Registered_Voters_Total": 1289,
         "2024_Ballots_Cast_Total": 720,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "55.86%"
+        "2024_Voter_Turnout_Total": 0.5586
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -207502,10 +207502,10 @@
         "GlobalID": "{B2E94320-910C-4269-97CD-1D3059F797B8}",
         "Shape_STAr": 10504342.7309,
         "Shape_STLe": 22554.2749253,
-        "2024_Registered_Voters_Total": "1,122",
+        "2024_Registered_Voters_Total": 1122,
         "2024_Ballots_Cast_Total": 692,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "61.68%"
+        "2024_Voter_Turnout_Total": 0.6168
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -208130,7 +208130,7 @@
         "2024_Registered_Voters_Total": 815,
         "2024_Ballots_Cast_Total": 616,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "75.58%"
+        "2024_Voter_Turnout_Total": 0.7558
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -208399,7 +208399,7 @@
         "2024_Registered_Voters_Total": 968,
         "2024_Ballots_Cast_Total": 801,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "82.75%"
+        "2024_Voter_Turnout_Total": 0.8275
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -208956,7 +208956,7 @@
         "2024_Registered_Voters_Total": 501,
         "2024_Ballots_Cast_Total": 299,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "59.68%"
+        "2024_Voter_Turnout_Total": 0.5968
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -209645,7 +209645,7 @@
         "2024_Registered_Voters_Total": 904,
         "2024_Ballots_Cast_Total": 667,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "73.78%"
+        "2024_Voter_Turnout_Total": 0.7378
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -210914,7 +210914,7 @@
         "2024_Registered_Voters_Total": 937,
         "2024_Ballots_Cast_Total": 649,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "69.26%"
+        "2024_Voter_Turnout_Total": 0.6926000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -211600,10 +211600,10 @@
         "GlobalID": "{F2CA1767-0398-4058-A60D-727CB3D32B7A}",
         "Shape_STAr": 9734313.82203,
         "Shape_STLe": 13382.0479333,
-        "2024_Registered_Voters_Total": "1,098",
+        "2024_Registered_Voters_Total": 1098,
         "2024_Ballots_Cast_Total": 731,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "66.58%"
+        "2024_Voter_Turnout_Total": 0.6658
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -212156,7 +212156,7 @@
         "2024_Registered_Voters_Total": 799,
         "2024_Ballots_Cast_Total": 653,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "81.73%"
+        "2024_Voter_Turnout_Total": 0.8173
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -212485,7 +212485,7 @@
         "2024_Registered_Voters_Total": 883,
         "2024_Ballots_Cast_Total": 693,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "78.48%"
+        "2024_Voter_Turnout_Total": 0.7848
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -213434,7 +213434,7 @@
         "2024_Registered_Voters_Total": 883,
         "2024_Ballots_Cast_Total": 693,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "78.48%"
+        "2024_Voter_Turnout_Total": 0.7848
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -213684,10 +213684,10 @@
         "GlobalID": "{FA14CE1D-A7DD-4C21-ABB6-DD082AFB4DDE}",
         "Shape_STAr": 38365646.6798,
         "Shape_STLe": 40081.32500180001,
-        "2024_Registered_Voters_Total": "1,349",
-        "2024_Ballots_Cast_Total": "1,100",
+        "2024_Registered_Voters_Total": 1349,
+        "2024_Ballots_Cast_Total": 1100,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "81.54%"
+        "2024_Voter_Turnout_Total": 0.8154
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -215328,7 +215328,7 @@
         "2024_Registered_Voters_Total": 922,
         "2024_Ballots_Cast_Total": 484,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "52.49%"
+        "2024_Voter_Turnout_Total": 0.5249
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -217509,7 +217509,7 @@
         "2024_Registered_Voters_Total": 922,
         "2024_Ballots_Cast_Total": 484,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "52.49%"
+        "2024_Voter_Turnout_Total": 0.5249
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -219566,7 +219566,7 @@
         "2024_Registered_Voters_Total": 754,
         "2024_Ballots_Cast_Total": 550,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "72.94%"
+        "2024_Voter_Turnout_Total": 0.7293999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -220628,10 +220628,10 @@
         "GlobalID": "{03364310-25F3-4196-9E49-4931FD1BE850}",
         "Shape_STAr": 227772170.822,
         "Shape_STLe": 108035.008601,
-        "2024_Registered_Voters_Total": "1,194",
+        "2024_Registered_Voters_Total": 1194,
         "2024_Ballots_Cast_Total": 931,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "77.97%"
+        "2024_Voter_Turnout_Total": 0.7797
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -222833,10 +222833,10 @@
         "GlobalID": "{DF541148-DF29-4681-B9C6-0658D08B6F75}",
         "Shape_STAr": 17091693.3824,
         "Shape_STLe": 24132.8227368,
-        "2024_Registered_Voters_Total": "1,082",
+        "2024_Registered_Voters_Total": 1082,
         "2024_Ballots_Cast_Total": 863,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "79.76%"
+        "2024_Voter_Turnout_Total": 0.7976000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -224058,10 +224058,10 @@
         "GlobalID": "{6105935C-E604-4312-9765-FCDF6ED6D9BE}",
         "Shape_STAr": 7331436.72957,
         "Shape_STLe": 11833.5281049,
-        "2024_Registered_Voters_Total": "1,061",
+        "2024_Registered_Voters_Total": 1061,
         "2024_Ballots_Cast_Total": 858,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "80.87%"
+        "2024_Voter_Turnout_Total": 0.8087000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -224746,7 +224746,7 @@
         "2024_Registered_Voters_Total": 864,
         "2024_Ballots_Cast_Total": 433,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "50.12%"
+        "2024_Voter_Turnout_Total": 0.5012
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -226080,10 +226080,10 @@
         "GlobalID": "{1DD7EF11-58FD-411E-A945-2CFAFCD7A48E}",
         "Shape_STAr": 12596301.4445,
         "Shape_STLe": 18118.6605893,
-        "2024_Registered_Voters_Total": "1,151",
+        "2024_Registered_Voters_Total": 1151,
         "2024_Ballots_Cast_Total": 873,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "75.85%"
+        "2024_Voter_Turnout_Total": 0.7585
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -226737,10 +226737,10 @@
         "GlobalID": "{A13061BC-9615-49AD-8707-1BCDF36C9482}",
         "Shape_STAr": 203429.025361,
         "Shape_STLe": 2060.48802233,
-        "2024_Registered_Voters_Total": "1,075",
+        "2024_Registered_Voters_Total": 1075,
         "2024_Ballots_Cast_Total": 832,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "77.40%"
+        "2024_Voter_Turnout_Total": 0.774
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -226837,7 +226837,7 @@
         "2024_Registered_Voters_Total": 802,
         "2024_Ballots_Cast_Total": 672,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "83.79%"
+        "2024_Voter_Turnout_Total": 0.8379000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -227327,10 +227327,10 @@
         "GlobalID": "{B1C80D2E-36F8-4D28-A21E-6E7EE1275599}",
         "Shape_STAr": 3883660.78805,
         "Shape_STLe": 9534.02852218,
-        "2024_Registered_Voters_Total": "1,173",
+        "2024_Registered_Voters_Total": 1173,
         "2024_Ballots_Cast_Total": 859,
         "2024_Ballots_Cast_Blank": 11,
-        "2024_Voter_Turnout_Total": "73.23%"
+        "2024_Voter_Turnout_Total": 0.7323000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -227640,10 +227640,10 @@
         "GlobalID": "{4E3C745E-49FA-471B-8D68-E5F296871769}",
         "Shape_STAr": 17240571.9977,
         "Shape_STLe": 35815.5028251,
-        "2024_Registered_Voters_Total": "1,173",
+        "2024_Registered_Voters_Total": 1173,
         "2024_Ballots_Cast_Total": 859,
         "2024_Ballots_Cast_Blank": 11,
-        "2024_Voter_Turnout_Total": "73.23%"
+        "2024_Voter_Turnout_Total": 0.7323000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -228557,10 +228557,10 @@
         "GlobalID": "{3027876C-E8E3-4F46-AAA9-0E683258159C}",
         "Shape_STAr": 34520438.3787,
         "Shape_STLe": 32098.6304076,
-        "2024_Registered_Voters_Total": "1,173",
+        "2024_Registered_Voters_Total": 1173,
         "2024_Ballots_Cast_Total": 859,
         "2024_Ballots_Cast_Blank": 11,
-        "2024_Voter_Turnout_Total": "73.23%"
+        "2024_Voter_Turnout_Total": 0.7323000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -229646,10 +229646,10 @@
         "GlobalID": "{9380D6A2-D125-4580-A688-5161E17581FA}",
         "Shape_STAr": 47084076.2624,
         "Shape_STLe": 61393.5847616,
-        "2024_Registered_Voters_Total": "1,151",
+        "2024_Registered_Voters_Total": 1151,
         "2024_Ballots_Cast_Total": 977,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "84.88%"
+        "2024_Voter_Turnout_Total": 0.8488
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -231090,7 +231090,7 @@
         "2024_Registered_Voters_Total": 985,
         "2024_Ballots_Cast_Total": 769,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "78.07%"
+        "2024_Voter_Turnout_Total": 0.7807
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -231679,7 +231679,7 @@
         "2024_Registered_Voters_Total": 898,
         "2024_Ballots_Cast_Total": 610,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "67.93%"
+        "2024_Voter_Turnout_Total": 0.6793
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -232853,10 +232853,10 @@
         "GlobalID": "{9ED9DBB4-7F73-4CF0-9AF5-A6C13A07BC10}",
         "Shape_STAr": 403605731.41,
         "Shape_STLe": 106349.446416,
-        "2024_Registered_Voters_Total": "1,156",
+        "2024_Registered_Voters_Total": 1156,
         "2024_Ballots_Cast_Total": 951,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "82.27%"
+        "2024_Voter_Turnout_Total": 0.8227
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -235086,10 +235086,10 @@
         "GlobalID": "{2AD54F6A-5250-45EC-87B3-2C99CF38919B}",
         "Shape_STAr": 31564517.2456,
         "Shape_STLe": 27683.4795882,
-        "2024_Registered_Voters_Total": "1,023",
+        "2024_Registered_Voters_Total": 1023,
         "2024_Ballots_Cast_Total": 747,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "73.02%"
+        "2024_Voter_Turnout_Total": 0.7302
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -235647,10 +235647,10 @@
         "GlobalID": "{93B23F5D-EA28-4952-BF04-107B1A7169FE}",
         "Shape_STAr": 16091803.449500002,
         "Shape_STLe": 22503.5244706,
-        "2024_Registered_Voters_Total": "1,075",
+        "2024_Registered_Voters_Total": 1075,
         "2024_Ballots_Cast_Total": 832,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "77.40%"
+        "2024_Voter_Turnout_Total": 0.774
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -236268,10 +236268,10 @@
         "GlobalID": "{1BAFE386-1CFF-4A04-8681-6F58F4E2EA03}",
         "Shape_STAr": 10451802.9027,
         "Shape_STLe": 22965.164875,
-        "2024_Registered_Voters_Total": "1,047",
+        "2024_Registered_Voters_Total": 1047,
         "2024_Ballots_Cast_Total": 703,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "67.14%"
+        "2024_Voter_Turnout_Total": 0.6714
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -237016,7 +237016,7 @@
         "2024_Registered_Voters_Total": 815,
         "2024_Ballots_Cast_Total": 616,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "75.58%"
+        "2024_Voter_Turnout_Total": 0.7558
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -237582,10 +237582,10 @@
         "GlobalID": "{5E111F63-E7DF-49A0-8992-120EDCD00161}",
         "Shape_STAr": 13297998.5245,
         "Shape_STLe": 26957.5589207,
-        "2024_Registered_Voters_Total": "1,068",
+        "2024_Registered_Voters_Total": 1068,
         "2024_Ballots_Cast_Total": 782,
         "2024_Ballots_Cast_Blank": 11,
-        "2024_Voter_Turnout_Total": "73.22%"
+        "2024_Voter_Turnout_Total": 0.7322
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -239050,7 +239050,7 @@
         "2024_Registered_Voters_Total": 867,
         "2024_Ballots_Cast_Total": 709,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "81.78%"
+        "2024_Voter_Turnout_Total": 0.8178
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -240044,10 +240044,10 @@
         "GlobalID": "{B166B587-8090-40A5-911B-D4B978F905E0}",
         "Shape_STAr": 26032075.035699997,
         "Shape_STLe": 33695.5950169,
-        "2024_Registered_Voters_Total": "1,207",
-        "2024_Ballots_Cast_Total": "1,000",
+        "2024_Registered_Voters_Total": 1207,
+        "2024_Ballots_Cast_Total": 1000,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "82.85%"
+        "2024_Voter_Turnout_Total": 0.8284999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -241456,7 +241456,7 @@
         "2024_Registered_Voters_Total": 916,
         "2024_Ballots_Cast_Total": 792,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "86.46%"
+        "2024_Voter_Turnout_Total": 0.8645999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -242718,10 +242718,10 @@
         "GlobalID": "{57FFE0AF-16DE-4623-8822-B765FA09F854}",
         "Shape_STAr": 33089205.930499997,
         "Shape_STLe": 28089.8824552,
-        "2024_Registered_Voters_Total": "1,047",
+        "2024_Registered_Voters_Total": 1047,
         "2024_Ballots_Cast_Total": 703,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "67.14%"
+        "2024_Voter_Turnout_Total": 0.6714
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -243666,7 +243666,7 @@
         "2024_Registered_Voters_Total": 851,
         "2024_Ballots_Cast_Total": 688,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "80.85%"
+        "2024_Voter_Turnout_Total": 0.8085
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -243867,7 +243867,7 @@
         "2024_Registered_Voters_Total": 914,
         "2024_Ballots_Cast_Total": 778,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "85.12%"
+        "2024_Voter_Turnout_Total": 0.8512000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -244924,7 +244924,7 @@
         "2024_Registered_Voters_Total": 786,
         "2024_Ballots_Cast_Total": 464,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "59.03%"
+        "2024_Voter_Turnout_Total": 0.5903
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -246042,10 +246042,10 @@
         "GlobalID": "{01FB283A-EC9C-477D-8FDB-E49DBC7EBEF1}",
         "Shape_STAr": 20844109.5789,
         "Shape_STLe": 33377.3146648,
-        "2024_Registered_Voters_Total": "1,184",
+        "2024_Registered_Voters_Total": 1184,
         "2024_Ballots_Cast_Total": 939,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "79.31%"
+        "2024_Voter_Turnout_Total": 0.7931
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -247479,10 +247479,10 @@
         "GlobalID": "{FFEE3CF3-BDFF-4743-8F34-14050DB0CDB7}",
         "Shape_STAr": 39241079.5953,
         "Shape_STLe": 38099.5898942,
-        "2024_Registered_Voters_Total": "1,151",
+        "2024_Registered_Voters_Total": 1151,
         "2024_Ballots_Cast_Total": 900,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "78.19%"
+        "2024_Voter_Turnout_Total": 0.7818999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -248931,7 +248931,7 @@
         "2024_Registered_Voters_Total": 792,
         "2024_Ballots_Cast_Total": 657,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "82.95%"
+        "2024_Voter_Turnout_Total": 0.8295
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -250005,10 +250005,10 @@
         "GlobalID": "{594D5EAA-AA69-4D40-9A6F-2834B3867979}",
         "Shape_STAr": 16832787.5946,
         "Shape_STLe": 22351.2918714,
-        "2024_Registered_Voters_Total": "1,226",
-        "2024_Ballots_Cast_Total": "1,028",
+        "2024_Registered_Voters_Total": 1226,
+        "2024_Ballots_Cast_Total": 1028,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "83.85%"
+        "2024_Voter_Turnout_Total": 0.8384999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -251037,7 +251037,7 @@
         "2024_Registered_Voters_Total": 877,
         "2024_Ballots_Cast_Total": 711,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "81.07%"
+        "2024_Voter_Turnout_Total": 0.8107
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -252038,7 +252038,7 @@
         "2024_Registered_Voters_Total": 892,
         "2024_Ballots_Cast_Total": 760,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "85.20%"
+        "2024_Voter_Turnout_Total": 0.852
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -252507,7 +252507,7 @@
         "2024_Registered_Voters_Total": 973,
         "2024_Ballots_Cast_Total": 519,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "53.34%"
+        "2024_Voter_Turnout_Total": 0.5334
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -253160,7 +253160,7 @@
         "2024_Registered_Voters_Total": 909,
         "2024_Ballots_Cast_Total": 571,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "62.82%"
+        "2024_Voter_Turnout_Total": 0.6282
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -253713,7 +253713,7 @@
         "2024_Registered_Voters_Total": 996,
         "2024_Ballots_Cast_Total": 717,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "71.99%"
+        "2024_Voter_Turnout_Total": 0.7199
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -255203,10 +255203,10 @@
         "GlobalID": "{8ADAE616-986E-4E6C-9AD6-0318402ECF05}",
         "Shape_STAr": 23535898.1755,
         "Shape_STLe": 28907.307974,
-        "2024_Registered_Voters_Total": "1,376",
-        "2024_Ballots_Cast_Total": "1,108",
+        "2024_Registered_Voters_Total": 1376,
+        "2024_Ballots_Cast_Total": 1108,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "80.52%"
+        "2024_Voter_Turnout_Total": 0.8051999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -255779,7 +255779,7 @@
         "2024_Registered_Voters_Total": 913,
         "2024_Ballots_Cast_Total": 736,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "80.61%"
+        "2024_Voter_Turnout_Total": 0.8061
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -256981,10 +256981,10 @@
         "GlobalID": "{55E7F3B9-996D-410A-BFE4-8AF0D4AE4231}",
         "Shape_STAr": 24007743.7645,
         "Shape_STLe": 28835.1892467,
-        "2024_Registered_Voters_Total": "1,115",
+        "2024_Registered_Voters_Total": 1115,
         "2024_Ballots_Cast_Total": 937,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "84.04%"
+        "2024_Voter_Turnout_Total": 0.8404
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -258245,7 +258245,7 @@
         "2024_Registered_Voters_Total": 694,
         "2024_Ballots_Cast_Total": 467,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "67.29%"
+        "2024_Voter_Turnout_Total": 0.6729
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -259842,7 +259842,7 @@
         "2024_Registered_Voters_Total": 968,
         "2024_Ballots_Cast_Total": 801,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "82.75%"
+        "2024_Voter_Turnout_Total": 0.8275
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -262079,7 +262079,7 @@
         "2024_Registered_Voters_Total": 877,
         "2024_Ballots_Cast_Total": 697,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "79.48%"
+        "2024_Voter_Turnout_Total": 0.7948000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -264217,10 +264217,10 @@
         "GlobalID": "{DD71AD1F-CEC1-4A54-A342-4F52DCBA53FC}",
         "Shape_STAr": 31416615.0803,
         "Shape_STLe": 35508.6680917,
-        "2024_Registered_Voters_Total": "1,000",
+        "2024_Registered_Voters_Total": 1000,
         "2024_Ballots_Cast_Total": 524,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "52.40%"
+        "2024_Voter_Turnout_Total": 0.524
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -265313,7 +265313,7 @@
         "2024_Registered_Voters_Total": 652,
         "2024_Ballots_Cast_Total": 428,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "65.64%"
+        "2024_Voter_Turnout_Total": 0.6564
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -266227,10 +266227,10 @@
         "GlobalID": "{B82B0087-1453-485E-B0CF-3FCD5533EFBF}",
         "Shape_STAr": 9151395.89528,
         "Shape_STLe": 12846.9298621,
-        "2024_Registered_Voters_Total": "1,012",
+        "2024_Registered_Voters_Total": 1012,
         "2024_Ballots_Cast_Total": 728,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "71.94%"
+        "2024_Voter_Turnout_Total": 0.7193999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -266616,10 +266616,10 @@
         "GlobalID": "{BFE582B9-B30C-404A-85A0-46CF3285F011}",
         "Shape_STAr": 26265867.219000004,
         "Shape_STLe": 25331.9096972,
-        "2024_Registered_Voters_Total": "1,192",
-        "2024_Ballots_Cast_Total": "1,009",
+        "2024_Registered_Voters_Total": 1192,
+        "2024_Ballots_Cast_Total": 1009,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "84.65%"
+        "2024_Voter_Turnout_Total": 0.8465
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -267477,10 +267477,10 @@
         "GlobalID": "{18C93D91-75C0-4BD9-83B8-2427B3440F47}",
         "Shape_STAr": 11062056.5039,
         "Shape_STLe": 16821.626244,
-        "2024_Registered_Voters_Total": "1,049",
+        "2024_Registered_Voters_Total": 1049,
         "2024_Ballots_Cast_Total": 638,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "60.82%"
+        "2024_Voter_Turnout_Total": 0.6082
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -267930,10 +267930,10 @@
         "GlobalID": "{A4D4696B-C743-42CD-B012-40FE1F2B423E}",
         "Shape_STAr": 18005581.736,
         "Shape_STLe": 23036.2268305,
-        "2024_Registered_Voters_Total": "1,013",
+        "2024_Registered_Voters_Total": 1013,
         "2024_Ballots_Cast_Total": 819,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "80.85%"
+        "2024_Voter_Turnout_Total": 0.8085
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -268930,7 +268930,7 @@
         "2024_Registered_Voters_Total": 793,
         "2024_Ballots_Cast_Total": 624,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "78.69%"
+        "2024_Voter_Turnout_Total": 0.7868999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -270320,10 +270320,10 @@
         "GlobalID": "{56F9DD19-6504-47FB-BEA8-F5D54C853E54}",
         "Shape_STAr": 10872788.2805,
         "Shape_STLe": 14513.4858902,
-        "2024_Registered_Voters_Total": "1,201",
+        "2024_Registered_Voters_Total": 1201,
         "2024_Ballots_Cast_Total": 868,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "72.27%"
+        "2024_Voter_Turnout_Total": 0.7227
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -270973,10 +270973,10 @@
         "GlobalID": "{1E15D66F-5BC7-494C-A56B-8B5434B972DC}",
         "Shape_STAr": 16096410.301,
         "Shape_STLe": 19013.3666524,
-        "2024_Registered_Voters_Total": "1,062",
+        "2024_Registered_Voters_Total": 1062,
         "2024_Ballots_Cast_Total": 809,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "76.18%"
+        "2024_Voter_Turnout_Total": 0.7618
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -271501,7 +271501,7 @@
         "2024_Registered_Voters_Total": 825,
         "2024_Ballots_Cast_Total": 595,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "72.12%"
+        "2024_Voter_Turnout_Total": 0.7212000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -272339,10 +272339,10 @@
         "GlobalID": "{198A3E9B-D49C-4BAF-A53E-03B22E19E6D9}",
         "Shape_STAr": 19170568.6064,
         "Shape_STLe": 26235.0697866,
-        "2024_Registered_Voters_Total": "1,175",
+        "2024_Registered_Voters_Total": 1175,
         "2024_Ballots_Cast_Total": 881,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "74.98%"
+        "2024_Voter_Turnout_Total": 0.7498
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -273419,7 +273419,7 @@
         "2024_Registered_Voters_Total": 851,
         "2024_Ballots_Cast_Total": 480,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "56.40%"
+        "2024_Voter_Turnout_Total": 0.564
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -273868,7 +273868,7 @@
         "2024_Registered_Voters_Total": 895,
         "2024_Ballots_Cast_Total": 742,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "82.91%"
+        "2024_Voter_Turnout_Total": 0.8291
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -274553,7 +274553,7 @@
         "2024_Registered_Voters_Total": 989,
         "2024_Ballots_Cast_Total": 828,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "83.72%"
+        "2024_Voter_Turnout_Total": 0.8371999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -275266,7 +275266,7 @@
         "2024_Registered_Voters_Total": 953,
         "2024_Ballots_Cast_Total": 680,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "71.35%"
+        "2024_Voter_Turnout_Total": 0.7134999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -276584,10 +276584,10 @@
         "GlobalID": "{5F896C66-8C40-45F6-9F57-16A88F19BBED}",
         "Shape_STAr": 9336757.87869,
         "Shape_STLe": 16152.2612734,
-        "2024_Registered_Voters_Total": "1,189",
+        "2024_Registered_Voters_Total": 1189,
         "2024_Ballots_Cast_Total": 843,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "70.90%"
+        "2024_Voter_Turnout_Total": 0.7090000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -277300,7 +277300,7 @@
         "2024_Registered_Voters_Total": 964,
         "2024_Ballots_Cast_Total": 795,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "82.47%"
+        "2024_Voter_Turnout_Total": 0.8247
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -277938,10 +277938,10 @@
         "GlobalID": "{AF8F7D20-B676-4F70-8C6C-8369B0FACF10}",
         "Shape_STAr": 13710387.594,
         "Shape_STLe": 22382.8002896,
-        "2024_Registered_Voters_Total": "1,126",
+        "2024_Registered_Voters_Total": 1126,
         "2024_Ballots_Cast_Total": 861,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "76.47%"
+        "2024_Voter_Turnout_Total": 0.7646999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -278750,7 +278750,7 @@
         "2024_Registered_Voters_Total": 894,
         "2024_Ballots_Cast_Total": 603,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "67.45%"
+        "2024_Voter_Turnout_Total": 0.6745
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -279547,7 +279547,7 @@
         "2024_Registered_Voters_Total": 928,
         "2024_Ballots_Cast_Total": 750,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "80.82%"
+        "2024_Voter_Turnout_Total": 0.8081999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -280493,10 +280493,10 @@
         "GlobalID": "{ACA39E00-6DE8-4F65-9CCE-033FCF5BA295}",
         "Shape_STAr": 22168072.6701,
         "Shape_STLe": 22855.075486,
-        "2024_Registered_Voters_Total": "1,216",
-        "2024_Ballots_Cast_Total": "1,032",
+        "2024_Registered_Voters_Total": 1216,
+        "2024_Ballots_Cast_Total": 1032,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "84.87%"
+        "2024_Voter_Turnout_Total": 0.8487
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -281505,7 +281505,7 @@
         "2024_Registered_Voters_Total": 775,
         "2024_Ballots_Cast_Total": 597,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "77.03%"
+        "2024_Voter_Turnout_Total": 0.7703
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -282843,10 +282843,10 @@
         "GlobalID": "{E3C08B45-0485-4A88-91E7-6B4741376C9D}",
         "Shape_STAr": 16568642.1617,
         "Shape_STLe": 21462.4970785,
-        "2024_Registered_Voters_Total": "1,086",
+        "2024_Registered_Voters_Total": 1086,
         "2024_Ballots_Cast_Total": 915,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "84.25%"
+        "2024_Voter_Turnout_Total": 0.8425
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -284007,7 +284007,7 @@
         "2024_Registered_Voters_Total": 963,
         "2024_Ballots_Cast_Total": 695,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "72.17%"
+        "2024_Voter_Turnout_Total": 0.7217
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -285548,7 +285548,7 @@
         "2024_Registered_Voters_Total": 851,
         "2024_Ballots_Cast_Total": 688,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "80.85%"
+        "2024_Voter_Turnout_Total": 0.8085
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -287733,7 +287733,7 @@
         "2024_Registered_Voters_Total": 820,
         "2024_Ballots_Cast_Total": 527,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "64.27%"
+        "2024_Voter_Turnout_Total": 0.6426999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -289715,10 +289715,10 @@
         "GlobalID": "{41ABB5B8-B487-4423-A548-1E712B4BBB09}",
         "Shape_STAr": 15798125.1286,
         "Shape_STLe": 20021.8211485,
-        "2024_Registered_Voters_Total": "1,114",
+        "2024_Registered_Voters_Total": 1114,
         "2024_Ballots_Cast_Total": 737,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "66.16%"
+        "2024_Voter_Turnout_Total": 0.6616
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -290323,7 +290323,7 @@
         "2024_Registered_Voters_Total": 904,
         "2024_Ballots_Cast_Total": 739,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "81.75%"
+        "2024_Voter_Turnout_Total": 0.8175
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -291061,10 +291061,10 @@
         "GlobalID": "{05A3FE8F-9E5E-475E-8227-C1DE7CF220D2}",
         "Shape_STAr": 13141515.6626,
         "Shape_STLe": 26876.9262114,
-        "2024_Registered_Voters_Total": "1,248",
-        "2024_Ballots_Cast_Total": "1,005",
+        "2024_Registered_Voters_Total": 1248,
+        "2024_Ballots_Cast_Total": 1005,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "80.53%"
+        "2024_Voter_Turnout_Total": 0.8053
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -291953,7 +291953,7 @@
         "2024_Registered_Voters_Total": 929,
         "2024_Ballots_Cast_Total": 751,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "80.84%"
+        "2024_Voter_Turnout_Total": 0.8084
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -293587,10 +293587,10 @@
         "GlobalID": "{D5A546A8-ABAD-4E29-B69E-5D62D29D7128}",
         "Shape_STAr": 23021108.1166,
         "Shape_STLe": 34984.0593649,
-        "2024_Registered_Voters_Total": "1,018",
+        "2024_Registered_Voters_Total": 1018,
         "2024_Ballots_Cast_Total": 819,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "80.45%"
+        "2024_Voter_Turnout_Total": 0.8045
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -295183,7 +295183,7 @@
         "2024_Registered_Voters_Total": 978,
         "2024_Ballots_Cast_Total": 755,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "77.20%"
+        "2024_Voter_Turnout_Total": 0.772
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -296313,10 +296313,10 @@
         "GlobalID": "{63803588-60B7-4DC5-8F8C-081C1A81FC8D}",
         "Shape_STAr": 10635913.5358,
         "Shape_STLe": 16972.0880654,
-        "2024_Registered_Voters_Total": "1,128",
+        "2024_Registered_Voters_Total": 1128,
         "2024_Ballots_Cast_Total": 844,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "74.82%"
+        "2024_Voter_Turnout_Total": 0.7482
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -296882,10 +296882,10 @@
         "GlobalID": "{D42B9A21-C0A3-4BE8-8978-56BD9585D776}",
         "Shape_STAr": 24601307.1282,
         "Shape_STLe": 22499.8249005,
-        "2024_Registered_Voters_Total": "1,272",
-        "2024_Ballots_Cast_Total": "1,086",
+        "2024_Registered_Voters_Total": 1272,
+        "2024_Ballots_Cast_Total": 1086,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "85.38%"
+        "2024_Voter_Turnout_Total": 0.8538
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -297623,10 +297623,10 @@
         "GlobalID": "{37A7125A-C7E6-4E16-B3DE-788494823A34}",
         "Shape_STAr": 35643674.5703,
         "Shape_STLe": 30524.6155551,
-        "2024_Registered_Voters_Total": "1,132",
+        "2024_Registered_Voters_Total": 1132,
         "2024_Ballots_Cast_Total": 920,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "81.27%"
+        "2024_Voter_Turnout_Total": 0.8127
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -299052,10 +299052,10 @@
         "GlobalID": "{2C3DD8B3-F79D-4B4E-8AFD-57D9F259E45A}",
         "Shape_STAr": 6281742.64936,
         "Shape_STLe": 10790.7426365,
-        "2024_Registered_Voters_Total": "1,030",
+        "2024_Registered_Voters_Total": 1030,
         "2024_Ballots_Cast_Total": 766,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "74.37%"
+        "2024_Voter_Turnout_Total": 0.7437
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -299661,10 +299661,10 @@
         "GlobalID": "{787C0466-4140-4E1D-B283-30D465BC7293}",
         "Shape_STAr": 34855284.371,
         "Shape_STLe": 34936.5102091,
-        "2024_Registered_Voters_Total": "1,047",
+        "2024_Registered_Voters_Total": 1047,
         "2024_Ballots_Cast_Total": 703,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "67.14%"
+        "2024_Voter_Turnout_Total": 0.6714
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -300966,10 +300966,10 @@
         "GlobalID": "{30B90753-6F95-4BE1-A865-CA4EB1AAEFAA}",
         "Shape_STAr": 12257490.1872,
         "Shape_STLe": 19490.5715201,
-        "2024_Registered_Voters_Total": "1,046",
+        "2024_Registered_Voters_Total": 1046,
         "2024_Ballots_Cast_Total": 718,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "68.64%"
+        "2024_Voter_Turnout_Total": 0.6864
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -301763,10 +301763,10 @@
         "GlobalID": "{9D90A88D-E487-4F9D-AFF8-1F48DEEB2047}",
         "Shape_STAr": 21925953.0141,
         "Shape_STLe": 34265.70350660001,
-        "2024_Registered_Voters_Total": "1,007",
+        "2024_Registered_Voters_Total": 1007,
         "2024_Ballots_Cast_Total": 754,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "74.88%"
+        "2024_Voter_Turnout_Total": 0.7487999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -303663,7 +303663,7 @@
         "2024_Registered_Voters_Total": 749,
         "2024_Ballots_Cast_Total": 472,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "63.02%"
+        "2024_Voter_Turnout_Total": 0.6302
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -304557,10 +304557,10 @@
         "GlobalID": "{68A17351-2317-47F9-80D9-EBF2E0470BB9}",
         "Shape_STAr": 29524708.449499995,
         "Shape_STLe": 22319.8981068,
-        "2024_Registered_Voters_Total": "1,103",
+        "2024_Registered_Voters_Total": 1103,
         "2024_Ballots_Cast_Total": 683,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "61.92%"
+        "2024_Voter_Turnout_Total": 0.6192
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -305090,10 +305090,10 @@
         "GlobalID": "{FD24F229-78B3-4B4C-941F-B21DF526DB3F}",
         "Shape_STAr": 43199335.6603,
         "Shape_STLe": 36397.06209710001,
-        "2024_Registered_Voters_Total": "1,071",
+        "2024_Registered_Voters_Total": 1071,
         "2024_Ballots_Cast_Total": 670,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "62.56%"
+        "2024_Voter_Turnout_Total": 0.6256
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -305874,7 +305874,7 @@
         "2024_Registered_Voters_Total": 692,
         "2024_Ballots_Cast_Total": 598,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "86.42%"
+        "2024_Voter_Turnout_Total": 0.8642
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -309748,10 +309748,10 @@
         "GlobalID": "{3C44673A-4418-48F8-8806-51E9BE8FFAF9}",
         "Shape_STAr": 12277583.178,
         "Shape_STLe": 18657.4075048,
-        "2024_Registered_Voters_Total": "1,134",
+        "2024_Registered_Voters_Total": 1134,
         "2024_Ballots_Cast_Total": 911,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "80.34%"
+        "2024_Voter_Turnout_Total": 0.8034
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -310736,7 +310736,7 @@
         "2024_Registered_Voters_Total": 992,
         "2024_Ballots_Cast_Total": 699,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "70.46%"
+        "2024_Voter_Turnout_Total": 0.7045999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -311758,10 +311758,10 @@
         "GlobalID": "{BC3A65A5-9257-4375-8FAC-3DBF49954E4E}",
         "Shape_STAr": 24775611.0924,
         "Shape_STLe": 34578.5925519,
-        "2024_Registered_Voters_Total": "1,077",
+        "2024_Registered_Voters_Total": 1077,
         "2024_Ballots_Cast_Total": 716,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "66.48%"
+        "2024_Voter_Turnout_Total": 0.6648000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -312511,10 +312511,10 @@
         "GlobalID": "{237601AF-A7BD-4DCE-99B0-934FCAB005FB}",
         "Shape_STAr": 58302521.4936,
         "Shape_STLe": 54537.2019071,
-        "2024_Registered_Voters_Total": "1,151",
+        "2024_Registered_Voters_Total": 1151,
         "2024_Ballots_Cast_Total": 850,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "73.85%"
+        "2024_Voter_Turnout_Total": 0.7384999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -314452,10 +314452,10 @@
         "GlobalID": "{4153AFE6-3305-478C-9180-0D19C450E2CC}",
         "Shape_STAr": 56390574.9217,
         "Shape_STLe": 63892.6846162,
-        "2024_Registered_Voters_Total": "1,006",
+        "2024_Registered_Voters_Total": 1006,
         "2024_Ballots_Cast_Total": 798,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "79.32%"
+        "2024_Voter_Turnout_Total": 0.7931999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -315849,10 +315849,10 @@
         "GlobalID": "{12DF9923-4177-46CD-94F9-EA77823C4BF1}",
         "Shape_STAr": 27602363.1851,
         "Shape_STLe": 31177.5470453,
-        "2024_Registered_Voters_Total": "1,182",
+        "2024_Registered_Voters_Total": 1182,
         "2024_Ballots_Cast_Total": 827,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "69.97%"
+        "2024_Voter_Turnout_Total": 0.6997
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -316631,7 +316631,7 @@
         "2024_Registered_Voters_Total": 602,
         "2024_Ballots_Cast_Total": 388,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "64.45%"
+        "2024_Voter_Turnout_Total": 0.6445000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -318052,7 +318052,7 @@
         "2024_Registered_Voters_Total": 602,
         "2024_Ballots_Cast_Total": 388,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "64.45%"
+        "2024_Voter_Turnout_Total": 0.6445000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -318538,10 +318538,10 @@
         "GlobalID": "{6E52713A-2E60-4DCC-B21D-E6FCAF41A83B}",
         "Shape_STAr": 11823420.244699998,
         "Shape_STLe": 15960.4583396,
-        "2024_Registered_Voters_Total": "1,123",
+        "2024_Registered_Voters_Total": 1123,
         "2024_Ballots_Cast_Total": 858,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "76.40%"
+        "2024_Voter_Turnout_Total": 0.764
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -319194,7 +319194,7 @@
         "2024_Registered_Voters_Total": 830,
         "2024_Ballots_Cast_Total": 655,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "78.92%"
+        "2024_Voter_Turnout_Total": 0.7892
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -319696,10 +319696,10 @@
         "GlobalID": "{0778E167-395F-447D-A09E-D7998B30AA02}",
         "Shape_STAr": 16812928.2661,
         "Shape_STLe": 24583.2430592,
-        "2024_Registered_Voters_Total": "1,087",
+        "2024_Registered_Voters_Total": 1087,
         "2024_Ballots_Cast_Total": 905,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "83.26%"
+        "2024_Voter_Turnout_Total": 0.8326
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -320557,10 +320557,10 @@
         "GlobalID": "{C3B457E3-9A95-4605-A9CD-BA4F5EDCE37D}",
         "Shape_STAr": 55928187.8855,
         "Shape_STLe": 32863.0710682,
-        "2024_Registered_Voters_Total": "1,033",
+        "2024_Registered_Voters_Total": 1033,
         "2024_Ballots_Cast_Total": 861,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "83.35%"
+        "2024_Voter_Turnout_Total": 0.8334999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -321662,10 +321662,10 @@
         "GlobalID": "{A94D74F0-121B-40CA-9CCF-35747B67BA8D}",
         "Shape_STAr": 20642268.5245,
         "Shape_STLe": 25616.3247907,
-        "2024_Registered_Voters_Total": "1,170",
+        "2024_Registered_Voters_Total": 1170,
         "2024_Ballots_Cast_Total": 745,
         "2024_Ballots_Cast_Blank": 10,
-        "2024_Voter_Turnout_Total": "63.68%"
+        "2024_Voter_Turnout_Total": 0.6368
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -322279,10 +322279,10 @@
         "GlobalID": "{6AB4B890-F12D-41DA-AC3B-C5A9CC92BF2A}",
         "Shape_STAr": 19170812.92,
         "Shape_STLe": 18982.8881828,
-        "2024_Registered_Voters_Total": "1,022",
+        "2024_Registered_Voters_Total": 1022,
         "2024_Ballots_Cast_Total": 762,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "74.56%"
+        "2024_Voter_Turnout_Total": 0.7456
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -322732,10 +322732,10 @@
         "GlobalID": "{984D29E1-52FF-4017-94F5-4921E535D042}",
         "Shape_STAr": 3738244.48973,
         "Shape_STLe": 7961.07690612,
-        "2024_Registered_Voters_Total": "1,153",
+        "2024_Registered_Voters_Total": 1153,
         "2024_Ballots_Cast_Total": 897,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "77.80%"
+        "2024_Voter_Turnout_Total": 0.778
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -323108,7 +323108,7 @@
         "2024_Registered_Voters_Total": 795,
         "2024_Ballots_Cast_Total": 599,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "75.35%"
+        "2024_Voter_Turnout_Total": 0.7535
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -323950,10 +323950,10 @@
         "GlobalID": "{211F9A0E-22B4-4A0C-ABAF-A1E5DE07208A}",
         "Shape_STAr": 33400519.3532,
         "Shape_STLe": 24093.8137415,
-        "2024_Registered_Voters_Total": "1,088",
+        "2024_Registered_Voters_Total": 1088,
         "2024_Ballots_Cast_Total": 838,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "77.02%"
+        "2024_Voter_Turnout_Total": 0.7702
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -324667,10 +324667,10 @@
         "GlobalID": "{6E6F310D-DDD9-4064-9383-E814DEB97DC0}",
         "Shape_STAr": 100410809.892,
         "Shape_STLe": 73084.1260803,
-        "2024_Registered_Voters_Total": "1,171",
+        "2024_Registered_Voters_Total": 1171,
         "2024_Ballots_Cast_Total": 952,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "81.30%"
+        "2024_Voter_Turnout_Total": 0.813
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -327196,10 +327196,10 @@
         "GlobalID": "{8D066249-73A6-4348-B139-788406814B0D}",
         "Shape_STAr": 38822473.2423,
         "Shape_STLe": 46749.9790466,
-        "2024_Registered_Voters_Total": "1,028",
+        "2024_Registered_Voters_Total": 1028,
         "2024_Ballots_Cast_Total": 775,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "75.39%"
+        "2024_Voter_Turnout_Total": 0.7539
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -328261,10 +328261,10 @@
         "GlobalID": "{395AA8CB-745E-4355-AE5C-19AF2731AC8B}",
         "Shape_STAr": 25392655.462699994,
         "Shape_STLe": 45062.5069715,
-        "2024_Registered_Voters_Total": "1,147",
+        "2024_Registered_Voters_Total": 1147,
         "2024_Ballots_Cast_Total": 738,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "64.34%"
+        "2024_Voter_Turnout_Total": 0.6434000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -329230,10 +329230,10 @@
         "GlobalID": "{78E01100-56D3-4A72-929A-6F981C757186}",
         "Shape_STAr": 29932844.9705,
         "Shape_STLe": 31337.9732331,
-        "2024_Registered_Voters_Total": "1,006",
+        "2024_Registered_Voters_Total": 1006,
         "2024_Ballots_Cast_Total": 798,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "79.32%"
+        "2024_Voter_Turnout_Total": 0.7931999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -329991,10 +329991,10 @@
         "GlobalID": "{9C7FB1C5-F852-456E-A30C-02ACD964A970}",
         "Shape_STAr": 14243165.788499998,
         "Shape_STLe": 18860.4771965,
-        "2024_Registered_Voters_Total": "1,218",
+        "2024_Registered_Voters_Total": 1218,
         "2024_Ballots_Cast_Total": 885,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "72.66%"
+        "2024_Voter_Turnout_Total": 0.7265999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -330396,10 +330396,10 @@
         "GlobalID": "{46D8A0BA-66CC-4E56-A07D-C83380B33CE6}",
         "Shape_STAr": 8361747.82546,
         "Shape_STLe": 14343.2516373,
-        "2024_Registered_Voters_Total": "1,069",
+        "2024_Registered_Voters_Total": 1069,
         "2024_Ballots_Cast_Total": 737,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "68.94%"
+        "2024_Voter_Turnout_Total": 0.6894
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -330796,7 +330796,7 @@
         "2024_Registered_Voters_Total": 625,
         "2024_Ballots_Cast_Total": 445,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "71.20%"
+        "2024_Voter_Turnout_Total": 0.7120000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -331194,10 +331194,10 @@
         "GlobalID": "{52C4D824-CDF9-4330-9588-A34C835ED40D}",
         "Shape_STAr": 19670030.882,
         "Shape_STLe": 21798.4728897,
-        "2024_Registered_Voters_Total": "1,119",
+        "2024_Registered_Voters_Total": 1119,
         "2024_Ballots_Cast_Total": 798,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "71.31%"
+        "2024_Voter_Turnout_Total": 0.7131000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -331899,10 +331899,10 @@
         "GlobalID": "{36B548F7-BC98-4DA6-BCF9-8E1B941ADC8E}",
         "Shape_STAr": 14168094.928,
         "Shape_STLe": 23915.5097841,
-        "2024_Registered_Voters_Total": "1,122",
+        "2024_Registered_Voters_Total": 1122,
         "2024_Ballots_Cast_Total": 746,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "66.49%"
+        "2024_Voter_Turnout_Total": 0.6648999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -333556,10 +333556,10 @@
         "GlobalID": "{5B60979B-6D97-465A-AF0B-A0081F003D8B}",
         "Shape_STAr": 123100835.06999998,
         "Shape_STLe": 56081.1712559,
-        "2024_Registered_Voters_Total": "1,156",
+        "2024_Registered_Voters_Total": 1156,
         "2024_Ballots_Cast_Total": 865,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "74.83%"
+        "2024_Voter_Turnout_Total": 0.7483
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -334705,10 +334705,10 @@
         "GlobalID": "{F50CB7C5-7E17-4EFD-A463-D42F1125CB44}",
         "Shape_STAr": 12155738.2399,
         "Shape_STLe": 14737.7839322,
-        "2024_Registered_Voters_Total": "1,154",
+        "2024_Registered_Voters_Total": 1154,
         "2024_Ballots_Cast_Total": 744,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "64.47%"
+        "2024_Voter_Turnout_Total": 0.6446999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -335102,10 +335102,10 @@
         "GlobalID": "{2470363A-D722-42A6-92D9-9D43D4899771}",
         "Shape_STAr": 12778383.226900002,
         "Shape_STLe": 15689.5744478,
-        "2024_Registered_Voters_Total": "1,166",
+        "2024_Registered_Voters_Total": 1166,
         "2024_Ballots_Cast_Total": 804,
         "2024_Ballots_Cast_Blank": 11,
-        "2024_Voter_Turnout_Total": "68.95%"
+        "2024_Voter_Turnout_Total": 0.6895
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -335419,10 +335419,10 @@
         "GlobalID": "{37F35031-6B96-4259-B0F9-8F29E241ECA9}",
         "Shape_STAr": 10377902.9972,
         "Shape_STLe": 23034.9064088,
-        "2024_Registered_Voters_Total": "1,084",
+        "2024_Registered_Voters_Total": 1084,
         "2024_Ballots_Cast_Total": 755,
         "2024_Ballots_Cast_Blank": 12,
-        "2024_Voter_Turnout_Total": "69.65%"
+        "2024_Voter_Turnout_Total": 0.6965
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -336872,10 +336872,10 @@
         "GlobalID": "{ADF679E4-0B1D-4097-8516-811C3ADE5606}",
         "Shape_STAr": 22748972.0791,
         "Shape_STLe": 22626.2944562,
-        "2024_Registered_Voters_Total": "1,089",
+        "2024_Registered_Voters_Total": 1089,
         "2024_Ballots_Cast_Total": 808,
         "2024_Ballots_Cast_Blank": 16,
-        "2024_Voter_Turnout_Total": "74.20%"
+        "2024_Voter_Turnout_Total": 0.742
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -337701,10 +337701,10 @@
         "GlobalID": "{FA5C42E8-D9A8-4D9E-A4DE-28CA6DE3446B}",
         "Shape_STAr": 8970664.41357,
         "Shape_STLe": 12530.3147602,
-        "2024_Registered_Voters_Total": "1,089",
+        "2024_Registered_Voters_Total": 1089,
         "2024_Ballots_Cast_Total": 749,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "68.78%"
+        "2024_Voter_Turnout_Total": 0.6878
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -338058,10 +338058,10 @@
         "GlobalID": "{7A9619EB-5977-421A-BA72-D5F0E2793DC2}",
         "Shape_STAr": 29463587.0108,
         "Shape_STLe": 26385.0254855,
-        "2024_Registered_Voters_Total": "1,066",
+        "2024_Registered_Voters_Total": 1066,
         "2024_Ballots_Cast_Total": 761,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "71.39%"
+        "2024_Voter_Turnout_Total": 0.7139
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -338950,7 +338950,7 @@
         "2024_Registered_Voters_Total": 891,
         "2024_Ballots_Cast_Total": 638,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "71.60%"
+        "2024_Voter_Turnout_Total": 0.716
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -339879,7 +339879,7 @@
         "2024_Registered_Voters_Total": 852,
         "2024_Ballots_Cast_Total": 630,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "73.94%"
+        "2024_Voter_Turnout_Total": 0.7394
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -340365,10 +340365,10 @@
         "GlobalID": "{AE186C04-65EF-43E2-85ED-6922F666044E}",
         "Shape_STAr": 7768218.90337,
         "Shape_STLe": 11855.1169714,
-        "2024_Registered_Voters_Total": "1,075",
+        "2024_Registered_Voters_Total": 1075,
         "2024_Ballots_Cast_Total": 580,
         "2024_Ballots_Cast_Blank": 9,
-        "2024_Voter_Turnout_Total": "53.95%"
+        "2024_Voter_Turnout_Total": 0.5395
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -340802,10 +340802,10 @@
         "GlobalID": "{F7E9B766-B331-4655-9337-5DDFD27D0B81}",
         "Shape_STAr": 11018629.5846,
         "Shape_STLe": 22690.8344564,
-        "2024_Registered_Voters_Total": "1,225",
+        "2024_Registered_Voters_Total": 1225,
         "2024_Ballots_Cast_Total": 846,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "69.06%"
+        "2024_Voter_Turnout_Total": 0.6906
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -341558,7 +341558,7 @@
         "2024_Registered_Voters_Total": 840,
         "2024_Ballots_Cast_Total": 590,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "70.24%"
+        "2024_Voter_Turnout_Total": 0.7023999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -342567,7 +342567,7 @@
         "2024_Registered_Voters_Total": 942,
         "2024_Ballots_Cast_Total": 650,
         "2024_Ballots_Cast_Blank": 12,
-        "2024_Voter_Turnout_Total": "69%"
+        "2024_Voter_Turnout_Total": 69
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -343281,10 +343281,10 @@
         "GlobalID": "{8D091518-9003-4B03-99A8-81139DF3BFA6}",
         "Shape_STAr": 13115586.2394,
         "Shape_STLe": 21493.5651009,
-        "2024_Registered_Voters_Total": "1,295",
+        "2024_Registered_Voters_Total": 1295,
         "2024_Ballots_Cast_Total": 837,
         "2024_Ballots_Cast_Blank": 10,
-        "2024_Voter_Turnout_Total": "64.63%"
+        "2024_Voter_Turnout_Total": 0.6463
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -344362,10 +344362,10 @@
         "GlobalID": "{5189588A-0F0E-49DB-B019-555947AD354D}",
         "Shape_STAr": 9274999.40694,
         "Shape_STLe": 18935.4956906,
-        "2024_Registered_Voters_Total": "1,136",
+        "2024_Registered_Voters_Total": 1136,
         "2024_Ballots_Cast_Total": 832,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "73.24%"
+        "2024_Voter_Turnout_Total": 0.7323999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -345471,10 +345471,10 @@
         "GlobalID": "{4B5DBC1B-F2E8-4699-99F0-10A6EAA2E62E}",
         "Shape_STAr": 16608579.123700002,
         "Shape_STLe": 20303.8985237,
-        "2024_Registered_Voters_Total": "1,156",
+        "2024_Registered_Voters_Total": 1156,
         "2024_Ballots_Cast_Total": 846,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "73.18%"
+        "2024_Voter_Turnout_Total": 0.7318000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -346399,7 +346399,7 @@
         "2024_Registered_Voters_Total": 814,
         "2024_Ballots_Cast_Total": 601,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "73.83%"
+        "2024_Voter_Turnout_Total": 0.7383
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -347484,7 +347484,7 @@
         "2024_Registered_Voters_Total": 903,
         "2024_Ballots_Cast_Total": 540,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "59.80%"
+        "2024_Voter_Turnout_Total": 0.598
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -348046,10 +348046,10 @@
         "GlobalID": "{8A535AB9-A232-4B9A-8087-E5CE7C94669F}",
         "Shape_STAr": 9609598.09172,
         "Shape_STLe": 19164.1886581,
-        "2024_Registered_Voters_Total": "1,040",
+        "2024_Registered_Voters_Total": 1040,
         "2024_Ballots_Cast_Total": 531,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "51.06%"
+        "2024_Voter_Turnout_Total": 0.5106
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -348598,7 +348598,7 @@
         "2024_Registered_Voters_Total": 678,
         "2024_Ballots_Cast_Total": 421,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "62.09%"
+        "2024_Voter_Turnout_Total": 0.6209
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -348991,7 +348991,7 @@
         "2024_Registered_Voters_Total": 925,
         "2024_Ballots_Cast_Total": 728,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "78.70%"
+        "2024_Voter_Turnout_Total": 0.787
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -349812,7 +349812,7 @@
         "2024_Registered_Voters_Total": 953,
         "2024_Ballots_Cast_Total": 405,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "42.50%"
+        "2024_Voter_Turnout_Total": 0.425
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -350194,10 +350194,10 @@
         "GlobalID": "{FA14E176-BF20-4F95-B63B-9626438C102E}",
         "Shape_STAr": 7144612.43519,
         "Shape_STLe": 11676.695193,
-        "2024_Registered_Voters_Total": "1,006",
+        "2024_Registered_Voters_Total": 1006,
         "2024_Ballots_Cast_Total": 594,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "59.05%"
+        "2024_Voter_Turnout_Total": 0.5905
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -350490,7 +350490,7 @@
         "2024_Registered_Voters_Total": 767,
         "2024_Ballots_Cast_Total": 426,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "55.54%"
+        "2024_Voter_Turnout_Total": 0.5554
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -351276,10 +351276,10 @@
         "GlobalID": "{97318A25-3E81-4131-BCCE-39F08EDF8B27}",
         "Shape_STAr": 13197529.6343,
         "Shape_STLe": 23149.0190931,
-        "2024_Registered_Voters_Total": "1,122",
+        "2024_Registered_Voters_Total": 1122,
         "2024_Ballots_Cast_Total": 739,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "65.86%"
+        "2024_Voter_Turnout_Total": 0.6586
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -352244,7 +352244,7 @@
         "2024_Registered_Voters_Total": 621,
         "2024_Ballots_Cast_Total": 382,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "61.51%"
+        "2024_Voter_Turnout_Total": 0.6151
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -352705,7 +352705,7 @@
         "2024_Registered_Voters_Total": 770,
         "2024_Ballots_Cast_Total": 465,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "60.39%"
+        "2024_Voter_Turnout_Total": 0.6039
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -353374,7 +353374,7 @@
         "2024_Registered_Voters_Total": 982,
         "2024_Ballots_Cast_Total": 431,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "43.89%"
+        "2024_Voter_Turnout_Total": 0.4389
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -353720,10 +353720,10 @@
         "GlobalID": "{8C9F6121-00A5-4DF2-B309-E8782F23F872}",
         "Shape_STAr": 11552295.027,
         "Shape_STLe": 33612.528914,
-        "2024_Registered_Voters_Total": "1,036",
+        "2024_Registered_Voters_Total": 1036,
         "2024_Ballots_Cast_Total": 757,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "73.07%"
+        "2024_Voter_Turnout_Total": 0.7306999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -355061,10 +355061,10 @@
         "GlobalID": "{062EBD97-14EF-4966-8479-9863F9A876A2}",
         "Shape_STAr": 19211506.8012,
         "Shape_STLe": 44688.654155,
-        "2024_Registered_Voters_Total": "1,215",
+        "2024_Registered_Voters_Total": 1215,
         "2024_Ballots_Cast_Total": 708,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "58.27%"
+        "2024_Voter_Turnout_Total": 0.5827
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -356697,7 +356697,7 @@
         "2024_Registered_Voters_Total": 736,
         "2024_Ballots_Cast_Total": 526,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "71.47%"
+        "2024_Voter_Turnout_Total": 0.7147
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -357490,7 +357490,7 @@
         "2024_Registered_Voters_Total": 717,
         "2024_Ballots_Cast_Total": 512,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "71.41%"
+        "2024_Voter_Turnout_Total": 0.7141
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -357971,7 +357971,7 @@
         "2024_Registered_Voters_Total": 870,
         "2024_Ballots_Cast_Total": 333,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "38.28%"
+        "2024_Voter_Turnout_Total": 0.38280000000000003
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -358636,7 +358636,7 @@
         "2024_Registered_Voters_Total": 963,
         "2024_Ballots_Cast_Total": 443,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "46%"
+        "2024_Voter_Turnout_Total": 46
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -359949,7 +359949,7 @@
         "2024_Registered_Voters_Total": 864,
         "2024_Ballots_Cast_Total": 433,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "50.12%"
+        "2024_Voter_Turnout_Total": 0.5012
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -361115,10 +361115,10 @@
         "GlobalID": "{D6FCC187-A5A9-4718-9DF9-50EA55503434}",
         "Shape_STAr": 4541678.71239,
         "Shape_STLe": 15812.8309985,
-        "2024_Registered_Voters_Total": "1,070",
+        "2024_Registered_Voters_Total": 1070,
         "2024_Ballots_Cast_Total": 670,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "62.62%"
+        "2024_Voter_Turnout_Total": 0.6262
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -361583,7 +361583,7 @@
         "2024_Registered_Voters_Total": 772,
         "2024_Ballots_Cast_Total": 610,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "79.02%"
+        "2024_Voter_Turnout_Total": 0.7902
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -362440,7 +362440,7 @@
         "2024_Registered_Voters_Total": 977,
         "2024_Ballots_Cast_Total": 827,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "84.65%"
+        "2024_Voter_Turnout_Total": 0.8465
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -363310,10 +363310,10 @@
         "GlobalID": "{52271A07-599F-441F-B55A-233DB7D3D147}",
         "Shape_STAr": 22619420.199,
         "Shape_STLe": 29467.2311057,
-        "2024_Registered_Voters_Total": "1,107",
+        "2024_Registered_Voters_Total": 1107,
         "2024_Ballots_Cast_Total": 783,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "70.73%"
+        "2024_Voter_Turnout_Total": 0.7073
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -364811,10 +364811,10 @@
         "GlobalID": "{FE96392E-C588-457B-A8B8-1857D8F21F40}",
         "Shape_STAr": 6454592.16872,
         "Shape_STLe": 11736.0926864,
-        "2024_Registered_Voters_Total": "1,099",
+        "2024_Registered_Voters_Total": 1099,
         "2024_Ballots_Cast_Total": 869,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "79.07%"
+        "2024_Voter_Turnout_Total": 0.7907
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -365547,7 +365547,7 @@
         "2024_Registered_Voters_Total": 880,
         "2024_Ballots_Cast_Total": 652,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "74.09%"
+        "2024_Voter_Turnout_Total": 0.7409
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -367156,7 +367156,7 @@
         "2024_Registered_Voters_Total": 969,
         "2024_Ballots_Cast_Total": 709,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "73.17%"
+        "2024_Voter_Turnout_Total": 0.7317
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -368065,7 +368065,7 @@
         "2024_Registered_Voters_Total": 832,
         "2024_Ballots_Cast_Total": 573,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "68.87%"
+        "2024_Voter_Turnout_Total": 0.6887000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -368827,10 +368827,10 @@
         "GlobalID": "{39CA6B92-0189-43F6-AE7A-F96A5E7BAB65}",
         "Shape_STAr": 10718687.67,
         "Shape_STLe": 16886.6264472,
-        "2024_Registered_Voters_Total": "1,049",
+        "2024_Registered_Voters_Total": 1049,
         "2024_Ballots_Cast_Total": 833,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "79.41%"
+        "2024_Voter_Turnout_Total": 0.7940999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -370384,10 +370384,10 @@
         "GlobalID": "{69199E07-8979-485C-9325-70B42F0506AE}",
         "Shape_STAr": 7839128.39625,
         "Shape_STLe": 14451.1664584,
-        "2024_Registered_Voters_Total": "1,150",
+        "2024_Registered_Voters_Total": 1150,
         "2024_Ballots_Cast_Total": 866,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "75.30%"
+        "2024_Voter_Turnout_Total": 0.753
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -370857,10 +370857,10 @@
         "GlobalID": "{58FD70B1-AB2A-4CA3-87F8-7D0FAFF08AB9}",
         "Shape_STAr": 13570330.88,
         "Shape_STLe": 17920.9275946,
-        "2024_Registered_Voters_Total": "1,165",
+        "2024_Registered_Voters_Total": 1165,
         "2024_Ballots_Cast_Total": 873,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "74.94%"
+        "2024_Voter_Turnout_Total": 0.7494
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -371562,10 +371562,10 @@
         "GlobalID": "{2356B0C5-144E-4271-89B0-4E6C83184E5B}",
         "Shape_STAr": 12103037.8252,
         "Shape_STLe": 18708.647583,
-        "2024_Registered_Voters_Total": "1,081",
+        "2024_Registered_Voters_Total": 1081,
         "2024_Ballots_Cast_Total": 766,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "70.86%"
+        "2024_Voter_Turnout_Total": 0.7086
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -372327,10 +372327,10 @@
         "GlobalID": "{BF11A678-FEFB-4A65-AF99-EF13E0051FE2}",
         "Shape_STAr": 10243717.2056,
         "Shape_STLe": 20397.539251,
-        "2024_Registered_Voters_Total": "1,259",
+        "2024_Registered_Voters_Total": 1259,
         "2024_Ballots_Cast_Total": 939,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "74.58%"
+        "2024_Voter_Turnout_Total": 0.7458
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -374255,7 +374255,7 @@
         "2024_Registered_Voters_Total": 961,
         "2024_Ballots_Cast_Total": 682,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "70.97%"
+        "2024_Voter_Turnout_Total": 0.7097
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -375425,10 +375425,10 @@
         "GlobalID": "{59021B26-0D33-46AB-A07F-E983BB811E4B}",
         "Shape_STAr": 15321355.4122,
         "Shape_STLe": 27008.2779899,
-        "2024_Registered_Voters_Total": "1,173",
+        "2024_Registered_Voters_Total": 1173,
         "2024_Ballots_Cast_Total": 912,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "77.75%"
+        "2024_Voter_Turnout_Total": 0.7775
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -376709,7 +376709,7 @@
         "2024_Registered_Voters_Total": 783,
         "2024_Ballots_Cast_Total": 392,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "50.06%"
+        "2024_Voter_Turnout_Total": 0.5006
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -377842,7 +377842,7 @@
         "2024_Registered_Voters_Total": 914,
         "2024_Ballots_Cast_Total": 302,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "33.04%"
+        "2024_Voter_Turnout_Total": 0.33039999999999997
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -379508,10 +379508,10 @@
         "GlobalID": "{2AF8E10A-78AA-476F-A3DF-04245FD683A2}",
         "Shape_STAr": 18828729.6696,
         "Shape_STLe": 28948.1373025,
-        "2024_Registered_Voters_Total": "1,138",
+        "2024_Registered_Voters_Total": 1138,
         "2024_Ballots_Cast_Total": 854,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "75.04%"
+        "2024_Voter_Turnout_Total": 0.7504000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -380732,7 +380732,7 @@
         "2024_Registered_Voters_Total": 909,
         "2024_Ballots_Cast_Total": 535,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "58.86%"
+        "2024_Voter_Turnout_Total": 0.5886
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -381393,7 +381393,7 @@
         "2024_Registered_Voters_Total": 720,
         "2024_Ballots_Cast_Total": 321,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "44.58%"
+        "2024_Voter_Turnout_Total": 0.4458
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -382059,10 +382059,10 @@
         "GlobalID": "{2263FF85-5964-4F5E-BBD1-85CBFE44E965}",
         "Shape_STAr": 21289696.9869,
         "Shape_STLe": 20787.028747,
-        "2024_Registered_Voters_Total": "1,186",
+        "2024_Registered_Voters_Total": 1186,
         "2024_Ballots_Cast_Total": 522,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "44.01%"
+        "2024_Voter_Turnout_Total": 0.4401
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -383391,7 +383391,7 @@
         "2024_Registered_Voters_Total": 823,
         "2024_Ballots_Cast_Total": 556,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "67.56%"
+        "2024_Voter_Turnout_Total": 0.6756
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -383884,7 +383884,7 @@
         "2024_Registered_Voters_Total": 951,
         "2024_Ballots_Cast_Total": 398,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "41.85%"
+        "2024_Voter_Turnout_Total": 0.41850000000000004
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -384249,7 +384249,7 @@
         "2024_Registered_Voters_Total": 904,
         "2024_Ballots_Cast_Total": 388,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "42.92%"
+        "2024_Voter_Turnout_Total": 0.4292
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -384650,7 +384650,7 @@
         "2024_Registered_Voters_Total": 964,
         "2024_Ballots_Cast_Total": 390,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "40.46%"
+        "2024_Voter_Turnout_Total": 0.4046
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -385395,7 +385395,7 @@
         "2024_Registered_Voters_Total": 914,
         "2024_Ballots_Cast_Total": 302,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "33.04%"
+        "2024_Voter_Turnout_Total": 0.33039999999999997
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -387681,10 +387681,10 @@
         "GlobalID": "{228D9AB0-E877-4301-8B7E-F9E6ABE56D1D}",
         "Shape_STAr": 19029418.1625,
         "Shape_STLe": 18391.2903467,
-        "2024_Registered_Voters_Total": "1,247",
+        "2024_Registered_Voters_Total": 1247,
         "2024_Ballots_Cast_Total": 939,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "75.30%"
+        "2024_Voter_Turnout_Total": 0.753
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -387997,7 +387997,7 @@
         "2024_Registered_Voters_Total": 921,
         "2024_Ballots_Cast_Total": 768,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "83.39%"
+        "2024_Voter_Turnout_Total": 0.8339
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -389319,10 +389319,10 @@
         "GlobalID": "{9F032F9C-CA53-4920-8585-F7C6AE232C39}",
         "Shape_STAr": 30899374.554999996,
         "Shape_STLe": 58092.4626663,
-        "2024_Registered_Voters_Total": "1,217",
+        "2024_Registered_Voters_Total": 1217,
         "2024_Ballots_Cast_Total": 894,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "73.46%"
+        "2024_Voter_Turnout_Total": 0.7345999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -391195,7 +391195,7 @@
         "2024_Registered_Voters_Total": 985,
         "2024_Ballots_Cast_Total": 769,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "78.07%"
+        "2024_Voter_Turnout_Total": 0.7807
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -391521,10 +391521,10 @@
         "GlobalID": "{3C68F654-02DE-416E-B26E-B4141D9EAD59}",
         "Shape_STAr": 143278.114176,
         "Shape_STLe": 2492.87019396,
-        "2024_Registered_Voters_Total": "1,020",
+        "2024_Registered_Voters_Total": 1020,
         "2024_Ballots_Cast_Total": 729,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "71.47%"
+        "2024_Voter_Turnout_Total": 0.7147
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -391705,7 +391705,7 @@
         "2024_Registered_Voters_Total": 932,
         "2024_Ballots_Cast_Total": 519,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "55.69%"
+        "2024_Voter_Turnout_Total": 0.5569
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -392303,10 +392303,10 @@
         "GlobalID": "{29E9FAB7-89DD-4621-8828-1DEB1A877C40}",
         "Shape_STAr": 36900409.652,
         "Shape_STLe": 57564.8561567,
-        "2024_Registered_Voters_Total": "1,061",
+        "2024_Registered_Voters_Total": 1061,
         "2024_Ballots_Cast_Total": 800,
         "2024_Ballots_Cast_Blank": 8,
-        "2024_Voter_Turnout_Total": "75.40%"
+        "2024_Voter_Turnout_Total": 0.754
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -393464,10 +393464,10 @@
         "GlobalID": "{262D22E9-0E30-477A-B15E-EB306BD71D80}",
         "Shape_STAr": 22760739.8,
         "Shape_STLe": 42445.1505173,
-        "2024_Registered_Voters_Total": "1,213",
+        "2024_Registered_Voters_Total": 1213,
         "2024_Ballots_Cast_Total": 709,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "58.45%"
+        "2024_Voter_Turnout_Total": 0.5845
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -394660,7 +394660,7 @@
         "2024_Registered_Voters_Total": 802,
         "2024_Ballots_Cast_Total": 672,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "83.79%"
+        "2024_Voter_Turnout_Total": 0.8379000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -415379,7 +415379,7 @@
         "2024_Registered_Voters_Total": 583,
         "2024_Ballots_Cast_Total": 343,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "58.83%"
+        "2024_Voter_Turnout_Total": 0.5882999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -416128,7 +416128,7 @@
         "2024_Registered_Voters_Total": 833,
         "2024_Ballots_Cast_Total": 560,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "67.23%"
+        "2024_Voter_Turnout_Total": 0.6723
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -418621,7 +418621,7 @@
         "2024_Registered_Voters_Total": 602,
         "2024_Ballots_Cast_Total": 388,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "64.45%"
+        "2024_Voter_Turnout_Total": 0.6445000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -419475,10 +419475,10 @@
         "GlobalID": "{540251DA-2791-4246-B8DB-180E559729C3}",
         "Shape_STAr": 1087878.21509,
         "Shape_STLe": 5647.72014016,
-        "2024_Registered_Voters_Total": "1,217",
+        "2024_Registered_Voters_Total": 1217,
         "2024_Ballots_Cast_Total": 894,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "73.46%"
+        "2024_Voter_Turnout_Total": 0.7345999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -419968,10 +419968,10 @@
         "GlobalID": "{8F6334C2-6D35-499D-9E3D-371A5CFACAEE}",
         "Shape_STAr": 468628538.062,
         "Shape_STLe": 203888.113659,
-        "2024_Registered_Voters_Total": "1,151",
+        "2024_Registered_Voters_Total": 1151,
         "2024_Ballots_Cast_Total": 977,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "84.88%"
+        "2024_Voter_Turnout_Total": 0.8488
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -425189,10 +425189,10 @@
         "GlobalID": "{0472287B-26BE-4CF9-B028-DE42EA9E5792}",
         "Shape_STAr": 36856651.5732,
         "Shape_STLe": 36621.3083768,
-        "2024_Registered_Voters_Total": "1,215",
+        "2024_Registered_Voters_Total": 1215,
         "2024_Ballots_Cast_Total": 708,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "58.27%"
+        "2024_Voter_Turnout_Total": 0.5827
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -426638,10 +426638,10 @@
         "GlobalID": "{69694A80-0A7E-4CD1-B992-51DB4AF4960A}",
         "Shape_STAr": 4242418.48748,
         "Shape_STLe": 13669.7886788,
-        "2024_Registered_Voters_Total": "1,263",
-        "2024_Ballots_Cast_Total": "1,091",
+        "2024_Registered_Voters_Total": 1263,
+        "2024_Ballots_Cast_Total": 1091,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "86.38%"
+        "2024_Voter_Turnout_Total": 0.8637999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -427074,7 +427074,7 @@
         "2024_Registered_Voters_Total": 799,
         "2024_Ballots_Cast_Total": 531,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "66.46%"
+        "2024_Voter_Turnout_Total": 0.6646
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -427954,10 +427954,10 @@
         "GlobalID": "{B02A9EF6-9B21-43C9-A969-1C78626165C9}",
         "Shape_STAr": 110786787.552,
         "Shape_STLe": 110306.267367,
-        "2024_Registered_Voters_Total": "1,122",
+        "2024_Registered_Voters_Total": 1122,
         "2024_Ballots_Cast_Total": 841,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "74.96%"
+        "2024_Voter_Turnout_Total": 0.7495999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -431186,7 +431186,7 @@
         "2024_Registered_Voters_Total": 912,
         "2024_Ballots_Cast_Total": 514,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "56.36%"
+        "2024_Voter_Turnout_Total": 0.5636
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -432035,7 +432035,7 @@
         "2024_Registered_Voters_Total": 887,
         "2024_Ballots_Cast_Total": 571,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "64.37%"
+        "2024_Voter_Turnout_Total": 0.6437
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -432256,7 +432256,7 @@
         "2024_Registered_Voters_Total": 895,
         "2024_Ballots_Cast_Total": 694,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "77.54%"
+        "2024_Voter_Turnout_Total": 0.7754000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -434890,10 +434890,10 @@
         "GlobalID": "{74B306A7-C074-4559-BD5A-A275FDACCB14}",
         "Shape_STAr": 37252226.7061,
         "Shape_STLe": 45695.3943663,
-        "2024_Registered_Voters_Total": "1,201",
+        "2024_Registered_Voters_Total": 1201,
         "2024_Ballots_Cast_Total": 904,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "75.27%"
+        "2024_Voter_Turnout_Total": 0.7526999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -437207,10 +437207,10 @@
         "GlobalID": "{B0332864-94A0-4440-8B07-C1E9ECD954EB}",
         "Shape_STAr": 27633667.8684,
         "Shape_STLe": 50530.9430393,
-        "2024_Registered_Voters_Total": "1,051",
+        "2024_Registered_Voters_Total": 1051,
         "2024_Ballots_Cast_Total": 550,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "52.33%"
+        "2024_Voter_Turnout_Total": 0.5233
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -440172,10 +440172,10 @@
         "GlobalID": "{32899264-9960-4AE9-AD46-BEFCF448B7EA}",
         "Shape_STAr": 127472549.626,
         "Shape_STLe": 68118.29937740002,
-        "2024_Registered_Voters_Total": "1,050",
+        "2024_Registered_Voters_Total": 1050,
         "2024_Ballots_Cast_Total": 734,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "69.90%"
+        "2024_Voter_Turnout_Total": 0.6990000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -441928,7 +441928,7 @@
         "2024_Registered_Voters_Total": 984,
         "2024_Ballots_Cast_Total": 784,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "79.67%"
+        "2024_Voter_Turnout_Total": 0.7967
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -443374,10 +443374,10 @@
         "GlobalID": "{4CF0BEDC-9DC6-429A-B099-BC948C9823F7}",
         "Shape_STAr": 51337895.3133,
         "Shape_STLe": 78861.7493218,
-        "2024_Registered_Voters_Total": "1,006",
+        "2024_Registered_Voters_Total": 1006,
         "2024_Ballots_Cast_Total": 798,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "79.32%"
+        "2024_Voter_Turnout_Total": 0.7931999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -444762,7 +444762,7 @@
         "2024_Registered_Voters_Total": 877,
         "2024_Ballots_Cast_Total": 697,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "79.48%"
+        "2024_Voter_Turnout_Total": 0.7948000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -445379,7 +445379,7 @@
         "2024_Registered_Voters_Total": 895,
         "2024_Ballots_Cast_Total": 694,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "77.54%"
+        "2024_Voter_Turnout_Total": 0.7754000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -445628,7 +445628,7 @@
         "2024_Registered_Voters_Total": 708,
         "2024_Ballots_Cast_Total": 597,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "84.32%"
+        "2024_Voter_Turnout_Total": 0.8432
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -447295,7 +447295,7 @@
         "2024_Registered_Voters_Total": 912,
         "2024_Ballots_Cast_Total": 514,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "56.36%"
+        "2024_Voter_Turnout_Total": 0.5636
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -449322,7 +449322,7 @@
         "2024_Registered_Voters_Total": 692,
         "2024_Ballots_Cast_Total": 598,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "86.42%"
+        "2024_Voter_Turnout_Total": 0.8642
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -449579,7 +449579,7 @@
         "2024_Registered_Voters_Total": 984,
         "2024_Ballots_Cast_Total": 784,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "79.67%"
+        "2024_Voter_Turnout_Total": 0.7967
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -450092,7 +450092,7 @@
         "2024_Registered_Voters_Total": 786,
         "2024_Ballots_Cast_Total": 464,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "59.03%"
+        "2024_Voter_Turnout_Total": 0.5903
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -454086,10 +454086,10 @@
         "GlobalID": "{9A5F18FE-27EF-4322-91B5-A00CA4B8AC36}",
         "Shape_STAr": 2883420.48512,
         "Shape_STLe": 17570.1044991,
-        "2024_Registered_Voters_Total": "1,071",
+        "2024_Registered_Voters_Total": 1071,
         "2024_Ballots_Cast_Total": 620,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "57.89%"
+        "2024_Voter_Turnout_Total": 0.5789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -454691,10 +454691,10 @@
         "GlobalID": "{A61F6366-BE49-40AD-8F98-DBD0F693CC0E}",
         "Shape_STAr": 3682597.16101,
         "Shape_STLe": 10205.1890686,
-        "2024_Registered_Voters_Total": "1,189",
+        "2024_Registered_Voters_Total": 1189,
         "2024_Ballots_Cast_Total": 719,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "60.47%"
+        "2024_Voter_Turnout_Total": 0.6047
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -455060,10 +455060,10 @@
         "GlobalID": "{72C95680-7D8F-4327-8899-F62C08AD5F93}",
         "Shape_STAr": 23737245.6698,
         "Shape_STLe": 30146.6769309,
-        "2024_Registered_Voters_Total": "1,350",
-        "2024_Ballots_Cast_Total": "1,106",
+        "2024_Registered_Voters_Total": 1350,
+        "2024_Ballots_Cast_Total": 1106,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "81.93%"
+        "2024_Voter_Turnout_Total": 0.8193
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -457199,10 +457199,10 @@
         "GlobalID": "{0E59D044-C231-4D63-8333-EA9A658A0AB0}",
         "Shape_STAr": 6517186.79663,
         "Shape_STLe": 14484.1865864,
-        "2024_Registered_Voters_Total": "1,142",
+        "2024_Registered_Voters_Total": 1142,
         "2024_Ballots_Cast_Total": 901,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "78.90%"
+        "2024_Voter_Turnout_Total": 0.789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -457880,10 +457880,10 @@
         "GlobalID": "{B582DF55-95E0-4DD3-A657-DC52CA9918B8}",
         "Shape_STAr": 96504834.3354,
         "Shape_STLe": 85610.219124,
-        "2024_Registered_Voters_Total": "1,208",
+        "2024_Registered_Voters_Total": 1208,
         "2024_Ballots_Cast_Total": 834,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "69.04%"
+        "2024_Voter_Turnout_Total": 0.6904
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -459852,7 +459852,7 @@
         "2024_Registered_Voters_Total": 895,
         "2024_Ballots_Cast_Total": 694,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "77.54%"
+        "2024_Voter_Turnout_Total": 0.7754000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -460489,7 +460489,7 @@
         "2024_Registered_Voters_Total": 833,
         "2024_Ballots_Cast_Total": 560,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "67.23%"
+        "2024_Voter_Turnout_Total": 0.6723
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -461538,7 +461538,7 @@
         "2024_Registered_Voters_Total": 606,
         "2024_Ballots_Cast_Total": 202,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "33.33%"
+        "2024_Voter_Turnout_Total": 0.3333
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -462092,10 +462092,10 @@
         "GlobalID": "{466511FF-3185-4106-94A1-D843FCDFCDC5}",
         "Shape_STAr": 6234861.96404,
         "Shape_STLe": 12834.0355385,
-        "2024_Registered_Voters_Total": "1,055",
+        "2024_Registered_Voters_Total": 1055,
         "2024_Ballots_Cast_Total": 493,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "46.73%"
+        "2024_Voter_Turnout_Total": 0.4673
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -462592,7 +462592,7 @@
         "2024_Registered_Voters_Total": 709,
         "2024_Ballots_Cast_Total": 470,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "66.29%"
+        "2024_Voter_Turnout_Total": 0.6629
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -463085,7 +463085,7 @@
         "2024_Registered_Voters_Total": 709,
         "2024_Ballots_Cast_Total": 470,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "66.29%"
+        "2024_Voter_Turnout_Total": 0.6629
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -463599,10 +463599,10 @@
         "GlobalID": "{C0B89F80-9735-49CF-B035-354853704BAE}",
         "Shape_STAr": 31428193.8567,
         "Shape_STLe": 45982.2184912,
-        "2024_Registered_Voters_Total": "1,122",
+        "2024_Registered_Voters_Total": 1122,
         "2024_Ballots_Cast_Total": 841,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "74.96%"
+        "2024_Voter_Turnout_Total": 0.7495999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -464964,10 +464964,10 @@
         "GlobalID": "{BCAE7FBD-1FEA-4F20-9A8E-59CBDF0998D1}",
         "Shape_STAr": 130697750.176,
         "Shape_STLe": 83898.18896650002,
-        "2024_Registered_Voters_Total": "1,006",
+        "2024_Registered_Voters_Total": 1006,
         "2024_Ballots_Cast_Total": 829,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "82.41%"
+        "2024_Voter_Turnout_Total": 0.8240999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -466524,7 +466524,7 @@
         "2024_Registered_Voters_Total": 978,
         "2024_Ballots_Cast_Total": 727,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "74.34%"
+        "2024_Voter_Turnout_Total": 0.7434000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -468425,7 +468425,7 @@
         "2024_Registered_Voters_Total": 978,
         "2024_Ballots_Cast_Total": 727,
         "2024_Ballots_Cast_Blank": 7,
-        "2024_Voter_Turnout_Total": "74.34%"
+        "2024_Voter_Turnout_Total": 0.7434000000000001
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -468574,7 +468574,7 @@
         "2024_Registered_Voters_Total": 883,
         "2024_Ballots_Cast_Total": 693,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "78.48%"
+        "2024_Voter_Turnout_Total": 0.7848
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -469399,7 +469399,7 @@
         "2024_Registered_Voters_Total": 735,
         "2024_Ballots_Cast_Total": 608,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "82.72%"
+        "2024_Voter_Turnout_Total": 0.8271999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -469564,7 +469564,7 @@
         "2024_Registered_Voters_Total": 735,
         "2024_Ballots_Cast_Total": 608,
         "2024_Ballots_Cast_Blank": 1,
-        "2024_Voter_Turnout_Total": "82.72%"
+        "2024_Voter_Turnout_Total": 0.8271999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -472133,7 +472133,7 @@
         "2024_Registered_Voters_Total": 770,
         "2024_Ballots_Cast_Total": 465,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "60.39%"
+        "2024_Voter_Turnout_Total": 0.6039
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -472246,7 +472246,7 @@
         "2024_Registered_Voters_Total": 982,
         "2024_Ballots_Cast_Total": 431,
         "2024_Ballots_Cast_Blank": 4,
-        "2024_Voter_Turnout_Total": "43.89%"
+        "2024_Voter_Turnout_Total": 0.4389
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -472611,7 +472611,7 @@
         "2024_Registered_Voters_Total": 849,
         "2024_Ballots_Cast_Total": 449,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "52.89%"
+        "2024_Voter_Turnout_Total": 0.5289
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -474164,7 +474164,7 @@
         "2024_Registered_Voters_Total": 849,
         "2024_Ballots_Cast_Total": 449,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "52.89%"
+        "2024_Voter_Turnout_Total": 0.5289
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -474814,10 +474814,10 @@
         "GlobalID": "{1F903474-EE16-4A36-B76A-EAEC12E21022}",
         "Shape_STAr": 7067384.3179,
         "Shape_STLe": 23544.5163571,
-        "2024_Registered_Voters_Total": "1,314",
+        "2024_Registered_Voters_Total": 1314,
         "2024_Ballots_Cast_Total": 565,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "43%"
+        "2024_Voter_Turnout_Total": 43
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -475455,10 +475455,10 @@
         "GlobalID": "{93B42531-A8CA-446E-BD90-F7798215351B}",
         "Shape_STAr": 37086932.9923,
         "Shape_STLe": 37126.5158641,
-        "2024_Registered_Voters_Total": "1,314",
+        "2024_Registered_Voters_Total": 1314,
         "2024_Ballots_Cast_Total": 565,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "43%"
+        "2024_Voter_Turnout_Total": 43
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -476636,10 +476636,10 @@
         "GlobalID": "{D109D9BC-A176-4803-99AF-21B66CA9B78E}",
         "Shape_STAr": 1820905.42445,
         "Shape_STLe": 5803.56216047,
-        "2024_Registered_Voters_Total": "1,151",
+        "2024_Registered_Voters_Total": 1151,
         "2024_Ballots_Cast_Total": 850,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "73.85%"
+        "2024_Voter_Turnout_Total": 0.7384999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -476788,7 +476788,7 @@
         "2024_Registered_Voters_Total": 798,
         "2024_Ballots_Cast_Total": 625,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "78.32%"
+        "2024_Voter_Turnout_Total": 0.7831999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -477413,7 +477413,7 @@
         "2024_Registered_Voters_Total": 798,
         "2024_Ballots_Cast_Total": 625,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "78.32%"
+        "2024_Voter_Turnout_Total": 0.7831999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -478083,10 +478083,10 @@
         "GlobalID": "{60620475-2620-49E5-934C-88BC5B4C9022}",
         "Shape_STAr": 27977866.0887,
         "Shape_STLe": 29824.8839478,
-        "2024_Registered_Voters_Total": "1,152",
+        "2024_Registered_Voters_Total": 1152,
         "2024_Ballots_Cast_Total": 881,
         "2024_Ballots_Cast_Blank": 3,
-        "2024_Voter_Turnout_Total": "76.48%"
+        "2024_Voter_Turnout_Total": 0.7648
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -479051,7 +479051,7 @@
         "2024_Registered_Voters_Total": 798,
         "2024_Ballots_Cast_Total": 625,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "78.32%"
+        "2024_Voter_Turnout_Total": 0.7831999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -479164,7 +479164,7 @@
         "2024_Registered_Voters_Total": 798,
         "2024_Ballots_Cast_Total": 625,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "78.32%"
+        "2024_Voter_Turnout_Total": 0.7831999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -479473,7 +479473,7 @@
         "2024_Registered_Voters_Total": 798,
         "2024_Ballots_Cast_Total": 625,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "78.32%"
+        "2024_Voter_Turnout_Total": 0.7831999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -479827,10 +479827,10 @@
         "GlobalID": "{00928545-A8F7-459A-9A7F-C754551470A2}",
         "Shape_STAr": 66727760.9989,
         "Shape_STLe": 134518.561303,
-        "2024_Registered_Voters_Total": "1,006",
+        "2024_Registered_Voters_Total": 1006,
         "2024_Ballots_Cast_Total": 829,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "82.41%"
+        "2024_Voter_Turnout_Total": 0.8240999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -483040,10 +483040,10 @@
         "GlobalID": "{CEA5431A-F3DA-470A-8F4B-BCC65897DB2B}",
         "Shape_STAr": 2039057.53153,
         "Shape_STLe": 15173.8924225,
-        "2024_Registered_Voters_Total": "1,006",
+        "2024_Registered_Voters_Total": 1006,
         "2024_Ballots_Cast_Total": 829,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "82.41%"
+        "2024_Voter_Turnout_Total": 0.8240999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -483453,10 +483453,10 @@
         "GlobalID": "{2D750E7F-5D93-41B0-8DAD-1F2E9368EA54}",
         "Shape_STAr": 3056171.38085,
         "Shape_STLe": 8007.35660486,
-        "2024_Registered_Voters_Total": "1,006",
+        "2024_Registered_Voters_Total": 1006,
         "2024_Ballots_Cast_Total": 829,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "82.41%"
+        "2024_Voter_Turnout_Total": 0.8240999999999999
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -483670,10 +483670,10 @@
         "GlobalID": "{6EB18AB5-90D4-48AE-936D-C59C89869D12}",
         "Shape_STAr": 9214312.98203,
         "Shape_STLe": 15947.4811945,
-        "2024_Registered_Voters_Total": "1,106",
+        "2024_Registered_Voters_Total": 1106,
         "2024_Ballots_Cast_Total": 848,
         "2024_Ballots_Cast_Blank": 6,
-        "2024_Voter_Turnout_Total": "76.67%"
+        "2024_Voter_Turnout_Total": 0.7667
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -484551,10 +484551,10 @@
         "GlobalID": "{2EDE2DFD-B026-479B-A4FB-BE9E7E55298A}",
         "Shape_STAr": 32377858.6442,
         "Shape_STLe": 47778.5509437,
-        "2024_Registered_Voters_Total": "1,153",
+        "2024_Registered_Voters_Total": 1153,
         "2024_Ballots_Cast_Total": 922,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "79.97%"
+        "2024_Voter_Turnout_Total": 0.7997
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -489167,7 +489167,7 @@
         "2024_Registered_Voters_Total": 928,
         "2024_Ballots_Cast_Total": 754,
         "2024_Ballots_Cast_Blank": 2,
-        "2024_Voter_Turnout_Total": "81.25%"
+        "2024_Voter_Turnout_Total": 0.8125
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -491432,7 +491432,7 @@
         "2024_Registered_Voters_Total": 799,
         "2024_Ballots_Cast_Total": 653,
         "2024_Ballots_Cast_Blank": 0,
-        "2024_Voter_Turnout_Total": "81.73%"
+        "2024_Voter_Turnout_Total": 0.8173
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -493690,10 +493690,10 @@
         "GlobalID": "{AF1BABA2-8CC9-4A25-8CEB-689ACF2053CC}",
         "Shape_STAr": 56202150.322,
         "Shape_STLe": 67061.0798235,
-        "2024_Registered_Voters_Total": "1,178",
+        "2024_Registered_Voters_Total": 1178,
         "2024_Ballots_Cast_Total": 923,
         "2024_Ballots_Cast_Blank": 5,
-        "2024_Voter_Turnout_Total": "78.35%"
+        "2024_Voter_Turnout_Total": 0.7835
       },
       "geometry": {
         "type": "MultiPolygon",

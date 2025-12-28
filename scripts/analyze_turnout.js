@@ -38,6 +38,7 @@ function parseTurnout(value) {
  */
 function calculateStats(features, year) {
   const turnouts = [];
+  const skipped = [];
 
   features.forEach(feature => {
     const props = feature.properties;
@@ -48,6 +49,7 @@ function calculateStats(features, year) {
     const turnout = parseTurnout(props[turnoutKey]);
     const registered = parseInt(props[registeredKey]);
     const ballots = parseInt(props[ballotsKey]);
+    const precinctName = props.VNAME || props.precinct || props.name || 'UNKNOWN';
 
     // Skip precincts with invalid/missing data
     // Registered voters should be at least 10 to be a real precinct
@@ -57,10 +59,26 @@ function calculateStats(features, year) {
         ballots <= registered * 1.1 && // Allow 10% margin for data entry errors
         turnout > 0 && turnout <= 1) { // Turnout should be 0-100%
       turnouts.push({
-        precinct: props.VNAME || props.precinct || props.name,
+        precinct: precinctName,
         turnout: turnout,
         registered: registered,
         ballots: ballots
+      });
+    } else {
+      // Track why this precinct was skipped
+      let reason = [];
+      if (turnout === null || isNaN(turnout)) reason.push('invalid turnout');
+      if (registered < 10) reason.push(`low registered (${registered})`);
+      if (ballots <= 0) reason.push(`no ballots (${ballots})`);
+      if (ballots > registered * 1.1) reason.push(`ballots (${ballots}) > registered (${registered})`);
+      if (turnout !== null && (turnout <= 0 || turnout > 1)) reason.push(`turnout out of range (${(turnout * 100).toFixed(2)}%)`);
+
+      skipped.push({
+        precinct: precinctName,
+        turnout: props[turnoutKey],
+        registered: registered,
+        ballots: ballots,
+        reason: reason.join(', ')
       });
     }
   });
@@ -100,7 +118,8 @@ function calculateStats(features, year) {
     min: Math.min(...turnoutValues),
     max: Math.max(...turnoutValues),
     top10: turnouts.slice(0, 10),
-    bottom10: turnouts.slice(-10).reverse()
+    bottom10: turnouts.slice(-10).reverse(),
+    skipped: skipped
   };
 }
 
@@ -233,11 +252,38 @@ fs.writeFileSync(
   'utf8'
 );
 
+// Write skipped precincts report
+const skippedReport = `# Skipped Precincts Report
+
+## 2024 Precincts Skipped (${stats2024.skipped.length})
+
+| Precinct | Turnout | Registered | Ballots | Reason |
+|----------|---------|------------|---------|--------|
+${stats2024.skipped.map(p =>
+  `| ${p.precinct} | ${p.turnout || 'N/A'} | ${p.registered} | ${p.ballots} | ${p.reason} |`
+).join('\n')}
+
+## 2025 Precincts Skipped (${stats2025.skipped.length})
+
+| Precinct | Turnout | Registered | Ballots | Reason |
+|----------|---------|------------|---------|--------|
+${stats2025.skipped.map(p =>
+  `| ${p.precinct} | ${p.turnout || 'N/A'} | ${p.registered} | ${p.ballots} | ${p.reason} |`
+).join('\n')}
+`;
+
+fs.writeFileSync(
+  path.join(__dirname, '../analysis/skipped_precincts.md'),
+  skippedReport,
+  'utf8'
+);
+
 console.log('✅ Analysis complete!');
 console.log('📄 Summary statistics: analysis/summary_statistics.md');
 console.log('📊 Precinct rankings: analysis/precinct_rankings.csv');
+console.log('⚠️  Skipped precincts: analysis/skipped_precincts.md');
 console.log('');
 console.log('Key findings:');
-console.log(`  • 2024 turnout: ${pct(stats2024.overallTurnout)}`);
-console.log(`  • 2025 turnout: ${pct(stats2025.overallTurnout)}`);
+console.log(`  • 2024 turnout: ${pct(stats2024.overallTurnout)} (${stats2024.count} precincts, ${stats2024.skipped.length} skipped)`);
+console.log(`  • 2025 turnout: ${pct(stats2025.overallTurnout)} (${stats2025.count} precincts, ${stats2025.skipped.length} skipped)`);
 console.log(`  • Change: ${turnoutChange >= 0 ? '+' : ''}${pct(turnoutChange)}`);

@@ -8,20 +8,20 @@
 
 | Year | Registered Voters | Ballots Cast | Turnout Rate |
 |------|------------------|--------------|--------------|
-| 2024 | 224,042 | 149,320 | **66.65%** |
+| 2024 | 483,431 | 333,951 | **69.08%** |
 | 2025 | 462,026 | 112,001 | **24.24%** |
 
-**Year-over-year change:** -42.41% (-63.63%)
+**Year-over-year change:** -44.84% (-64.91%)
 
 ## Distribution Statistics
 
 ### 2024 General Election
 
-- **Mean turnout:** 66.54%
-- **Median turnout:** 69.11%
-- **Standard deviation:** 13.84%
-- **Range:** 33.04% to 86.80%
-- **Precincts analyzed:** 268
+- **Mean turnout:** 68.71%
+- **Median turnout:** 72.21%
+- **Standard deviation:** 12.87%
+- **Range:** 14.93% to 86.80%
+- **Precincts analyzed:** 497
 
 ### 2025 General Election
 
@@ -65,9 +65,9 @@
 
 ### Turnout Trends
 
-- Overall turnout **decreased** by 42.41% from 2024 to 2025
-- 2025 mean turnout was 24.07%, lower than 2024's 66.54%
-- Turnout variation (std dev) was 8.16% in 2025 vs 13.84% in 2024
+- Overall turnout **decreased** by 44.84% from 2024 to 2025
+- 2025 mean turnout was 24.07%, lower than 2024's 68.71%
+- Turnout variation (std dev) was 8.16% in 2025 vs 12.87% in 2024
 
 ### Participation Patterns
 

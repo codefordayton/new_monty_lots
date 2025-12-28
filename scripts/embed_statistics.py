@@ -205,6 +205,26 @@ def embed_statistics_for_year(year: str) -> None:
     matched_count = 0
     unmatched_precincts = []
 
+    def clean_numeric_value(value):
+        """Convert string numbers with commas to proper integers/floats."""
+        if isinstance(value, str):
+            # Remove commas and percentage signs
+            cleaned = value.replace(',', '').replace('%', '').strip()
+            try:
+                # Try to parse as integer first
+                if '.' not in cleaned:
+                    return int(cleaned)
+                else:
+                    # Parse as float and convert percentage to decimal
+                    num = float(cleaned)
+                    # If original had %, it's already a percentage, convert to decimal
+                    if '%' in value:
+                        return num / 100
+                    return num
+            except ValueError:
+                return value  # Return original if can't parse
+        return value
+
     for feature in geojson['features']:
         props = feature.get('properties', {})
         vlabel = normalize_precinct_code(props.get('VLABEL', ''))
@@ -215,9 +235,12 @@ def embed_statistics_for_year(year: str) -> None:
 
             for key, value in stats.items():
                 if key != 'Precinct':  # Don't duplicate the precinct code
+                    # Clean numeric values (remove commas, convert to proper types)
+                    cleaned_value = clean_numeric_value(value)
+
                     # Add with year prefix to avoid conflicts
                     new_key = f'{year}_{key.replace(" - ", "_").replace(" ", "_")}'
-                    props[new_key] = value
+                    props[new_key] = cleaned_value
 
             matched_count += 1
         else:
