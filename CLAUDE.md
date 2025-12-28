@@ -2,6 +2,21 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## ⚠️ CRITICAL: Git Workflow
+
+**NEVER commit directly to `main` branch under ANY circumstances.**
+
+Always follow this workflow:
+
+1. Create a feature branch: `git checkout -b feature/description` or `git checkout -b fix/issue-number`
+2. Make changes and commit to the feature branch
+3. Push the feature branch: `git push -u origin feature/description`
+4. Create a Pull Request via `gh pr create`
+5. Wait for review and approval
+6. Merge via GitHub (PR will auto-deploy via Railway)
+
+**Exception**: There are NO exceptions. Even documentation updates, typo fixes, or "quick changes" MUST go through a PR.
+
 ## Commands
 
 ### Development
