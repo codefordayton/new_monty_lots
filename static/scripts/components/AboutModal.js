@@ -213,7 +213,7 @@ export class AboutModal {
           </div>
 
           <div class="download-card">
-            <h4>🗳️ Race Results (JSON)</h4>
+            <h4>🗳️ Raw Data</h4>
             <p class="small-text">Individual race files available in the elections directory</p>
             <a href="https://github.com/codefordayton/new_monty_lots/tree/main/data" target="_blank" class="download-button">
               View on GitHub
