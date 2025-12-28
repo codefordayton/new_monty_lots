@@ -27,7 +27,7 @@ window.openPrecinctSummary = function(precinctCode) {
     precinctSummary = new PrecinctSummary();
     precinctSummary.initialize();
   }
-  precinctSummary.show(precinctCode);
+  precinctSummary.showPrecinct(precinctCode);
 };
 
 // Initialize the Leaflet map
