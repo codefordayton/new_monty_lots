@@ -5,6 +5,7 @@
 
 import { RaceDataManager } from '../race-data-manager.js';
 import { getLayerGroup } from '../state/LayerState.js';
+import { loadLayer, unloadLayer } from '../services/LayerService.js';
 import { precinctFilter } from './PrecinctFilter.js';
 
 let raceManager = null;
@@ -129,6 +130,119 @@ function detectPrecinctLayer() {
 }
 
 /**
+ * Auto-load the appropriate precinct layer for the selected year
+ */
+async function autoLoadPrecinctLayer(year) {
+  const targetLayerId = `precincts_${year}`;
+
+  // Check if the layer is already loaded
+  const existingLayer = getLayerGroup(targetLayerId);
+  if (existingLayer) {
+    console.log(`Layer ${targetLayerId} already loaded`);
+    currentPrecinctLayer = existingLayer;
+    raceManager.setPrecinctLayer(currentPrecinctLayer);
+    precinctFilter.setPrecinctLayer(currentPrecinctLayer);
+    return;
+  }
+
+  // Unload other precinct layers first
+  const otherLayerIds = ['precincts_2024', 'precincts_2025', 'precincts'].filter(id => id !== targetLayerId);
+  for (const layerId of otherLayerIds) {
+    const layer = getLayerGroup(layerId);
+    if (layer) {
+      console.log(`Unloading ${layerId}...`);
+      unloadLayer(layerId);
+    }
+  }
+
+  // Show loading feedback
+  showLoadingFeedback(`Loading ${year} election data...`);
+
+  try {
+    // Load the new layer
+    await loadLayer(targetLayerId);
+
+    // Wait for layer to be available
+    let attempts = 0;
+    const maxAttempts = 10;
+    while (attempts < maxAttempts) {
+      const layer = getLayerGroup(targetLayerId);
+      if (layer) {
+        currentPrecinctLayer = layer;
+        raceManager.setPrecinctLayer(currentPrecinctLayer);
+        precinctFilter.setPrecinctLayer(currentPrecinctLayer);
+        console.log(`Successfully loaded and set ${targetLayerId}`);
+        hideLoadingFeedback();
+        return;
+      }
+      await new Promise(resolve => setTimeout(resolve, 300));
+      attempts++;
+    }
+
+    console.warn(`Layer ${targetLayerId} loaded but not detected in state`);
+    hideLoadingFeedback();
+  } catch (error) {
+    console.error(`Error loading ${targetLayerId}:`, error);
+    showErrorFeedback(`Failed to load ${year} election data. Please try manually loading the layer.`);
+  }
+}
+
+/**
+ * Show loading feedback to user
+ */
+function showLoadingFeedback(message) {
+  let feedback = document.getElementById('election-loading-feedback');
+  if (!feedback) {
+    feedback = document.createElement('div');
+    feedback.id = 'election-loading-feedback';
+    feedback.style.cssText = 'padding: 10px; background: #17a2b8; color: white; margin: 10px 0; border-radius: 4px;';
+
+    const raceSelector = document.getElementById('race-selector');
+    if (raceSelector && raceSelector.parentElement) {
+      raceSelector.parentElement.insertBefore(feedback, raceSelector);
+    }
+  }
+  feedback.textContent = message;
+  feedback.style.display = 'block';
+}
+
+/**
+ * Hide loading feedback
+ */
+function hideLoadingFeedback() {
+  const feedback = document.getElementById('election-loading-feedback');
+  if (feedback) {
+    feedback.style.display = 'none';
+  }
+}
+
+/**
+ * Show error feedback to user
+ */
+function showErrorFeedback(message) {
+  let feedback = document.getElementById('election-loading-feedback');
+  if (!feedback) {
+    feedback = document.createElement('div');
+    feedback.id = 'election-loading-feedback';
+    feedback.style.cssText = 'padding: 10px; margin: 10px 0; border-radius: 4px;';
+
+    const raceSelector = document.getElementById('race-selector');
+    if (raceSelector && raceSelector.parentElement) {
+      raceSelector.parentElement.insertBefore(feedback, raceSelector);
+    }
+  }
+  feedback.textContent = message;
+  feedback.style.background = '#dc3545';
+  feedback.style.color = 'white';
+  feedback.style.display = 'block';
+
+  // Auto-hide error after 5 seconds
+  setTimeout(() => {
+    feedback.style.display = 'none';
+  }, 5000);
+}
+
+/**
  * Handle year selection change
  */
 async function handleYearChange(event) {
@@ -140,6 +254,9 @@ async function handleYearChange(event) {
     clearRaceData();
     return;
   }
+
+  // Auto-load the appropriate precinct layer for this year
+  await autoLoadPrecinctLayer(year);
 
   // Load metadata for selected year
   const metadata = await raceManager.loadYearMetadata(year);
@@ -217,7 +334,20 @@ async function handleRaceChange(event) {
 
   if (!raceManager.currentYear) {
     console.error('No year selected');
+    showErrorFeedback('Please select an election year first');
     return;
+  }
+
+  // Check if precinct layer is loaded
+  if (!currentPrecinctLayer) {
+    console.warn('No precinct layer loaded, attempting to auto-load...');
+    showLoadingFeedback(`Loading ${raceManager.currentYear} election data...`);
+    await autoLoadPrecinctLayer(raceManager.currentYear);
+
+    if (!currentPrecinctLayer) {
+      showErrorFeedback('Unable to load election data. Please select a year first.');
+      return;
+    }
   }
 
   // Check if this is the turnout visualization

@@ -88,62 +88,112 @@ export function updateSidebar(catalog) {
   // Clear loading message
   layerList.innerHTML = '';
 
-  // Add layer items with manual loading controls
+  // Separate precinct layers from other layers
+  const precinctLayers = [];
+  const propertyLayers = [];
+
   catalog.services.forEach(service => {
-    const listItem = document.createElement('li');
-    listItem.className = 'layer-item';
-    listItem.setAttribute('data-layer-id', service.id);
-
-    listItem.innerHTML = `
-      <div class="layer-header">
-        <input type="checkbox" id="visibility-${service.id}" class="layer-toggle" style="display:none;">
-        <div class="layer-name">${service.name}</div>
-      </div>
-      <div class="layer-id">${service.id}</div>
-      <div class="layer-info">
-        <span class="feature-count">Getting count...</span>
-      </div>
-      <div class="layer-controls">
-        <button class="load-button" data-layer-id="${service.id}">Load</button>
-        <input type="checkbox" id="toggle-${service.id}" class="layer-toggle" style="display:none;" title="Show/Hide layer">
-      </div>
-      <div class="layer-status" style="font-size: 0.8em; color: #6c757d; margin-top: 4px;">Not loaded</div>
-    `;
-
-    layerList.appendChild(listItem);
-
-    // Get feature count for this layer
-    getLayerFeatureCount(service.id).then(count => {
-      const featureCountElement = listItem.querySelector('.feature-count');
-      const warningContainer = listItem.querySelector('.layer-info');
-
-      if (count > 0) {
-        featureCountElement.textContent = `${count.toLocaleString()} features`;
-        featureCountElement.style.color = '#28a745';
-
-        // Add warning for large datasets
-        if (count > 5000) {
-          const warning = document.createElement('div');
-          warning.className = 'warning';
-          warning.textContent = '⚠️ Large dataset - may take time to load';
-          warningContainer.appendChild(warning);
-        }
-      } else {
-        featureCountElement.textContent = 'No features found';
-        featureCountElement.style.color = '#6c757d';
-      }
-    });
+    if (service.id.startsWith('precincts')) {
+      precinctLayers.push(service);
+    } else {
+      propertyLayers.push(service);
+    }
   });
 
-  // Add event listeners for load/unload buttons and layer click-to-center
-  setupLayerListEventListeners(layerList);
+  // Add property/parcel layers (not election-specific)
+  propertyLayers.forEach(service => {
+    addLayerToList(layerList, service);
+  });
+
+  // Add a collapsible section for election data layers (advanced users only)
+  if (precinctLayers.length > 0) {
+    addAdvancedSection(layerList, precinctLayers);
+  }
+
+  // Set up event listeners once after all layers are added
+  setupLayerListEventListeners();
+}
+
+/**
+ * Add a layer item to the list
+ */
+function addLayerToList(layerList, service) {
+  const listItem = document.createElement('li');
+  listItem.className = 'layer-item';
+  listItem.setAttribute('data-layer-id', service.id);
+
+  listItem.innerHTML = `
+    <div class="layer-header">
+      <input type="checkbox" id="visibility-${service.id}" class="layer-toggle" style="display:none;">
+      <div class="layer-name">${service.name}</div>
+    </div>
+    <div class="layer-id">${service.id}</div>
+    <div class="layer-info">
+      <span class="feature-count">Getting count...</span>
+    </div>
+    <div class="layer-controls">
+      <button class="load-button" data-layer-id="${service.id}">Load</button>
+      <input type="checkbox" id="toggle-${service.id}" class="layer-toggle" style="display:none;" title="Show/Hide layer">
+    </div>
+    <div class="layer-status" style="font-size: 0.8em; color: #6c757d; margin-top: 4px;">Not loaded</div>
+  `;
+
+  layerList.appendChild(listItem);
+
+  // Get feature count for this layer
+  getLayerFeatureCount(service.id).then(count => {
+    const featureCountElement = listItem.querySelector('.feature-count');
+    const warningContainer = listItem.querySelector('.layer-info');
+
+    if (count > 0) {
+      featureCountElement.textContent = `${count.toLocaleString()} features`;
+      featureCountElement.style.color = '#28a745';
+
+      // Add warning for large datasets
+      if (count > 5000) {
+        const warning = document.createElement('div');
+        warning.className = 'warning';
+        warning.textContent = '⚠️ Large dataset - may take time to load';
+        warningContainer.appendChild(warning);
+      }
+    } else {
+      featureCountElement.textContent = 'No features found';
+      featureCountElement.style.color = '#6c757d';
+    }
+  });
+}
+
+/**
+ * Add a collapsible advanced section for precinct layers
+ */
+function addAdvancedSection(layerList, precinctLayers) {
+  const advancedSection = document.createElement('li');
+  advancedSection.style.marginTop = '15px';
+  advancedSection.innerHTML = `
+    <details>
+      <summary style="cursor: pointer; font-weight: bold; color: #6c757d; padding: 8px 0;">
+        ⚙️ Advanced: Election Layers (Auto-loaded)
+      </summary>
+      <div id="advanced-layers" style="margin-top: 10px;"></div>
+    </details>
+  `;
+
+  layerList.appendChild(advancedSection);
+
+  const advancedContainer = advancedSection.querySelector('#advanced-layers');
+  precinctLayers.forEach(service => {
+    addLayerToList(advancedContainer, service);
+  });
 }
 
 /**
  * Set up event listeners for the layer list
- * @param {HTMLElement} layerList - The layer list element
+ * Note: Now called once after sidebar is fully built
  */
-function setupLayerListEventListeners(layerList) {
+function setupLayerListEventListeners() {
+  const layerList = document.getElementById('layer-list');
+  if (!layerList) return;
+
   layerList.addEventListener('click', function (e) {
     if (e.target.classList.contains('load-button')) {
       const layerId = e.target.getAttribute('data-layer-id');
@@ -193,3 +243,4 @@ function setupLayerListEventListeners(layerList) {
     }
   });
 }
+
