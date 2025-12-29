@@ -1385,26 +1385,67 @@ body {
 /* About Button in Sidebar */
 .about-button {
   width: 100%;
-  padding: 12px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 14px 12px;
+  background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%);
   color: white;
-  border: none;
-  border-radius: 8px;
-  font-size: 15px;
-  font-weight: 500;
+  border: 3px solid #fff;
+  border-radius: 12px;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: 'Impact', 'Arial Black', sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
   cursor: pointer;
   margin-bottom: 20px;
-  box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
-  transition: all 0.2s;
+  box-shadow: 0 4px 15px rgba(255, 107, 107, 0.5);
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.about-button::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.3);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s;
+}
+
+.about-button:hover::before {
+  width: 300px;
+  height: 300px;
 }
 
 .about-button:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  transform: translateY(-3px) scale(1.02);
+  box-shadow: 0 6px 20px rgba(255, 107, 107, 0.6);
 }
 
 .about-button:active {
-  transform: translateY(0);
+  transform: translateY(-1px) scale(1.01);
+}
+
+/* Pulsing animation for attention */
+.about-button.pulse {
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.5);
+  }
+  50% {
+    box-shadow: 0 4px 25px rgba(255, 107, 107, 0.8), 0 0 0 8px rgba(255, 107, 107, 0.2);
+    transform: scale(1.02);
+  }
+  100% {
+    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.5);
+  }
 }
 
 /* Mobile Responsive */
