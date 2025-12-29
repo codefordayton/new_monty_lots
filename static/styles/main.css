@@ -1386,18 +1386,19 @@ body {
 .about-button {
   width: 100%;
   padding: 14px 12px;
-  background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%);
+  background: linear-gradient(135deg, #d63031 0%, #c0392b 100%);
   color: white;
-  border: 3px solid #fff;
-  border-radius: 12px;
-  font-size: 18px;
+  border: 2px solid #e8e8e8;
+  border-radius: 10px;
+  font-size: 17px;
   font-weight: 700;
-  font-family: 'Impact', 'Arial Black', sans-serif;
-  letter-spacing: 1px;
+  font-family: 'Arial Black', Arial, sans-serif;
+  letter-spacing: 0.5px;
   text-transform: uppercase;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
   cursor: pointer;
   margin-bottom: 20px;
-  box-shadow: 0 4px 15px rgba(255, 107, 107, 0.5);
+  box-shadow: 0 3px 12px rgba(214, 48, 49, 0.4);
   transition: all 0.3s;
   position: relative;
   overflow: hidden;
@@ -1411,7 +1412,7 @@ body {
   width: 0;
   height: 0;
   border-radius: 50%;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.2);
   transform: translate(-50%, -50%);
   transition: width 0.6s, height 0.6s;
 }
@@ -1422,29 +1423,29 @@ body {
 }
 
 .about-button:hover {
-  transform: translateY(-3px) scale(1.02);
-  box-shadow: 0 6px 20px rgba(255, 107, 107, 0.6);
+  transform: translateY(-2px) scale(1.01);
+  box-shadow: 0 5px 18px rgba(214, 48, 49, 0.5);
 }
 
 .about-button:active {
-  transform: translateY(-1px) scale(1.01);
+  transform: translateY(0);
 }
 
-/* Pulsing animation for attention */
+/* Pulsing animation for attention - more subtle */
 .about-button.pulse {
-  animation: pulse 2s infinite;
+  animation: pulse 2.5s infinite;
 }
 
 @keyframes pulse {
   0% {
-    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.5);
+    box-shadow: 0 3px 12px rgba(214, 48, 49, 0.4);
   }
   50% {
-    box-shadow: 0 4px 25px rgba(255, 107, 107, 0.8), 0 0 0 8px rgba(255, 107, 107, 0.2);
-    transform: scale(1.02);
+    box-shadow: 0 3px 18px rgba(214, 48, 49, 0.6), 0 0 0 6px rgba(214, 48, 49, 0.15);
+    transform: scale(1.01);
   }
   100% {
-    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.5);
+    box-shadow: 0 3px 12px rgba(214, 48, 49, 0.4);
   }
 }
 
