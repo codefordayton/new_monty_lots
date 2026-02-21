@@ -135,6 +135,46 @@
         "2024_Ballots_Cast_Blank"
       ]
     },
+    "precincts_2023": {
+      "priorityFields": [
+        "VNAME",
+        "VPRECINCT"
+      ],
+      "hiddenFields": [
+        "OBJECTID",
+        "GlobalID",
+        "Shape_STAr",
+        "Shape_STLe",
+        "EXTRACT_NA",
+        "V_RESULT_J",
+        "VPREC_SPLI",
+        "V_COBDED",
+        "V_VOCSCH",
+        "V_COURTS",
+        "V_LIBRARY",
+        "V_WARD",
+        "V_UNCTWP",
+        "V_COCRTS",
+        "V_CRTAPL",
+        "V_STBDED",
+        "V_TYPE2",
+        "V_LOCATION",
+        "V_POLICE",
+        "V_FIRE",
+        "V_PARK",
+        "V_ROADS",
+        "V_OTHER",
+        "BOE_HOME_P",
+        "ISSUES",
+        "CANDIDATES",
+        "DEFINITION",
+        "VLABEL",
+        "2025_Registered_Voters_Total",
+        "2025_Ballots_Cast_Total",
+        "2025_Ballots_Cast_Blank",
+        "2025_Voter_Turnout_Total"
+      ]
+    },
     "precincts_2025": {
       "2025_Registered_Voters_Total": "Registered Voters (2025)",
       "2025_Ballots_Cast_Total": "Ballots Cast (2025)",
