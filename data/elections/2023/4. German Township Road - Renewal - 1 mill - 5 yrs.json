@@ -4,43 +4,43 @@
   "results": [
     {
       "Precinct": "GERTWP-A",
-      "FOR THE LEVY TAX": 315,
-      "AGAINST TAX LEVY THE": 309,
+      "FOR THE TAX LEVY": 315,
+      "AGAINST THE TAX LEVY": 309,
       "Total Votes Cast": 624,
       "Contest Total": 647
     },
     {
       "Precinct": "GERTWP-B",
-      "FOR THE LEVY TAX": 297,
-      "AGAINST TAX LEVY THE": 331,
+      "FOR THE TAX LEVY": 297,
+      "AGAINST THE TAX LEVY": 331,
       "Total Votes Cast": 628,
       "Contest Total": 661
     },
     {
       "Precinct": "GTN-A",
-      "FOR THE LEVY TAX": 297,
-      "AGAINST TAX LEVY THE": 261,
+      "FOR THE TAX LEVY": 297,
+      "AGAINST THE TAX LEVY": 261,
       "Total Votes Cast": 558,
       "Contest Total": 592
     },
     {
       "Precinct": "GTN-B",
-      "FOR THE LEVY TAX": 205,
-      "AGAINST TAX LEVY THE": 215,
+      "FOR THE TAX LEVY": 205,
+      "AGAINST THE TAX LEVY": 215,
       "Total Votes Cast": 420,
       "Contest Total": 444
     },
     {
       "Precinct": "GTN-C",
-      "FOR THE LEVY TAX": 321,
-      "AGAINST TAX LEVY THE": 236,
+      "FOR THE TAX LEVY": 321,
+      "AGAINST THE TAX LEVY": 236,
       "Total Votes Cast": 557,
       "Contest Total": 580
     },
     {
       "Precinct": "GTN-D",
-      "FOR THE LEVY TAX": 226,
-      "AGAINST TAX LEVY THE": 265,
+      "FOR THE TAX LEVY": 226,
+      "AGAINST THE TAX LEVY": 265,
       "Total Votes Cast": 491,
       "Contest Total": 511
     }

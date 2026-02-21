@@ -4,29 +4,29 @@
   "results": [
     {
       "Precinct": "BRK-A",
-      "FOR THE LEVY TAX": 1,
-      "AGAINST TAX LEVY THE": 2,
+      "FOR THE TAX LEVY": 1,
+      "AGAINST THE TAX LEVY": 2,
       "Total Votes Cast": 3,
       "Contest Total": 4
     },
     {
       "Precinct": "CLATWP-A",
-      "FOR THE LEVY TAX": 264,
-      "AGAINST TAX LEVY THE": 152,
+      "FOR THE TAX LEVY": 264,
+      "AGAINST THE TAX LEVY": 152,
       "Total Votes Cast": 416,
       "Contest Total": 434
     },
     {
       "Precinct": "CLATWP-B",
-      "FOR THE LEVY TAX": 290,
-      "AGAINST TAX LEVY THE": 143,
+      "FOR THE TAX LEVY": 290,
+      "AGAINST THE TAX LEVY": 143,
       "Total Votes Cast": 433,
       "Contest Total": 443
     },
     {
       "Precinct": "CLATWP-C",
-      "FOR THE LEVY TAX": 381,
-      "AGAINST TAX LEVY THE": 223,
+      "FOR THE TAX LEVY": 381,
+      "AGAINST THE TAX LEVY": 223,
       "Total Votes Cast": 604,
       "Contest Total": 629
     }

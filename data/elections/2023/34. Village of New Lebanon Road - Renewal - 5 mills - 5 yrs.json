@@ -4,22 +4,22 @@
   "results": [
     {
       "Precinct": "JNLB-A",
-      "FOR THE LEVY TAX": 163,
-      "AGAINST TAX LEVY THE": 137,
+      "FOR THE TAX LEVY": 163,
+      "AGAINST THE TAX LEVY": 137,
       "Total Votes Cast": 300,
       "Contest Total": 321
     },
     {
       "Precinct": "JNLB-B",
-      "FOR THE LEVY TAX": 255,
-      "AGAINST TAX LEVY THE": 189,
+      "FOR THE TAX LEVY": 255,
+      "AGAINST THE TAX LEVY": 189,
       "Total Votes Cast": 444,
       "Contest Total": 468
     },
     {
       "Precinct": "PNLB",
-      "FOR THE LEVY TAX": 163,
-      "AGAINST TAX LEVY THE": 136,
+      "FOR THE TAX LEVY": 163,
+      "AGAINST THE TAX LEVY": 136,
       "Total Votes Cast": 299,
       "Contest Total": 314
     }

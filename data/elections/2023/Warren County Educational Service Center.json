@@ -4,15 +4,15 @@
   "results": [
     {
       "Precinct": "MBG 1-A",
-      "Bridgman Chad R.": 0,
-      "Williams Sally J.": 0,
+      "Chad R. Bridgman": 0,
+      "Sally J. Williams": 0,
       "Total Votes Cast": 0,
       "Contest Total": 0
     },
     {
       "Precinct": "MIATWP-J",
-      "Bridgman Chad R.": 44,
-      "Williams Sally J.": 167,
+      "Chad R. Bridgman": 44,
+      "Sally J. Williams": 167,
       "Total Votes Cast": 211,
       "Contest Total": 814
     }

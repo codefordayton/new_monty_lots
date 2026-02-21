@@ -5,42 +5,42 @@
     {
       "Precinct": "CLATWP-C",
       "Johnston Kevin": 76,
-      "Petition No Filed Valid": 0,
+      "No Valid Petition Filed": 0,
       "Total Votes Cast": 76,
       "Contest Total": 324
     },
     {
       "Precinct": "CLATWP-C",
       "Johnston Kevin": null,
-      "Petition No Filed Valid": 0,
+      "No Valid Petition Filed": 0,
       "Total Votes Cast": 0,
       "Contest Total": 162
     },
     {
       "Precinct": "GERTWP-A",
       "Johnston Kevin": 43,
-      "Petition No Filed Valid": 0,
+      "No Valid Petition Filed": 0,
       "Total Votes Cast": 43,
       "Contest Total": 142
     },
     {
       "Precinct": "GERTWP-A",
       "Johnston Kevin": null,
-      "Petition No Filed Valid": 0,
+      "No Valid Petition Filed": 0,
       "Total Votes Cast": 0,
       "Contest Total": 71
     },
     {
       "Precinct": "JAKTWP-B",
       "Johnston Kevin": 0,
-      "Petition No Filed Valid": 0,
+      "No Valid Petition Filed": 0,
       "Total Votes Cast": 0,
       "Contest Total": 0
     },
     {
       "Precinct": "JAKTWP-B",
       "Johnston Kevin": null,
-      "Petition No Filed Valid": 0,
+      "No Valid Petition Filed": 0,
       "Total Votes Cast": 0,
       "Contest Total": 0
     }

@@ -4,31 +4,31 @@
   "results": [
     {
       "Precinct": "JNLB-A",
-      "Timothy Back L.": 158,
+      "Timothy L. Back": 158,
       "Gale Joy": 110,
-      "Sexton Melissa": 135,
+      "Melissa Sexton": 135,
       "Write-in Totals": 19,
-      "Write-in: Assigned Not": 19,
+      "Write-in: Not Assigned": 19,
       "Total Votes Cast": 422,
       "Contest Total": 963
     },
     {
       "Precinct": "JNLB-B",
-      "Timothy Back L.": 265,
+      "Timothy L. Back": 265,
       "Gale Joy": 178,
-      "Sexton Melissa": 257,
+      "Melissa Sexton": 257,
       "Write-in Totals": 19,
-      "Write-in: Assigned Not": 19,
+      "Write-in: Not Assigned": 19,
       "Total Votes Cast": 719,
       "Contest Total": 1404
     },
     {
       "Precinct": "PNLB",
-      "Timothy Back L.": 154,
+      "Timothy L. Back": 154,
       "Gale Joy": 130,
-      "Sexton Melissa": 154,
+      "Melissa Sexton": 154,
       "Write-in Totals": 11,
-      "Write-in: Assigned Not": 11,
+      "Write-in: Not Assigned": 11,
       "Total Votes Cast": 449,
       "Contest Total": 942
     }

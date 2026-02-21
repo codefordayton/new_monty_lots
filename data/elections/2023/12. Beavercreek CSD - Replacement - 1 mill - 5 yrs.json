@@ -4,15 +4,15 @@
   "results": [
     {
       "Precinct": "KT 1-E",
-      "FOR THE LEVY TAX": 48,
-      "AGAINST TAX LEVY THE": 59,
+      "FOR THE TAX LEVY": 48,
+      "AGAINST THE TAX LEVY": 59,
       "Total Votes Cast": 107,
       "Contest Total": 108
     },
     {
       "Precinct": "RV-D",
-      "FOR THE LEVY TAX": 221,
-      "AGAINST TAX LEVY THE": 221,
+      "FOR THE TAX LEVY": 221,
+      "AGAINST THE TAX LEVY": 221,
       "Total Votes Cast": 442,
       "Contest Total": 462
     }
