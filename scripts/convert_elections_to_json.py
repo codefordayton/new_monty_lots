@@ -164,7 +164,7 @@ def process_year(year: str) -> None:
             {
                 'id': csv_file.stem.replace('/', '-').replace('\\', '-'),
                 'name': csv_file.stem,
-                'file': f'{csv_file.stem.replace("/", "-").replace("\\", "-")}.json'
+                'file': csv_file.stem.replace('/', '-').replace('\\', '-') + '.json'
             }
             for csv_file in race_files
         ]
