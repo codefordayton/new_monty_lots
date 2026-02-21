@@ -156,9 +156,16 @@ def process_year(year: str) -> None:
 
     print(f"     ✓ Created {len(race_files)} race JSON files")
 
+    display_names = {
+        '2023': 'November 2023 General Election',
+        '2024': 'November 2024 General Election',
+        '2025': 'November 2025 General Election',
+    }
+
     # Create metadata catalog
     metadata = {
         'year': year,
+        'displayName': display_names.get(year, f'{year} Election'),
         'statistics_file': 'statistics.json' if statistics_file else None,
         'races': [
             {
