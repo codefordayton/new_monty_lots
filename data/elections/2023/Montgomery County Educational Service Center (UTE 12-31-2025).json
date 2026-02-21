@@ -6,504 +6,378 @@
       "Precinct": "BRK-A",
       "Daryl Michael": 317,
       "Total Votes Cast": 317,
-      "Overvotes": 0,
-      "Undervotes": 281,
       "Contest Total": 598
     },
     {
       "Precinct": "BRK-B",
       "Daryl Michael": 258,
       "Total Votes Cast": 258,
-      "Overvotes": 0,
-      "Undervotes": 206,
       "Contest Total": 464
     },
     {
       "Precinct": "BRK-C",
       "Daryl Michael": 329,
       "Total Votes Cast": 329,
-      "Overvotes": 0,
-      "Undervotes": 290,
       "Contest Total": 619
     },
     {
       "Precinct": "BRK-D",
       "Daryl Michael": 293,
       "Total Votes Cast": 293,
-      "Overvotes": 0,
-      "Undervotes": 235,
       "Contest Total": 528
     },
     {
       "Precinct": "CLATWP-B",
       "Daryl Michael": 203,
       "Total Votes Cast": 203,
-      "Overvotes": 0,
-      "Undervotes": 178,
       "Contest Total": 381
     },
     {
       "Precinct": "CLATWP-C",
       "Daryl Michael": 191,
       "Total Votes Cast": 191,
-      "Overvotes": 0,
-      "Undervotes": 135,
       "Contest Total": 326
     },
     {
       "Precinct": "CTN 1-B",
       "Daryl Michael": 0,
       "Total Votes Cast": 0,
-      "Overvotes": 0,
-      "Undervotes": 1,
       "Contest Total": 1
     },
     {
       "Precinct": "DAY 2-C",
       "Daryl Michael": 0,
       "Total Votes Cast": 0,
-      "Overvotes": 0,
-      "Undervotes": 1,
       "Contest Total": 1
     },
     {
       "Precinct": "DAY 2-D",
       "Daryl Michael": 0,
       "Total Votes Cast": 0,
-      "Overvotes": 0,
-      "Undervotes": 0,
       "Contest Total": 0
     },
     {
       "Precinct": "DAY 3-B",
       "Daryl Michael": 75,
       "Total Votes Cast": 75,
-      "Overvotes": 0,
-      "Undervotes": 70,
       "Contest Total": 145
     },
     {
       "Precinct": "DAY 3-C",
       "Daryl Michael": 66,
       "Total Votes Cast": 66,
-      "Overvotes": 0,
-      "Undervotes": 56,
       "Contest Total": 122
     },
     {
       "Precinct": "DAY 3-D",
       "Daryl Michael": 144,
       "Total Votes Cast": 144,
-      "Overvotes": 0,
-      "Undervotes": 146,
       "Contest Total": 290
     },
     {
       "Precinct": "DAY 3-F",
       "Daryl Michael": 1,
       "Total Votes Cast": 1,
-      "Overvotes": 0,
-      "Undervotes": 1,
       "Contest Total": 2
     },
     {
       "Precinct": "DAY 3-G",
       "Daryl Michael": 73,
       "Total Votes Cast": 73,
-      "Overvotes": 0,
-      "Undervotes": 63,
       "Contest Total": 136
     },
     {
       "Precinct": "DAY 3-J",
       "Daryl Michael": 14,
       "Total Votes Cast": 14,
-      "Overvotes": 0,
-      "Undervotes": 11,
       "Contest Total": 25
     },
     {
       "Precinct": "DAY 3-K",
       "Daryl Michael": 267,
       "Total Votes Cast": 267,
-      "Overvotes": 0,
-      "Undervotes": 240,
       "Contest Total": 507
     },
     {
       "Precinct": "DAY 11-C",
       "Daryl Michael": 6,
       "Total Votes Cast": 6,
-      "Overvotes": 0,
-      "Undervotes": 9,
       "Contest Total": 15
     },
     {
       "Precinct": "DAY 14-A",
       "Daryl Michael": 67,
       "Total Votes Cast": 67,
-      "Overvotes": 0,
-      "Undervotes": 41,
       "Contest Total": 108
     },
     {
       "Precinct": "DAY 14-C",
       "Daryl Michael": 17,
       "Total Votes Cast": 17,
-      "Overvotes": 0,
-      "Undervotes": 22,
       "Contest Total": 39
     },
     {
       "Precinct": "FARM",
       "Daryl Michael": 206,
       "Total Votes Cast": 206,
-      "Overvotes": 0,
-      "Undervotes": 200,
       "Contest Total": 406
     },
     {
       "Precinct": "GERTWP-A",
       "Daryl Michael": 269,
       "Total Votes Cast": 269,
-      "Overvotes": 0,
-      "Undervotes": 243,
       "Contest Total": 512
     },
     {
       "Precinct": "GERTWP-B",
       "Daryl Michael": 339,
       "Total Votes Cast": 339,
-      "Overvotes": 0,
-      "Undervotes": 294,
       "Contest Total": 633
     },
     {
       "Precinct": "GTN-A",
       "Daryl Michael": 304,
       "Total Votes Cast": 304,
-      "Overvotes": 0,
-      "Undervotes": 288,
       "Contest Total": 592
     },
     {
       "Precinct": "GTN-B",
       "Daryl Michael": 239,
       "Total Votes Cast": 239,
-      "Overvotes": 0,
-      "Undervotes": 205,
       "Contest Total": 444
     },
     {
       "Precinct": "GTN-C",
       "Daryl Michael": 354,
       "Total Votes Cast": 354,
-      "Overvotes": 0,
-      "Undervotes": 226,
       "Contest Total": 580
     },
     {
       "Precinct": "GTN-D",
       "Daryl Michael": 283,
       "Total Votes Cast": 283,
-      "Overvotes": 0,
-      "Undervotes": 228,
       "Contest Total": 511
     },
     {
       "Precinct": "HARTWP-A",
       "Daryl Michael": 125,
       "Total Votes Cast": 125,
-      "Overvotes": 0,
-      "Undervotes": 101,
       "Contest Total": 226
     },
     {
       "Precinct": "HARTWP-B",
       "Daryl Michael": 173,
       "Total Votes Cast": 173,
-      "Overvotes": 0,
-      "Undervotes": 124,
       "Contest Total": 297
     },
     {
       "Precinct": "HARTWP-C",
       "Daryl Michael": 174,
       "Total Votes Cast": 174,
-      "Overvotes": 0,
-      "Undervotes": 115,
       "Contest Total": 289
     },
     {
       "Precinct": "HARTWP-E",
       "Daryl Michael": 113,
       "Total Votes Cast": 113,
-      "Overvotes": 0,
-      "Undervotes": 76,
       "Contest Total": 189
     },
     {
       "Precinct": "HARTWP-N",
       "Daryl Michael": 172,
       "Total Votes Cast": 172,
-      "Overvotes": 0,
-      "Undervotes": 123,
       "Contest Total": 295
     },
     {
       "Precinct": "HUB 5-B",
       "Daryl Michael": 0,
       "Total Votes Cast": 0,
-      "Overvotes": 0,
-      "Undervotes": 0,
       "Contest Total": 0
     },
     {
       "Precinct": "JAKTWP-A",
       "Daryl Michael": 392,
       "Total Votes Cast": 392,
-      "Overvotes": 0,
-      "Undervotes": 281,
       "Contest Total": 673
     },
     {
       "Precinct": "JAKTWP-B",
       "Daryl Michael": 269,
       "Total Votes Cast": 269,
-      "Overvotes": 0,
-      "Undervotes": 210,
       "Contest Total": 479
     },
     {
       "Precinct": "JEFTWP-A",
       "Daryl Michael": 293,
       "Total Votes Cast": 293,
-      "Overvotes": 0,
-      "Undervotes": 272,
       "Contest Total": 565
     },
     {
       "Precinct": "JEFTWP-B",
       "Daryl Michael": 92,
       "Total Votes Cast": 92,
-      "Overvotes": 0,
-      "Undervotes": 54,
       "Contest Total": 146
     },
     {
       "Precinct": "JEFTWP-C",
       "Daryl Michael": 228,
       "Total Votes Cast": 228,
-      "Overvotes": 0,
-      "Undervotes": 212,
       "Contest Total": 440
     },
     {
       "Precinct": "JEFTWP-D",
       "Daryl Michael": 285,
       "Total Votes Cast": 285,
-      "Overvotes": 0,
-      "Undervotes": 140,
       "Contest Total": 425
     },
     {
       "Precinct": "JNLB-A",
       "Daryl Michael": 181,
       "Total Votes Cast": 181,
-      "Overvotes": 0,
-      "Undervotes": 140,
       "Contest Total": 321
     },
     {
       "Precinct": "JNLB-B",
       "Daryl Michael": 292,
       "Total Votes Cast": 292,
-      "Overvotes": 0,
-      "Undervotes": 176,
       "Contest Total": 468
     },
     {
       "Precinct": "MIATWP-J",
       "Daryl Michael": 0,
       "Total Votes Cast": 0,
-      "Overvotes": 0,
-      "Undervotes": 0,
       "Contest Total": 0
     },
     {
       "Precinct": "MOR 2-A",
       "Daryl Michael": 53,
       "Total Votes Cast": 53,
-      "Overvotes": 0,
-      "Undervotes": 58,
       "Contest Total": 111
     },
     {
       "Precinct": "PERTWP-A",
       "Daryl Michael": 209,
       "Total Votes Cast": 209,
-      "Overvotes": 0,
-      "Undervotes": 187,
       "Contest Total": 396
     },
     {
       "Precinct": "PERTWP-B",
       "Daryl Michael": 244,
       "Total Votes Cast": 244,
-      "Overvotes": 0,
-      "Undervotes": 219,
       "Contest Total": 463
     },
     {
       "Precinct": "PERTWP-C",
       "Daryl Michael": 298,
       "Total Votes Cast": 298,
-      "Overvotes": 0,
-      "Undervotes": 201,
       "Contest Total": 499
     },
     {
       "Precinct": "PM",
       "Daryl Michael": 129,
       "Total Votes Cast": 129,
-      "Overvotes": 0,
-      "Undervotes": 72,
       "Contest Total": 201
     },
     {
       "Precinct": "PNLB",
       "Daryl Michael": 213,
       "Total Votes Cast": 213,
-      "Overvotes": 0,
-      "Undervotes": 101,
       "Contest Total": 314
     },
     {
       "Precinct": "RV-A",
       "Daryl Michael": 303,
       "Total Votes Cast": 303,
-      "Overvotes": 0,
-      "Undervotes": 182,
       "Contest Total": 485
     },
     {
       "Precinct": "RV-B",
       "Daryl Michael": 151,
       "Total Votes Cast": 151,
-      "Overvotes": 0,
-      "Undervotes": 118,
       "Contest Total": 269
     },
     {
       "Precinct": "RV-C",
       "Daryl Michael": 247,
       "Total Votes Cast": 247,
-      "Overvotes": 0,
-      "Undervotes": 146,
       "Contest Total": 393
     },
     {
       "Precinct": "RV-E",
       "Daryl Michael": 171,
       "Total Votes Cast": 171,
-      "Overvotes": 0,
-      "Undervotes": 139,
       "Contest Total": 310
     },
     {
       "Precinct": "RV-F",
       "Daryl Michael": 246,
       "Total Votes Cast": 246,
-      "Overvotes": 0,
-      "Undervotes": 127,
       "Contest Total": 373
     },
     {
       "Precinct": "RV-G",
       "Daryl Michael": 215,
       "Total Votes Cast": 215,
-      "Overvotes": 0,
-      "Undervotes": 131,
       "Contest Total": 346
     },
     {
       "Precinct": "RV-H",
       "Daryl Michael": 110,
       "Total Votes Cast": 110,
-      "Overvotes": 0,
-      "Undervotes": 64,
       "Contest Total": 174
     },
     {
       "Precinct": "RV-I",
       "Daryl Michael": 183,
       "Total Votes Cast": 183,
-      "Overvotes": 0,
-      "Undervotes": 116,
       "Contest Total": 299
     },
     {
       "Precinct": "RV-J",
       "Daryl Michael": 196,
       "Total Votes Cast": 196,
-      "Overvotes": 0,
-      "Undervotes": 138,
       "Contest Total": 334
     },
     {
       "Precinct": "RV-L",
       "Daryl Michael": 43,
       "Total Votes Cast": 43,
-      "Overvotes": 0,
-      "Undervotes": 24,
       "Contest Total": 67
     },
     {
       "Precinct": "RV-M",
       "Daryl Michael": 269,
       "Total Votes Cast": 269,
-      "Overvotes": 0,
-      "Undervotes": 140,
       "Contest Total": 409
     },
     {
       "Precinct": "RV-N",
       "Daryl Michael": 167,
       "Total Votes Cast": 167,
-      "Overvotes": 0,
-      "Undervotes": 90,
       "Contest Total": 257
     },
     {
       "Precinct": "RV-P",
       "Daryl Michael": 311,
       "Total Votes Cast": 311,
-      "Overvotes": 0,
-      "Undervotes": 161,
       "Contest Total": 472
     },
     {
       "Precinct": "TR 1-A",
       "Daryl Michael": 10,
       "Total Votes Cast": 10,
-      "Overvotes": 0,
-      "Undervotes": 15,
       "Contest Total": 25
     },
     {
       "Precinct": "TR 3-B",
       "Daryl Michael": 56,
       "Total Votes Cast": 56,
-      "Overvotes": 0,
-      "Undervotes": 32,
       "Contest Total": 88
     },
     {
       "Precinct": "WCR-A",
       "Daryl Michael": 5,
       "Total Votes Cast": 5,
-      "Overvotes": 0,
-      "Undervotes": 13,
       "Contest Total": 18
     }
   ]

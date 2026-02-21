@@ -6,744 +6,558 @@
       "Precinct": "CV-A",
       "Jim Long": 230,
       "Total Votes Cast": 230,
-      "Overvotes": 0,
-      "Undervotes": 134,
       "Contest Total": 364
     },
     {
       "Precinct": "CV-B",
       "Jim Long": 392,
       "Total Votes Cast": 392,
-      "Overvotes": 0,
-      "Undervotes": 257,
       "Contest Total": 649
     },
     {
       "Precinct": "CV-C",
       "Jim Long": 259,
       "Total Votes Cast": 259,
-      "Overvotes": 0,
-      "Undervotes": 156,
       "Contest Total": 415
     },
     {
       "Precinct": "CV-D",
       "Jim Long": 250,
       "Total Votes Cast": 250,
-      "Overvotes": 0,
-      "Undervotes": 135,
       "Contest Total": 385
     },
     {
       "Precinct": "CV-E",
       "Jim Long": 358,
       "Total Votes Cast": 358,
-      "Overvotes": 0,
-      "Undervotes": 240,
       "Contest Total": 598
     },
     {
       "Precinct": "CV-F",
       "Jim Long": 423,
       "Total Votes Cast": 423,
-      "Overvotes": 0,
-      "Undervotes": 279,
       "Contest Total": 702
     },
     {
       "Precinct": "CV-G",
       "Jim Long": 446,
       "Total Votes Cast": 446,
-      "Overvotes": 0,
-      "Undervotes": 281,
       "Contest Total": 727
     },
     {
       "Precinct": "CV-H",
       "Jim Long": 484,
       "Total Votes Cast": 484,
-      "Overvotes": 0,
-      "Undervotes": 289,
       "Contest Total": 773
     },
     {
       "Precinct": "CV-I",
       "Jim Long": 519,
       "Total Votes Cast": 519,
-      "Overvotes": 0,
-      "Undervotes": 282,
       "Contest Total": 801
     },
     {
       "Precinct": "CV-J",
       "Jim Long": 427,
       "Total Votes Cast": 427,
-      "Overvotes": 0,
-      "Undervotes": 259,
       "Contest Total": 686
     },
     {
       "Precinct": "CV-K",
       "Jim Long": 450,
       "Total Votes Cast": 450,
-      "Overvotes": 0,
-      "Undervotes": 265,
       "Contest Total": 715
     },
     {
       "Precinct": "CV-L",
       "Jim Long": 496,
       "Total Votes Cast": 496,
-      "Overvotes": 0,
-      "Undervotes": 270,
       "Contest Total": 766
     },
     {
       "Precinct": "CV-M",
       "Jim Long": 393,
       "Total Votes Cast": 393,
-      "Overvotes": 0,
-      "Undervotes": 253,
       "Contest Total": 646
     },
     {
       "Precinct": "CV-N",
       "Jim Long": 353,
       "Total Votes Cast": 353,
-      "Overvotes": 0,
-      "Undervotes": 197,
       "Contest Total": 550
     },
     {
       "Precinct": "CV-O",
       "Jim Long": 515,
       "Total Votes Cast": 515,
-      "Overvotes": 0,
-      "Undervotes": 294,
       "Contest Total": 809
     },
     {
       "Precinct": "CV-P",
       "Jim Long": 409,
       "Total Votes Cast": 409,
-      "Overvotes": 0,
-      "Undervotes": 270,
       "Contest Total": 679
     },
     {
       "Precinct": "CV-Q",
       "Jim Long": 356,
       "Total Votes Cast": 356,
-      "Overvotes": 0,
-      "Undervotes": 233,
       "Contest Total": 589
     },
     {
       "Precinct": "CV-R",
       "Jim Long": 346,
       "Total Votes Cast": 346,
-      "Overvotes": 0,
-      "Undervotes": 239,
       "Contest Total": 585
     },
     {
       "Precinct": "KT 1-A",
       "Jim Long": 235,
       "Total Votes Cast": 235,
-      "Overvotes": 0,
-      "Undervotes": 199,
       "Contest Total": 434
     },
     {
       "Precinct": "KT 1-B",
       "Jim Long": 240,
       "Total Votes Cast": 240,
-      "Overvotes": 0,
-      "Undervotes": 164,
       "Contest Total": 404
     },
     {
       "Precinct": "KT 1-C",
       "Jim Long": 351,
       "Total Votes Cast": 351,
-      "Overvotes": 0,
-      "Undervotes": 228,
       "Contest Total": 579
     },
     {
       "Precinct": "KT 1-D",
       "Jim Long": 332,
       "Total Votes Cast": 332,
-      "Overvotes": 0,
-      "Undervotes": 201,
       "Contest Total": 533
     },
     {
       "Precinct": "KT 1-E",
       "Jim Long": 275,
       "Total Votes Cast": 275,
-      "Overvotes": 0,
-      "Undervotes": 163,
       "Contest Total": 438
     },
     {
       "Precinct": "KT 1-F",
       "Jim Long": 262,
       "Total Votes Cast": 262,
-      "Overvotes": 0,
-      "Undervotes": 179,
       "Contest Total": 441
     },
     {
       "Precinct": "KT 1-G",
       "Jim Long": 291,
       "Total Votes Cast": 291,
-      "Overvotes": 0,
-      "Undervotes": 191,
       "Contest Total": 482
     },
     {
       "Precinct": "KT 1-H",
       "Jim Long": 354,
       "Total Votes Cast": 354,
-      "Overvotes": 0,
-      "Undervotes": 249,
       "Contest Total": 603
     },
     {
       "Precinct": "KT 1-I",
       "Jim Long": 313,
       "Total Votes Cast": 313,
-      "Overvotes": 0,
-      "Undervotes": 169,
       "Contest Total": 482
     },
     {
       "Precinct": "KT 2-A",
       "Jim Long": 308,
       "Total Votes Cast": 308,
-      "Overvotes": 0,
-      "Undervotes": 218,
       "Contest Total": 526
     },
     {
       "Precinct": "KT 2-B",
       "Jim Long": 334,
       "Total Votes Cast": 334,
-      "Overvotes": 0,
-      "Undervotes": 203,
       "Contest Total": 537
     },
     {
       "Precinct": "KT 2-C",
       "Jim Long": 362,
       "Total Votes Cast": 362,
-      "Overvotes": 0,
-      "Undervotes": 187,
       "Contest Total": 549
     },
     {
       "Precinct": "KT 2-D",
       "Jim Long": 343,
       "Total Votes Cast": 343,
-      "Overvotes": 0,
-      "Undervotes": 203,
       "Contest Total": 546
     },
     {
       "Precinct": "KT 2-E",
       "Jim Long": 383,
       "Total Votes Cast": 383,
-      "Overvotes": 0,
-      "Undervotes": 207,
       "Contest Total": 590
     },
     {
       "Precinct": "KT 2-F",
       "Jim Long": 273,
       "Total Votes Cast": 273,
-      "Overvotes": 0,
-      "Undervotes": 158,
       "Contest Total": 431
     },
     {
       "Precinct": "KT 2-G",
       "Jim Long": 463,
       "Total Votes Cast": 463,
-      "Overvotes": 0,
-      "Undervotes": 276,
       "Contest Total": 739
     },
     {
       "Precinct": "KT 2-H",
       "Jim Long": 357,
       "Total Votes Cast": 357,
-      "Overvotes": 0,
-      "Undervotes": 249,
       "Contest Total": 606
     },
     {
       "Precinct": "KT 2-I",
       "Jim Long": 292,
       "Total Votes Cast": 292,
-      "Overvotes": 0,
-      "Undervotes": 167,
       "Contest Total": 459
     },
     {
       "Precinct": "KT 2-J",
       "Jim Long": 211,
       "Total Votes Cast": 211,
-      "Overvotes": 0,
-      "Undervotes": 134,
       "Contest Total": 345
     },
     {
       "Precinct": "KT 3-A",
       "Jim Long": 348,
       "Total Votes Cast": 348,
-      "Overvotes": 0,
-      "Undervotes": 234,
       "Contest Total": 582
     },
     {
       "Precinct": "KT 3-B",
       "Jim Long": 357,
       "Total Votes Cast": 357,
-      "Overvotes": 0,
-      "Undervotes": 236,
       "Contest Total": 593
     },
     {
       "Precinct": "KT 3-C",
       "Jim Long": 389,
       "Total Votes Cast": 389,
-      "Overvotes": 0,
-      "Undervotes": 220,
       "Contest Total": 609
     },
     {
       "Precinct": "KT 3-D",
       "Jim Long": 288,
       "Total Votes Cast": 288,
-      "Overvotes": 0,
-      "Undervotes": 166,
       "Contest Total": 454
     },
     {
       "Precinct": "KT 3-E",
       "Jim Long": 376,
       "Total Votes Cast": 376,
-      "Overvotes": 0,
-      "Undervotes": 204,
       "Contest Total": 580
     },
     {
       "Precinct": "KT 3-F",
       "Jim Long": 276,
       "Total Votes Cast": 276,
-      "Overvotes": 0,
-      "Undervotes": 181,
       "Contest Total": 457
     },
     {
       "Precinct": "KT 3-G",
       "Jim Long": 331,
       "Total Votes Cast": 331,
-      "Overvotes": 0,
-      "Undervotes": 158,
       "Contest Total": 489
     },
     {
       "Precinct": "KT 3-H",
       "Jim Long": 337,
       "Total Votes Cast": 337,
-      "Overvotes": 0,
-      "Undervotes": 217,
       "Contest Total": 554
     },
     {
       "Precinct": "KT 3-I",
       "Jim Long": 350,
       "Total Votes Cast": 350,
-      "Overvotes": 0,
-      "Undervotes": 197,
       "Contest Total": 547
     },
     {
       "Precinct": "KT 3-J",
       "Jim Long": 333,
       "Total Votes Cast": 333,
-      "Overvotes": 0,
-      "Undervotes": 204,
       "Contest Total": 537
     },
     {
       "Precinct": "KT 3-K",
       "Jim Long": 444,
       "Total Votes Cast": 444,
-      "Overvotes": 0,
-      "Undervotes": 236,
       "Contest Total": 680
     },
     {
       "Precinct": "KT 4-A",
       "Jim Long": 412,
       "Total Votes Cast": 412,
-      "Overvotes": 0,
-      "Undervotes": 308,
       "Contest Total": 720
     },
     {
       "Precinct": "KT 4-B",
       "Jim Long": 377,
       "Total Votes Cast": 377,
-      "Overvotes": 0,
-      "Undervotes": 303,
       "Contest Total": 680
     },
     {
       "Precinct": "KT 4-C",
       "Jim Long": 278,
       "Total Votes Cast": 278,
-      "Overvotes": 0,
-      "Undervotes": 141,
       "Contest Total": 419
     },
     {
       "Precinct": "KT 4-D",
       "Jim Long": 329,
       "Total Votes Cast": 329,
-      "Overvotes": 0,
-      "Undervotes": 252,
       "Contest Total": 581
     },
     {
       "Precinct": "KT 4-E",
       "Jim Long": 315,
       "Total Votes Cast": 315,
-      "Overvotes": 0,
-      "Undervotes": 227,
       "Contest Total": 542
     },
     {
       "Precinct": "KT 4-F",
       "Jim Long": 352,
       "Total Votes Cast": 352,
-      "Overvotes": 0,
-      "Undervotes": 250,
       "Contest Total": 602
     },
     {
       "Precinct": "KT 4-G",
       "Jim Long": 473,
       "Total Votes Cast": 473,
-      "Overvotes": 0,
-      "Undervotes": 333,
       "Contest Total": 806
     },
     {
       "Precinct": "KT 4-H",
       "Jim Long": 276,
       "Total Votes Cast": 276,
-      "Overvotes": 0,
-      "Undervotes": 135,
       "Contest Total": 411
     },
     {
       "Precinct": "KT 4-I",
       "Jim Long": 379,
       "Total Votes Cast": 379,
-      "Overvotes": 0,
-      "Undervotes": 235,
       "Contest Total": 614
     },
     {
       "Precinct": "KT 4-J",
       "Jim Long": 330,
       "Total Votes Cast": 330,
-      "Overvotes": 0,
-      "Undervotes": 190,
       "Contest Total": 520
     },
     {
       "Precinct": "KT 4-K",
       "Jim Long": 340,
       "Total Votes Cast": 340,
-      "Overvotes": 0,
-      "Undervotes": 255,
       "Contest Total": 595
     },
     {
       "Precinct": "MOR 1-A",
       "Jim Long": 152,
       "Total Votes Cast": 152,
-      "Overvotes": 0,
-      "Undervotes": 91,
       "Contest Total": 243
     },
     {
       "Precinct": "MOR 2-A",
       "Jim Long": 312,
       "Total Votes Cast": 312,
-      "Overvotes": 0,
-      "Undervotes": 205,
       "Contest Total": 517
     },
     {
       "Precinct": "MOR 3-A",
       "Jim Long": 180,
       "Total Votes Cast": 180,
-      "Overvotes": 0,
-      "Undervotes": 119,
       "Contest Total": 299
     },
     {
       "Precinct": "MOR 4-A",
       "Jim Long": 150,
       "Total Votes Cast": 150,
-      "Overvotes": 0,
-      "Undervotes": 113,
       "Contest Total": 263
     },
     {
       "Precinct": "MOR 4-B",
       "Jim Long": 118,
       "Total Votes Cast": 118,
-      "Overvotes": 0,
-      "Undervotes": 81,
       "Contest Total": 199
     },
     {
       "Precinct": "WASTWP-A",
       "Jim Long": 341,
       "Total Votes Cast": 341,
-      "Overvotes": 0,
-      "Undervotes": 256,
       "Contest Total": 597
     },
     {
       "Precinct": "WASTWP-B",
       "Jim Long": 431,
       "Total Votes Cast": 431,
-      "Overvotes": 0,
-      "Undervotes": 312,
       "Contest Total": 743
     },
     {
       "Precinct": "WASTWP-C",
       "Jim Long": 383,
       "Total Votes Cast": 383,
-      "Overvotes": 0,
-      "Undervotes": 302,
       "Contest Total": 685
     },
     {
       "Precinct": "WASTWP-D",
       "Jim Long": 306,
       "Total Votes Cast": 306,
-      "Overvotes": 0,
-      "Undervotes": 202,
       "Contest Total": 508
     },
     {
       "Precinct": "WASTWP-E",
       "Jim Long": 463,
       "Total Votes Cast": 463,
-      "Overvotes": 0,
-      "Undervotes": 262,
       "Contest Total": 725
     },
     {
       "Precinct": "WASTWP-F",
       "Jim Long": 243,
       "Total Votes Cast": 243,
-      "Overvotes": 0,
-      "Undervotes": 195,
       "Contest Total": 438
     },
     {
       "Precinct": "WASTWP-G",
       "Jim Long": 451,
       "Total Votes Cast": 451,
-      "Overvotes": 0,
-      "Undervotes": 302,
       "Contest Total": 753
     },
     {
       "Precinct": "WASTWP-H",
       "Jim Long": 354,
       "Total Votes Cast": 354,
-      "Overvotes": 0,
-      "Undervotes": 280,
       "Contest Total": 634
     },
     {
       "Precinct": "WASTWP-I",
       "Jim Long": 273,
       "Total Votes Cast": 273,
-      "Overvotes": 0,
-      "Undervotes": 176,
       "Contest Total": 449
     },
     {
       "Precinct": "WASTWP-J",
       "Jim Long": 334,
       "Total Votes Cast": 334,
-      "Overvotes": 0,
-      "Undervotes": 240,
       "Contest Total": 574
     },
     {
       "Precinct": "WASTWP-K",
       "Jim Long": 340,
       "Total Votes Cast": 340,
-      "Overvotes": 0,
-      "Undervotes": 228,
       "Contest Total": 568
     },
     {
       "Precinct": "WASTWP-L",
       "Jim Long": 284,
       "Total Votes Cast": 284,
-      "Overvotes": 0,
-      "Undervotes": 215,
       "Contest Total": 499
     },
     {
       "Precinct": "WASTWP-M",
       "Jim Long": 413,
       "Total Votes Cast": 413,
-      "Overvotes": 0,
-      "Undervotes": 277,
       "Contest Total": 690
     },
     {
       "Precinct": "WASTWP-N",
       "Jim Long": 364,
       "Total Votes Cast": 364,
-      "Overvotes": 0,
-      "Undervotes": 204,
       "Contest Total": 568
     },
     {
       "Precinct": "WASTWP-O",
       "Jim Long": 334,
       "Total Votes Cast": 334,
-      "Overvotes": 0,
-      "Undervotes": 225,
       "Contest Total": 559
     },
     {
       "Precinct": "WASTWP-P",
       "Jim Long": 394,
       "Total Votes Cast": 394,
-      "Overvotes": 0,
-      "Undervotes": 260,
       "Contest Total": 654
     },
     {
       "Precinct": "WASTWP-Q",
       "Jim Long": 352,
       "Total Votes Cast": 352,
-      "Overvotes": 0,
-      "Undervotes": 286,
       "Contest Total": 638
     },
     {
       "Precinct": "WASTWP-R",
       "Jim Long": 308,
       "Total Votes Cast": 308,
-      "Overvotes": 0,
-      "Undervotes": 192,
       "Contest Total": 500
     },
     {
       "Precinct": "WASTWP-S",
       "Jim Long": 328,
       "Total Votes Cast": 328,
-      "Overvotes": 0,
-      "Undervotes": 203,
       "Contest Total": 531
     },
     {
       "Precinct": "WASTWP-T",
       "Jim Long": 329,
       "Total Votes Cast": 329,
-      "Overvotes": 0,
-      "Undervotes": 209,
       "Contest Total": 538
     },
     {
       "Precinct": "WASTWP-U",
       "Jim Long": 398,
       "Total Votes Cast": 398,
-      "Overvotes": 0,
-      "Undervotes": 269,
       "Contest Total": 667
     },
     {
       "Precinct": "WASTWP-V",
       "Jim Long": 338,
       "Total Votes Cast": 338,
-      "Overvotes": 0,
-      "Undervotes": 279,
       "Contest Total": 617
     },
     {
       "Precinct": "WASTWP-W",
       "Jim Long": 216,
       "Total Votes Cast": 216,
-      "Overvotes": 0,
-      "Undervotes": 174,
       "Contest Total": 390
     },
     {
       "Precinct": "WASTWP-X",
       "Jim Long": 335,
       "Total Votes Cast": 335,
-      "Overvotes": 0,
-      "Undervotes": 191,
       "Contest Total": 526
     },
     {
       "Precinct": "WASTWP-Y",
       "Jim Long": 425,
       "Total Votes Cast": 425,
-      "Overvotes": 0,
-      "Undervotes": 268,
       "Contest Total": 693
     },
     {
       "Precinct": "WASTWP-Z",
       "Jim Long": 353,
       "Total Votes Cast": 353,
-      "Overvotes": 0,
-      "Undervotes": 245,
       "Contest Total": 598
     },
     {
       "Precinct": "WASTWP-AA",
       "Jim Long": 378,
       "Total Votes Cast": 378,
-      "Overvotes": 0,
-      "Undervotes": 244,
       "Contest Total": 622
     },
     {
       "Precinct": "WASTWP-BB",
       "Jim Long": 245,
       "Total Votes Cast": 245,
-      "Overvotes": 0,
-      "Undervotes": 171,
       "Contest Total": 416
     },
     {
       "Precinct": "WASTWP-CC",
       "Jim Long": 420,
       "Total Votes Cast": 420,
-      "Overvotes": 0,
-      "Undervotes": 341,
       "Contest Total": 761
     }
   ]

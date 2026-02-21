@@ -6,64 +6,48 @@
       "Precinct": "BTLTWP-A",
       "Pruszynski Missy": 359,
       "Total Votes Cast": 359,
-      "Overvotes": 0,
-      "Undervotes": 215,
       "Contest Total": 574
     },
     {
       "Precinct": "BTLTWP-B",
       "Pruszynski Missy": 352,
       "Total Votes Cast": 352,
-      "Overvotes": 0,
-      "Undervotes": 195,
       "Contest Total": 547
     },
     {
       "Precinct": "BTLTWP-C",
       "Pruszynski Missy": 453,
       "Total Votes Cast": 453,
-      "Overvotes": 0,
-      "Undervotes": 217,
       "Contest Total": 670
     },
     {
       "Precinct": "BTLTWP-D",
       "Pruszynski Missy": 425,
       "Total Votes Cast": 425,
-      "Overvotes": 0,
-      "Undervotes": 201,
       "Contest Total": 626
     },
     {
       "Precinct": "BTLTWP-E",
       "Pruszynski Missy": 312,
       "Total Votes Cast": 312,
-      "Overvotes": 0,
-      "Undervotes": 152,
       "Contest Total": 464
     },
     {
       "Precinct": "BTLTWP-F",
       "Pruszynski Missy": 381,
       "Total Votes Cast": 381,
-      "Overvotes": 0,
-      "Undervotes": 148,
       "Contest Total": 529
     },
     {
       "Precinct": "BTLTWP-G",
       "Pruszynski Missy": 217,
       "Total Votes Cast": 217,
-      "Overvotes": 0,
-      "Undervotes": 105,
       "Contest Total": 322
     },
     {
       "Precinct": "UN-C",
       "Pruszynski Missy": 2,
       "Total Votes Cast": 2,
-      "Overvotes": 0,
-      "Undervotes": 2,
       "Contest Total": 4
     }
   ]

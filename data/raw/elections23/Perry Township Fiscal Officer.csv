@@ -1,6 +1,6 @@
-Precinct,Charity F. Grill,Total Votes Cast,Overvotes,Undervotes,Contest Total
-BRK-D,292,292,0,236,528
-PERTWP-A,214,214,0,182,396
-PERTWP-B,254,254,0,209,463
-PERTWP-C,285,285,0,214,499
-PNLB,198,198,0,116,314
+Precinct,Charity F. Grill,Total Votes Cast,Contest Total
+BRK-D,292,292,528
+PERTWP-A,214,214,396
+PERTWP-B,254,254,463
+PERTWP-C,285,285,499
+PNLB,198,198,314

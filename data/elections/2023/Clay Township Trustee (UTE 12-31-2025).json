@@ -6,64 +6,48 @@
       "Precinct": "BRK-A",
       "Duane Heuker": 332,
       "Total Votes Cast": 332,
-      "Overvotes": 0,
-      "Undervotes": 266,
       "Contest Total": 598
     },
     {
       "Precinct": "BRK-B",
       "Duane Heuker": 265,
       "Total Votes Cast": 265,
-      "Overvotes": 0,
-      "Undervotes": 199,
       "Contest Total": 464
     },
     {
       "Precinct": "BRK-C",
       "Duane Heuker": 350,
       "Total Votes Cast": 350,
-      "Overvotes": 0,
-      "Undervotes": 269,
       "Contest Total": 619
     },
     {
       "Precinct": "CLATWP-A",
       "Duane Heuker": 285,
       "Total Votes Cast": 285,
-      "Overvotes": 0,
-      "Undervotes": 149,
       "Contest Total": 434
     },
     {
       "Precinct": "CLATWP-B",
       "Duane Heuker": 267,
       "Total Votes Cast": 267,
-      "Overvotes": 0,
-      "Undervotes": 176,
       "Contest Total": 443
     },
     {
       "Precinct": "CLATWP-C",
       "Duane Heuker": 403,
       "Total Votes Cast": 403,
-      "Overvotes": 0,
-      "Undervotes": 243,
       "Contest Total": 646
     },
     {
       "Precinct": "CTN 1-C",
       "Duane Heuker": 13,
       "Total Votes Cast": 13,
-      "Overvotes": 0,
-      "Undervotes": 12,
       "Contest Total": 25
     },
     {
       "Precinct": "PHBG",
       "Duane Heuker": 106,
       "Total Votes Cast": 106,
-      "Overvotes": 0,
-      "Undervotes": 72,
       "Contest Total": 178
     }
   ]

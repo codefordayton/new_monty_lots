@@ -6,24 +6,18 @@
       "Precinct": "CTN 2-A",
       "Kenneth Henning C.": 303,
       "Total Votes Cast": 303,
-      "Overvotes": 0,
-      "Undervotes": 159,
       "Contest Total": 462
     },
     {
       "Precinct": "CTN 2-B",
       "Kenneth Henning C.": 444,
       "Total Votes Cast": 444,
-      "Overvotes": 0,
-      "Undervotes": 164,
       "Contest Total": 608
     },
     {
       "Precinct": "CTN 2-C",
       "Kenneth Henning C.": 472,
       "Total Votes Cast": 472,
-      "Overvotes": 0,
-      "Undervotes": 191,
       "Contest Total": 663
     }
   ]

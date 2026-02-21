@@ -6,736 +6,552 @@
       "Precinct": "DAY 1-A",
       "Frank Gehres": 78,
       "Total Votes Cast": 78,
-      "Overvotes": 0,
-      "Undervotes": 64,
       "Contest Total": 142
     },
     {
       "Precinct": "DAY 1-B",
       "Frank Gehres": 264,
       "Total Votes Cast": 264,
-      "Overvotes": 0,
-      "Undervotes": 234,
       "Contest Total": 498
     },
     {
       "Precinct": "DAY 1-C",
       "Frank Gehres": 169,
       "Total Votes Cast": 169,
-      "Overvotes": 0,
-      "Undervotes": 151,
       "Contest Total": 320
     },
     {
       "Precinct": "DAY 1-D",
       "Frank Gehres": 121,
       "Total Votes Cast": 121,
-      "Overvotes": 0,
-      "Undervotes": 112,
       "Contest Total": 233
     },
     {
       "Precinct": "DAY 1-E",
       "Frank Gehres": 239,
       "Total Votes Cast": 239,
-      "Overvotes": 0,
-      "Undervotes": 259,
       "Contest Total": 498
     },
     {
       "Precinct": "DAY 2-A",
       "Frank Gehres": 107,
       "Total Votes Cast": 107,
-      "Overvotes": 0,
-      "Undervotes": 133,
       "Contest Total": 240
     },
     {
       "Precinct": "DAY 2-B",
       "Frank Gehres": 176,
       "Total Votes Cast": 176,
-      "Overvotes": 0,
-      "Undervotes": 187,
       "Contest Total": 363
     },
     {
       "Precinct": "DAY 2-C",
       "Frank Gehres": 149,
       "Total Votes Cast": 149,
-      "Overvotes": 0,
-      "Undervotes": 157,
       "Contest Total": 306
     },
     {
       "Precinct": "DAY 2-D",
       "Frank Gehres": 96,
       "Total Votes Cast": 96,
-      "Overvotes": 0,
-      "Undervotes": 84,
       "Contest Total": 180
     },
     {
       "Precinct": "DAY 3-A",
       "Frank Gehres": 67,
       "Total Votes Cast": 67,
-      "Overvotes": 0,
-      "Undervotes": 77,
       "Contest Total": 144
     },
     {
       "Precinct": "DAY 3-B",
       "Frank Gehres": 97,
       "Total Votes Cast": 97,
-      "Overvotes": 0,
-      "Undervotes": 113,
       "Contest Total": 210
     },
     {
       "Precinct": "DAY 3-C",
       "Frank Gehres": 317,
       "Total Votes Cast": 317,
-      "Overvotes": 0,
-      "Undervotes": 266,
       "Contest Total": 583
     },
     {
       "Precinct": "DAY 3-D",
       "Frank Gehres": 143,
       "Total Votes Cast": 143,
-      "Overvotes": 0,
-      "Undervotes": 147,
       "Contest Total": 290
     },
     {
       "Precinct": "DAY 3-E",
       "Frank Gehres": 79,
       "Total Votes Cast": 79,
-      "Overvotes": 0,
-      "Undervotes": 84,
       "Contest Total": 163
     },
     {
       "Precinct": "DAY 3-F",
       "Frank Gehres": 291,
       "Total Votes Cast": 291,
-      "Overvotes": 0,
-      "Undervotes": 210,
       "Contest Total": 501
     },
     {
       "Precinct": "DAY 3-G",
       "Frank Gehres": 120,
       "Total Votes Cast": 120,
-      "Overvotes": 0,
-      "Undervotes": 127,
       "Contest Total": 247
     },
     {
       "Precinct": "DAY 3-H",
       "Frank Gehres": 132,
       "Total Votes Cast": 132,
-      "Overvotes": 0,
-      "Undervotes": 126,
       "Contest Total": 258
     },
     {
       "Precinct": "DAY 3-I",
       "Frank Gehres": 281,
       "Total Votes Cast": 281,
-      "Overvotes": 0,
-      "Undervotes": 262,
       "Contest Total": 543
     },
     {
       "Precinct": "DAY 3-J",
       "Frank Gehres": 187,
       "Total Votes Cast": 187,
-      "Overvotes": 0,
-      "Undervotes": 222,
       "Contest Total": 409
     },
     {
       "Precinct": "DAY 3-K",
       "Frank Gehres": 319,
       "Total Votes Cast": 319,
-      "Overvotes": 0,
-      "Undervotes": 275,
       "Contest Total": 594
     },
     {
       "Precinct": "DAY 3-L",
       "Frank Gehres": 296,
       "Total Votes Cast": 296,
-      "Overvotes": 0,
-      "Undervotes": 261,
       "Contest Total": 557
     },
     {
       "Precinct": "DAY 4-A",
       "Frank Gehres": 177,
       "Total Votes Cast": 177,
-      "Overvotes": 0,
-      "Undervotes": 141,
       "Contest Total": 318
     },
     {
       "Precinct": "DAY 4-B",
       "Frank Gehres": 134,
       "Total Votes Cast": 134,
-      "Overvotes": 0,
-      "Undervotes": 102,
       "Contest Total": 236
     },
     {
       "Precinct": "DAY 4-C",
       "Frank Gehres": 152,
       "Total Votes Cast": 152,
-      "Overvotes": 0,
-      "Undervotes": 129,
       "Contest Total": 281
     },
     {
       "Precinct": "DAY 5-A",
       "Frank Gehres": 120,
       "Total Votes Cast": 120,
-      "Overvotes": 0,
-      "Undervotes": 94,
       "Contest Total": 214
     },
     {
       "Precinct": "DAY 5-B",
       "Frank Gehres": 136,
       "Total Votes Cast": 136,
-      "Overvotes": 0,
-      "Undervotes": 108,
       "Contest Total": 244
     },
     {
       "Precinct": "DAY 5-C",
       "Frank Gehres": 81,
       "Total Votes Cast": 81,
-      "Overvotes": 0,
-      "Undervotes": 93,
       "Contest Total": 174
     },
     {
       "Precinct": "DAY 5-D",
       "Frank Gehres": 131,
       "Total Votes Cast": 131,
-      "Overvotes": 0,
-      "Undervotes": 100,
       "Contest Total": 231
     },
     {
       "Precinct": "DAY 6-A",
       "Frank Gehres": 140,
       "Total Votes Cast": 140,
-      "Overvotes": 0,
-      "Undervotes": 126,
       "Contest Total": 266
     },
     {
       "Precinct": "DAY 6-B",
       "Frank Gehres": 136,
       "Total Votes Cast": 136,
-      "Overvotes": 0,
-      "Undervotes": 104,
       "Contest Total": 240
     },
     {
       "Precinct": "DAY 6-C",
       "Frank Gehres": 109,
       "Total Votes Cast": 109,
-      "Overvotes": 0,
-      "Undervotes": 95,
       "Contest Total": 204
     },
     {
       "Precinct": "DAY 7-A",
       "Frank Gehres": 101,
       "Total Votes Cast": 101,
-      "Overvotes": 0,
-      "Undervotes": 104,
       "Contest Total": 205
     },
     {
       "Precinct": "DAY 7-B",
       "Frank Gehres": 121,
       "Total Votes Cast": 121,
-      "Overvotes": 0,
-      "Undervotes": 87,
       "Contest Total": 208
     },
     {
       "Precinct": "DAY 8-A",
       "Frank Gehres": 221,
       "Total Votes Cast": 221,
-      "Overvotes": 0,
-      "Undervotes": 214,
       "Contest Total": 435
     },
     {
       "Precinct": "DAY 8-B",
       "Frank Gehres": 235,
       "Total Votes Cast": 235,
-      "Overvotes": 0,
-      "Undervotes": 207,
       "Contest Total": 442
     },
     {
       "Precinct": "DAY 8-C",
       "Frank Gehres": 225,
       "Total Votes Cast": 225,
-      "Overvotes": 0,
-      "Undervotes": 224,
       "Contest Total": 449
     },
     {
       "Precinct": "DAY 8-D",
       "Frank Gehres": 205,
       "Total Votes Cast": 205,
-      "Overvotes": 0,
-      "Undervotes": 205,
       "Contest Total": 410
     },
     {
       "Precinct": "DAY 9-A",
       "Frank Gehres": 355,
       "Total Votes Cast": 355,
-      "Overvotes": 0,
-      "Undervotes": 272,
       "Contest Total": 627
     },
     {
       "Precinct": "DAY 9-B",
       "Frank Gehres": 256,
       "Total Votes Cast": 256,
-      "Overvotes": 0,
-      "Undervotes": 274,
       "Contest Total": 530
     },
     {
       "Precinct": "DAY 9-C",
       "Frank Gehres": 267,
       "Total Votes Cast": 267,
-      "Overvotes": 0,
-      "Undervotes": 351,
       "Contest Total": 618
     },
     {
       "Precinct": "DAY 9-D",
       "Frank Gehres": 183,
       "Total Votes Cast": 183,
-      "Overvotes": 0,
-      "Undervotes": 215,
       "Contest Total": 398
     },
     {
       "Precinct": "DAY 10-A",
       "Frank Gehres": 199,
       "Total Votes Cast": 199,
-      "Overvotes": 0,
-      "Undervotes": 212,
       "Contest Total": 411
     },
     {
       "Precinct": "DAY 10-B",
       "Frank Gehres": 164,
       "Total Votes Cast": 164,
-      "Overvotes": 0,
-      "Undervotes": 174,
       "Contest Total": 338
     },
     {
       "Precinct": "DAY 10-C",
       "Frank Gehres": 137,
       "Total Votes Cast": 137,
-      "Overvotes": 0,
-      "Undervotes": 187,
       "Contest Total": 324
     },
     {
       "Precinct": "DAY 10-D",
       "Frank Gehres": 199,
       "Total Votes Cast": 199,
-      "Overvotes": 0,
-      "Undervotes": 178,
       "Contest Total": 377
     },
     {
       "Precinct": "DAY 10-E",
       "Frank Gehres": 168,
       "Total Votes Cast": 168,
-      "Overvotes": 0,
-      "Undervotes": 172,
       "Contest Total": 340
     },
     {
       "Precinct": "DAY 11-A",
       "Frank Gehres": 132,
       "Total Votes Cast": 132,
-      "Overvotes": 0,
-      "Undervotes": 127,
       "Contest Total": 259
     },
     {
       "Precinct": "DAY 11-B",
       "Frank Gehres": 105,
       "Total Votes Cast": 105,
-      "Overvotes": 0,
-      "Undervotes": 110,
       "Contest Total": 215
     },
     {
       "Precinct": "DAY 11-C",
       "Frank Gehres": 124,
       "Total Votes Cast": 124,
-      "Overvotes": 0,
-      "Undervotes": 117,
       "Contest Total": 241
     },
     {
       "Precinct": "DAY 11-D",
       "Frank Gehres": 194,
       "Total Votes Cast": 194,
-      "Overvotes": 0,
-      "Undervotes": 173,
       "Contest Total": 367
     },
     {
       "Precinct": "DAY 11-E",
       "Frank Gehres": 143,
       "Total Votes Cast": 143,
-      "Overvotes": 0,
-      "Undervotes": 155,
       "Contest Total": 298
     },
     {
       "Precinct": "DAY 12-A",
       "Frank Gehres": 216,
       "Total Votes Cast": 216,
-      "Overvotes": 0,
-      "Undervotes": 199,
       "Contest Total": 415
     },
     {
       "Precinct": "DAY 12-B",
       "Frank Gehres": 188,
       "Total Votes Cast": 188,
-      "Overvotes": 0,
-      "Undervotes": 147,
       "Contest Total": 335
     },
     {
       "Precinct": "DAY 12-C",
       "Frank Gehres": 157,
       "Total Votes Cast": 157,
-      "Overvotes": 0,
-      "Undervotes": 155,
       "Contest Total": 312
     },
     {
       "Precinct": "DAY 12-D",
       "Frank Gehres": 101,
       "Total Votes Cast": 101,
-      "Overvotes": 0,
-      "Undervotes": 101,
       "Contest Total": 202
     },
     {
       "Precinct": "DAY 13-A",
       "Frank Gehres": 120,
       "Total Votes Cast": 120,
-      "Overvotes": 0,
-      "Undervotes": 109,
       "Contest Total": 229
     },
     {
       "Precinct": "DAY 13-B",
       "Frank Gehres": 50,
       "Total Votes Cast": 50,
-      "Overvotes": 0,
-      "Undervotes": 55,
       "Contest Total": 105
     },
     {
       "Precinct": "DAY 14-A",
       "Frank Gehres": 163,
       "Total Votes Cast": 163,
-      "Overvotes": 0,
-      "Undervotes": 127,
       "Contest Total": 290
     },
     {
       "Precinct": "DAY 14-B",
       "Frank Gehres": 50,
       "Total Votes Cast": 50,
-      "Overvotes": 0,
-      "Undervotes": 59,
       "Contest Total": 109
     },
     {
       "Precinct": "DAY 14-C",
       "Frank Gehres": 89,
       "Total Votes Cast": 89,
-      "Overvotes": 0,
-      "Undervotes": 93,
       "Contest Total": 182
     },
     {
       "Precinct": "DAY 14-D",
       "Frank Gehres": 161,
       "Total Votes Cast": 161,
-      "Overvotes": 0,
-      "Undervotes": 146,
       "Contest Total": 307
     },
     {
       "Precinct": "DAY 15-A",
       "Frank Gehres": 140,
       "Total Votes Cast": 140,
-      "Overvotes": 0,
-      "Undervotes": 123,
       "Contest Total": 263
     },
     {
       "Precinct": "DAY 15-B",
       "Frank Gehres": 154,
       "Total Votes Cast": 154,
-      "Overvotes": 0,
-      "Undervotes": 140,
       "Contest Total": 294
     },
     {
       "Precinct": "DAY 15-C",
       "Frank Gehres": 100,
       "Total Votes Cast": 100,
-      "Overvotes": 0,
-      "Undervotes": 105,
       "Contest Total": 205
     },
     {
       "Precinct": "DAY 15-D",
       "Frank Gehres": 120,
       "Total Votes Cast": 120,
-      "Overvotes": 0,
-      "Undervotes": 106,
       "Contest Total": 226
     },
     {
       "Precinct": "DAY 16-A",
       "Frank Gehres": 159,
       "Total Votes Cast": 159,
-      "Overvotes": 0,
-      "Undervotes": 120,
       "Contest Total": 279
     },
     {
       "Precinct": "DAY 16-B",
       "Frank Gehres": 93,
       "Total Votes Cast": 93,
-      "Overvotes": 0,
-      "Undervotes": 86,
       "Contest Total": 179
     },
     {
       "Precinct": "DAY 16-C",
       "Frank Gehres": 123,
       "Total Votes Cast": 123,
-      "Overvotes": 0,
-      "Undervotes": 77,
       "Contest Total": 200
     },
     {
       "Precinct": "DAY 16-D",
       "Frank Gehres": 234,
       "Total Votes Cast": 234,
-      "Overvotes": 0,
-      "Undervotes": 216,
       "Contest Total": 450
     },
     {
       "Precinct": "DAY 16-E",
       "Frank Gehres": 141,
       "Total Votes Cast": 141,
-      "Overvotes": 0,
-      "Undervotes": 122,
       "Contest Total": 263
     },
     {
       "Precinct": "DAY 17-A",
       "Frank Gehres": 112,
       "Total Votes Cast": 112,
-      "Overvotes": 0,
-      "Undervotes": 87,
       "Contest Total": 199
     },
     {
       "Precinct": "DAY 17-B",
       "Frank Gehres": 128,
       "Total Votes Cast": 128,
-      "Overvotes": 0,
-      "Undervotes": 125,
       "Contest Total": 253
     },
     {
       "Precinct": "DAY 17-C",
       "Frank Gehres": 161,
       "Total Votes Cast": 161,
-      "Overvotes": 0,
-      "Undervotes": 121,
       "Contest Total": 282
     },
     {
       "Precinct": "DAY 17-D",
       "Frank Gehres": 107,
       "Total Votes Cast": 107,
-      "Overvotes": 0,
-      "Undervotes": 76,
       "Contest Total": 183
     },
     {
       "Precinct": "DAY 18-A",
       "Frank Gehres": 104,
       "Total Votes Cast": 104,
-      "Overvotes": 0,
-      "Undervotes": 98,
       "Contest Total": 202
     },
     {
       "Precinct": "DAY 18-B",
       "Frank Gehres": 223,
       "Total Votes Cast": 223,
-      "Overvotes": 0,
-      "Undervotes": 139,
       "Contest Total": 362
     },
     {
       "Precinct": "DAY 18-C",
       "Frank Gehres": 110,
       "Total Votes Cast": 110,
-      "Overvotes": 0,
-      "Undervotes": 99,
       "Contest Total": 209
     },
     {
       "Precinct": "DAY 18-D",
       "Frank Gehres": 108,
       "Total Votes Cast": 108,
-      "Overvotes": 0,
-      "Undervotes": 94,
       "Contest Total": 202
     },
     {
       "Precinct": "DAY 19-A",
       "Frank Gehres": 54,
       "Total Votes Cast": 54,
-      "Overvotes": 0,
-      "Undervotes": 43,
       "Contest Total": 97
     },
     {
       "Precinct": "DAY 19-B",
       "Frank Gehres": 142,
       "Total Votes Cast": 142,
-      "Overvotes": 0,
-      "Undervotes": 112,
       "Contest Total": 254
     },
     {
       "Precinct": "DAY 19-C",
       "Frank Gehres": 116,
       "Total Votes Cast": 116,
-      "Overvotes": 0,
-      "Undervotes": 109,
       "Contest Total": 225
     },
     {
       "Precinct": "DAY 20-A",
       "Frank Gehres": 274,
       "Total Votes Cast": 274,
-      "Overvotes": 0,
-      "Undervotes": 279,
       "Contest Total": 553
     },
     {
       "Precinct": "DAY 20-B",
       "Frank Gehres": 282,
       "Total Votes Cast": 282,
-      "Overvotes": 0,
-      "Undervotes": 282,
       "Contest Total": 564
     },
     {
       "Precinct": "DAY 20-C",
       "Frank Gehres": 187,
       "Total Votes Cast": 187,
-      "Overvotes": 0,
-      "Undervotes": 193,
       "Contest Total": 380
     },
     {
       "Precinct": "DAY 20-D",
       "Frank Gehres": 183,
       "Total Votes Cast": 183,
-      "Overvotes": 0,
-      "Undervotes": 202,
       "Contest Total": 385
     },
     {
       "Precinct": "DAY 21-A",
       "Frank Gehres": 94,
       "Total Votes Cast": 94,
-      "Overvotes": 0,
-      "Undervotes": 98,
       "Contest Total": 192
     },
     {
       "Precinct": "DAY 21-B",
       "Frank Gehres": 107,
       "Total Votes Cast": 107,
-      "Overvotes": 0,
-      "Undervotes": 82,
       "Contest Total": 189
     },
     {
       "Precinct": "DAY 21-C",
       "Frank Gehres": 156,
       "Total Votes Cast": 156,
-      "Overvotes": 0,
-      "Undervotes": 141,
       "Contest Total": 297
     },
     {
       "Precinct": "DAY 22-A",
       "Frank Gehres": 256,
       "Total Votes Cast": 256,
-      "Overvotes": 0,
-      "Undervotes": 192,
       "Contest Total": 448
     },
     {
       "Precinct": "DAY 22-B",
       "Frank Gehres": 225,
       "Total Votes Cast": 225,
-      "Overvotes": 0,
-      "Undervotes": 148,
       "Contest Total": 373
     },
     {
       "Precinct": "DAY 22-C",
       "Frank Gehres": 260,
       "Total Votes Cast": 260,
-      "Overvotes": 0,
-      "Undervotes": 211,
       "Contest Total": 471
     },
     {
       "Precinct": "DAY 23-A",
       "Frank Gehres": 178,
       "Total Votes Cast": 178,
-      "Overvotes": 0,
-      "Undervotes": 216,
       "Contest Total": 394
     }
   ]

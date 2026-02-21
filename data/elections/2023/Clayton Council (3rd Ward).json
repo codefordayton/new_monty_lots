@@ -6,24 +6,18 @@
       "Precinct": "CTN 3-A",
       "James Gorman T.": 442,
       "Total Votes Cast": 442,
-      "Overvotes": 0,
-      "Undervotes": 216,
       "Contest Total": 658
     },
     {
       "Precinct": "CTN 3-B",
       "James Gorman T.": 382,
       "Total Votes Cast": 382,
-      "Overvotes": 0,
-      "Undervotes": 201,
       "Contest Total": 583
     },
     {
       "Precinct": "CTN 3-C",
       "James Gorman T.": 346,
       "Total Votes Cast": 346,
-      "Overvotes": 0,
-      "Undervotes": 146,
       "Contest Total": 492
     }
   ]

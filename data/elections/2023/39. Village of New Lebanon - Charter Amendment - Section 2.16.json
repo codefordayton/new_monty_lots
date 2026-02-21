@@ -7,8 +7,6 @@
       "Yes": 172,
       "No": 76,
       "Total Votes Cast": 248,
-      "Overvotes": 0,
-      "Undervotes": 71,
       "Contest Total": 319
     },
     {
@@ -16,8 +14,6 @@
       "Yes": 283,
       "No": 113,
       "Total Votes Cast": 396,
-      "Overvotes": 0,
-      "Undervotes": 71,
       "Contest Total": 467
     },
     {
@@ -25,8 +21,6 @@
       "Yes": 170,
       "No": 89,
       "Total Votes Cast": 259,
-      "Overvotes": 0,
-      "Undervotes": 54,
       "Contest Total": 313
     }
   ]

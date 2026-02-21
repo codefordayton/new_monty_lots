@@ -269,8 +269,6 @@ def parse_race_table(table, full_names):
                     result[cand_name] = parse_number(clean_cell(row[col_idx])) or 0
 
             result['Total Votes Cast'] = total_votes or 0
-            result['Overvotes'] = 0
-            result['Undervotes'] = max(0, (contest_total or 0) - (total_votes or 0))
             result['Contest Total'] = contest_total or 0
 
             results_by_race[race['name']].append(result)

@@ -1,6 +1,6 @@
-Precinct,Robert Bennett I.,John Bruns,Thomas-Roth Lynne,Total Votes Cast,Overvotes,Undervotes,Contest Total
-UN-A,147,142,155,444,0,471,915
-UN-B,217,252,252,721,0,785,1506
-UN-C,255,252,255,762,0,798,1560
-UN-D,274,298,300,872,0,898,1770
-UN-E,225,228,261,714,0,945,1659
+Precinct,Robert Bennett I.,John Bruns,Thomas-Roth Lynne,Total Votes Cast,Contest Total
+UN-A,147,142,155,444,915
+UN-B,217,252,252,721,1506
+UN-C,255,252,255,762,1560
+UN-D,274,298,300,872,1770
+UN-E,225,228,261,714,1659

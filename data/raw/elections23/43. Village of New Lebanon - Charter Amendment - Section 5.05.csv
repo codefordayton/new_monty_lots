@@ -1,4 +1,4 @@
-Precinct,Yes,No,Total Votes Cast,Overvotes,Undervotes,Contest Total
-JNLB-A,177,74,251,0,68,319
-JNLB-B,291,101,392,0,75,467
-PNLB,186,73,259,0,54,313
+Precinct,Yes,No,Total Votes Cast,Contest Total
+JNLB-A,177,74,251,319
+JNLB-B,291,101,392,467
+PNLB,186,73,259,313

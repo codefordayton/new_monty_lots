@@ -6,32 +6,24 @@
       "Precinct": "BRK-A",
       "Chuck Letner": 413,
       "Total Votes Cast": 413,
-      "Overvotes": 0,
-      "Undervotes": 185,
       "Contest Total": 598
     },
     {
       "Precinct": "BRK-B",
       "Chuck Letner": 341,
       "Total Votes Cast": 341,
-      "Overvotes": 0,
-      "Undervotes": 123,
       "Contest Total": 464
     },
     {
       "Precinct": "BRK-C",
       "Chuck Letner": 454,
       "Total Votes Cast": 454,
-      "Overvotes": 0,
-      "Undervotes": 165,
       "Contest Total": 619
     },
     {
       "Precinct": "BRK-D",
       "Chuck Letner": 389,
       "Total Votes Cast": 389,
-      "Overvotes": 0,
-      "Undervotes": 139,
       "Contest Total": 528
     }
   ]

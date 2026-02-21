@@ -6,40 +6,30 @@
       "Precinct": "FARM",
       "Michael Moyer": 262,
       "Total Votes Cast": 262,
-      "Overvotes": 0,
-      "Undervotes": 144,
       "Contest Total": 406
     },
     {
       "Precinct": "JAKTWP-A",
       "Michael Moyer": 459,
       "Total Votes Cast": 459,
-      "Overvotes": 0,
-      "Undervotes": 214,
       "Contest Total": 673
     },
     {
       "Precinct": "JAKTWP-B",
       "Michael Moyer": 347,
       "Total Votes Cast": 347,
-      "Overvotes": 0,
-      "Undervotes": 132,
       "Contest Total": 479
     },
     {
       "Precinct": "JNLB-A",
       "Michael Moyer": 192,
       "Total Votes Cast": 192,
-      "Overvotes": 0,
-      "Undervotes": 129,
       "Contest Total": 321
     },
     {
       "Precinct": "JNLB-B",
       "Michael Moyer": 283,
       "Total Votes Cast": 283,
-      "Overvotes": 0,
-      "Undervotes": 185,
       "Contest Total": 468
     }
   ]

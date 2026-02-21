@@ -1,3 +1,3 @@
-Precinct,Yes,No,Total Votes Cast,Overvotes,Undervotes,Contest Total
-GERTWP-A,378,221,599,0,48,647
-GERTWP-B,356,251,607,0,54,661
+Precinct,Yes,No,Total Votes Cast,Contest Total
+GERTWP-A,378,221,599,647
+GERTWP-B,356,251,607,661

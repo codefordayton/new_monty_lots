@@ -1,7 +1,7 @@
-Precinct,Joseph Barnes J.W.,Oscar Young,Total Votes Cast,Overvotes,Undervotes,Contest Total
-DAY 14-A,0,2,2,0,5,7
-DAY 14-C,0,0,0,0,0,0
-JEFTWP-A,255,226,481,0,108,589
-JEFTWP-B,90,145,235,0,45,280
-JEFTWP-C,228,120,348,0,92,440
-JEFTWP-D,110,289,399,0,26,425
+Precinct,Joseph Barnes J.W.,Oscar Young,Total Votes Cast,Contest Total
+DAY 14-A,0,2,2,7
+DAY 14-C,0,0,0,0
+JEFTWP-A,255,226,481,589
+JEFTWP-B,90,145,235,280
+JEFTWP-C,228,120,348,440
+JEFTWP-D,110,289,399,425

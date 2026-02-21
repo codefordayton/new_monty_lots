@@ -7,8 +7,6 @@
       "Joseph Barnes J.W.": 0,
       "Oscar Young": 2,
       "Total Votes Cast": 2,
-      "Overvotes": 0,
-      "Undervotes": 5,
       "Contest Total": 7
     },
     {
@@ -16,8 +14,6 @@
       "Joseph Barnes J.W.": 0,
       "Oscar Young": 0,
       "Total Votes Cast": 0,
-      "Overvotes": 0,
-      "Undervotes": 0,
       "Contest Total": 0
     },
     {
@@ -25,8 +21,6 @@
       "Joseph Barnes J.W.": 255,
       "Oscar Young": 226,
       "Total Votes Cast": 481,
-      "Overvotes": 0,
-      "Undervotes": 108,
       "Contest Total": 589
     },
     {
@@ -34,8 +28,6 @@
       "Joseph Barnes J.W.": 90,
       "Oscar Young": 145,
       "Total Votes Cast": 235,
-      "Overvotes": 0,
-      "Undervotes": 45,
       "Contest Total": 280
     },
     {
@@ -43,8 +35,6 @@
       "Joseph Barnes J.W.": 228,
       "Oscar Young": 120,
       "Total Votes Cast": 348,
-      "Overvotes": 0,
-      "Undervotes": 92,
       "Contest Total": 440
     },
     {
@@ -52,8 +42,6 @@
       "Joseph Barnes J.W.": 110,
       "Oscar Young": 289,
       "Total Votes Cast": 399,
-      "Overvotes": 0,
-      "Undervotes": 26,
       "Contest Total": 425
     }
   ]

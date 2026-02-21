@@ -7,8 +7,6 @@
       "Yes": 311,
       "No": 189,
       "Total Votes Cast": 500,
-      "Overvotes": 0,
-      "Undervotes": 139,
       "Contest Total": 639
     },
     {
@@ -16,8 +14,6 @@
       "Yes": 245,
       "No": 209,
       "Total Votes Cast": 454,
-      "Overvotes": 0,
-      "Undervotes": 85,
       "Contest Total": 539
     },
     {
@@ -25,8 +21,6 @@
       "Yes": 294,
       "No": 150,
       "Total Votes Cast": 444,
-      "Overvotes": 0,
-      "Undervotes": 102,
       "Contest Total": 546
     },
     {
@@ -34,8 +28,6 @@
       "Yes": 170,
       "No": 119,
       "Total Votes Cast": 289,
-      "Overvotes": 0,
-      "Undervotes": 103,
       "Contest Total": 392
     },
     {
@@ -43,8 +35,6 @@
       "Yes": 193,
       "No": 188,
       "Total Votes Cast": 381,
-      "Overvotes": 0,
-      "Undervotes": 86,
       "Contest Total": 467
     },
     {
@@ -52,8 +42,6 @@
       "Yes": 264,
       "No": 192,
       "Total Votes Cast": 456,
-      "Overvotes": 0,
-      "Undervotes": 110,
       "Contest Total": 566
     },
     {
@@ -61,8 +49,6 @@
       "Yes": 169,
       "No": 130,
       "Total Votes Cast": 299,
-      "Overvotes": 0,
-      "Undervotes": 77,
       "Contest Total": 376
     },
     {
@@ -70,8 +56,6 @@
       "Yes": 276,
       "No": 160,
       "Total Votes Cast": 436,
-      "Overvotes": 0,
-      "Undervotes": 138,
       "Contest Total": 574
     },
     {
@@ -79,8 +63,6 @@
       "Yes": 206,
       "No": 94,
       "Total Votes Cast": 300,
-      "Overvotes": 0,
-      "Undervotes": 102,
       "Contest Total": 402
     },
     {
@@ -88,8 +70,6 @@
       "Yes": 265,
       "No": 203,
       "Total Votes Cast": 468,
-      "Overvotes": 0,
-      "Undervotes": 103,
       "Contest Total": 571
     },
     {
@@ -97,8 +77,6 @@
       "Yes": 236,
       "No": 191,
       "Total Votes Cast": 427,
-      "Overvotes": 0,
-      "Undervotes": 81,
       "Contest Total": 508
     },
     {
@@ -106,8 +84,6 @@
       "Yes": 241,
       "No": 133,
       "Total Votes Cast": 374,
-      "Overvotes": 0,
-      "Undervotes": 102,
       "Contest Total": 476
     },
     {
@@ -115,8 +91,6 @@
       "Yes": 205,
       "No": 120,
       "Total Votes Cast": 325,
-      "Overvotes": 0,
-      "Undervotes": 87,
       "Contest Total": 412
     },
     {
@@ -124,8 +98,6 @@
       "Yes": 353,
       "No": 220,
       "Total Votes Cast": 573,
-      "Overvotes": 0,
-      "Undervotes": 178,
       "Contest Total": 751
     }
   ]

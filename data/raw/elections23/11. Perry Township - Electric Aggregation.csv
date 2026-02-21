@@ -1,4 +1,4 @@
-Precinct,Yes,No,Total Votes Cast,Overvotes,Undervotes,Contest Total
-PERTWP-A,258,112,370,0,26,396
-PERTWP-B,298,123,421,0,42,463
-PERTWP-C,284,183,467,0,32,499
+Precinct,Yes,No,Total Votes Cast,Contest Total
+PERTWP-A,258,112,370,396
+PERTWP-B,298,123,421,463
+PERTWP-C,284,183,467,499
