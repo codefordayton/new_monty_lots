@@ -1,0 +1,24 @@
+{
+  "race": "6. German Township - Gas Aggregation",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "GERTWP-A",
+      "Yes": 361,
+      "No": 229,
+      "Total Votes Cast": 590,
+      "Overvotes": 0,
+      "Undervotes": 57,
+      "Contest Total": 647
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Yes": 345,
+      "No": 261,
+      "Total Votes Cast": 606,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 661
+    }
+  ]
+}

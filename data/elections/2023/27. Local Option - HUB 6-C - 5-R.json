@@ -1,0 +1,15 @@
+{
+  "race": "27. Local Option - HUB 6-C - 5-R",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "HUB 6-C",
+      "Yes": 416,
+      "No": 128,
+      "Total Votes Cast": 544,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 557
+    }
+  ]
+}

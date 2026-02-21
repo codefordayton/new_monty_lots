@@ -1,0 +1,33 @@
+{
+  "race": "39. Village of New Lebanon - Charter Amendment - Section 2.16",
+  "precincts": 3,
+  "results": [
+    {
+      "Precinct": "JNLB-A",
+      "Yes": 172,
+      "No": 76,
+      "Total Votes Cast": 248,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 319
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Yes": 283,
+      "No": 113,
+      "Total Votes Cast": 396,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "PNLB",
+      "Yes": 170,
+      "No": 89,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 313
+    }
+  ]
+}

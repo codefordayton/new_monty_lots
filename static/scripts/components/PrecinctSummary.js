@@ -83,17 +83,20 @@ export class PrecinctSummary {
   async loadPrecinctData(precinctCode) {
     const normalizedCode = this.normalizePrecinctCode(precinctCode);
     this.electionData = {
+      2023: { statistics: null, races: [] },
       2024: { statistics: null, races: [] },
       2025: { statistics: null, races: [] }
     };
 
     try {
-      // Load metadata and statistics for both years
       await Promise.all([
+        this.loadYearMetadata(2023),
         this.loadYearMetadata(2024),
         this.loadYearMetadata(2025),
+        this.loadYearStatistics(2023, normalizedCode),
         this.loadYearStatistics(2024, normalizedCode),
         this.loadYearStatistics(2025, normalizedCode),
+        this.loadYearRaces(2023, normalizedCode),
         this.loadYearRaces(2024, normalizedCode),
         this.loadYearRaces(2025, normalizedCode)
       ]);
@@ -129,15 +132,21 @@ export class PrecinctSummary {
       );
 
       if (!stats) {
-        // Look for sub-precincts
         const subPrecincts = data.results?.filter(r => {
           const rCode = this.normalizePrecinctCode(r.Precinct);
           return rCode.startsWith(precinctCode) && rCode.length > precinctCode.length;
         });
-
         if (subPrecincts && subPrecincts.length > 0) {
           stats = this.aggregateStatistics(subPrecincts);
         }
+      }
+
+      // Parent → child fallback: data has original unsplit code (e.g. BRK-A), map uses BRK-A1
+      if (!stats) {
+        stats = data.results?.find(r => {
+          const rCode = this.normalizePrecinctCode(r.Precinct);
+          return precinctCode.startsWith(rCode) && precinctCode.length > rCode.length;
+        });
       }
 
       this.electionData[year].statistics = stats;
@@ -167,15 +176,22 @@ export class PrecinctSummary {
           );
 
           if (!precinctResult) {
-            // Try aggregating sub-precincts
             const subPrecincts = raceData.results?.filter(r => {
               const rCode = this.normalizePrecinctCode(r.Precinct);
               return rCode.startsWith(precinctCode) && rCode.length > precinctCode.length;
             });
-
             if (subPrecincts && subPrecincts.length > 0) {
               precinctResult = this.aggregateRaceResults(subPrecincts, raceData);
             }
+          }
+
+          // Parent → child fallback for older data on newer precinct boundaries
+          if (!precinctResult) {
+            const parentResult = raceData.results?.find(r => {
+              const rCode = this.normalizePrecinctCode(r.Precinct);
+              return precinctCode.startsWith(rCode) && precinctCode.length > rCode.length;
+            });
+            if (parentResult) precinctResult = parentResult;
           }
 
           if (precinctResult) {
@@ -211,6 +227,7 @@ export class PrecinctSummary {
     html += this.renderOverview();
 
     // Year-by-year sections
+    html += this.renderYearSection(2023);
     html += this.renderYearSection(2024);
     html += this.renderYearSection(2025);
 
@@ -227,30 +244,20 @@ export class PrecinctSummary {
     let html = '<div class="summary-section">';
     html += '<h3>Overview</h3>';
 
-    const stats2024 = this.electionData[2024].statistics;
-    const stats2025 = this.electionData[2025].statistics;
-
     html += '<table class="summary-table">';
     html += '<tr><th>Year</th><th>Turnout</th><th>Ballots Cast</th><th>Registered Voters</th></tr>';
 
-    if (stats2024) {
-      const turnout = this.parseTurnoutValue(stats2024['Voter Turnout - Total']);
-      html += `<tr>
-        <td><strong>2024</strong></td>
-        <td>${(turnout * 100).toFixed(2)}%</td>
-        <td>${this.formatNumber(stats2024['Ballots Cast - Total'])}</td>
-        <td>${this.formatNumber(stats2024['Registered Voters - Total'])}</td>
-      </tr>`;
-    }
-
-    if (stats2025) {
-      const turnout = this.parseTurnoutValue(stats2025['Voter Turnout - Total']);
-      html += `<tr>
-        <td><strong>2025</strong></td>
-        <td>${(turnout * 100).toFixed(2)}%</td>
-        <td>${this.formatNumber(stats2025['Ballots Cast - Total'])}</td>
-        <td>${this.formatNumber(stats2025['Registered Voters - Total'])}</td>
-      </tr>`;
+    for (const year of [2023, 2024, 2025]) {
+      const stats = this.electionData[year]?.statistics;
+      if (stats) {
+        const turnout = this.parseTurnoutValue(stats['Voter Turnout - Total']);
+        html += `<tr>
+          <td><strong>${year}</strong></td>
+          <td>${(turnout * 100).toFixed(2)}%</td>
+          <td>${this.formatNumber(stats['Ballots Cast - Total'])}</td>
+          <td>${this.formatNumber(stats['Registered Voters - Total'])}</td>
+        </tr>`;
+      }
     }
 
     html += '</table>';
@@ -344,27 +351,32 @@ export class PrecinctSummary {
    * Render comparison section
    */
   renderComparison() {
-    const stats2024 = this.electionData[2024].statistics;
-    const stats2025 = this.electionData[2025].statistics;
+    const stats2023 = this.electionData[2023]?.statistics;
+    const stats2024 = this.electionData[2024]?.statistics;
+    const stats2025 = this.electionData[2025]?.statistics;
 
-    if (!stats2024 || !stats2025) {
-      return '';
-    }
+    const pairs = [];
+    if (stats2023 && stats2025) pairs.push([2023, stats2023, 2025, stats2025]);
+    if (stats2024 && stats2025) pairs.push([2024, stats2024, 2025, stats2025]);
 
-    const turnout2024 = this.parseTurnoutValue(stats2024['Voter Turnout - Total']);
-    const turnout2025 = this.parseTurnoutValue(stats2025['Voter Turnout - Total']);
-    const change = turnout2025 - turnout2024;
-    const changePercent = (change * 100).toFixed(2);
+    if (pairs.length === 0) return '';
 
     let html = '<div class="summary-section comparison-section">';
-    html += '<h3>2024 vs 2025 Comparison</h3>';
+    html += '<h3>Turnout Comparisons</h3>';
 
-    html += '<div class="comparison-stat-large">';
-    html += `<span class="stat-label">Turnout Change:</span>`;
-    html += `<span class="stat-value ${change >= 0 ? 'increase' : 'decrease'}">`;
-    html += `${changePercent > 0 ? '+' : ''}${changePercent} pts`;
-    html += '</span>';
-    html += '</div>';
+    pairs.forEach(([yearA, statsA, yearB, statsB]) => {
+      const turnoutA = this.parseTurnoutValue(statsA['Voter Turnout - Total']);
+      const turnoutB = this.parseTurnoutValue(statsB['Voter Turnout - Total']);
+      const change = turnoutB - turnoutA;
+      const changePercent = (change * 100).toFixed(2);
+
+      html += '<div class="comparison-stat-large">';
+      html += `<span class="stat-label">${yearA} → ${yearB}:</span>`;
+      html += `<span class="stat-value ${change >= 0 ? 'increase' : 'decrease'}">`;
+      html += `${change >= 0 ? '+' : ''}${changePercent} pts`;
+      html += '</span>';
+      html += '</div>';
+    });
 
     html += '</div>';
     return html;

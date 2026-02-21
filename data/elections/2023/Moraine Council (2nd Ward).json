@@ -1,0 +1,14 @@
+{
+  "race": "Moraine Council (2nd Ward)",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MOR 2-A",
+      "David Miller": 369,
+      "Total Votes Cast": 369,
+      "Overvotes": 0,
+      "Undervotes": 148,
+      "Contest Total": 517
+    }
+  ]
+}

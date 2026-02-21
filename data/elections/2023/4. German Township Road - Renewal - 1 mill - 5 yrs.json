@@ -1,0 +1,60 @@
+{
+  "race": "4. German Township Road - Renewal - 1 mill - 5 yrs",
+  "precincts": 6,
+  "results": [
+    {
+      "Precinct": "GERTWP-A",
+      "FOR THE LEVY TAX": 315,
+      "AGAINST TAX LEVY THE": 309,
+      "Total Votes Cast": 624,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 647
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "FOR THE LEVY TAX": 297,
+      "AGAINST TAX LEVY THE": 331,
+      "Total Votes Cast": 628,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 661
+    },
+    {
+      "Precinct": "GTN-A",
+      "FOR THE LEVY TAX": 297,
+      "AGAINST TAX LEVY THE": 261,
+      "Total Votes Cast": 558,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 592
+    },
+    {
+      "Precinct": "GTN-B",
+      "FOR THE LEVY TAX": 205,
+      "AGAINST TAX LEVY THE": 215,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 444
+    },
+    {
+      "Precinct": "GTN-C",
+      "FOR THE LEVY TAX": 321,
+      "AGAINST TAX LEVY THE": 236,
+      "Total Votes Cast": 557,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "GTN-D",
+      "FOR THE LEVY TAX": 226,
+      "AGAINST TAX LEVY THE": 265,
+      "Total Votes Cast": 491,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 511
+    }
+  ]
+}

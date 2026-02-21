@@ -1,0 +1,106 @@
+{
+  "race": "Englewood Council",
+  "precincts": 10,
+  "results": [
+    {
+      "Precinct": "ENG-A",
+      "Daugherty Brad": 329,
+      "Steve Henne P.": 278,
+      "Huelsman Fred B.": 241,
+      "Total Votes Cast": 848,
+      "Overvotes": 0,
+      "Undervotes": 997,
+      "Contest Total": 1845
+    },
+    {
+      "Precinct": "ENG-B",
+      "Daugherty Brad": 252,
+      "Steve Henne P.": 248,
+      "Huelsman Fred B.": 199,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 933,
+      "Contest Total": 1632
+    },
+    {
+      "Precinct": "ENG-C",
+      "Daugherty Brad": 245,
+      "Steve Henne P.": 246,
+      "Huelsman Fred B.": 200,
+      "Total Votes Cast": 691,
+      "Overvotes": 0,
+      "Undervotes": 665,
+      "Contest Total": 1356
+    },
+    {
+      "Precinct": "ENG-D",
+      "Daugherty Brad": 339,
+      "Steve Henne P.": 334,
+      "Huelsman Fred B.": 267,
+      "Total Votes Cast": 940,
+      "Overvotes": 0,
+      "Undervotes": 932,
+      "Contest Total": 1872
+    },
+    {
+      "Precinct": "ENG-E",
+      "Daugherty Brad": 327,
+      "Steve Henne P.": 285,
+      "Huelsman Fred B.": 242,
+      "Total Votes Cast": 854,
+      "Overvotes": 0,
+      "Undervotes": 961,
+      "Contest Total": 1815
+    },
+    {
+      "Precinct": "ENG-F",
+      "Daugherty Brad": 268,
+      "Steve Henne P.": 287,
+      "Huelsman Fred B.": 235,
+      "Total Votes Cast": 790,
+      "Overvotes": 0,
+      "Undervotes": 782,
+      "Contest Total": 1572
+    },
+    {
+      "Precinct": "ENG-G",
+      "Daugherty Brad": 307,
+      "Steve Henne P.": 316,
+      "Huelsman Fred B.": 243,
+      "Total Votes Cast": 866,
+      "Overvotes": 0,
+      "Undervotes": 907,
+      "Contest Total": 1773
+    },
+    {
+      "Precinct": "ENG-H",
+      "Daugherty Brad": 263,
+      "Steve Henne P.": 271,
+      "Huelsman Fred B.": 205,
+      "Total Votes Cast": 739,
+      "Overvotes": 0,
+      "Undervotes": 629,
+      "Contest Total": 1368
+    },
+    {
+      "Precinct": "ENG-I",
+      "Daugherty Brad": 207,
+      "Steve Henne P.": 238,
+      "Huelsman Fred B.": 172,
+      "Total Votes Cast": 617,
+      "Overvotes": 0,
+      "Undervotes": 607,
+      "Contest Total": 1224
+    },
+    {
+      "Precinct": "ENG-J",
+      "Daugherty Brad": 250,
+      "Steve Henne P.": 229,
+      "Huelsman Fred B.": 169,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 807,
+      "Contest Total": 1455
+    }
+  ]
+}

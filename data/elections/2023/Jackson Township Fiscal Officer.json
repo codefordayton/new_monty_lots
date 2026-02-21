@@ -1,0 +1,46 @@
+{
+  "race": "Jackson Township Fiscal Officer",
+  "precincts": 5,
+  "results": [
+    {
+      "Precinct": "FARM",
+      "Elizabeth Kozarec": 232,
+      "Total Votes Cast": 232,
+      "Overvotes": 0,
+      "Undervotes": 174,
+      "Contest Total": 406
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Elizabeth Kozarec": 399,
+      "Total Votes Cast": 399,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 673
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Elizabeth Kozarec": 310,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 479
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Elizabeth Kozarec": 171,
+      "Total Votes Cast": 171,
+      "Overvotes": 0,
+      "Undervotes": 150,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Elizabeth Kozarec": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 190,
+      "Contest Total": 468
+    }
+  ]
+}

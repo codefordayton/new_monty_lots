@@ -1,0 +1,15 @@
+{
+  "race": "29. Local Option - MBG 3-C - 5-R",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MBG 3-C",
+      "Yes": 244,
+      "No": 122,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 402
+    }
+  ]
+}

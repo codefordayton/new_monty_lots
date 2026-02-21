@@ -1,0 +1,24 @@
+{
+  "race": "5. German Township - Electric Aggregation",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "GERTWP-A",
+      "Yes": 378,
+      "No": 221,
+      "Total Votes Cast": 599,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 647
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Yes": 356,
+      "No": 251,
+      "Total Votes Cast": 607,
+      "Overvotes": 0,
+      "Undervotes": 54,
+      "Contest Total": 661
+    }
+  ]
+}

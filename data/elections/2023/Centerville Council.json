@@ -1,0 +1,204 @@
+{
+  "race": "Centerville Council",
+  "precincts": 18,
+  "results": [
+    {
+      "Precinct": "CV-A",
+      "Mark A. Engert": 124,
+      "Belinda Kenley": 132,
+      "Lunsford Louis T.": 92,
+      "McLaughlin Meineke Jennifer": 133,
+      "Total Votes Cast": 481,
+      "Overvotes": 0,
+      "Undervotes": 611,
+      "Contest Total": 1092
+    },
+    {
+      "Precinct": "CV-B",
+      "Mark A. Engert": 302,
+      "Belinda Kenley": 285,
+      "Lunsford Louis T.": 236,
+      "McLaughlin Meineke Jennifer": 269,
+      "Total Votes Cast": 1092,
+      "Overvotes": 0,
+      "Undervotes": 855,
+      "Contest Total": 1947
+    },
+    {
+      "Precinct": "CV-C",
+      "Mark A. Engert": 183,
+      "Belinda Kenley": 172,
+      "Lunsford Louis T.": 180,
+      "McLaughlin Meineke Jennifer": 154,
+      "Total Votes Cast": 689,
+      "Overvotes": 0,
+      "Undervotes": 556,
+      "Contest Total": 1245
+    },
+    {
+      "Precinct": "CV-D",
+      "Mark A. Engert": 168,
+      "Belinda Kenley": 171,
+      "Lunsford Louis T.": 129,
+      "McLaughlin Meineke Jennifer": 166,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 521,
+      "Contest Total": 1155
+    },
+    {
+      "Precinct": "CV-E",
+      "Mark A. Engert": 299,
+      "Belinda Kenley": 281,
+      "Lunsford Louis T.": 184,
+      "McLaughlin Meineke Jennifer": 267,
+      "Total Votes Cast": 1031,
+      "Overvotes": 0,
+      "Undervotes": 763,
+      "Contest Total": 1794
+    },
+    {
+      "Precinct": "CV-F",
+      "Mark A. Engert": 311,
+      "Belinda Kenley": 325,
+      "Lunsford Louis T.": 252,
+      "McLaughlin Meineke Jennifer": 315,
+      "Total Votes Cast": 1203,
+      "Overvotes": 0,
+      "Undervotes": 903,
+      "Contest Total": 2106
+    },
+    {
+      "Precinct": "CV-G",
+      "Mark A. Engert": 297,
+      "Belinda Kenley": 347,
+      "Lunsford Louis T.": 232,
+      "McLaughlin Meineke Jennifer": 323,
+      "Total Votes Cast": 1199,
+      "Overvotes": 0,
+      "Undervotes": 982,
+      "Contest Total": 2181
+    },
+    {
+      "Precinct": "CV-H",
+      "Mark A. Engert": 345,
+      "Belinda Kenley": 414,
+      "Lunsford Louis T.": 297,
+      "McLaughlin Meineke Jennifer": 362,
+      "Total Votes Cast": 1418,
+      "Overvotes": 0,
+      "Undervotes": 901,
+      "Contest Total": 2319
+    },
+    {
+      "Precinct": "CV-I",
+      "Mark A. Engert": 392,
+      "Belinda Kenley": 412,
+      "Lunsford Louis T.": 298,
+      "McLaughlin Meineke Jennifer": 367,
+      "Total Votes Cast": 1469,
+      "Overvotes": 0,
+      "Undervotes": 934,
+      "Contest Total": 2403
+    },
+    {
+      "Precinct": "CV-J",
+      "Mark A. Engert": 299,
+      "Belinda Kenley": 337,
+      "Lunsford Louis T.": 256,
+      "McLaughlin Meineke Jennifer": 316,
+      "Total Votes Cast": 1208,
+      "Overvotes": 0,
+      "Undervotes": 850,
+      "Contest Total": 2058
+    },
+    {
+      "Precinct": "CV-K",
+      "Mark A. Engert": 283,
+      "Belinda Kenley": 309,
+      "Lunsford Louis T.": 230,
+      "McLaughlin Meineke Jennifer": 286,
+      "Total Votes Cast": 1108,
+      "Overvotes": 0,
+      "Undervotes": 1037,
+      "Contest Total": 2145
+    },
+    {
+      "Precinct": "CV-L",
+      "Mark A. Engert": 377,
+      "Belinda Kenley": 361,
+      "Lunsford Louis T.": 285,
+      "McLaughlin Meineke Jennifer": 349,
+      "Total Votes Cast": 1372,
+      "Overvotes": 0,
+      "Undervotes": 926,
+      "Contest Total": 2298
+    },
+    {
+      "Precinct": "CV-M",
+      "Mark A. Engert": 270,
+      "Belinda Kenley": 302,
+      "Lunsford Louis T.": 216,
+      "McLaughlin Meineke Jennifer": 262,
+      "Total Votes Cast": 1050,
+      "Overvotes": 0,
+      "Undervotes": 888,
+      "Contest Total": 1938
+    },
+    {
+      "Precinct": "CV-N",
+      "Mark A. Engert": 244,
+      "Belinda Kenley": 294,
+      "Lunsford Louis T.": 215,
+      "McLaughlin Meineke Jennifer": 221,
+      "Total Votes Cast": 974,
+      "Overvotes": 0,
+      "Undervotes": 676,
+      "Contest Total": 1650
+    },
+    {
+      "Precinct": "CV-O",
+      "Mark A. Engert": 359,
+      "Belinda Kenley": 409,
+      "Lunsford Louis T.": 279,
+      "McLaughlin Meineke Jennifer": 320,
+      "Total Votes Cast": 1367,
+      "Overvotes": 0,
+      "Undervotes": 1060,
+      "Contest Total": 2427
+    },
+    {
+      "Precinct": "CV-P",
+      "Mark A. Engert": 284,
+      "Belinda Kenley": 311,
+      "Lunsford Louis T.": 215,
+      "McLaughlin Meineke Jennifer": 268,
+      "Total Votes Cast": 1078,
+      "Overvotes": 0,
+      "Undervotes": 959,
+      "Contest Total": 2037
+    },
+    {
+      "Precinct": "CV-Q",
+      "Mark A. Engert": 280,
+      "Belinda Kenley": 246,
+      "Lunsford Louis T.": 178,
+      "McLaughlin Meineke Jennifer": 258,
+      "Total Votes Cast": 962,
+      "Overvotes": 0,
+      "Undervotes": 805,
+      "Contest Total": 1767
+    },
+    {
+      "Precinct": "CV-R",
+      "Mark A. Engert": 223,
+      "Belinda Kenley": 264,
+      "Lunsford Louis T.": 206,
+      "McLaughlin Meineke Jennifer": 239,
+      "Total Votes Cast": 932,
+      "Overvotes": 0,
+      "Undervotes": 823,
+      "Contest Total": 1755
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "race": "Moraine Council (3rd Ward)",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MOR 3-A",
+      "Shirley Whitt": 194,
+      "Total Votes Cast": 194,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 299
+    }
+  ]
+}

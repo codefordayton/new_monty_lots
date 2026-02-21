@@ -1,0 +1,306 @@
+{
+  "race": "Northmont School Board",
+  "precincts": 30,
+  "results": [
+    {
+      "Precinct": "CLATWP-A",
+      "Jeffery Blair": 134,
+      "Karl Espeleta": 145,
+      "Nick Orrill": 162,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 427,
+      "Contest Total": 868
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Jeffery Blair": 22,
+      "Karl Espeleta": 30,
+      "Nick Orrill": 14,
+      "Total Votes Cast": 66,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 124
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Jeffery Blair": 43,
+      "Karl Espeleta": 48,
+      "Nick Orrill": 55,
+      "Total Votes Cast": 146,
+      "Overvotes": 0,
+      "Undervotes": 170,
+      "Contest Total": 316
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Jeffery Blair": 167,
+      "Karl Espeleta": 196,
+      "Nick Orrill": 189,
+      "Total Votes Cast": 552,
+      "Overvotes": 0,
+      "Undervotes": 442,
+      "Contest Total": 994
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Jeffery Blair": 179,
+      "Karl Espeleta": 226,
+      "Nick Orrill": 191,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 430,
+      "Contest Total": 1026
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Jeffery Blair": 240,
+      "Karl Espeleta": 261,
+      "Nick Orrill": 266,
+      "Total Votes Cast": 767,
+      "Overvotes": 0,
+      "Undervotes": 537,
+      "Contest Total": 1304
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Jeffery Blair": 169,
+      "Karl Espeleta": 173,
+      "Nick Orrill": 151,
+      "Total Votes Cast": 493,
+      "Overvotes": 0,
+      "Undervotes": 261,
+      "Contest Total": 754
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Jeffery Blair": 160,
+      "Karl Espeleta": 201,
+      "Nick Orrill": 177,
+      "Total Votes Cast": 538,
+      "Overvotes": 0,
+      "Undervotes": 386,
+      "Contest Total": 924
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Jeffery Blair": 240,
+      "Karl Espeleta": 263,
+      "Nick Orrill": 248,
+      "Total Votes Cast": 751,
+      "Overvotes": 0,
+      "Undervotes": 465,
+      "Contest Total": 1216
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Jeffery Blair": 266,
+      "Karl Espeleta": 229,
+      "Nick Orrill": 201,
+      "Total Votes Cast": 696,
+      "Overvotes": 0,
+      "Undervotes": 468,
+      "Contest Total": 1164
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Jeffery Blair": 242,
+      "Karl Espeleta": 261,
+      "Nick Orrill": 231,
+      "Total Votes Cast": 734,
+      "Overvotes": 0,
+      "Undervotes": 582,
+      "Contest Total": 1316
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Jeffery Blair": 221,
+      "Karl Espeleta": 219,
+      "Nick Orrill": 243,
+      "Total Votes Cast": 683,
+      "Overvotes": 0,
+      "Undervotes": 483,
+      "Contest Total": 1166
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Jeffery Blair": 240,
+      "Karl Espeleta": 181,
+      "Nick Orrill": 166,
+      "Total Votes Cast": 587,
+      "Overvotes": 0,
+      "Undervotes": 397,
+      "Contest Total": 984
+    },
+    {
+      "Precinct": "ENG-A",
+      "Jeffery Blair": 208,
+      "Karl Espeleta": 254,
+      "Nick Orrill": 243,
+      "Total Votes Cast": 705,
+      "Overvotes": 0,
+      "Undervotes": 525,
+      "Contest Total": 1230
+    },
+    {
+      "Precinct": "ENG-B",
+      "Jeffery Blair": 177,
+      "Karl Espeleta": 195,
+      "Nick Orrill": 216,
+      "Total Votes Cast": 588,
+      "Overvotes": 0,
+      "Undervotes": 500,
+      "Contest Total": 1088
+    },
+    {
+      "Precinct": "ENG-C",
+      "Jeffery Blair": 190,
+      "Karl Espeleta": 194,
+      "Nick Orrill": 153,
+      "Total Votes Cast": 537,
+      "Overvotes": 0,
+      "Undervotes": 367,
+      "Contest Total": 904
+    },
+    {
+      "Precinct": "ENG-D",
+      "Jeffery Blair": 208,
+      "Karl Espeleta": 271,
+      "Nick Orrill": 267,
+      "Total Votes Cast": 746,
+      "Overvotes": 0,
+      "Undervotes": 502,
+      "Contest Total": 1248
+    },
+    {
+      "Precinct": "ENG-E",
+      "Jeffery Blair": 232,
+      "Karl Espeleta": 214,
+      "Nick Orrill": 239,
+      "Total Votes Cast": 685,
+      "Overvotes": 0,
+      "Undervotes": 525,
+      "Contest Total": 1210
+    },
+    {
+      "Precinct": "ENG-F",
+      "Jeffery Blair": 188,
+      "Karl Espeleta": 213,
+      "Nick Orrill": 247,
+      "Total Votes Cast": 648,
+      "Overvotes": 0,
+      "Undervotes": 400,
+      "Contest Total": 1048
+    },
+    {
+      "Precinct": "ENG-G",
+      "Jeffery Blair": 190,
+      "Karl Espeleta": 269,
+      "Nick Orrill": 201,
+      "Total Votes Cast": 660,
+      "Overvotes": 0,
+      "Undervotes": 522,
+      "Contest Total": 1182
+    },
+    {
+      "Precinct": "ENG-H",
+      "Jeffery Blair": 177,
+      "Karl Espeleta": 189,
+      "Nick Orrill": 194,
+      "Total Votes Cast": 560,
+      "Overvotes": 0,
+      "Undervotes": 352,
+      "Contest Total": 912
+    },
+    {
+      "Precinct": "ENG-I",
+      "Jeffery Blair": 153,
+      "Karl Espeleta": 173,
+      "Nick Orrill": 157,
+      "Total Votes Cast": 483,
+      "Overvotes": 0,
+      "Undervotes": 333,
+      "Contest Total": 816
+    },
+    {
+      "Precinct": "ENG-J",
+      "Jeffery Blair": 157,
+      "Karl Espeleta": 208,
+      "Nick Orrill": 182,
+      "Total Votes Cast": 547,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 970
+    },
+    {
+      "Precinct": "PHBG",
+      "Jeffery Blair": 67,
+      "Karl Espeleta": 66,
+      "Nick Orrill": 63,
+      "Total Votes Cast": 196,
+      "Overvotes": 0,
+      "Undervotes": 160,
+      "Contest Total": 356
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Jeffery Blair": 19,
+      "Karl Espeleta": 22,
+      "Nick Orrill": 17,
+      "Total Votes Cast": 58,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 90
+    },
+    {
+      "Precinct": "UN-A",
+      "Jeffery Blair": 113,
+      "Karl Espeleta": 110,
+      "Nick Orrill": 121,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 266,
+      "Contest Total": 610
+    },
+    {
+      "Precinct": "UN-B",
+      "Jeffery Blair": 194,
+      "Karl Espeleta": 157,
+      "Nick Orrill": 216,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 437,
+      "Contest Total": 1004
+    },
+    {
+      "Precinct": "UN-C",
+      "Jeffery Blair": 157,
+      "Karl Espeleta": 136,
+      "Nick Orrill": 148,
+      "Total Votes Cast": 441,
+      "Overvotes": 0,
+      "Undervotes": 279,
+      "Contest Total": 720
+    },
+    {
+      "Precinct": "UN-D",
+      "Jeffery Blair": 205,
+      "Karl Espeleta": 243,
+      "Nick Orrill": 239,
+      "Total Votes Cast": 687,
+      "Overvotes": 0,
+      "Undervotes": 493,
+      "Contest Total": 1180
+    },
+    {
+      "Precinct": "UN-E",
+      "Jeffery Blair": 209,
+      "Karl Espeleta": 166,
+      "Nick Orrill": 210,
+      "Total Votes Cast": 585,
+      "Overvotes": 0,
+      "Undervotes": 521,
+      "Contest Total": 1106
+    }
+  ]
+}

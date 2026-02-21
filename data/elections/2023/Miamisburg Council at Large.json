@@ -1,0 +1,146 @@
+{
+  "race": "Miamisburg Council at Large",
+  "precincts": 14,
+  "results": [
+    {
+      "Precinct": "MBG 1-A",
+      "REP Steven Beachler E.": 279,
+      "REP Colvin Ryan": 334,
+      "REP Nestor Jeff": 315,
+      "Total Votes Cast": 928,
+      "Overvotes": 0,
+      "Undervotes": 989,
+      "Contest Total": 1917
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "REP Steven Beachler E.": 221,
+      "REP Colvin Ryan": 241,
+      "REP Nestor Jeff": 300,
+      "Total Votes Cast": 762,
+      "Overvotes": 0,
+      "Undervotes": 855,
+      "Contest Total": 1617
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "REP Steven Beachler E.": 257,
+      "REP Colvin Ryan": 309,
+      "REP Nestor Jeff": 299,
+      "Total Votes Cast": 865,
+      "Overvotes": 0,
+      "Undervotes": 773,
+      "Contest Total": 1638
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "REP Steven Beachler E.": 138,
+      "REP Colvin Ryan": 162,
+      "REP Nestor Jeff": 166,
+      "Total Votes Cast": 466,
+      "Overvotes": 0,
+      "Undervotes": 710,
+      "Contest Total": 1176
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "REP Steven Beachler E.": 188,
+      "REP Colvin Ryan": 200,
+      "REP Nestor Jeff": 234,
+      "Total Votes Cast": 622,
+      "Overvotes": 0,
+      "Undervotes": 779,
+      "Contest Total": 1401
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "REP Steven Beachler E.": 254,
+      "REP Colvin Ryan": 289,
+      "REP Nestor Jeff": 264,
+      "Total Votes Cast": 807,
+      "Overvotes": 0,
+      "Undervotes": 891,
+      "Contest Total": 1698
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "REP Steven Beachler E.": 170,
+      "REP Colvin Ryan": 187,
+      "REP Nestor Jeff": 185,
+      "Total Votes Cast": 542,
+      "Overvotes": 0,
+      "Undervotes": 586,
+      "Contest Total": 1128
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "REP Steven Beachler E.": 252,
+      "REP Colvin Ryan": 283,
+      "REP Nestor Jeff": 276,
+      "Total Votes Cast": 811,
+      "Overvotes": 0,
+      "Undervotes": 911,
+      "Contest Total": 1722
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "REP Steven Beachler E.": 186,
+      "REP Colvin Ryan": 206,
+      "REP Nestor Jeff": 205,
+      "Total Votes Cast": 597,
+      "Overvotes": 0,
+      "Undervotes": 609,
+      "Contest Total": 1206
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "REP Steven Beachler E.": 247,
+      "REP Colvin Ryan": 305,
+      "REP Nestor Jeff": 278,
+      "Total Votes Cast": 830,
+      "Overvotes": 0,
+      "Undervotes": 883,
+      "Contest Total": 1713
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "REP Steven Beachler E.": 220,
+      "REP Colvin Ryan": 248,
+      "REP Nestor Jeff": 237,
+      "Total Votes Cast": 705,
+      "Overvotes": 0,
+      "Undervotes": 819,
+      "Contest Total": 1524
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "REP Steven Beachler E.": 207,
+      "REP Colvin Ryan": 253,
+      "REP Nestor Jeff": 226,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 742,
+      "Contest Total": 1428
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "REP Steven Beachler E.": 186,
+      "REP Colvin Ryan": 222,
+      "REP Nestor Jeff": 201,
+      "Total Votes Cast": 609,
+      "Overvotes": 0,
+      "Undervotes": 627,
+      "Contest Total": 1236
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "REP Steven Beachler E.": 321,
+      "REP Colvin Ryan": 392,
+      "REP Nestor Jeff": 380,
+      "Total Votes Cast": 1093,
+      "Overvotes": 0,
+      "Undervotes": 1160,
+      "Contest Total": 2253
+    }
+  ]
+}

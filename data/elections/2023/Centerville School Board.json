@@ -1,0 +1,486 @@
+{
+  "race": "Centerville School Board",
+  "precincts": 48,
+  "results": [
+    {
+      "Precinct": "CV-A",
+      "David Cobb": 118,
+      "Durnbaugh Allison": 118,
+      "Amanda Hurst Graf-": 109,
+      "Total Votes Cast": 345,
+      "Overvotes": 0,
+      "Undervotes": 383,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "CV-B",
+      "David Cobb": 241,
+      "Durnbaugh Allison": 307,
+      "Amanda Hurst Graf-": 272,
+      "Total Votes Cast": 820,
+      "Overvotes": 0,
+      "Undervotes": 478,
+      "Contest Total": 1298
+    },
+    {
+      "Precinct": "CV-C",
+      "David Cobb": 134,
+      "Durnbaugh Allison": 187,
+      "Amanda Hurst Graf-": 161,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 348,
+      "Contest Total": 830
+    },
+    {
+      "Precinct": "CV-D",
+      "David Cobb": 137,
+      "Durnbaugh Allison": 170,
+      "Amanda Hurst Graf-": 145,
+      "Total Votes Cast": 452,
+      "Overvotes": 0,
+      "Undervotes": 318,
+      "Contest Total": 770
+    },
+    {
+      "Precinct": "CV-E",
+      "David Cobb": 185,
+      "Durnbaugh Allison": 289,
+      "Amanda Hurst Graf-": 225,
+      "Total Votes Cast": 699,
+      "Overvotes": 0,
+      "Undervotes": 497,
+      "Contest Total": 1196
+    },
+    {
+      "Precinct": "CV-F",
+      "David Cobb": 214,
+      "Durnbaugh Allison": 319,
+      "Amanda Hurst Graf-": 299,
+      "Total Votes Cast": 832,
+      "Overvotes": 0,
+      "Undervotes": 572,
+      "Contest Total": 1404
+    },
+    {
+      "Precinct": "CV-G",
+      "David Cobb": 221,
+      "Durnbaugh Allison": 328,
+      "Amanda Hurst Graf-": 272,
+      "Total Votes Cast": 821,
+      "Overvotes": 0,
+      "Undervotes": 633,
+      "Contest Total": 1454
+    },
+    {
+      "Precinct": "CV-H",
+      "David Cobb": 262,
+      "Durnbaugh Allison": 388,
+      "Amanda Hurst Graf-": 369,
+      "Total Votes Cast": 1019,
+      "Overvotes": 0,
+      "Undervotes": 527,
+      "Contest Total": 1546
+    },
+    {
+      "Precinct": "CV-I",
+      "David Cobb": 300,
+      "Durnbaugh Allison": 382,
+      "Amanda Hurst Graf-": 344,
+      "Total Votes Cast": 1026,
+      "Overvotes": 0,
+      "Undervotes": 576,
+      "Contest Total": 1602
+    },
+    {
+      "Precinct": "CV-J",
+      "David Cobb": 196,
+      "Durnbaugh Allison": 347,
+      "Amanda Hurst Graf-": 314,
+      "Total Votes Cast": 857,
+      "Overvotes": 0,
+      "Undervotes": 515,
+      "Contest Total": 1372
+    },
+    {
+      "Precinct": "CV-K",
+      "David Cobb": 213,
+      "Durnbaugh Allison": 356,
+      "Amanda Hurst Graf-": 295,
+      "Total Votes Cast": 864,
+      "Overvotes": 0,
+      "Undervotes": 566,
+      "Contest Total": 1430
+    },
+    {
+      "Precinct": "CV-L",
+      "David Cobb": 287,
+      "Durnbaugh Allison": 366,
+      "Amanda Hurst Graf-": 347,
+      "Total Votes Cast": 1000,
+      "Overvotes": 0,
+      "Undervotes": 532,
+      "Contest Total": 1532
+    },
+    {
+      "Precinct": "CV-M",
+      "David Cobb": 213,
+      "Durnbaugh Allison": 291,
+      "Amanda Hurst Graf-": 247,
+      "Total Votes Cast": 751,
+      "Overvotes": 0,
+      "Undervotes": 541,
+      "Contest Total": 1292
+    },
+    {
+      "Precinct": "CV-N",
+      "David Cobb": 162,
+      "Durnbaugh Allison": 259,
+      "Amanda Hurst Graf-": 234,
+      "Total Votes Cast": 655,
+      "Overvotes": 0,
+      "Undervotes": 445,
+      "Contest Total": 1100
+    },
+    {
+      "Precinct": "CV-O",
+      "David Cobb": 243,
+      "Durnbaugh Allison": 394,
+      "Amanda Hurst Graf-": 388,
+      "Total Votes Cast": 1025,
+      "Overvotes": 0,
+      "Undervotes": 593,
+      "Contest Total": 1618
+    },
+    {
+      "Precinct": "CV-P",
+      "David Cobb": 232,
+      "Durnbaugh Allison": 363,
+      "Amanda Hurst Graf-": 273,
+      "Total Votes Cast": 868,
+      "Overvotes": 0,
+      "Undervotes": 490,
+      "Contest Total": 1358
+    },
+    {
+      "Precinct": "CV-Q",
+      "David Cobb": 181,
+      "Durnbaugh Allison": 276,
+      "Amanda Hurst Graf-": 239,
+      "Total Votes Cast": 696,
+      "Overvotes": 0,
+      "Undervotes": 482,
+      "Contest Total": 1178
+    },
+    {
+      "Precinct": "CV-R",
+      "David Cobb": 178,
+      "Durnbaugh Allison": 260,
+      "Amanda Hurst Graf-": 248,
+      "Total Votes Cast": 686,
+      "Overvotes": 0,
+      "Undervotes": 484,
+      "Contest Total": 1170
+    },
+    {
+      "Precinct": "KT 3-I",
+      "David Cobb": 0,
+      "Durnbaugh Allison": 0,
+      "Amanda Hurst Graf-": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "David Cobb": 151,
+      "Durnbaugh Allison": 271,
+      "Amanda Hurst Graf-": 247,
+      "Total Votes Cast": 669,
+      "Overvotes": 0,
+      "Undervotes": 525,
+      "Contest Total": 1194
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "David Cobb": 198,
+      "Durnbaugh Allison": 343,
+      "Amanda Hurst Graf-": 318,
+      "Total Votes Cast": 859,
+      "Overvotes": 0,
+      "Undervotes": 627,
+      "Contest Total": 1486
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "David Cobb": 221,
+      "Durnbaugh Allison": 305,
+      "Amanda Hurst Graf-": 305,
+      "Total Votes Cast": 831,
+      "Overvotes": 0,
+      "Undervotes": 539,
+      "Contest Total": 1370
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "David Cobb": 157,
+      "Durnbaugh Allison": 218,
+      "Amanda Hurst Graf-": 218,
+      "Total Votes Cast": 593,
+      "Overvotes": 0,
+      "Undervotes": 423,
+      "Contest Total": 1016
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "David Cobb": 194,
+      "Durnbaugh Allison": 321,
+      "Amanda Hurst Graf-": 324,
+      "Total Votes Cast": 839,
+      "Overvotes": 0,
+      "Undervotes": 611,
+      "Contest Total": 1450
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "David Cobb": 156,
+      "Durnbaugh Allison": 172,
+      "Amanda Hurst Graf-": 168,
+      "Total Votes Cast": 496,
+      "Overvotes": 0,
+      "Undervotes": 380,
+      "Contest Total": 876
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "David Cobb": 208,
+      "Durnbaugh Allison": 356,
+      "Amanda Hurst Graf-": 307,
+      "Total Votes Cast": 871,
+      "Overvotes": 0,
+      "Undervotes": 635,
+      "Contest Total": 1506
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "David Cobb": 190,
+      "Durnbaugh Allison": 305,
+      "Amanda Hurst Graf-": 279,
+      "Total Votes Cast": 774,
+      "Overvotes": 0,
+      "Undervotes": 494,
+      "Contest Total": 1268
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "David Cobb": 129,
+      "Durnbaugh Allison": 175,
+      "Amanda Hurst Graf-": 178,
+      "Total Votes Cast": 482,
+      "Overvotes": 0,
+      "Undervotes": 416,
+      "Contest Total": 898
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "David Cobb": 143,
+      "Durnbaugh Allison": 252,
+      "Amanda Hurst Graf-": 206,
+      "Total Votes Cast": 601,
+      "Overvotes": 0,
+      "Undervotes": 547,
+      "Contest Total": 1148
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "David Cobb": 162,
+      "Durnbaugh Allison": 234,
+      "Amanda Hurst Graf-": 269,
+      "Total Votes Cast": 665,
+      "Overvotes": 0,
+      "Undervotes": 471,
+      "Contest Total": 1136
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "David Cobb": 128,
+      "Durnbaugh Allison": 174,
+      "Amanda Hurst Graf-": 166,
+      "Total Votes Cast": 468,
+      "Overvotes": 0,
+      "Undervotes": 530,
+      "Contest Total": 998
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "David Cobb": 176,
+      "Durnbaugh Allison": 309,
+      "Amanda Hurst Graf-": 279,
+      "Total Votes Cast": 764,
+      "Overvotes": 0,
+      "Undervotes": 616,
+      "Contest Total": 1380
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "David Cobb": 161,
+      "Durnbaugh Allison": 221,
+      "Amanda Hurst Graf-": 243,
+      "Total Votes Cast": 625,
+      "Overvotes": 0,
+      "Undervotes": 511,
+      "Contest Total": 1136
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "David Cobb": 153,
+      "Durnbaugh Allison": 231,
+      "Amanda Hurst Graf-": 229,
+      "Total Votes Cast": 613,
+      "Overvotes": 0,
+      "Undervotes": 505,
+      "Contest Total": 1118
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "David Cobb": 157,
+      "Durnbaugh Allison": 312,
+      "Amanda Hurst Graf-": 281,
+      "Total Votes Cast": 750,
+      "Overvotes": 0,
+      "Undervotes": 558,
+      "Contest Total": 1308
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "David Cobb": 186,
+      "Durnbaugh Allison": 239,
+      "Amanda Hurst Graf-": 218,
+      "Total Votes Cast": 643,
+      "Overvotes": 0,
+      "Undervotes": 633,
+      "Contest Total": 1276
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "David Cobb": 138,
+      "Durnbaugh Allison": 251,
+      "Amanda Hurst Graf-": 202,
+      "Total Votes Cast": 591,
+      "Overvotes": 0,
+      "Undervotes": 409,
+      "Contest Total": 1000
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "David Cobb": 174,
+      "Durnbaugh Allison": 232,
+      "Amanda Hurst Graf-": 214,
+      "Total Votes Cast": 620,
+      "Overvotes": 0,
+      "Undervotes": 442,
+      "Contest Total": 1062
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "David Cobb": 150,
+      "Durnbaugh Allison": 218,
+      "Amanda Hurst Graf-": 209,
+      "Total Votes Cast": 577,
+      "Overvotes": 0,
+      "Undervotes": 499,
+      "Contest Total": 1076
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "David Cobb": 198,
+      "Durnbaugh Allison": 319,
+      "Amanda Hurst Graf-": 269,
+      "Total Votes Cast": 786,
+      "Overvotes": 0,
+      "Undervotes": 548,
+      "Contest Total": 1334
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "David Cobb": 154,
+      "Durnbaugh Allison": 307,
+      "Amanda Hurst Graf-": 277,
+      "Total Votes Cast": 738,
+      "Overvotes": 0,
+      "Undervotes": 496,
+      "Contest Total": 1234
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "David Cobb": 109,
+      "Durnbaugh Allison": 145,
+      "Amanda Hurst Graf-": 161,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 365,
+      "Contest Total": 780
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "David Cobb": 155,
+      "Durnbaugh Allison": 235,
+      "Amanda Hurst Graf-": 214,
+      "Total Votes Cast": 604,
+      "Overvotes": 0,
+      "Undervotes": 448,
+      "Contest Total": 1052
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "David Cobb": 163,
+      "Durnbaugh Allison": 330,
+      "Amanda Hurst Graf-": 324,
+      "Total Votes Cast": 817,
+      "Overvotes": 0,
+      "Undervotes": 569,
+      "Contest Total": 1386
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "David Cobb": 176,
+      "Durnbaugh Allison": 289,
+      "Amanda Hurst Graf-": 271,
+      "Total Votes Cast": 736,
+      "Overvotes": 0,
+      "Undervotes": 460,
+      "Contest Total": 1196
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "David Cobb": 149,
+      "Durnbaugh Allison": 286,
+      "Amanda Hurst Graf-": 258,
+      "Total Votes Cast": 693,
+      "Overvotes": 0,
+      "Undervotes": 551,
+      "Contest Total": 1244
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "David Cobb": 115,
+      "Durnbaugh Allison": 194,
+      "Amanda Hurst Graf-": 177,
+      "Total Votes Cast": 486,
+      "Overvotes": 0,
+      "Undervotes": 346,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "David Cobb": 209,
+      "Durnbaugh Allison": 357,
+      "Amanda Hurst Graf-": 286,
+      "Total Votes Cast": 852,
+      "Overvotes": 0,
+      "Undervotes": 670,
+      "Contest Total": 1522
+    }
+  ]
+}

@@ -1,0 +1,782 @@
+{
+  "year": "2023",
+  "statistics_file": "statistics.json",
+  "races": [
+    {
+      "id": "10. Jackson Township - Gas Aggregation",
+      "name": "10. Jackson Township - Gas Aggregation",
+      "file": "10. Jackson Township - Gas Aggregation.json"
+    },
+    {
+      "id": "11. Perry Township - Electric Aggregation",
+      "name": "11. Perry Township - Electric Aggregation",
+      "file": "11. Perry Township - Electric Aggregation.json"
+    },
+    {
+      "id": "12. Beavercreek CSD - Replacement - 1 mill - 5 yrs",
+      "name": "12. Beavercreek CSD - Replacement - 1 mill - 5 yrs",
+      "file": "12. Beavercreek CSD - Replacement - 1 mill - 5 yrs.json"
+    },
+    {
+      "id": "13. Centerville CSD - Additional - 5.9 mills - Continuing period of time",
+      "name": "13. Centerville CSD - Additional - 5.9 mills - Continuing period of time",
+      "file": "13. Centerville CSD - Additional - 5.9 mills - Continuing period of time.json"
+    },
+    {
+      "id": "14. Northmont CSD - Additional - 5.5 mill - 10 yrs Northmont CSD",
+      "name": "14. Northmont CSD - Additional - 5.5 mill - 10 yrs Northmont CSD",
+      "file": "14. Northmont CSD - Additional - 5.5 mill - 10 yrs Northmont CSD.json"
+    },
+    {
+      "id": "15. Oakwood CSD - Additional - 6.75 mills - Continuing period of time",
+      "name": "15. Oakwood CSD - Additional - 6.75 mills - Continuing period of time",
+      "file": "15. Oakwood CSD - Additional - 6.75 mills - Continuing period of time.json"
+    },
+    {
+      "id": "16. Vandalia-Butler CSD - Additional - 4 mills - 5 yrs",
+      "name": "16. Vandalia-Butler CSD - Additional - 4 mills - 5 yrs",
+      "file": "16. Vandalia-Butler CSD - Additional - 4 mills - 5 yrs.json"
+    },
+    {
+      "id": "17. Tri-County North LSD - Renewal - 1% Income Tax - 5 yrs",
+      "name": "17. Tri-County North LSD - Renewal - 1% Income Tax - 5 yrs",
+      "file": "17. Tri-County North LSD - Renewal - 1% Income Tax - 5 yrs.json"
+    },
+    {
+      "id": "18. Warren Co. Vocational School - Bond Issue & Levy - 0.641 mill & 0.2 mill - 30 yrs",
+      "name": "18. Warren Co. Vocational School - Bond Issue & Levy - 0.641 mill & 0.2 mill - 30 yrs",
+      "file": "18. Warren Co. Vocational School - Bond Issue & Levy - 0.641 mill & 0.2 mill - 30 yrs.json"
+    },
+    {
+      "id": "19. Washington Township Park - Renewal 0.9 mill and Increase 0.1 mill - 10 yrs",
+      "name": "19. Washington Township Park - Renewal 0.9 mill and Increase 0.1 mill - 10 yrs",
+      "file": "19. Washington Township Park - Renewal 0.9 mill and Increase 0.1 mill - 10 yrs.json"
+    },
+    {
+      "id": "20. City of Carlisle - Electric Aggregation CITY OF CARLISLE",
+      "name": "20. City of Carlisle - Electric Aggregation CITY OF CARLISLE",
+      "file": "20. City of Carlisle - Electric Aggregation CITY OF CARLISLE.json"
+    },
+    {
+      "id": "21. City of Carlisle - Gas Aggregation",
+      "name": "21. City of Carlisle - Gas Aggregation",
+      "file": "21. City of Carlisle - Gas Aggregation.json"
+    },
+    {
+      "id": "22. Local Option - CV-Q - 5-R",
+      "name": "22. Local Option - CV-Q - 5-R",
+      "file": "22. Local Option - CV-Q - 5-R.json"
+    },
+    {
+      "id": "23. City of Clayton Income Tax - 1.5% existing + 1% increase - start 112024",
+      "name": "23. City of Clayton Income Tax - 1.5% existing + 1% increase - start 112024",
+      "file": "23. City of Clayton Income Tax - 1.5% existing + 1% increase - start 112024.json"
+    },
+    {
+      "id": "24. Local Option - DAY 19-B - 5-R",
+      "name": "24. Local Option - DAY 19-B - 5-R",
+      "file": "24. Local Option - DAY 19-B - 5-R.json"
+    },
+    {
+      "id": "25. City of Huber Heights Income Tax - continuation of existing 0.25% - 10 yrs",
+      "name": "25. City of Huber Heights Income Tax - continuation of existing 0.25% - 10 yrs",
+      "file": "25. City of Huber Heights Income Tax - continuation of existing 0.25% - 10 yrs.json"
+    },
+    {
+      "id": "26. Local Option - HUB 3-E - 5-R",
+      "name": "26. Local Option - HUB 3-E - 5-R",
+      "file": "26. Local Option - HUB 3-E - 5-R.json"
+    },
+    {
+      "id": "27. Local Option - HUB 6-C - 5-R",
+      "name": "27. Local Option - HUB 6-C - 5-R",
+      "file": "27. Local Option - HUB 6-C - 5-R.json"
+    },
+    {
+      "id": "28. City of Miamisburg - Charter Amendment - Section 3.10, 4.13, 4.15, 4.16, and 9.09",
+      "name": "28. City of Miamisburg - Charter Amendment - Section 3.10, 4.13, 4.15, 4.16, and 9.09",
+      "file": "28. City of Miamisburg - Charter Amendment - Section 3.10, 4.13, 4.15, 4.16, and 9.09.json"
+    },
+    {
+      "id": "29. Local Option - MBG 3-C - 5-R",
+      "name": "29. Local Option - MBG 3-C - 5-R",
+      "file": "29. Local Option - MBG 3-C - 5-R.json"
+    },
+    {
+      "id": "3. Clay Township Police - Replacement - 3.25 mills - Continue Period of Time",
+      "name": "3. Clay Township Police - Replacement - 3.25 mills - Continue Period of Time",
+      "file": "3. Clay Township Police - Replacement - 3.25 mills - Continue Period of Time.json"
+    },
+    {
+      "id": "30. City of Moraine - Charter Amendment - Section 3.10, 5.8, 10.12, and 10.13",
+      "name": "30. City of Moraine - Charter Amendment - Section 3.10, 5.8, 10.12, and 10.13",
+      "file": "30. City of Moraine - Charter Amendment - Section 3.10, 5.8, 10.12, and 10.13.json"
+    },
+    {
+      "id": "31. City of Moraine - Charter Amendment - Section 3.5",
+      "name": "31. City of Moraine - Charter Amendment - Section 3.5",
+      "file": "31. City of Moraine - Charter Amendment - Section 3.5.json"
+    },
+    {
+      "id": "32. City of Springboro Income Tax - Continuation of Existing 0.5% - 20 yrs",
+      "name": "32. City of Springboro Income Tax - Continuation of Existing 0.5% - 20 yrs",
+      "file": "32. City of Springboro Income Tax - Continuation of Existing 0.5% - 20 yrs.json"
+    },
+    {
+      "id": "33. Local Option - VD-J - 5-R",
+      "name": "33. Local Option - VD-J - 5-R",
+      "file": "33. Local Option - VD-J - 5-R.json"
+    },
+    {
+      "id": "34. Village of New Lebanon Road - Renewal - 5 mills - 5 yrs",
+      "name": "34. Village of New Lebanon Road - Renewal - 5 mills - 5 yrs",
+      "file": "34. Village of New Lebanon Road - Renewal - 5 mills - 5 yrs.json"
+    },
+    {
+      "id": "35. Village of New Lebanon - Electric Aggregation",
+      "name": "35. Village of New Lebanon - Electric Aggregation",
+      "file": "35. Village of New Lebanon - Electric Aggregation.json"
+    },
+    {
+      "id": "36. Village of New Lebanon - Gas Aggregation",
+      "name": "36. Village of New Lebanon - Gas Aggregation",
+      "file": "36. Village of New Lebanon - Gas Aggregation.json"
+    },
+    {
+      "id": "37. Village of New Lebanon - Charter Amendment - Section 4.01",
+      "name": "37. Village of New Lebanon - Charter Amendment - Section 4.01",
+      "file": "37. Village of New Lebanon - Charter Amendment - Section 4.01.json"
+    },
+    {
+      "id": "38. Village of New Lebanon - Charter Amendment - Section 2.01",
+      "name": "38. Village of New Lebanon - Charter Amendment - Section 2.01",
+      "file": "38. Village of New Lebanon - Charter Amendment - Section 2.01.json"
+    },
+    {
+      "id": "39. Village of New Lebanon - Charter Amendment - Section 2.16",
+      "name": "39. Village of New Lebanon - Charter Amendment - Section 2.16",
+      "file": "39. Village of New Lebanon - Charter Amendment - Section 2.16.json"
+    },
+    {
+      "id": "4. German Township Road - Renewal - 1 mill - 5 yrs",
+      "name": "4. German Township Road - Renewal - 1 mill - 5 yrs",
+      "file": "4. German Township Road - Renewal - 1 mill - 5 yrs.json"
+    },
+    {
+      "id": "40. Village of New Lebanon - Charter Amendment - Section 2.13",
+      "name": "40. Village of New Lebanon - Charter Amendment - Section 2.13",
+      "file": "40. Village of New Lebanon - Charter Amendment - Section 2.13.json"
+    },
+    {
+      "id": "41. Village of New Lebanon - Charter Amendment - Section 3.01",
+      "name": "41. Village of New Lebanon - Charter Amendment - Section 3.01",
+      "file": "41. Village of New Lebanon - Charter Amendment - Section 3.01.json"
+    },
+    {
+      "id": "42. Village of New Lebanon - Charter Amendment - Section 2.17",
+      "name": "42. Village of New Lebanon - Charter Amendment - Section 2.17",
+      "file": "42. Village of New Lebanon - Charter Amendment - Section 2.17.json"
+    },
+    {
+      "id": "43. Village of New Lebanon - Charter Amendment - Section 5.05",
+      "name": "43. Village of New Lebanon - Charter Amendment - Section 5.05",
+      "file": "43. Village of New Lebanon - Charter Amendment - Section 5.05.json"
+    },
+    {
+      "id": "44. Village of New Lebanon - Charter Amendment - Section 5.07",
+      "name": "44. Village of New Lebanon - Charter Amendment - Section 5.07",
+      "file": "44. Village of New Lebanon - Charter Amendment - Section 5.07.json"
+    },
+    {
+      "id": "45. Village of New Lebanon - Charter Amendment - Section 8.04",
+      "name": "45. Village of New Lebanon - Charter Amendment - Section 8.04",
+      "file": "45. Village of New Lebanon - Charter Amendment - Section 8.04.json"
+    },
+    {
+      "id": "46. Village of New Lebanon - Charter Amendment - Section 6.09",
+      "name": "46. Village of New Lebanon - Charter Amendment - Section 6.09",
+      "file": "46. Village of New Lebanon - Charter Amendment - Section 6.09.json"
+    },
+    {
+      "id": "47. Village of New Lebanon - Charter Amendment - Section 7.03",
+      "name": "47. Village of New Lebanon - Charter Amendment - Section 7.03",
+      "file": "47. Village of New Lebanon - Charter Amendment - Section 7.03.json"
+    },
+    {
+      "id": "48. Village of New Lebanon - Charter Amendment - Section 4.06",
+      "name": "48. Village of New Lebanon - Charter Amendment - Section 4.06",
+      "file": "48. Village of New Lebanon - Charter Amendment - Section 4.06.json"
+    },
+    {
+      "id": "49. Village of Verona - Renewal - 2 mills - 4 yrs",
+      "name": "49. Village of Verona - Renewal - 2 mills - 4 yrs",
+      "file": "49. Village of Verona - Renewal - 2 mills - 4 yrs.json"
+    },
+    {
+      "id": "5. German Township - Electric Aggregation",
+      "name": "5. German Township - Electric Aggregation",
+      "file": "5. German Township - Electric Aggregation.json"
+    },
+    {
+      "id": "50. Village of Verona - Renewal - 1.9 mills - 4 yrs",
+      "name": "50. Village of Verona - Renewal - 1.9 mills - 4 yrs",
+      "file": "50. Village of Verona - Renewal - 1.9 mills - 4 yrs.json"
+    },
+    {
+      "id": "6. German Township - Gas Aggregation",
+      "name": "6. German Township - Gas Aggregation",
+      "file": "6. German Township - Gas Aggregation.json"
+    },
+    {
+      "id": "7. Harrison Township - Electric Aggregation",
+      "name": "7. Harrison Township - Electric Aggregation",
+      "file": "7. Harrison Township - Electric Aggregation.json"
+    },
+    {
+      "id": "8. Harrison Township - Gas Aggregation",
+      "name": "8. Harrison Township - Gas Aggregation",
+      "file": "8. Harrison Township - Gas Aggregation.json"
+    },
+    {
+      "id": "9. Jackson Township - Electric Aggregation",
+      "name": "9. Jackson Township - Electric Aggregation",
+      "file": "9. Jackson Township - Electric Aggregation.json"
+    },
+    {
+      "id": "Beavercreek School Board",
+      "name": "Beavercreek School Board",
+      "file": "Beavercreek School Board.json"
+    },
+    {
+      "id": "Brookville Council",
+      "name": "Brookville Council",
+      "file": "Brookville Council.json"
+    },
+    {
+      "id": "Brookville Local School Board",
+      "name": "Brookville Local School Board",
+      "file": "Brookville Local School Board.json"
+    },
+    {
+      "id": "Brookville Mayor",
+      "name": "Brookville Mayor",
+      "file": "Brookville Mayor.json"
+    },
+    {
+      "id": "Butler Township Fiscal Officer",
+      "name": "Butler Township Fiscal Officer",
+      "file": "Butler Township Fiscal Officer.json"
+    },
+    {
+      "id": "Butler Township Trustee",
+      "name": "Butler Township Trustee",
+      "file": "Butler Township Trustee.json"
+    },
+    {
+      "id": "Carlisle Council at Large",
+      "name": "Carlisle Council at Large",
+      "file": "Carlisle Council at Large.json"
+    },
+    {
+      "id": "Carlisle Local School Board",
+      "name": "Carlisle Local School Board",
+      "file": "Carlisle Local School Board.json"
+    },
+    {
+      "id": "Carlisle Mayor",
+      "name": "Carlisle Mayor",
+      "file": "Carlisle Mayor.json"
+    },
+    {
+      "id": "Centerville Council",
+      "name": "Centerville Council",
+      "file": "Centerville Council.json"
+    },
+    {
+      "id": "Centerville Mayor",
+      "name": "Centerville Mayor",
+      "file": "Centerville Mayor.json"
+    },
+    {
+      "id": "Centerville School Board",
+      "name": "Centerville School Board",
+      "file": "Centerville School Board.json"
+    },
+    {
+      "id": "Clay Township Fiscal Officer",
+      "name": "Clay Township Fiscal Officer",
+      "file": "Clay Township Fiscal Officer.json"
+    },
+    {
+      "id": "Clay Township Trustee (UTE 12-31-2025)",
+      "name": "Clay Township Trustee (UTE 12-31-2025)",
+      "file": "Clay Township Trustee (UTE 12-31-2025).json"
+    },
+    {
+      "id": "Clay Township Trustee",
+      "name": "Clay Township Trustee",
+      "file": "Clay Township Trustee.json"
+    },
+    {
+      "id": "Clayton Council (1st Ward)",
+      "name": "Clayton Council (1st Ward)",
+      "file": "Clayton Council (1st Ward).json"
+    },
+    {
+      "id": "Clayton Council (2nd Ward)",
+      "name": "Clayton Council (2nd Ward)",
+      "file": "Clayton Council (2nd Ward).json"
+    },
+    {
+      "id": "Clayton Council (3rd Ward)",
+      "name": "Clayton Council (3rd Ward)",
+      "file": "Clayton Council (3rd Ward).json"
+    },
+    {
+      "id": "Clearcreek Township Fiscal Officer",
+      "name": "Clearcreek Township Fiscal Officer",
+      "file": "Clearcreek Township Fiscal Officer.json"
+    },
+    {
+      "id": "Clearcreek Township Trustee",
+      "name": "Clearcreek Township Trustee",
+      "file": "Clearcreek Township Trustee.json"
+    },
+    {
+      "id": "Dayton Commissioner",
+      "name": "Dayton Commissioner",
+      "file": "Dayton Commissioner.json"
+    },
+    {
+      "id": "Dayton Municipal Court Judge (FTC 1-1-2024)",
+      "name": "Dayton Municipal Court Judge (FTC 1-1-2024)",
+      "file": "Dayton Municipal Court Judge (FTC 1-1-2024).json"
+    },
+    {
+      "id": "Dayton Municipal Court Judge (FTC 1-2-2024)",
+      "name": "Dayton Municipal Court Judge (FTC 1-2-2024)",
+      "file": "Dayton Municipal Court Judge (FTC 1-2-2024).json"
+    },
+    {
+      "id": "Dayton Municipal Court Judge (FTC 1-3-2024)",
+      "name": "Dayton Municipal Court Judge (FTC 1-3-2024)",
+      "file": "Dayton Municipal Court Judge (FTC 1-3-2024).json"
+    },
+    {
+      "id": "Dayton School Board",
+      "name": "Dayton School Board",
+      "file": "Dayton School Board.json"
+    },
+    {
+      "id": "Englewood Council",
+      "name": "Englewood Council",
+      "file": "Englewood Council.json"
+    },
+    {
+      "id": "Englewood Mayor",
+      "name": "Englewood Mayor",
+      "file": "Englewood Mayor.json"
+    },
+    {
+      "id": "Fairborn School Board",
+      "name": "Fairborn School Board",
+      "file": "Fairborn School Board.json"
+    },
+    {
+      "id": "Farmersville Council",
+      "name": "Farmersville Council",
+      "file": "Farmersville Council.json"
+    },
+    {
+      "id": "Farmersville Mayor",
+      "name": "Farmersville Mayor",
+      "file": "Farmersville Mayor.json"
+    },
+    {
+      "id": "German Township Fiscal Officer",
+      "name": "German Township Fiscal Officer",
+      "file": "German Township Fiscal Officer.json"
+    },
+    {
+      "id": "German Township Trustee",
+      "name": "German Township Trustee",
+      "file": "German Township Trustee.json"
+    },
+    {
+      "id": "Germantown Council",
+      "name": "Germantown Council",
+      "file": "Germantown Council.json"
+    },
+    {
+      "id": "Harrison Township Fiscal Officer",
+      "name": "Harrison Township Fiscal Officer",
+      "file": "Harrison Township Fiscal Officer.json"
+    },
+    {
+      "id": "Harrison Township Trustee",
+      "name": "Harrison Township Trustee",
+      "file": "Harrison Township Trustee.json"
+    },
+    {
+      "id": "Huber Heights Council (1st Ward)",
+      "name": "Huber Heights Council (1st Ward)",
+      "file": "Huber Heights Council (1st Ward).json"
+    },
+    {
+      "id": "Huber Heights Council (2nd Ward)",
+      "name": "Huber Heights Council (2nd Ward)",
+      "file": "Huber Heights Council (2nd Ward).json"
+    },
+    {
+      "id": "Huber Heights Council (6th Ward)",
+      "name": "Huber Heights Council (6th Ward)",
+      "file": "Huber Heights Council (6th Ward).json"
+    },
+    {
+      "id": "Huber Heights Council at Large",
+      "name": "Huber Heights Council at Large",
+      "file": "Huber Heights Council at Large.json"
+    },
+    {
+      "id": "Huber Heights School Board",
+      "name": "Huber Heights School Board",
+      "file": "Huber Heights School Board.json"
+    },
+    {
+      "id": "ISSUE 1",
+      "name": "ISSUE 1",
+      "file": "ISSUE 1.json"
+    },
+    {
+      "id": "ISSUE 2",
+      "name": "ISSUE 2",
+      "file": "ISSUE 2.json"
+    },
+    {
+      "id": "Jackson Township Fiscal Officer",
+      "name": "Jackson Township Fiscal Officer",
+      "file": "Jackson Township Fiscal Officer.json"
+    },
+    {
+      "id": "Jackson Township Trustee",
+      "name": "Jackson Township Trustee",
+      "file": "Jackson Township Trustee.json"
+    },
+    {
+      "id": "Jefferson Township Fiscal Officer",
+      "name": "Jefferson Township Fiscal Officer",
+      "file": "Jefferson Township Fiscal Officer.json"
+    },
+    {
+      "id": "Jefferson Township Local School Board (UTE 12-31-2025)",
+      "name": "Jefferson Township Local School Board (UTE 12-31-2025)",
+      "file": "Jefferson Township Local School Board (UTE 12-31-2025).json"
+    },
+    {
+      "id": "Jefferson Township Local School Board",
+      "name": "Jefferson Township Local School Board",
+      "file": "Jefferson Township Local School Board.json"
+    },
+    {
+      "id": "Jefferson Township Trustee",
+      "name": "Jefferson Township Trustee",
+      "file": "Jefferson Township Trustee.json"
+    },
+    {
+      "id": "Kettering Council (1st Ward)",
+      "name": "Kettering Council (1st Ward)",
+      "file": "Kettering Council (1st Ward).json"
+    },
+    {
+      "id": "Kettering Council (2nd Ward)",
+      "name": "Kettering Council (2nd Ward)",
+      "file": "Kettering Council (2nd Ward).json"
+    },
+    {
+      "id": "Kettering Council (3rd Ward)",
+      "name": "Kettering Council (3rd Ward)",
+      "file": "Kettering Council (3rd Ward).json"
+    },
+    {
+      "id": "Kettering Council (4th Ward)",
+      "name": "Kettering Council (4th Ward)",
+      "file": "Kettering Council (4th Ward).json"
+    },
+    {
+      "id": "Kettering Municipal Court Judge (FTC 1-1-2024)",
+      "name": "Kettering Municipal Court Judge (FTC 1-1-2024)",
+      "file": "Kettering Municipal Court Judge (FTC 1-1-2024).json"
+    },
+    {
+      "id": "Kettering School Board (UTE 12-31-2025)",
+      "name": "Kettering School Board (UTE 12-31-2025)",
+      "file": "Kettering School Board (UTE 12-31-2025).json"
+    },
+    {
+      "id": "Kettering School Board",
+      "name": "Kettering School Board",
+      "file": "Kettering School Board.json"
+    },
+    {
+      "id": "Mad River Local School Board",
+      "name": "Mad River Local School Board",
+      "file": "Mad River Local School Board.json"
+    },
+    {
+      "id": "Miami Township Fiscal Officer",
+      "name": "Miami Township Fiscal Officer",
+      "file": "Miami Township Fiscal Officer.json"
+    },
+    {
+      "id": "Miami Township Trustee",
+      "name": "Miami Township Trustee",
+      "file": "Miami Township Trustee.json"
+    },
+    {
+      "id": "Miamisburg Council at Large",
+      "name": "Miamisburg Council at Large",
+      "file": "Miamisburg Council at Large.json"
+    },
+    {
+      "id": "Miamisburg Mayor",
+      "name": "Miamisburg Mayor",
+      "file": "Miamisburg Mayor.json"
+    },
+    {
+      "id": "Miamisburg Municipal Court Judge (FTC 1-1-2024)",
+      "name": "Miamisburg Municipal Court Judge (FTC 1-1-2024)",
+      "file": "Miamisburg Municipal Court Judge (FTC 1-1-2024).json"
+    },
+    {
+      "id": "Miamisburg School Board",
+      "name": "Miamisburg School Board",
+      "file": "Miamisburg School Board.json"
+    },
+    {
+      "id": "Montgomery County Educational Service Center (UTE 12-31-2025)",
+      "name": "Montgomery County Educational Service Center (UTE 12-31-2025)",
+      "file": "Montgomery County Educational Service Center (UTE 12-31-2025).json"
+    },
+    {
+      "id": "Montgomery County Educational Service Center",
+      "name": "Montgomery County Educational Service Center",
+      "file": "Montgomery County Educational Service Center.json"
+    },
+    {
+      "id": "Moraine Council (1st Ward)",
+      "name": "Moraine Council (1st Ward)",
+      "file": "Moraine Council (1st Ward).json"
+    },
+    {
+      "id": "Moraine Council (2nd Ward)",
+      "name": "Moraine Council (2nd Ward)",
+      "file": "Moraine Council (2nd Ward).json"
+    },
+    {
+      "id": "Moraine Council (3rd Ward)",
+      "name": "Moraine Council (3rd Ward)",
+      "file": "Moraine Council (3rd Ward).json"
+    },
+    {
+      "id": "Moraine Council (4th Ward)",
+      "name": "Moraine Council (4th Ward)",
+      "file": "Moraine Council (4th Ward).json"
+    },
+    {
+      "id": "New Lebanon Council",
+      "name": "New Lebanon Council",
+      "file": "New Lebanon Council.json"
+    },
+    {
+      "id": "New Lebanon Local School Board",
+      "name": "New Lebanon Local School Board",
+      "file": "New Lebanon Local School Board.json"
+    },
+    {
+      "id": "New Lebanon Mayor",
+      "name": "New Lebanon Mayor",
+      "file": "New Lebanon Mayor.json"
+    },
+    {
+      "id": "Northmont School Board",
+      "name": "Northmont School Board",
+      "file": "Northmont School Board.json"
+    },
+    {
+      "id": "Northridge Local School Board",
+      "name": "Northridge Local School Board",
+      "file": "Northridge Local School Board.json"
+    },
+    {
+      "id": "Oakwood Council",
+      "name": "Oakwood Council",
+      "file": "Oakwood Council.json"
+    },
+    {
+      "id": "Oakwood School Board",
+      "name": "Oakwood School Board",
+      "file": "Oakwood School Board.json"
+    },
+    {
+      "id": "Perry Township Fiscal Officer",
+      "name": "Perry Township Fiscal Officer",
+      "file": "Perry Township Fiscal Officer.json"
+    },
+    {
+      "id": "Perry Township Trustee",
+      "name": "Perry Township Trustee",
+      "file": "Perry Township Trustee.json"
+    },
+    {
+      "id": "Phillipsburg Council",
+      "name": "Phillipsburg Council",
+      "file": "Phillipsburg Council.json"
+    },
+    {
+      "id": "Phillipsburg Mayor",
+      "name": "Phillipsburg Mayor",
+      "file": "Phillipsburg Mayor.json"
+    },
+    {
+      "id": "Phillipsburg Public Affairs",
+      "name": "Phillipsburg Public Affairs",
+      "file": "Phillipsburg Public Affairs.json"
+    },
+    {
+      "id": "Preble County Educational Service Center",
+      "name": "Preble County Educational Service Center",
+      "file": "Preble County Educational Service Center.json"
+    },
+    {
+      "id": "Preble Shawnee Local School Board",
+      "name": "Preble Shawnee Local School Board",
+      "file": "Preble Shawnee Local School Board.json"
+    },
+    {
+      "id": "Riverside Council",
+      "name": "Riverside Council",
+      "file": "Riverside Council.json"
+    },
+    {
+      "id": "Riverside Mayor",
+      "name": "Riverside Mayor",
+      "file": "Riverside Mayor.json"
+    },
+    {
+      "id": "Springboro Community School Board (UTE 12-31-2025)",
+      "name": "Springboro Community School Board (UTE 12-31-2025)",
+      "file": "Springboro Community School Board (UTE 12-31-2025).json"
+    },
+    {
+      "id": "Springboro Community School Board",
+      "name": "Springboro Community School Board",
+      "file": "Springboro Community School Board.json"
+    },
+    {
+      "id": "Springboro Council at Large",
+      "name": "Springboro Council at Large",
+      "file": "Springboro Council at Large.json"
+    },
+    {
+      "id": "Springboro Mayor",
+      "name": "Springboro Mayor",
+      "file": "Springboro Mayor.json"
+    },
+    {
+      "id": "Tri-County North Local School Board",
+      "name": "Tri-County North Local School Board",
+      "file": "Tri-County North Local School Board.json"
+    },
+    {
+      "id": "Trotwood Council at Large",
+      "name": "Trotwood Council at Large",
+      "file": "Trotwood Council at Large.json"
+    },
+    {
+      "id": "Trotwood Mayor",
+      "name": "Trotwood Mayor",
+      "file": "Trotwood Mayor.json"
+    },
+    {
+      "id": "Trotwood-Madison School Board",
+      "name": "Trotwood-Madison School Board",
+      "file": "Trotwood-Madison School Board.json"
+    },
+    {
+      "id": "Union Council",
+      "name": "Union Council",
+      "file": "Union Council.json"
+    },
+    {
+      "id": "Union Mayor",
+      "name": "Union Mayor",
+      "file": "Union Mayor.json"
+    },
+    {
+      "id": "Valley View Local School Board",
+      "name": "Valley View Local School Board",
+      "file": "Valley View Local School Board.json"
+    },
+    {
+      "id": "Vandalia Council",
+      "name": "Vandalia Council",
+      "file": "Vandalia Council.json"
+    },
+    {
+      "id": "Vandalia Mayor",
+      "name": "Vandalia Mayor",
+      "file": "Vandalia Mayor.json"
+    },
+    {
+      "id": "Vandalia-Butler School Board",
+      "name": "Vandalia-Butler School Board",
+      "file": "Vandalia-Butler School Board.json"
+    },
+    {
+      "id": "Verona Council",
+      "name": "Verona Council",
+      "file": "Verona Council.json"
+    },
+    {
+      "id": "Verona Mayor",
+      "name": "Verona Mayor",
+      "file": "Verona Mayor.json"
+    },
+    {
+      "id": "Verona Public Affairs",
+      "name": "Verona Public Affairs",
+      "file": "Verona Public Affairs.json"
+    },
+    {
+      "id": "Warren County Educational Service Center",
+      "name": "Warren County Educational Service Center",
+      "file": "Warren County Educational Service Center.json"
+    },
+    {
+      "id": "Washington Township Fiscal Officer",
+      "name": "Washington Township Fiscal Officer",
+      "file": "Washington Township Fiscal Officer.json"
+    },
+    {
+      "id": "Washington Township Trustee",
+      "name": "Washington Township Trustee",
+      "file": "Washington Township Trustee.json"
+    },
+    {
+      "id": "West Carrollton Council",
+      "name": "West Carrollton Council",
+      "file": "West Carrollton Council.json"
+    },
+    {
+      "id": "West Carrollton Mayor",
+      "name": "West Carrollton Mayor",
+      "file": "West Carrollton Mayor.json"
+    },
+    {
+      "id": "West Carrollton School Board",
+      "name": "West Carrollton School Board",
+      "file": "West Carrollton School Board.json"
+    }
+  ],
+  "displayName": "November 2023 General Election"
+}

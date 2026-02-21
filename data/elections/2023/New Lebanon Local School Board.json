@@ -1,0 +1,105 @@
+{
+  "race": "New Lebanon Local School Board",
+  "precincts": 9,
+  "results": [
+    {
+      "Precinct": "JAKTWP-A",
+      "Ericka Boggs": 98,
+      "Lankheit Tonya": 132,
+      "Ron Moore": 193,
+      "Peterson David H.": 80,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 225,
+      "Contest Total": 728
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Ericka Boggs": 19,
+      "Lankheit Tonya": 14,
+      "Ron Moore": 26,
+      "Peterson David H.": 12,
+      "Total Votes Cast": 71,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 110
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Ericka Boggs": 80,
+      "Lankheit Tonya": 118,
+      "Ron Moore": 149,
+      "Peterson David H.": 58,
+      "Total Votes Cast": 405,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 642
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Ericka Boggs": 169,
+      "Lankheit Tonya": 160,
+      "Ron Moore": 214,
+      "Peterson David H.": 100,
+      "Total Votes Cast": 643,
+      "Overvotes": 0,
+      "Undervotes": 293,
+      "Contest Total": 936
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Ericka Boggs": 11,
+      "Lankheit Tonya": 25,
+      "Ron Moore": 24,
+      "Peterson David H.": 12,
+      "Total Votes Cast": 72,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 128
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Ericka Boggs": 5,
+      "Lankheit Tonya": 14,
+      "Ron Moore": 23,
+      "Peterson David H.": 10,
+      "Total Votes Cast": 52,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 84
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Ericka Boggs": 135,
+      "Lankheit Tonya": 141,
+      "Ron Moore": 273,
+      "Peterson David H.": 108,
+      "Total Votes Cast": 657,
+      "Overvotes": 0,
+      "Undervotes": 341,
+      "Contest Total": 998
+    },
+    {
+      "Precinct": "PNLB",
+      "Ericka Boggs": 118,
+      "Lankheit Tonya": 110,
+      "Ron Moore": 136,
+      "Peterson David H.": 75,
+      "Total Votes Cast": 439,
+      "Overvotes": 0,
+      "Undervotes": 189,
+      "Contest Total": 628
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Ericka Boggs": 27,
+      "Lankheit Tonya": 20,
+      "Ron Moore": 38,
+      "Peterson David H.": 21,
+      "Total Votes Cast": 106,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 176
+    }
+  ]
+}

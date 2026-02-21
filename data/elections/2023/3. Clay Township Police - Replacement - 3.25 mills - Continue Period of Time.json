@@ -1,0 +1,42 @@
+{
+  "race": "3. Clay Township Police - Replacement - 3.25 mills - Continue Period of Time",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "FOR THE LEVY TAX": 1,
+      "AGAINST TAX LEVY THE": 2,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 4
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "FOR THE LEVY TAX": 264,
+      "AGAINST TAX LEVY THE": 152,
+      "Total Votes Cast": 416,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "FOR THE LEVY TAX": 290,
+      "AGAINST TAX LEVY THE": 143,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "FOR THE LEVY TAX": 381,
+      "AGAINST TAX LEVY THE": 223,
+      "Total Votes Cast": 604,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 629
+    }
+  ]
+}

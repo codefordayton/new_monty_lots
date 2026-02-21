@@ -1,0 +1,24 @@
+{
+  "race": "12. Beavercreek CSD - Replacement - 1 mill - 5 yrs",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "KT 1-E",
+      "FOR THE LEVY TAX": 48,
+      "AGAINST TAX LEVY THE": 59,
+      "Total Votes Cast": 107,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 108
+    },
+    {
+      "Precinct": "RV-D",
+      "FOR THE LEVY TAX": 221,
+      "AGAINST TAX LEVY THE": 221,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 462
+    }
+  ]
+}

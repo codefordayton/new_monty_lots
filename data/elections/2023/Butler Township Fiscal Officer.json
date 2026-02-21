@@ -1,0 +1,70 @@
+{
+  "race": "Butler Township Fiscal Officer",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "BTLTWP-A",
+      "Gregory Brush A.": 389,
+      "Total Votes Cast": 389,
+      "Overvotes": 0,
+      "Undervotes": 185,
+      "Contest Total": 574
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Gregory Brush A.": 369,
+      "Total Votes Cast": 369,
+      "Overvotes": 0,
+      "Undervotes": 178,
+      "Contest Total": 547
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Gregory Brush A.": 458,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 212,
+      "Contest Total": 670
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Gregory Brush A.": 426,
+      "Total Votes Cast": 426,
+      "Overvotes": 0,
+      "Undervotes": 200,
+      "Contest Total": 626
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Gregory Brush A.": 316,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 148,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Gregory Brush A.": 372,
+      "Total Votes Cast": 372,
+      "Overvotes": 0,
+      "Undervotes": 157,
+      "Contest Total": 529
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Gregory Brush A.": 224,
+      "Total Votes Cast": 224,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 322
+    },
+    {
+      "Precinct": "UN-C",
+      "Gregory Brush A.": 3,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 1,
+      "Contest Total": 4
+    }
+  ]
+}

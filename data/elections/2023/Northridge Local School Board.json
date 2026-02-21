@@ -1,0 +1,105 @@
+{
+  "race": "Northridge Local School Board",
+  "precincts": 9,
+  "results": [
+    {
+      "Precinct": "DAY 3-B",
+      "James Dillon M.": 59,
+      "Tina Fiore": 76,
+      "Libby Harner- Fickert": 35,
+      "Fugate Jacinda": 63,
+      "Total Votes Cast": 233,
+      "Overvotes": 0,
+      "Undervotes": 202,
+      "Contest Total": 435
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "James Dillon M.": 95,
+      "Tina Fiore": 148,
+      "Libby Harner- Fickert": 77,
+      "Fugate Jacinda": 116,
+      "Total Votes Cast": 436,
+      "Overvotes": 0,
+      "Undervotes": 434,
+      "Contest Total": 870
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "James Dillon M.": 1,
+      "Tina Fiore": 2,
+      "Libby Harner- Fickert": 0,
+      "Fugate Jacinda": 0,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 6
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "James Dillon M.": 46,
+      "Tina Fiore": 67,
+      "Libby Harner- Fickert": 36,
+      "Fugate Jacinda": 35,
+      "Total Votes Cast": 184,
+      "Overvotes": 0,
+      "Undervotes": 224,
+      "Contest Total": 408
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "James Dillon M.": 104,
+      "Tina Fiore": 134,
+      "Libby Harner- Fickert": 56,
+      "Fugate Jacinda": 74,
+      "Total Votes Cast": 368,
+      "Overvotes": 0,
+      "Undervotes": 310,
+      "Contest Total": 678
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "James Dillon M.": 114,
+      "Tina Fiore": 191,
+      "Libby Harner- Fickert": 79,
+      "Fugate Jacinda": 104,
+      "Total Votes Cast": 488,
+      "Overvotes": 0,
+      "Undervotes": 403,
+      "Contest Total": 891
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "James Dillon M.": 124,
+      "Tina Fiore": 179,
+      "Libby Harner- Fickert": 85,
+      "Fugate Jacinda": 87,
+      "Total Votes Cast": 475,
+      "Overvotes": 0,
+      "Undervotes": 392,
+      "Contest Total": 867
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "James Dillon M.": 89,
+      "Tina Fiore": 133,
+      "Libby Harner- Fickert": 59,
+      "Fugate Jacinda": 58,
+      "Total Votes Cast": 339,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 567
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "James Dillon M.": 144,
+      "Tina Fiore": 176,
+      "Libby Harner- Fickert": 90,
+      "Fugate Jacinda": 128,
+      "Total Votes Cast": 538,
+      "Overvotes": 0,
+      "Undervotes": 347,
+      "Contest Total": 885
+    }
+  ]
+}

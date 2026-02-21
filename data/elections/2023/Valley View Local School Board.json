@@ -1,0 +1,127 @@
+{
+  "race": "Valley View Local School Board",
+  "precincts": 11,
+  "results": [
+    {
+      "Precinct": "FARM",
+      "Lisa Batten": 126,
+      "Tyson Dillon": 270,
+      "Chevella Griffith": 230,
+      "Spencer Izor": 94,
+      "Total Votes Cast": 720,
+      "Overvotes": 0,
+      "Undervotes": 92,
+      "Contest Total": 812
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Lisa Batten": 138,
+      "Tyson Dillon": 343,
+      "Chevella Griffith": 314,
+      "Spencer Izor": 125,
+      "Total Votes Cast": 920,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 1024
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Lisa Batten": 219,
+      "Tyson Dillon": 363,
+      "Chevella Griffith": 340,
+      "Spencer Izor": 196,
+      "Total Votes Cast": 1118,
+      "Overvotes": 0,
+      "Undervotes": 148,
+      "Contest Total": 1266
+    },
+    {
+      "Precinct": "GTN-A",
+      "Lisa Batten": 213,
+      "Tyson Dillon": 344,
+      "Chevella Griffith": 307,
+      "Spencer Izor": 184,
+      "Total Votes Cast": 1048,
+      "Overvotes": 0,
+      "Undervotes": 136,
+      "Contest Total": 1184
+    },
+    {
+      "Precinct": "GTN-B",
+      "Lisa Batten": 139,
+      "Tyson Dillon": 266,
+      "Chevella Griffith": 244,
+      "Spencer Izor": 123,
+      "Total Votes Cast": 772,
+      "Overvotes": 0,
+      "Undervotes": 116,
+      "Contest Total": 888
+    },
+    {
+      "Precinct": "GTN-C",
+      "Lisa Batten": 185,
+      "Tyson Dillon": 404,
+      "Chevella Griffith": 341,
+      "Spencer Izor": 150,
+      "Total Votes Cast": 1080,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 1160
+    },
+    {
+      "Precinct": "GTN-D",
+      "Lisa Batten": 182,
+      "Tyson Dillon": 264,
+      "Chevella Griffith": 253,
+      "Spencer Izor": 168,
+      "Total Votes Cast": 867,
+      "Overvotes": 0,
+      "Undervotes": 155,
+      "Contest Total": 1022
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Lisa Batten": 93,
+      "Tyson Dillon": 187,
+      "Chevella Griffith": 177,
+      "Spencer Izor": 83,
+      "Total Votes Cast": 540,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 618
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Lisa Batten": 132,
+      "Tyson Dillon": 314,
+      "Chevella Griffith": 290,
+      "Spencer Izor": 124,
+      "Total Votes Cast": 860,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 958
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Lisa Batten": 0,
+      "Tyson Dillon": 0,
+      "Chevella Griffith": 0,
+      "Spencer Izor": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Lisa Batten": 0,
+      "Tyson Dillon": 0,
+      "Chevella Griffith": 0,
+      "Spencer Izor": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

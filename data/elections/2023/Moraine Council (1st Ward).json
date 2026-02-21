@@ -1,0 +1,13 @@
+{
+  "race": "Moraine Council (1st Ward)",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MOR 1-A",
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 243,
+      "Contest Total": 243
+    }
+  ]
+}

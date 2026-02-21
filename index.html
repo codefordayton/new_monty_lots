@@ -112,8 +112,17 @@
           <div class="election-controls">
             <label class="comparison-toggle">
               <input type="checkbox" id="comparison-mode-toggle" />
-              <span>Compare 2024 vs 2025 Turnout</span>
+              <span>Compare Turnout Between Years</span>
             </label>
+          </div>
+
+          <!-- Comparison Year Selector (shown when toggle is checked) -->
+          <div class="election-controls" id="comparison-years-container" style="display: none">
+            <label for="comparison-year-select">Compare:</label>
+            <select id="comparison-year-select">
+              <option value="2023-2025">2023 vs 2025 (Local vs Local)</option>
+              <option value="2024-2025">2024 vs 2025 (Presidential vs Local)</option>
+            </select>
           </div>
 
           <!-- Single Year Mode Controls -->

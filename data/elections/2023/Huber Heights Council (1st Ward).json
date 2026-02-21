@@ -1,0 +1,38 @@
+{
+  "race": "Huber Heights Council (1st Ward)",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "HUB 1-A",
+      "Davidson Scott A.": 252,
+      "Total Votes Cast": 252,
+      "Overvotes": 0,
+      "Undervotes": 234,
+      "Contest Total": 486
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Davidson Scott A.": 411,
+      "Total Votes Cast": 411,
+      "Overvotes": 0,
+      "Undervotes": 286,
+      "Contest Total": 697
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Davidson Scott A.": 236,
+      "Total Votes Cast": 236,
+      "Overvotes": 0,
+      "Undervotes": 169,
+      "Contest Total": 405
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Davidson Scott A.": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 204,
+      "Contest Total": 594
+    }
+  ]
+}

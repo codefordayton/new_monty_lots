@@ -1,0 +1,15 @@
+{
+  "race": "Phillipsburg Mayor",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "PHBG",
+      "Rebecca Ford": 75,
+      "Shawna Newsom L.": 91,
+      "Total Votes Cast": 166,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 178
+    }
+  ]
+}

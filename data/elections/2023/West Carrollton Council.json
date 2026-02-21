@@ -1,0 +1,87 @@
+{
+  "race": "West Carrollton Council",
+  "precincts": 9,
+  "results": [
+    {
+      "Precinct": "WCR-A",
+      "Angie Fryman": 196,
+      "Jill Tomlin": 192,
+      "Total Votes Cast": 388,
+      "Overvotes": 0,
+      "Undervotes": 466,
+      "Contest Total": 854
+    },
+    {
+      "Precinct": "WCR-B",
+      "Angie Fryman": 225,
+      "Jill Tomlin": 202,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 525,
+      "Contest Total": 952
+    },
+    {
+      "Precinct": "WCR-C",
+      "Angie Fryman": 249,
+      "Jill Tomlin": 214,
+      "Total Votes Cast": 463,
+      "Overvotes": 0,
+      "Undervotes": 491,
+      "Contest Total": 954
+    },
+    {
+      "Precinct": "WCR-D",
+      "Angie Fryman": 251,
+      "Jill Tomlin": 228,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 539,
+      "Contest Total": 1018
+    },
+    {
+      "Precinct": "WCR-E",
+      "Angie Fryman": 149,
+      "Jill Tomlin": 114,
+      "Total Votes Cast": 263,
+      "Overvotes": 0,
+      "Undervotes": 279,
+      "Contest Total": 542
+    },
+    {
+      "Precinct": "WCR-F",
+      "Angie Fryman": 178,
+      "Jill Tomlin": 136,
+      "Total Votes Cast": 314,
+      "Overvotes": 0,
+      "Undervotes": 332,
+      "Contest Total": 646
+    },
+    {
+      "Precinct": "WCR-G",
+      "Angie Fryman": 255,
+      "Jill Tomlin": 203,
+      "Total Votes Cast": 458,
+      "Overvotes": 0,
+      "Undervotes": 488,
+      "Contest Total": 946
+    },
+    {
+      "Precinct": "WCR-H",
+      "Angie Fryman": 173,
+      "Jill Tomlin": 162,
+      "Total Votes Cast": 335,
+      "Overvotes": 0,
+      "Undervotes": 497,
+      "Contest Total": 832
+    },
+    {
+      "Precinct": "WCR-I",
+      "Angie Fryman": 112,
+      "Jill Tomlin": 103,
+      "Total Votes Cast": 215,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 492
+    }
+  ]
+}

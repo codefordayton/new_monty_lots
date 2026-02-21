@@ -1,0 +1,96 @@
+{
+  "race": "Englewood Mayor",
+  "precincts": 10,
+  "results": [
+    {
+      "Precinct": "ENG-A",
+      "Tom Franz": 265,
+      "Cathy McGrail": 273,
+      "Total Votes Cast": 538,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 615
+    },
+    {
+      "Precinct": "ENG-B",
+      "Tom Franz": 220,
+      "Cathy McGrail": 249,
+      "Total Votes Cast": 469,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 544
+    },
+    {
+      "Precinct": "ENG-C",
+      "Tom Franz": 191,
+      "Cathy McGrail": 210,
+      "Total Votes Cast": 401,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 452
+    },
+    {
+      "Precinct": "ENG-D",
+      "Tom Franz": 279,
+      "Cathy McGrail": 294,
+      "Total Votes Cast": 573,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 624
+    },
+    {
+      "Precinct": "ENG-E",
+      "Tom Franz": 219,
+      "Cathy McGrail": 299,
+      "Total Votes Cast": 518,
+      "Overvotes": 0,
+      "Undervotes": 87,
+      "Contest Total": 605
+    },
+    {
+      "Precinct": "ENG-F",
+      "Tom Franz": 259,
+      "Cathy McGrail": 210,
+      "Total Votes Cast": 469,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 524
+    },
+    {
+      "Precinct": "ENG-G",
+      "Tom Franz": 253,
+      "Cathy McGrail": 268,
+      "Total Votes Cast": 521,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 591
+    },
+    {
+      "Precinct": "ENG-H",
+      "Tom Franz": 211,
+      "Cathy McGrail": 214,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 456
+    },
+    {
+      "Precinct": "ENG-I",
+      "Tom Franz": 182,
+      "Cathy McGrail": 184,
+      "Total Votes Cast": 366,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 408
+    },
+    {
+      "Precinct": "ENG-J",
+      "Tom Franz": 175,
+      "Cathy McGrail": 252,
+      "Total Votes Cast": 427,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 485
+    }
+  ]
+}

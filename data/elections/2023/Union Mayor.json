@@ -1,0 +1,46 @@
+{
+  "race": "Union Mayor",
+  "precincts": 5,
+  "results": [
+    {
+      "Precinct": "UN-A",
+      "O'Callaghan Mike": 233,
+      "Total Votes Cast": 233,
+      "Overvotes": 0,
+      "Undervotes": 72,
+      "Contest Total": 305
+    },
+    {
+      "Precinct": "UN-B",
+      "O'Callaghan Mike": 381,
+      "Total Votes Cast": 381,
+      "Overvotes": 0,
+      "Undervotes": 121,
+      "Contest Total": 502
+    },
+    {
+      "Precinct": "UN-C",
+      "O'Callaghan Mike": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 136,
+      "Contest Total": 520
+    },
+    {
+      "Precinct": "UN-D",
+      "O'Callaghan Mike": 433,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 157,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "UN-E",
+      "O'Callaghan Mike": 379,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 174,
+      "Contest Total": 553
+    }
+  ]
+}

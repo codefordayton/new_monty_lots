@@ -1,0 +1,33 @@
+{
+  "race": "34. Village of New Lebanon Road - Renewal - 5 mills - 5 yrs",
+  "precincts": 3,
+  "results": [
+    {
+      "Precinct": "JNLB-A",
+      "FOR THE LEVY TAX": 163,
+      "AGAINST TAX LEVY THE": 137,
+      "Total Votes Cast": 300,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "JNLB-B",
+      "FOR THE LEVY TAX": 255,
+      "AGAINST TAX LEVY THE": 189,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 468
+    },
+    {
+      "Precinct": "PNLB",
+      "FOR THE LEVY TAX": 163,
+      "AGAINST TAX LEVY THE": 136,
+      "Total Votes Cast": 299,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 314
+    }
+  ]
+}

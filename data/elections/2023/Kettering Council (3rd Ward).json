@@ -1,0 +1,94 @@
+{
+  "race": "Kettering Council (3rd Ward)",
+  "precincts": 11,
+  "results": [
+    {
+      "Precinct": "KT 3-A",
+      "Shane Sullivan": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 244,
+      "Contest Total": 582
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Shane Sullivan": 348,
+      "Total Votes Cast": 348,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 593
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Shane Sullivan": 394,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 215,
+      "Contest Total": 609
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Shane Sullivan": 289,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 165,
+      "Contest Total": 454
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Shane Sullivan": 361,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 219,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Shane Sullivan": 278,
+      "Total Votes Cast": 278,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 457
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Shane Sullivan": 325,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 164,
+      "Contest Total": 489
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Shane Sullivan": 336,
+      "Total Votes Cast": 336,
+      "Overvotes": 0,
+      "Undervotes": 218,
+      "Contest Total": 554
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Shane Sullivan": 338,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 547
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Shane Sullivan": 323,
+      "Total Votes Cast": 323,
+      "Overvotes": 0,
+      "Undervotes": 214,
+      "Contest Total": 537
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Shane Sullivan": 433,
+      "Total Votes Cast": 433,
+      "Overvotes": 0,
+      "Undervotes": 247,
+      "Contest Total": 680
+    }
+  ]
+}

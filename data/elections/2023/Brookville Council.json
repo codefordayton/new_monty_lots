@@ -1,0 +1,50 @@
+{
+  "race": "Brookville Council",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Stephen Crane C.": 203,
+      "JD Fowler": 268,
+      "Damian Kristof": 166,
+      "Dennis Piper": 238,
+      "Total Votes Cast": 875,
+      "Overvotes": 0,
+      "Undervotes": 919,
+      "Contest Total": 1794
+    },
+    {
+      "Precinct": "BRK-B",
+      "Stephen Crane C.": 146,
+      "JD Fowler": 244,
+      "Damian Kristof": 123,
+      "Dennis Piper": 201,
+      "Total Votes Cast": 714,
+      "Overvotes": 0,
+      "Undervotes": 678,
+      "Contest Total": 1392
+    },
+    {
+      "Precinct": "BRK-C",
+      "Stephen Crane C.": 233,
+      "JD Fowler": 338,
+      "Damian Kristof": 175,
+      "Dennis Piper": 275,
+      "Total Votes Cast": 1021,
+      "Overvotes": 0,
+      "Undervotes": 836,
+      "Contest Total": 1857
+    },
+    {
+      "Precinct": "BRK-D",
+      "Stephen Crane C.": 200,
+      "JD Fowler": 316,
+      "Damian Kristof": 132,
+      "Dennis Piper": 225,
+      "Total Votes Cast": 873,
+      "Overvotes": 0,
+      "Undervotes": 711,
+      "Contest Total": 1584
+    }
+  ]
+}

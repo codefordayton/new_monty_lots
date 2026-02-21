@@ -1,0 +1,51 @@
+{
+  "race": "Perry Township Trustee",
+  "precincts": 5,
+  "results": [
+    {
+      "Precinct": "BRK-D",
+      "Blaine Heeter": 171,
+      "Warner Boyd L.": 244,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 113,
+      "Contest Total": 528
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Blaine Heeter": 155,
+      "Warner Boyd L.": 177,
+      "Total Votes Cast": 332,
+      "Overvotes": 0,
+      "Undervotes": 64,
+      "Contest Total": 396
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Blaine Heeter": 212,
+      "Warner Boyd L.": 166,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 85,
+      "Contest Total": 463
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Blaine Heeter": 117,
+      "Warner Boyd L.": 277,
+      "Total Votes Cast": 394,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "PNLB",
+      "Blaine Heeter": 97,
+      "Warner Boyd L.": 137,
+      "Total Votes Cast": 234,
+      "Overvotes": 0,
+      "Undervotes": 80,
+      "Contest Total": 314
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "race": "Germantown Council",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "GTN-A",
+      "Gunckel Koogle Bonnie": 333,
+      "Jeffrey Jones Frank": 232,
+      "Rick Reed": 281,
+      "Total Votes Cast": 846,
+      "Overvotes": 0,
+      "Undervotes": 930,
+      "Contest Total": 1776
+    },
+    {
+      "Precinct": "GTN-B",
+      "Gunckel Koogle Bonnie": 223,
+      "Jeffrey Jones Frank": 181,
+      "Rick Reed": 212,
+      "Total Votes Cast": 616,
+      "Overvotes": 0,
+      "Undervotes": 716,
+      "Contest Total": 1332
+    },
+    {
+      "Precinct": "GTN-C",
+      "Gunckel Koogle Bonnie": 341,
+      "Jeffrey Jones Frank": 266,
+      "Rick Reed": 294,
+      "Total Votes Cast": 901,
+      "Overvotes": 0,
+      "Undervotes": 839,
+      "Contest Total": 1740
+    },
+    {
+      "Precinct": "GTN-D",
+      "Gunckel Koogle Bonnie": 268,
+      "Jeffrey Jones Frank": 184,
+      "Rick Reed": 240,
+      "Total Votes Cast": 692,
+      "Overvotes": 0,
+      "Undervotes": 841,
+      "Contest Total": 1533
+    }
+  ]
+}

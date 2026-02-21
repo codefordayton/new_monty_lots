@@ -1,0 +1,51 @@
+{
+  "race": "31. City of Moraine - Charter Amendment - Section 3.5",
+  "precincts": 5,
+  "results": [
+    {
+      "Precinct": "MOR 1-A",
+      "Yes": 103,
+      "No": 101,
+      "Total Votes Cast": 204,
+      "Overvotes": 0,
+      "Undervotes": 39,
+      "Contest Total": 243
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Yes": 246,
+      "No": 205,
+      "Total Votes Cast": 451,
+      "Overvotes": 0,
+      "Undervotes": 66,
+      "Contest Total": 517
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Yes": 123,
+      "No": 135,
+      "Total Votes Cast": 258,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Yes": 117,
+      "No": 114,
+      "Total Votes Cast": 231,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 263
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Yes": 95,
+      "No": 70,
+      "Total Votes Cast": 165,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 199
+    }
+  ]
+}

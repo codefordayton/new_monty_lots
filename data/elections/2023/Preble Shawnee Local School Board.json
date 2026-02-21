@@ -1,0 +1,26 @@
+{
+  "race": "Preble Shawnee Local School Board",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "GERTWP-A",
+      "Polly Heinkel": 20,
+      "Lisa Tuttle- Huff": 26,
+      "Jeff Wood": 19,
+      "Total Votes Cast": 65,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 142
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Polly Heinkel": 0,
+      "Lisa Tuttle- Huff": 0,
+      "Jeff Wood": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    }
+  ]
+}

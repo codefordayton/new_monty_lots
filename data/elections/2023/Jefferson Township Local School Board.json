@@ -1,0 +1,86 @@
+{
+  "race": "Jefferson Township Local School Board",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "DAY 14-A",
+      "Shaunece Gillespie": 62,
+      "McDaniel Renee": 43,
+      "Rodney Taylor": 33,
+      "Total Votes Cast": 138,
+      "Overvotes": 0,
+      "Undervotes": 78,
+      "Contest Total": 216
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Shaunece Gillespie": 16,
+      "McDaniel Renee": 11,
+      "Rodney Taylor": 8,
+      "Total Votes Cast": 35,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 78
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Shaunece Gillespie": 200,
+      "McDaniel Renee": 215,
+      "Rodney Taylor": 155,
+      "Total Votes Cast": 570,
+      "Overvotes": 0,
+      "Undervotes": 450,
+      "Contest Total": 1020
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Shaunece Gillespie": 82,
+      "McDaniel Renee": 88,
+      "Rodney Taylor": 30,
+      "Total Votes Cast": 200,
+      "Overvotes": 0,
+      "Undervotes": 92,
+      "Contest Total": 292
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Shaunece Gillespie": 140,
+      "McDaniel Renee": 199,
+      "Rodney Taylor": 116,
+      "Total Votes Cast": 455,
+      "Overvotes": 0,
+      "Undervotes": 425,
+      "Contest Total": 880
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Shaunece Gillespie": 295,
+      "McDaniel Renee": 242,
+      "Rodney Taylor": 102,
+      "Total Votes Cast": 639,
+      "Overvotes": 0,
+      "Undervotes": 211,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Shaunece Gillespie": 24,
+      "McDaniel Renee": 38,
+      "Rodney Taylor": 31,
+      "Total Votes Cast": 93,
+      "Overvotes": 0,
+      "Undervotes": 129,
+      "Contest Total": 222
+    },
+    {
+      "Precinct": "WCR-A",
+      "Shaunece Gillespie": 2,
+      "McDaniel Renee": 5,
+      "Rodney Taylor": 4,
+      "Total Votes Cast": 11,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 36
+    }
+  ]
+}

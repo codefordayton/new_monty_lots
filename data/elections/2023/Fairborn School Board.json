@@ -1,0 +1,45 @@
+{
+  "race": "Fairborn School Board",
+  "precincts": 3,
+  "results": [
+    {
+      "Precinct": "DAY 3-J",
+      "Jerry Browning": 114,
+      "Susan Hieber": 80,
+      "Pat McCoart": 77,
+      "Wendy Landon": 102,
+      "R. Ellen Farthing Slone-": 36,
+      "Stephanie Webb": 96,
+      "Total Votes Cast": 505,
+      "Overvotes": 0,
+      "Undervotes": 437,
+      "Contest Total": 942
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Jerry Browning": 26,
+      "Susan Hieber": 21,
+      "Pat McCoart": 13,
+      "Wendy Landon": 32,
+      "R. Ellen Farthing Slone-": 9,
+      "Stephanie Webb": 27,
+      "Total Votes Cast": 128,
+      "Overvotes": 0,
+      "Undervotes": 133,
+      "Contest Total": 261
+    },
+    {
+      "Precinct": "RV-K",
+      "Jerry Browning": 125,
+      "Susan Hieber": 118,
+      "Pat McCoart": 126,
+      "Wendy Landon": 119,
+      "R. Ellen Farthing Slone-": 79,
+      "Stephanie Webb": 166,
+      "Total Votes Cast": 733,
+      "Overvotes": 0,
+      "Undervotes": 728,
+      "Contest Total": 1461
+    }
+  ]
+}

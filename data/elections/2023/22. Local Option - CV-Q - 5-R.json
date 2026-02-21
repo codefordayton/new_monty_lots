@@ -1,0 +1,15 @@
+{
+  "race": "22. Local Option - CV-Q - 5-R",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "CV-Q",
+      "Yes": 505,
+      "No": 70,
+      "Total Votes Cast": 575,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 589
+    }
+  ]
+}

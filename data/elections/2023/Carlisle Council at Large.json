@@ -1,0 +1,15 @@
+{
+  "race": "Carlisle Council at Large",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MIATWP-J",
+      "Kemper Debbie": 38,
+      "Chris Stivers": 41,
+      "Total Votes Cast": 79,
+      "Overvotes": 0,
+      "Undervotes": 71,
+      "Contest Total": 150
+    }
+  ]
+}

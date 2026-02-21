@@ -1,0 +1,2673 @@
+{
+  "race": "summary",
+  "precincts": 381,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Registered Voters - Total": 1092,
+      "Ballots Cast - Total": 598,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5476
+    },
+    {
+      "Precinct": "BRK-B",
+      "Registered Voters - Total": 986,
+      "Ballots Cast - Total": 464,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4706
+    },
+    {
+      "Precinct": "BRK-C",
+      "Registered Voters - Total": 1095,
+      "Ballots Cast - Total": 619,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5653
+    },
+    {
+      "Precinct": "BRK-D",
+      "Registered Voters - Total": 960,
+      "Ballots Cast - Total": 528,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.55
+    },
+    {
+      "Precinct": "BTLTWP-A",
+      "Registered Voters - Total": 987,
+      "Ballots Cast - Total": 574,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5816
+    },
+    {
+      "Precinct": "BTLTWP-B",
+      "Registered Voters - Total": 962,
+      "Ballots Cast - Total": 547,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5686
+    },
+    {
+      "Precinct": "BTLTWP-C",
+      "Registered Voters - Total": 1081,
+      "Ballots Cast - Total": 670,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6198
+    },
+    {
+      "Precinct": "BTLTWP-D",
+      "Registered Voters - Total": 1023,
+      "Ballots Cast - Total": 626,
+      "Ballots Cast - Blank": 2,
+      "Voter Turnout - Total": 0.6119
+    },
+    {
+      "Precinct": "BTLTWP-E",
+      "Registered Voters - Total": 696,
+      "Ballots Cast - Total": 464,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6667
+    },
+    {
+      "Precinct": "BTLTWP-F",
+      "Registered Voters - Total": 813,
+      "Ballots Cast - Total": 529,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6507
+    },
+    {
+      "Precinct": "BTLTWP-G",
+      "Registered Voters - Total": 749,
+      "Ballots Cast - Total": 322,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4299
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Registered Voters - Total": 697,
+      "Ballots Cast - Total": 434,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6227
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Registered Voters - Total": 794,
+      "Ballots Cast - Total": 443,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5579
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Registered Voters - Total": 1179,
+      "Ballots Cast - Total": 646,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5479
+    },
+    {
+      "Precinct": "CTN 1-A",
+      "Registered Voters - Total": 736,
+      "Ballots Cast - Total": 497,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6753
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "Registered Voters - Total": 853,
+      "Ballots Cast - Total": 514,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6026
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Registered Voters - Total": 998,
+      "Ballots Cast - Total": 652,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6533
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "Registered Voters - Total": 781,
+      "Ballots Cast - Total": 421,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5391
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "Registered Voters - Total": 828,
+      "Ballots Cast - Total": 462,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.558
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "Registered Voters - Total": 1110,
+      "Ballots Cast - Total": 608,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5477
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "Registered Voters - Total": 1163,
+      "Ballots Cast - Total": 663,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5701
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "Registered Voters - Total": 1065,
+      "Ballots Cast - Total": 658,
+      "Ballots Cast - Blank": 1,
+      "Voter Turnout - Total": 0.6178
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "Registered Voters - Total": 1089,
+      "Ballots Cast - Total": 583,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5354
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "Registered Voters - Total": 1112,
+      "Ballots Cast - Total": 492,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4424
+    },
+    {
+      "Precinct": "CV-A",
+      "Registered Voters - Total": 1042,
+      "Ballots Cast - Total": 364,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3493
+    },
+    {
+      "Precinct": "CV-B",
+      "Registered Voters - Total": 1073,
+      "Ballots Cast - Total": 649,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6048
+    },
+    {
+      "Precinct": "CV-C",
+      "Registered Voters - Total": 659,
+      "Ballots Cast - Total": 415,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6297
+    },
+    {
+      "Precinct": "CV-D",
+      "Registered Voters - Total": 934,
+      "Ballots Cast - Total": 385,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4122
+    },
+    {
+      "Precinct": "CV-E",
+      "Registered Voters - Total": 990,
+      "Ballots Cast - Total": 598,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.604
+    },
+    {
+      "Precinct": "CV-F",
+      "Registered Voters - Total": 1110,
+      "Ballots Cast - Total": 702,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6324
+    },
+    {
+      "Precinct": "CV-G",
+      "Registered Voters - Total": 1231,
+      "Ballots Cast - Total": 727,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5906
+    },
+    {
+      "Precinct": "CV-H",
+      "Registered Voters - Total": 1171,
+      "Ballots Cast - Total": 773,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6601
+    },
+    {
+      "Precinct": "CV-I",
+      "Registered Voters - Total": 1183,
+      "Ballots Cast - Total": 801,
+      "Ballots Cast - Blank": 1,
+      "Voter Turnout - Total": 0.6771
+    },
+    {
+      "Precinct": "CV-J",
+      "Registered Voters - Total": 1075,
+      "Ballots Cast - Total": 686,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6381
+    },
+    {
+      "Precinct": "CV-K",
+      "Registered Voters - Total": 1118,
+      "Ballots Cast - Total": 715,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6395
+    },
+    {
+      "Precinct": "CV-L",
+      "Registered Voters - Total": 1169,
+      "Ballots Cast - Total": 766,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6553
+    },
+    {
+      "Precinct": "CV-M",
+      "Registered Voters - Total": 1086,
+      "Ballots Cast - Total": 646,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5948
+    },
+    {
+      "Precinct": "CV-N",
+      "Registered Voters - Total": 1056,
+      "Ballots Cast - Total": 550,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5208
+    },
+    {
+      "Precinct": "CV-O",
+      "Registered Voters - Total": 1325,
+      "Ballots Cast - Total": 809,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6106
+    },
+    {
+      "Precinct": "CV-P",
+      "Registered Voters - Total": 1184,
+      "Ballots Cast - Total": 679,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5735
+    },
+    {
+      "Precinct": "CV-Q",
+      "Registered Voters - Total": 1079,
+      "Ballots Cast - Total": 589,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5459
+    },
+    {
+      "Precinct": "CV-R",
+      "Registered Voters - Total": 1152,
+      "Ballots Cast - Total": 585,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5078
+    },
+    {
+      "Precinct": "DAY 1-A",
+      "Registered Voters - Total": 1540,
+      "Ballots Cast - Total": 142,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.0922
+    },
+    {
+      "Precinct": "DAY 1-B",
+      "Registered Voters - Total": 1060,
+      "Ballots Cast - Total": 498,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4698
+    },
+    {
+      "Precinct": "DAY 1-C",
+      "Registered Voters - Total": 1075,
+      "Ballots Cast - Total": 320,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2977
+    },
+    {
+      "Precinct": "DAY 1-D",
+      "Registered Voters - Total": 776,
+      "Ballots Cast - Total": 233,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3003
+    },
+    {
+      "Precinct": "DAY 1-E",
+      "Registered Voters - Total": 927,
+      "Ballots Cast - Total": 498,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5372
+    },
+    {
+      "Precinct": "DAY 2-A",
+      "Registered Voters - Total": 949,
+      "Ballots Cast - Total": 240,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2529
+    },
+    {
+      "Precinct": "DAY 2-B",
+      "Registered Voters - Total": 763,
+      "Ballots Cast - Total": 363,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4758
+    },
+    {
+      "Precinct": "DAY 2-C",
+      "Registered Voters - Total": 925,
+      "Ballots Cast - Total": 306,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3308
+    },
+    {
+      "Precinct": "DAY 2-D",
+      "Registered Voters - Total": 953,
+      "Ballots Cast - Total": 180,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.1889
+    },
+    {
+      "Precinct": "DAY 3-A",
+      "Registered Voters - Total": 624,
+      "Ballots Cast - Total": 144,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2308
+    },
+    {
+      "Precinct": "DAY 3-B",
+      "Registered Voters - Total": 578,
+      "Ballots Cast - Total": 210,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3633
+    },
+    {
+      "Precinct": "DAY 3-C",
+      "Registered Voters - Total": 1091,
+      "Ballots Cast - Total": 583,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5344
+    },
+    {
+      "Precinct": "DAY 3-D",
+      "Registered Voters - Total": 848,
+      "Ballots Cast - Total": 290,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.342
+    },
+    {
+      "Precinct": "DAY 3-E",
+      "Registered Voters - Total": 621,
+      "Ballots Cast - Total": 163,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2625
+    },
+    {
+      "Precinct": "DAY 3-F",
+      "Registered Voters - Total": 990,
+      "Ballots Cast - Total": 501,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5061
+    },
+    {
+      "Precinct": "DAY 3-G",
+      "Registered Voters - Total": 927,
+      "Ballots Cast - Total": 247,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2665
+    },
+    {
+      "Precinct": "DAY 3-H",
+      "Registered Voters - Total": 919,
+      "Ballots Cast - Total": 258,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2807
+    },
+    {
+      "Precinct": "DAY 3-I",
+      "Registered Voters - Total": 1108,
+      "Ballots Cast - Total": 543,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4901
+    },
+    {
+      "Precinct": "DAY 3-J",
+      "Registered Voters - Total": 1171,
+      "Ballots Cast - Total": 409,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3493
+    },
+    {
+      "Precinct": "DAY 3-K",
+      "Registered Voters - Total": 1151,
+      "Ballots Cast - Total": 594,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5161
+    },
+    {
+      "Precinct": "DAY 3-L",
+      "Registered Voters - Total": 1031,
+      "Ballots Cast - Total": 557,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5403
+    },
+    {
+      "Precinct": "DAY 4-A",
+      "Registered Voters - Total": 939,
+      "Ballots Cast - Total": 318,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3387
+    },
+    {
+      "Precinct": "DAY 4-B",
+      "Registered Voters - Total": 915,
+      "Ballots Cast - Total": 236,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2579
+    },
+    {
+      "Precinct": "DAY 4-C",
+      "Registered Voters - Total": 829,
+      "Ballots Cast - Total": 281,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.339
+    },
+    {
+      "Precinct": "DAY 5-A",
+      "Registered Voters - Total": 738,
+      "Ballots Cast - Total": 214,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.29
+    },
+    {
+      "Precinct": "DAY 5-B",
+      "Registered Voters - Total": 752,
+      "Ballots Cast - Total": 244,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3245
+    },
+    {
+      "Precinct": "DAY 5-C",
+      "Registered Voters - Total": 659,
+      "Ballots Cast - Total": 174,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.264
+    },
+    {
+      "Precinct": "DAY 5-D",
+      "Registered Voters - Total": 936,
+      "Ballots Cast - Total": 231,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2468
+    },
+    {
+      "Precinct": "DAY 6-A",
+      "Registered Voters - Total": 934,
+      "Ballots Cast - Total": 266,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2848
+    },
+    {
+      "Precinct": "DAY 6-B",
+      "Registered Voters - Total": 915,
+      "Ballots Cast - Total": 240,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2623
+    },
+    {
+      "Precinct": "DAY 6-C",
+      "Registered Voters - Total": 855,
+      "Ballots Cast - Total": 204,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2386
+    },
+    {
+      "Precinct": "DAY 7-A",
+      "Registered Voters - Total": 836,
+      "Ballots Cast - Total": 205,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2452
+    },
+    {
+      "Precinct": "DAY 7-B",
+      "Registered Voters - Total": 483,
+      "Ballots Cast - Total": 208,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4306
+    },
+    {
+      "Precinct": "DAY 8-A",
+      "Registered Voters - Total": 1028,
+      "Ballots Cast - Total": 435,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4232
+    },
+    {
+      "Precinct": "DAY 8-B",
+      "Registered Voters - Total": 1164,
+      "Ballots Cast - Total": 442,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3797
+    },
+    {
+      "Precinct": "DAY 8-C",
+      "Registered Voters - Total": 1084,
+      "Ballots Cast - Total": 449,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4142
+    },
+    {
+      "Precinct": "DAY 8-D",
+      "Registered Voters - Total": 1149,
+      "Ballots Cast - Total": 410,
+      "Ballots Cast - Blank": 1,
+      "Voter Turnout - Total": 0.3568
+    },
+    {
+      "Precinct": "DAY 9-A",
+      "Registered Voters - Total": 1047,
+      "Ballots Cast - Total": 627,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5989
+    },
+    {
+      "Precinct": "DAY 9-B",
+      "Registered Voters - Total": 1082,
+      "Ballots Cast - Total": 530,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4898
+    },
+    {
+      "Precinct": "DAY 9-C",
+      "Registered Voters - Total": 1121,
+      "Ballots Cast - Total": 618,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5513
+    },
+    {
+      "Precinct": "DAY 9-D",
+      "Registered Voters - Total": 1036,
+      "Ballots Cast - Total": 398,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3842
+    },
+    {
+      "Precinct": "DAY 10-A",
+      "Registered Voters - Total": 854,
+      "Ballots Cast - Total": 411,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4813
+    },
+    {
+      "Precinct": "DAY 10-B",
+      "Registered Voters - Total": 700,
+      "Ballots Cast - Total": 338,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4829
+    },
+    {
+      "Precinct": "DAY 10-C",
+      "Registered Voters - Total": 702,
+      "Ballots Cast - Total": 324,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4615
+    },
+    {
+      "Precinct": "DAY 10-D",
+      "Registered Voters - Total": 840,
+      "Ballots Cast - Total": 377,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4488
+    },
+    {
+      "Precinct": "DAY 10-E",
+      "Registered Voters - Total": 789,
+      "Ballots Cast - Total": 340,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4309
+    },
+    {
+      "Precinct": "DAY 11-A",
+      "Registered Voters - Total": 607,
+      "Ballots Cast - Total": 259,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4267
+    },
+    {
+      "Precinct": "DAY 11-B",
+      "Registered Voters - Total": 969,
+      "Ballots Cast - Total": 215,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2219
+    },
+    {
+      "Precinct": "DAY 11-C",
+      "Registered Voters - Total": 841,
+      "Ballots Cast - Total": 241,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2866
+    },
+    {
+      "Precinct": "DAY 11-D",
+      "Registered Voters - Total": 998,
+      "Ballots Cast - Total": 367,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3677
+    },
+    {
+      "Precinct": "DAY 11-E",
+      "Registered Voters - Total": 743,
+      "Ballots Cast - Total": 298,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4011
+    },
+    {
+      "Precinct": "DAY 12-A",
+      "Registered Voters - Total": 1052,
+      "Ballots Cast - Total": 415,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3945
+    },
+    {
+      "Precinct": "DAY 12-B",
+      "Registered Voters - Total": 738,
+      "Ballots Cast - Total": 335,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4539
+    },
+    {
+      "Precinct": "DAY 12-C",
+      "Registered Voters - Total": 1004,
+      "Ballots Cast - Total": 312,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3108
+    },
+    {
+      "Precinct": "DAY 12-D",
+      "Registered Voters - Total": 922,
+      "Ballots Cast - Total": 202,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2191
+    },
+    {
+      "Precinct": "DAY 13-A",
+      "Registered Voters - Total": 765,
+      "Ballots Cast - Total": 229,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2993
+    },
+    {
+      "Precinct": "DAY 13-B",
+      "Registered Voters - Total": 716,
+      "Ballots Cast - Total": 105,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.1466
+    },
+    {
+      "Precinct": "DAY 14-A",
+      "Registered Voters - Total": 931,
+      "Ballots Cast - Total": 290,
+      "Ballots Cast - Blank": 1,
+      "Voter Turnout - Total": 0.3115
+    },
+    {
+      "Precinct": "DAY 14-B",
+      "Registered Voters - Total": 659,
+      "Ballots Cast - Total": 109,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.1654
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Registered Voters - Total": 842,
+      "Ballots Cast - Total": 182,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2162
+    },
+    {
+      "Precinct": "DAY 14-D",
+      "Registered Voters - Total": 1166,
+      "Ballots Cast - Total": 307,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2633
+    },
+    {
+      "Precinct": "DAY 15-A",
+      "Registered Voters - Total": 886,
+      "Ballots Cast - Total": 263,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2968
+    },
+    {
+      "Precinct": "DAY 15-B",
+      "Registered Voters - Total": 1044,
+      "Ballots Cast - Total": 294,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2816
+    },
+    {
+      "Precinct": "DAY 15-C",
+      "Registered Voters - Total": 687,
+      "Ballots Cast - Total": 205,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2984
+    },
+    {
+      "Precinct": "DAY 15-D",
+      "Registered Voters - Total": 763,
+      "Ballots Cast - Total": 226,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2962
+    },
+    {
+      "Precinct": "DAY 16-A",
+      "Registered Voters - Total": 831,
+      "Ballots Cast - Total": 279,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3357
+    },
+    {
+      "Precinct": "DAY 16-B",
+      "Registered Voters - Total": 748,
+      "Ballots Cast - Total": 179,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2393
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Registered Voters - Total": 820,
+      "Ballots Cast - Total": 200,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2439
+    },
+    {
+      "Precinct": "DAY 16-D",
+      "Registered Voters - Total": 1133,
+      "Ballots Cast - Total": 450,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3972
+    },
+    {
+      "Precinct": "DAY 16-E",
+      "Registered Voters - Total": 770,
+      "Ballots Cast - Total": 263,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3416
+    },
+    {
+      "Precinct": "DAY 17-A",
+      "Registered Voters - Total": 690,
+      "Ballots Cast - Total": 199,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2884
+    },
+    {
+      "Precinct": "DAY 17-B",
+      "Registered Voters - Total": 1032,
+      "Ballots Cast - Total": 253,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2452
+    },
+    {
+      "Precinct": "DAY 17-C",
+      "Registered Voters - Total": 1032,
+      "Ballots Cast - Total": 282,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2733
+    },
+    {
+      "Precinct": "DAY 17-D",
+      "Registered Voters - Total": 800,
+      "Ballots Cast - Total": 183,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2288
+    },
+    {
+      "Precinct": "DAY 18-A",
+      "Registered Voters - Total": 680,
+      "Ballots Cast - Total": 202,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2971
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Registered Voters - Total": 884,
+      "Ballots Cast - Total": 362,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4095
+    },
+    {
+      "Precinct": "DAY 18-C",
+      "Registered Voters - Total": 946,
+      "Ballots Cast - Total": 209,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2209
+    },
+    {
+      "Precinct": "DAY 18-D",
+      "Registered Voters - Total": 827,
+      "Ballots Cast - Total": 202,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2443
+    },
+    {
+      "Precinct": "DAY 19-A",
+      "Registered Voters - Total": 630,
+      "Ballots Cast - Total": 97,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.154
+    },
+    {
+      "Precinct": "DAY 19-B",
+      "Registered Voters - Total": 1003,
+      "Ballots Cast - Total": 254,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2532
+    },
+    {
+      "Precinct": "DAY 19-C",
+      "Registered Voters - Total": 749,
+      "Ballots Cast - Total": 225,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3004
+    },
+    {
+      "Precinct": "DAY 20-A",
+      "Registered Voters - Total": 1091,
+      "Ballots Cast - Total": 553,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5069
+    },
+    {
+      "Precinct": "DAY 20-B",
+      "Registered Voters - Total": 1209,
+      "Ballots Cast - Total": 564,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4665
+    },
+    {
+      "Precinct": "DAY 20-C",
+      "Registered Voters - Total": 856,
+      "Ballots Cast - Total": 380,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4439
+    },
+    {
+      "Precinct": "DAY 20-D",
+      "Registered Voters - Total": 828,
+      "Ballots Cast - Total": 385,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.465
+    },
+    {
+      "Precinct": "DAY 21-A",
+      "Registered Voters - Total": 874,
+      "Ballots Cast - Total": 192,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2197
+    },
+    {
+      "Precinct": "DAY 21-B",
+      "Registered Voters - Total": 899,
+      "Ballots Cast - Total": 189,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2102
+    },
+    {
+      "Precinct": "DAY 21-C",
+      "Registered Voters - Total": 921,
+      "Ballots Cast - Total": 297,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3225
+    },
+    {
+      "Precinct": "DAY 22-A",
+      "Registered Voters - Total": 1233,
+      "Ballots Cast - Total": 448,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3633
+    },
+    {
+      "Precinct": "DAY 22-B",
+      "Registered Voters - Total": 793,
+      "Ballots Cast - Total": 373,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4704
+    },
+    {
+      "Precinct": "DAY 22-C",
+      "Registered Voters - Total": 1377,
+      "Ballots Cast - Total": 471,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.342
+    },
+    {
+      "Precinct": "DAY 23-A",
+      "Registered Voters - Total": 887,
+      "Ballots Cast - Total": 394,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4442
+    },
+    {
+      "Precinct": "ENG-A",
+      "Registered Voters - Total": 969,
+      "Ballots Cast - Total": 615,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6347
+    },
+    {
+      "Precinct": "ENG-B",
+      "Registered Voters - Total": 995,
+      "Ballots Cast - Total": 544,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5467
+    },
+    {
+      "Precinct": "ENG-C",
+      "Registered Voters - Total": 1057,
+      "Ballots Cast - Total": 452,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4276
+    },
+    {
+      "Precinct": "ENG-D",
+      "Registered Voters - Total": 1208,
+      "Ballots Cast - Total": 624,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5166
+    },
+    {
+      "Precinct": "ENG-E",
+      "Registered Voters - Total": 1082,
+      "Ballots Cast - Total": 605,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5591
+    },
+    {
+      "Precinct": "ENG-F",
+      "Registered Voters - Total": 913,
+      "Ballots Cast - Total": 524,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5739
+    },
+    {
+      "Precinct": "ENG-G",
+      "Registered Voters - Total": 952,
+      "Ballots Cast - Total": 591,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6208
+    },
+    {
+      "Precinct": "ENG-H",
+      "Registered Voters - Total": 774,
+      "Ballots Cast - Total": 456,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5891
+    },
+    {
+      "Precinct": "ENG-I",
+      "Registered Voters - Total": 733,
+      "Ballots Cast - Total": 408,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5566
+    },
+    {
+      "Precinct": "ENG-J",
+      "Registered Voters - Total": 946,
+      "Ballots Cast - Total": 485,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5127
+    },
+    {
+      "Precinct": "FARM",
+      "Registered Voters - Total": 671,
+      "Ballots Cast - Total": 406,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6051
+    },
+    {
+      "Precinct": "GERTWP-A",
+      "Registered Voters - Total": 1114,
+      "Ballots Cast - Total": 647,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5808
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Registered Voters - Total": 1147,
+      "Ballots Cast - Total": 661,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5763
+    },
+    {
+      "Precinct": "GTN-A",
+      "Registered Voters - Total": 1023,
+      "Ballots Cast - Total": 592,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5787
+    },
+    {
+      "Precinct": "GTN-B",
+      "Registered Voters - Total": 969,
+      "Ballots Cast - Total": 444,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4582
+    },
+    {
+      "Precinct": "GTN-C",
+      "Registered Voters - Total": 960,
+      "Ballots Cast - Total": 580,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6042
+    },
+    {
+      "Precinct": "GTN-D",
+      "Registered Voters - Total": 1030,
+      "Ballots Cast - Total": 511,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4961
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Registered Voters - Total": 718,
+      "Ballots Cast - Total": 226,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3148
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Registered Voters - Total": 848,
+      "Ballots Cast - Total": 297,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3502
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Registered Voters - Total": 1203,
+      "Ballots Cast - Total": 289,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2402
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Registered Voters - Total": 1101,
+      "Ballots Cast - Total": 538,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4886
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Registered Voters - Total": 563,
+      "Ballots Cast - Total": 189,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3357
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Registered Voters - Total": 587,
+      "Ballots Cast - Total": 204,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3475
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Registered Voters - Total": 908,
+      "Ballots Cast - Total": 327,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3601
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Registered Voters - Total": 1109,
+      "Ballots Cast - Total": 309,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2786
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Registered Voters - Total": 958,
+      "Ballots Cast - Total": 274,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.286
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Registered Voters - Total": 894,
+      "Ballots Cast - Total": 340,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3803
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Registered Voters - Total": 1169,
+      "Ballots Cast - Total": 286,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2447
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Registered Voters - Total": 978,
+      "Ballots Cast - Total": 548,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5603
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Registered Voters - Total": 1100,
+      "Ballots Cast - Total": 531,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4827
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Registered Voters - Total": 815,
+      "Ballots Cast - Total": 295,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.362
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Registered Voters - Total": 1144,
+      "Ballots Cast - Total": 473,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4135
+    },
+    {
+      "Precinct": "HUB 1-A",
+      "Registered Voters - Total": 1093,
+      "Ballots Cast - Total": 486,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4446
+    },
+    {
+      "Precinct": "HUB 1-B",
+      "Registered Voters - Total": 1282,
+      "Ballots Cast - Total": 697,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5437
+    },
+    {
+      "Precinct": "HUB 1-C",
+      "Registered Voters - Total": 1145,
+      "Ballots Cast - Total": 405,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3537
+    },
+    {
+      "Precinct": "HUB 1-D",
+      "Registered Voters - Total": 1130,
+      "Ballots Cast - Total": 594,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5257
+    },
+    {
+      "Precinct": "HUB 2-A",
+      "Registered Voters - Total": 1126,
+      "Ballots Cast - Total": 555,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4929
+    },
+    {
+      "Precinct": "HUB 2-B",
+      "Registered Voters - Total": 1145,
+      "Ballots Cast - Total": 606,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5293
+    },
+    {
+      "Precinct": "HUB 3-A",
+      "Registered Voters - Total": 840,
+      "Ballots Cast - Total": 407,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4845
+    },
+    {
+      "Precinct": "HUB 3-B",
+      "Registered Voters - Total": 962,
+      "Ballots Cast - Total": 298,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3098
+    },
+    {
+      "Precinct": "HUB 3-C",
+      "Registered Voters - Total": 842,
+      "Ballots Cast - Total": 381,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4525
+    },
+    {
+      "Precinct": "HUB 3-D",
+      "Registered Voters - Total": 1191,
+      "Ballots Cast - Total": 532,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4467
+    },
+    {
+      "Precinct": "HUB 3-E",
+      "Registered Voters - Total": 878,
+      "Ballots Cast - Total": 393,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4476
+    },
+    {
+      "Precinct": "HUB 4-A",
+      "Registered Voters - Total": 1133,
+      "Ballots Cast - Total": 500,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4413
+    },
+    {
+      "Precinct": "HUB 4-B",
+      "Registered Voters - Total": 1032,
+      "Ballots Cast - Total": 500,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4845
+    },
+    {
+      "Precinct": "HUB 4-C",
+      "Registered Voters - Total": 1249,
+      "Ballots Cast - Total": 485,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3883
+    },
+    {
+      "Precinct": "HUB 4-D",
+      "Registered Voters - Total": 1159,
+      "Ballots Cast - Total": 491,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4236
+    },
+    {
+      "Precinct": "HUB 5-A",
+      "Registered Voters - Total": 1154,
+      "Ballots Cast - Total": 438,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3795
+    },
+    {
+      "Precinct": "HUB 5-B",
+      "Registered Voters - Total": 1089,
+      "Ballots Cast - Total": 434,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3985
+    },
+    {
+      "Precinct": "HUB 5-C",
+      "Registered Voters - Total": 1052,
+      "Ballots Cast - Total": 479,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4553
+    },
+    {
+      "Precinct": "HUB 5-D",
+      "Registered Voters - Total": 1073,
+      "Ballots Cast - Total": 440,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4101
+    },
+    {
+      "Precinct": "HUB 6-A",
+      "Registered Voters - Total": 861,
+      "Ballots Cast - Total": 424,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4925
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Registered Voters - Total": 1126,
+      "Ballots Cast - Total": 617,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.548
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Registered Voters - Total": 1039,
+      "Ballots Cast - Total": 557,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5361
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Registered Voters - Total": 1053,
+      "Ballots Cast - Total": 483,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4587
+    },
+    {
+      "Precinct": "JAKTWP-A",
+      "Registered Voters - Total": 1180,
+      "Ballots Cast - Total": 673,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5703
+    },
+    {
+      "Precinct": "JAKTWP-B",
+      "Registered Voters - Total": 770,
+      "Ballots Cast - Total": 479,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6221
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Registered Voters - Total": 1181,
+      "Ballots Cast - Total": 589,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4987
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Registered Voters - Total": 1019,
+      "Ballots Cast - Total": 280,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2748
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Registered Voters - Total": 881,
+      "Ballots Cast - Total": 440,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4994
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Registered Voters - Total": 1090,
+      "Ballots Cast - Total": 425,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3899
+    },
+    {
+      "Precinct": "JNLB-A",
+      "Registered Voters - Total": 652,
+      "Ballots Cast - Total": 321,
+      "Ballots Cast - Blank": 31,
+      "Voter Turnout - Total": 0.4923
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Registered Voters - Total": 999,
+      "Ballots Cast - Total": 468,
+      "Ballots Cast - Blank": 23,
+      "Voter Turnout - Total": 0.4685
+    },
+    {
+      "Precinct": "KT 1-A",
+      "Registered Voters - Total": 926,
+      "Ballots Cast - Total": 434,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4687
+    },
+    {
+      "Precinct": "KT 1-B",
+      "Registered Voters - Total": 838,
+      "Ballots Cast - Total": 404,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4821
+    },
+    {
+      "Precinct": "KT 1-C",
+      "Registered Voters - Total": 1201,
+      "Ballots Cast - Total": 579,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4821
+    },
+    {
+      "Precinct": "KT 1-D",
+      "Registered Voters - Total": 1235,
+      "Ballots Cast - Total": 533,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4316
+    },
+    {
+      "Precinct": "KT 1-E",
+      "Registered Voters - Total": 906,
+      "Ballots Cast - Total": 438,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4834
+    },
+    {
+      "Precinct": "KT 1-F",
+      "Registered Voters - Total": 871,
+      "Ballots Cast - Total": 441,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5063
+    },
+    {
+      "Precinct": "KT 1-G",
+      "Registered Voters - Total": 953,
+      "Ballots Cast - Total": 482,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5058
+    },
+    {
+      "Precinct": "KT 1-H",
+      "Registered Voters - Total": 1128,
+      "Ballots Cast - Total": 603,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5346
+    },
+    {
+      "Precinct": "KT 1-I",
+      "Registered Voters - Total": 1076,
+      "Ballots Cast - Total": 482,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.448
+    },
+    {
+      "Precinct": "KT 2-A",
+      "Registered Voters - Total": 1090,
+      "Ballots Cast - Total": 526,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4826
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Registered Voters - Total": 872,
+      "Ballots Cast - Total": 537,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6158
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Registered Voters - Total": 973,
+      "Ballots Cast - Total": 549,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5642
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Registered Voters - Total": 1079,
+      "Ballots Cast - Total": 546,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.506
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Registered Voters - Total": 1055,
+      "Ballots Cast - Total": 590,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5592
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Registered Voters - Total": 822,
+      "Ballots Cast - Total": 431,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5243
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Registered Voters - Total": 1197,
+      "Ballots Cast - Total": 739,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6174
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Registered Voters - Total": 1115,
+      "Ballots Cast - Total": 606,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5435
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Registered Voters - Total": 819,
+      "Ballots Cast - Total": 459,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5604
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Registered Voters - Total": 750,
+      "Ballots Cast - Total": 345,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.46
+    },
+    {
+      "Precinct": "KT 3-A",
+      "Registered Voters - Total": 1041,
+      "Ballots Cast - Total": 582,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5591
+    },
+    {
+      "Precinct": "KT 3-B",
+      "Registered Voters - Total": 1058,
+      "Ballots Cast - Total": 593,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5605
+    },
+    {
+      "Precinct": "KT 3-C",
+      "Registered Voters - Total": 904,
+      "Ballots Cast - Total": 609,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6737
+    },
+    {
+      "Precinct": "KT 3-D",
+      "Registered Voters - Total": 1089,
+      "Ballots Cast - Total": 454,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4169
+    },
+    {
+      "Precinct": "KT 3-E",
+      "Registered Voters - Total": 1067,
+      "Ballots Cast - Total": 580,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5436
+    },
+    {
+      "Precinct": "KT 3-F",
+      "Registered Voters - Total": 876,
+      "Ballots Cast - Total": 457,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5217
+    },
+    {
+      "Precinct": "KT 3-G",
+      "Registered Voters - Total": 818,
+      "Ballots Cast - Total": 489,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5978
+    },
+    {
+      "Precinct": "KT 3-H",
+      "Registered Voters - Total": 995,
+      "Ballots Cast - Total": 554,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5568
+    },
+    {
+      "Precinct": "KT 3-I",
+      "Registered Voters - Total": 845,
+      "Ballots Cast - Total": 547,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6473
+    },
+    {
+      "Precinct": "KT 3-J",
+      "Registered Voters - Total": 775,
+      "Ballots Cast - Total": 537,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6929
+    },
+    {
+      "Precinct": "KT 3-K",
+      "Registered Voters - Total": 1120,
+      "Ballots Cast - Total": 680,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6071
+    },
+    {
+      "Precinct": "KT 4-A",
+      "Registered Voters - Total": 1126,
+      "Ballots Cast - Total": 720,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6394
+    },
+    {
+      "Precinct": "KT 4-B",
+      "Registered Voters - Total": 1249,
+      "Ballots Cast - Total": 680,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5444
+    },
+    {
+      "Precinct": "KT 4-C",
+      "Registered Voters - Total": 703,
+      "Ballots Cast - Total": 419,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.596
+    },
+    {
+      "Precinct": "KT 4-D",
+      "Registered Voters - Total": 1060,
+      "Ballots Cast - Total": 581,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5481
+    },
+    {
+      "Precinct": "KT 4-E",
+      "Registered Voters - Total": 963,
+      "Ballots Cast - Total": 542,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5628
+    },
+    {
+      "Precinct": "KT 4-F",
+      "Registered Voters - Total": 929,
+      "Ballots Cast - Total": 602,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.648
+    },
+    {
+      "Precinct": "KT 4-G",
+      "Registered Voters - Total": 1158,
+      "Ballots Cast - Total": 806,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.696
+    },
+    {
+      "Precinct": "KT 4-H",
+      "Registered Voters - Total": 915,
+      "Ballots Cast - Total": 411,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4492
+    },
+    {
+      "Precinct": "KT 4-I",
+      "Registered Voters - Total": 1085,
+      "Ballots Cast - Total": 614,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5659
+    },
+    {
+      "Precinct": "KT 4-J",
+      "Registered Voters - Total": 996,
+      "Ballots Cast - Total": 520,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5221
+    },
+    {
+      "Precinct": "KT 4-K",
+      "Registered Voters - Total": 974,
+      "Ballots Cast - Total": 595,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6109
+    },
+    {
+      "Precinct": "MBG 1-A",
+      "Registered Voters - Total": 1108,
+      "Ballots Cast - Total": 639,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5767
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Registered Voters - Total": 1119,
+      "Ballots Cast - Total": 539,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4817
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Registered Voters - Total": 1031,
+      "Ballots Cast - Total": 546,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5296
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Registered Voters - Total": 864,
+      "Ballots Cast - Total": 392,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4537
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Registered Voters - Total": 1200,
+      "Ballots Cast - Total": 467,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3892
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Registered Voters - Total": 1080,
+      "Ballots Cast - Total": 566,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5241
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Registered Voters - Total": 795,
+      "Ballots Cast - Total": 376,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.473
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Registered Voters - Total": 965,
+      "Ballots Cast - Total": 574,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5948
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Registered Voters - Total": 876,
+      "Ballots Cast - Total": 402,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4589
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Registered Voters - Total": 1143,
+      "Ballots Cast - Total": 571,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4996
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Registered Voters - Total": 964,
+      "Ballots Cast - Total": 508,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.527
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Registered Voters - Total": 811,
+      "Ballots Cast - Total": 476,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5869
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Registered Voters - Total": 743,
+      "Ballots Cast - Total": 412,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5545
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Registered Voters - Total": 1239,
+      "Ballots Cast - Total": 751,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6061
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Registered Voters - Total": 1152,
+      "Ballots Cast - Total": 498,
+      "Ballots Cast - Blank": 1,
+      "Voter Turnout - Total": 0.4323
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Registered Voters - Total": 1001,
+      "Ballots Cast - Total": 399,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3986
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Registered Voters - Total": 1056,
+      "Ballots Cast - Total": 469,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4441
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Registered Voters - Total": 1182,
+      "Ballots Cast - Total": 401,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3393
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Registered Voters - Total": 1108,
+      "Ballots Cast - Total": 737,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6652
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Registered Voters - Total": 1079,
+      "Ballots Cast - Total": 457,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4235
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Registered Voters - Total": 934,
+      "Ballots Cast - Total": 399,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4272
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Registered Voters - Total": 1048,
+      "Ballots Cast - Total": 414,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.395
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Registered Voters - Total": 647,
+      "Ballots Cast - Total": 256,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3957
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Registered Voters - Total": 827,
+      "Ballots Cast - Total": 407,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4921
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Registered Voters - Total": 1159,
+      "Ballots Cast - Total": 621,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5358
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Registered Voters - Total": 795,
+      "Ballots Cast - Total": 413,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5195
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Registered Voters - Total": 904,
+      "Ballots Cast - Total": 438,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4845
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Registered Voters - Total": 873,
+      "Ballots Cast - Total": 540,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6186
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Registered Voters - Total": 925,
+      "Ballots Cast - Total": 540,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5838
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Registered Voters - Total": 942,
+      "Ballots Cast - Total": 269,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2856
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Registered Voters - Total": 1163,
+      "Ballots Cast - Total": 468,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4024
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Registered Voters - Total": 626,
+      "Ballots Cast - Total": 251,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.401
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Registered Voters - Total": 902,
+      "Ballots Cast - Total": 470,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5211
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Registered Voters - Total": 780,
+      "Ballots Cast - Total": 388,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4974
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Registered Voters - Total": 885,
+      "Ballots Cast - Total": 363,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4102
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Registered Voters - Total": 1049,
+      "Ballots Cast - Total": 375,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3575
+    },
+    {
+      "Precinct": "MOR 1-A",
+      "Registered Voters - Total": 773,
+      "Ballots Cast - Total": 243,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3144
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Registered Voters - Total": 1159,
+      "Ballots Cast - Total": 517,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4461
+    },
+    {
+      "Precinct": "MOR 3-A",
+      "Registered Voters - Total": 778,
+      "Ballots Cast - Total": 299,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3843
+    },
+    {
+      "Precinct": "MOR 4-A",
+      "Registered Voters - Total": 681,
+      "Ballots Cast - Total": 263,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3862
+    },
+    {
+      "Precinct": "MOR 4-B",
+      "Registered Voters - Total": 733,
+      "Ballots Cast - Total": 199,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2715
+    },
+    {
+      "Precinct": "OAK-A",
+      "Registered Voters - Total": 1012,
+      "Ballots Cast - Total": 643,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6354
+    },
+    {
+      "Precinct": "OAK-B",
+      "Registered Voters - Total": 971,
+      "Ballots Cast - Total": 648,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6674
+    },
+    {
+      "Precinct": "OAK-C",
+      "Registered Voters - Total": 818,
+      "Ballots Cast - Total": 522,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6381
+    },
+    {
+      "Precinct": "OAK-D",
+      "Registered Voters - Total": 852,
+      "Ballots Cast - Total": 546,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6408
+    },
+    {
+      "Precinct": "OAK-E",
+      "Registered Voters - Total": 885,
+      "Ballots Cast - Total": 589,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6655
+    },
+    {
+      "Precinct": "OAK-F",
+      "Registered Voters - Total": 1058,
+      "Ballots Cast - Total": 685,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6474
+    },
+    {
+      "Precinct": "OAK-G",
+      "Registered Voters - Total": 904,
+      "Ballots Cast - Total": 563,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6228
+    },
+    {
+      "Precinct": "OAK-H",
+      "Registered Voters - Total": 739,
+      "Ballots Cast - Total": 446,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6035
+    },
+    {
+      "Precinct": "PERTWP-A",
+      "Registered Voters - Total": 650,
+      "Ballots Cast - Total": 396,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6092
+    },
+    {
+      "Precinct": "PERTWP-B",
+      "Registered Voters - Total": 773,
+      "Ballots Cast - Total": 463,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.599
+    },
+    {
+      "Precinct": "PERTWP-C",
+      "Registered Voters - Total": 864,
+      "Ballots Cast - Total": 499,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5775
+    },
+    {
+      "Precinct": "PHBG",
+      "Registered Voters - Total": 322,
+      "Ballots Cast - Total": 178,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5528
+    },
+    {
+      "Precinct": "PM",
+      "Registered Voters - Total": 1082,
+      "Ballots Cast - Total": 201,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.1858
+    },
+    {
+      "Precinct": "PNLB",
+      "Registered Voters - Total": 788,
+      "Ballots Cast - Total": 314,
+      "Ballots Cast - Blank": 15,
+      "Voter Turnout - Total": 0.3985
+    },
+    {
+      "Precinct": "RV-A",
+      "Registered Voters - Total": 842,
+      "Ballots Cast - Total": 485,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.576
+    },
+    {
+      "Precinct": "RV-B",
+      "Registered Voters - Total": 764,
+      "Ballots Cast - Total": 291,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3809
+    },
+    {
+      "Precinct": "RV-C",
+      "Registered Voters - Total": 1181,
+      "Ballots Cast - Total": 393,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3328
+    },
+    {
+      "Precinct": "RV-D",
+      "Registered Voters - Total": 893,
+      "Ballots Cast - Total": 462,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5174
+    },
+    {
+      "Precinct": "RV-E",
+      "Registered Voters - Total": 1045,
+      "Ballots Cast - Total": 324,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.31
+    },
+    {
+      "Precinct": "RV-F",
+      "Registered Voters - Total": 771,
+      "Ballots Cast - Total": 373,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4838
+    },
+    {
+      "Precinct": "RV-G",
+      "Registered Voters - Total": 694,
+      "Ballots Cast - Total": 346,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4986
+    },
+    {
+      "Precinct": "RV-H",
+      "Registered Voters - Total": 637,
+      "Ballots Cast - Total": 174,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2732
+    },
+    {
+      "Precinct": "RV-I",
+      "Registered Voters - Total": 703,
+      "Ballots Cast - Total": 299,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4253
+    },
+    {
+      "Precinct": "RV-J",
+      "Registered Voters - Total": 695,
+      "Ballots Cast - Total": 334,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4806
+    },
+    {
+      "Precinct": "RV-K",
+      "Registered Voters - Total": 832,
+      "Ballots Cast - Total": 487,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5853
+    },
+    {
+      "Precinct": "RV-L",
+      "Registered Voters - Total": 646,
+      "Ballots Cast - Total": 227,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3514
+    },
+    {
+      "Precinct": "RV-M",
+      "Registered Voters - Total": 970,
+      "Ballots Cast - Total": 409,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4216
+    },
+    {
+      "Precinct": "RV-N",
+      "Registered Voters - Total": 877,
+      "Ballots Cast - Total": 257,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.293
+    },
+    {
+      "Precinct": "RV-O",
+      "Registered Voters - Total": 919,
+      "Ballots Cast - Total": 427,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4646
+    },
+    {
+      "Precinct": "RV-P",
+      "Registered Voters - Total": 999,
+      "Ballots Cast - Total": 472,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4725
+    },
+    {
+      "Precinct": "TR 1-A",
+      "Registered Voters - Total": 1017,
+      "Ballots Cast - Total": 490,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4818
+    },
+    {
+      "Precinct": "TR 1-B",
+      "Registered Voters - Total": 618,
+      "Ballots Cast - Total": 290,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4693
+    },
+    {
+      "Precinct": "TR 1-C",
+      "Registered Voters - Total": 828,
+      "Ballots Cast - Total": 379,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4577
+    },
+    {
+      "Precinct": "TR 1-D",
+      "Registered Voters - Total": 879,
+      "Ballots Cast - Total": 270,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3072
+    },
+    {
+      "Precinct": "TR 1-E",
+      "Registered Voters - Total": 1080,
+      "Ballots Cast - Total": 493,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4565
+    },
+    {
+      "Precinct": "TR 2-A",
+      "Registered Voters - Total": 990,
+      "Ballots Cast - Total": 367,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3707
+    },
+    {
+      "Precinct": "TR 2-B",
+      "Registered Voters - Total": 1167,
+      "Ballots Cast - Total": 409,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3505
+    },
+    {
+      "Precinct": "TR 2-C",
+      "Registered Voters - Total": 910,
+      "Ballots Cast - Total": 288,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3165
+    },
+    {
+      "Precinct": "TR 2-D",
+      "Registered Voters - Total": 592,
+      "Ballots Cast - Total": 297,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5017
+    },
+    {
+      "Precinct": "TR 2-E",
+      "Registered Voters - Total": 655,
+      "Ballots Cast - Total": 333,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5084
+    },
+    {
+      "Precinct": "TR 3-A",
+      "Registered Voters - Total": 719,
+      "Ballots Cast - Total": 293,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4075
+    },
+    {
+      "Precinct": "TR 3-B",
+      "Registered Voters - Total": 863,
+      "Ballots Cast - Total": 376,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4357
+    },
+    {
+      "Precinct": "TR 3-C",
+      "Registered Voters - Total": 870,
+      "Ballots Cast - Total": 256,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2943
+    },
+    {
+      "Precinct": "TR 3-D",
+      "Registered Voters - Total": 1074,
+      "Ballots Cast - Total": 433,
+      "Ballots Cast - Blank": 1,
+      "Voter Turnout - Total": 0.4032
+    },
+    {
+      "Precinct": "TR 4-A",
+      "Registered Voters - Total": 1063,
+      "Ballots Cast - Total": 444,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4177
+    },
+    {
+      "Precinct": "TR 4-B",
+      "Registered Voters - Total": 1126,
+      "Ballots Cast - Total": 301,
+      "Ballots Cast - Blank": 1,
+      "Voter Turnout - Total": 0.2673
+    },
+    {
+      "Precinct": "TR 4-C",
+      "Registered Voters - Total": 828,
+      "Ballots Cast - Total": 219,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2645
+    },
+    {
+      "Precinct": "TR 4-D",
+      "Registered Voters - Total": 670,
+      "Ballots Cast - Total": 316,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4716
+    },
+    {
+      "Precinct": "UN-A",
+      "Registered Voters - Total": 644,
+      "Ballots Cast - Total": 305,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4736
+    },
+    {
+      "Precinct": "UN-B",
+      "Registered Voters - Total": 918,
+      "Ballots Cast - Total": 502,
+      "Ballots Cast - Blank": 1,
+      "Voter Turnout - Total": 0.5468
+    },
+    {
+      "Precinct": "UN-C",
+      "Registered Voters - Total": 961,
+      "Ballots Cast - Total": 520,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5411
+    },
+    {
+      "Precinct": "UN-D",
+      "Registered Voters - Total": 1031,
+      "Ballots Cast - Total": 590,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5723
+    },
+    {
+      "Precinct": "UN-E",
+      "Registered Voters - Total": 1160,
+      "Ballots Cast - Total": 553,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4767
+    },
+    {
+      "Precinct": "VD-A",
+      "Registered Voters - Total": 1055,
+      "Ballots Cast - Total": 444,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4209
+    },
+    {
+      "Precinct": "VD-B",
+      "Registered Voters - Total": 607,
+      "Ballots Cast - Total": 295,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.486
+    },
+    {
+      "Precinct": "VD-C",
+      "Registered Voters - Total": 1052,
+      "Ballots Cast - Total": 554,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5266
+    },
+    {
+      "Precinct": "VD-D",
+      "Registered Voters - Total": 950,
+      "Ballots Cast - Total": 500,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5263
+    },
+    {
+      "Precinct": "VD-E",
+      "Registered Voters - Total": 743,
+      "Ballots Cast - Total": 375,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5047
+    },
+    {
+      "Precinct": "VD-F",
+      "Registered Voters - Total": 1162,
+      "Ballots Cast - Total": 648,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5577
+    },
+    {
+      "Precinct": "VD-G",
+      "Registered Voters - Total": 798,
+      "Ballots Cast - Total": 505,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6328
+    },
+    {
+      "Precinct": "VD-H",
+      "Registered Voters - Total": 1049,
+      "Ballots Cast - Total": 667,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6358
+    },
+    {
+      "Precinct": "VD-I",
+      "Registered Voters - Total": 990,
+      "Ballots Cast - Total": 526,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5313
+    },
+    {
+      "Precinct": "VD-J",
+      "Registered Voters - Total": 1100,
+      "Ballots Cast - Total": 660,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6
+    },
+    {
+      "Precinct": "VD-K",
+      "Registered Voters - Total": 1140,
+      "Ballots Cast - Total": 589,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5167
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "Registered Voters - Total": 894,
+      "Ballots Cast - Total": 597,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6678
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "Registered Voters - Total": 1169,
+      "Ballots Cast - Total": 743,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6356
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "Registered Voters - Total": 1060,
+      "Ballots Cast - Total": 685,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6462
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "Registered Voters - Total": 773,
+      "Ballots Cast - Total": 508,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6572
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "Registered Voters - Total": 1119,
+      "Ballots Cast - Total": 725,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6479
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "Registered Voters - Total": 691,
+      "Ballots Cast - Total": 438,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6339
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "Registered Voters - Total": 1213,
+      "Ballots Cast - Total": 753,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6208
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "Registered Voters - Total": 942,
+      "Ballots Cast - Total": 634,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.673
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "Registered Voters - Total": 930,
+      "Ballots Cast - Total": 449,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4828
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "Registered Voters - Total": 1201,
+      "Ballots Cast - Total": 574,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4779
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "Registered Voters - Total": 978,
+      "Ballots Cast - Total": 568,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5808
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "Registered Voters - Total": 1021,
+      "Ballots Cast - Total": 499,
+      "Ballots Cast - Blank": 1,
+      "Voter Turnout - Total": 0.4887
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "Registered Voters - Total": 1103,
+      "Ballots Cast - Total": 690,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6256
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "Registered Voters - Total": 1091,
+      "Ballots Cast - Total": 568,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5206
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "Registered Voters - Total": 1066,
+      "Ballots Cast - Total": 559,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5244
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "Registered Voters - Total": 1134,
+      "Ballots Cast - Total": 654,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5767
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "Registered Voters - Total": 1327,
+      "Ballots Cast - Total": 638,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4808
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "Registered Voters - Total": 835,
+      "Ballots Cast - Total": 500,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5988
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "Registered Voters - Total": 859,
+      "Ballots Cast - Total": 531,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6182
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "Registered Voters - Total": 1020,
+      "Ballots Cast - Total": 538,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5275
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "Registered Voters - Total": 1024,
+      "Ballots Cast - Total": 667,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6514
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "Registered Voters - Total": 961,
+      "Ballots Cast - Total": 617,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.642
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "Registered Voters - Total": 806,
+      "Ballots Cast - Total": 390,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4839
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "Registered Voters - Total": 858,
+      "Ballots Cast - Total": 526,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6131
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "Registered Voters - Total": 1251,
+      "Ballots Cast - Total": 693,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.554
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "Registered Voters - Total": 880,
+      "Ballots Cast - Total": 598,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6795
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "Registered Voters - Total": 970,
+      "Ballots Cast - Total": 622,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6412
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "Registered Voters - Total": 800,
+      "Ballots Cast - Total": 416,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.52
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "Registered Voters - Total": 1182,
+      "Ballots Cast - Total": 761,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.6438
+    },
+    {
+      "Precinct": "WCR-A",
+      "Registered Voters - Total": 1007,
+      "Ballots Cast - Total": 427,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.424
+    },
+    {
+      "Precinct": "WCR-B",
+      "Registered Voters - Total": 986,
+      "Ballots Cast - Total": 476,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4828
+    },
+    {
+      "Precinct": "WCR-C",
+      "Registered Voters - Total": 963,
+      "Ballots Cast - Total": 477,
+      "Ballots Cast - Blank": 1,
+      "Voter Turnout - Total": 0.4953
+    },
+    {
+      "Precinct": "WCR-D",
+      "Registered Voters - Total": 908,
+      "Ballots Cast - Total": 509,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.5606
+    },
+    {
+      "Precinct": "WCR-E",
+      "Registered Voters - Total": 837,
+      "Ballots Cast - Total": 271,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3238
+    },
+    {
+      "Precinct": "WCR-F",
+      "Registered Voters - Total": 882,
+      "Ballots Cast - Total": 323,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.3662
+    },
+    {
+      "Precinct": "WCR-G",
+      "Registered Voters - Total": 954,
+      "Ballots Cast - Total": 473,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4958
+    },
+    {
+      "Precinct": "WCR-H",
+      "Registered Voters - Total": 948,
+      "Ballots Cast - Total": 416,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.4388
+    },
+    {
+      "Precinct": "WCR-I",
+      "Registered Voters - Total": 964,
+      "Ballots Cast - Total": 246,
+      "Ballots Cast - Blank": 0,
+      "Voter Turnout - Total": 0.2552
+    }
+  ]
+}

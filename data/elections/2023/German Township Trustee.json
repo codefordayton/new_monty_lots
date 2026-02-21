@@ -1,0 +1,54 @@
+{
+  "race": "German Township Trustee",
+  "precincts": 6,
+  "results": [
+    {
+      "Precinct": "GERTWP-A",
+      "Lou Potter Jr.": 454,
+      "Total Votes Cast": 454,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 647
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Lou Potter Jr.": 448,
+      "Total Votes Cast": 448,
+      "Overvotes": 0,
+      "Undervotes": 213,
+      "Contest Total": 661
+    },
+    {
+      "Precinct": "GTN-A",
+      "Lou Potter Jr.": 369,
+      "Total Votes Cast": 369,
+      "Overvotes": 0,
+      "Undervotes": 223,
+      "Contest Total": 592
+    },
+    {
+      "Precinct": "GTN-B",
+      "Lou Potter Jr.": 264,
+      "Total Votes Cast": 264,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 444
+    },
+    {
+      "Precinct": "GTN-C",
+      "Lou Potter Jr.": 400,
+      "Total Votes Cast": 400,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "GTN-D",
+      "Lou Potter Jr.": 318,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 511
+    }
+  ]
+}

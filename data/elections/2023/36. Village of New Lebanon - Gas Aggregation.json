@@ -1,0 +1,33 @@
+{
+  "race": "36. Village of New Lebanon - Gas Aggregation",
+  "precincts": 3,
+  "results": [
+    {
+      "Precinct": "JNLB-A",
+      "Yes": 132,
+      "No": 133,
+      "Total Votes Cast": 265,
+      "Overvotes": 0,
+      "Undervotes": 56,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Yes": 227,
+      "No": 188,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 468
+    },
+    {
+      "Precinct": "PNLB",
+      "Yes": 153,
+      "No": 129,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 314
+    }
+  ]
+}

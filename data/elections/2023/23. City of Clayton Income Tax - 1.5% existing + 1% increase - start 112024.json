@@ -1,0 +1,96 @@
+{
+  "race": "23. City of Clayton Income Tax - 1.5% existing + 1% increase - start 112024",
+  "precincts": 10,
+  "results": [
+    {
+      "Precinct": "CTN 1-A",
+      "INCOME FOR TAX THE": 145,
+      "AGAINST INCOME TAX THE": 335,
+      "Total Votes Cast": 480,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 497
+    },
+    {
+      "Precinct": "CTN 1-B",
+      "INCOME FOR TAX THE": 186,
+      "AGAINST INCOME TAX THE": 318,
+      "Total Votes Cast": 504,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 514
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "INCOME FOR TAX THE": 243,
+      "AGAINST INCOME TAX THE": 398,
+      "Total Votes Cast": 641,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 652
+    },
+    {
+      "Precinct": "CTN 1-D",
+      "INCOME FOR TAX THE": 176,
+      "AGAINST INCOME TAX THE": 232,
+      "Total Votes Cast": 408,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 421
+    },
+    {
+      "Precinct": "CTN 2-A",
+      "INCOME FOR TAX THE": 201,
+      "AGAINST INCOME TAX THE": 241,
+      "Total Votes Cast": 442,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 462
+    },
+    {
+      "Precinct": "CTN 2-B",
+      "INCOME FOR TAX THE": 266,
+      "AGAINST INCOME TAX THE": 329,
+      "Total Votes Cast": 595,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 608
+    },
+    {
+      "Precinct": "CTN 2-C",
+      "INCOME FOR TAX THE": 276,
+      "AGAINST INCOME TAX THE": 365,
+      "Total Votes Cast": 641,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 663
+    },
+    {
+      "Precinct": "CTN 3-A",
+      "INCOME FOR TAX THE": 268,
+      "AGAINST INCOME TAX THE": 361,
+      "Total Votes Cast": 629,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 658
+    },
+    {
+      "Precinct": "CTN 3-B",
+      "INCOME FOR TAX THE": 229,
+      "AGAINST INCOME TAX THE": 337,
+      "Total Votes Cast": 566,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 583
+    },
+    {
+      "Precinct": "CTN 3-C",
+      "INCOME FOR TAX THE": 187,
+      "AGAINST INCOME TAX THE": 287,
+      "Total Votes Cast": 474,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 492
+    }
+  ]
+}

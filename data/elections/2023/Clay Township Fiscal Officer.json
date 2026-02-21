@@ -1,0 +1,70 @@
+{
+  "race": "Clay Township Fiscal Officer",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Brownfield Mark B.": 324,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 274,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "BRK-B",
+      "Brownfield Mark B.": 255,
+      "Total Votes Cast": 255,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "BRK-C",
+      "Brownfield Mark B.": 342,
+      "Total Votes Cast": 342,
+      "Overvotes": 0,
+      "Undervotes": 277,
+      "Contest Total": 619
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Brownfield Mark B.": 247,
+      "Total Votes Cast": 247,
+      "Overvotes": 0,
+      "Undervotes": 187,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Brownfield Mark B.": 270,
+      "Total Votes Cast": 270,
+      "Overvotes": 0,
+      "Undervotes": 173,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Brownfield Mark B.": 365,
+      "Total Votes Cast": 365,
+      "Overvotes": 0,
+      "Undervotes": 281,
+      "Contest Total": 646
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Brownfield Mark B.": 15,
+      "Total Votes Cast": 15,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 25
+    },
+    {
+      "Precinct": "PHBG",
+      "Brownfield Mark B.": 103,
+      "Total Votes Cast": 103,
+      "Overvotes": 0,
+      "Undervotes": 75,
+      "Contest Total": 178
+    }
+  ]
+}

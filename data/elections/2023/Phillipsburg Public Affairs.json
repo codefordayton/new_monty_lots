@@ -1,0 +1,14 @@
+{
+  "race": "Phillipsburg Public Affairs",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "PHBG",
+      "Petition No Filed Valid": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 356,
+      "Contest Total": 356
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "race": "Harrison Township Fiscal Officer",
+  "precincts": 18,
+  "results": [
+    {
+      "Precinct": "DAY 3-G",
+      "Craig A. Jones": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 16-C",
+      "Craig A. Jones": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "DAY 18-B",
+      "Craig A. Jones": 3,
+      "Total Votes Cast": 3,
+      "Overvotes": 0,
+      "Undervotes": 2,
+      "Contest Total": 5
+    },
+    {
+      "Precinct": "HARTWP-A",
+      "Craig A. Jones": 133,
+      "Total Votes Cast": 133,
+      "Overvotes": 0,
+      "Undervotes": 93,
+      "Contest Total": 226
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Craig A. Jones": 166,
+      "Total Votes Cast": 166,
+      "Overvotes": 0,
+      "Undervotes": 131,
+      "Contest Total": 297
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Craig A. Jones": 176,
+      "Total Votes Cast": 176,
+      "Overvotes": 0,
+      "Undervotes": 113,
+      "Contest Total": 289
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Craig A. Jones": 321,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 217,
+      "Contest Total": 538
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Craig A. Jones": 112,
+      "Total Votes Cast": 112,
+      "Overvotes": 0,
+      "Undervotes": 77,
+      "Contest Total": 189
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Craig A. Jones": 139,
+      "Total Votes Cast": 139,
+      "Overvotes": 0,
+      "Undervotes": 65,
+      "Contest Total": 204
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Craig A. Jones": 227,
+      "Total Votes Cast": 227,
+      "Overvotes": 0,
+      "Undervotes": 100,
+      "Contest Total": 327
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Craig A. Jones": 205,
+      "Total Votes Cast": 205,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 309
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Craig A. Jones": 167,
+      "Total Votes Cast": 167,
+      "Overvotes": 0,
+      "Undervotes": 107,
+      "Contest Total": 274
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Craig A. Jones": 225,
+      "Total Votes Cast": 225,
+      "Overvotes": 0,
+      "Undervotes": 115,
+      "Contest Total": 340
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Craig A. Jones": 169,
+      "Total Votes Cast": 169,
+      "Overvotes": 0,
+      "Undervotes": 117,
+      "Contest Total": 286
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Craig A. Jones": 374,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 174,
+      "Contest Total": 548
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Craig A. Jones": 374,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 157,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Craig A. Jones": 182,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 113,
+      "Contest Total": 295
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Craig A. Jones": 303,
+      "Total Votes Cast": 303,
+      "Overvotes": 0,
+      "Undervotes": 170,
+      "Contest Total": 473
+    }
+  ]
+}

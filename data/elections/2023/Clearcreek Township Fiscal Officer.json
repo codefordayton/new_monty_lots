@@ -1,0 +1,14 @@
+{
+  "race": "Clearcreek Township Fiscal Officer",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MIATWP-T",
+      "Carolus Russell": 216,
+      "Total Votes Cast": 216,
+      "Overvotes": 0,
+      "Undervotes": 172,
+      "Contest Total": 388
+    }
+  ]
+}

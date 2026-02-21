@@ -1,0 +1,24 @@
+{
+  "race": "Carlisle Local School Board",
+  "precincts": 2,
+  "results": [
+    {
+      "Precinct": "MBG 1-A",
+      "Missie Miller": 0,
+      "Kelly Milligan": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Missie Miller": 177,
+      "Kelly Milligan": 61,
+      "Total Votes Cast": 238,
+      "Overvotes": 0,
+      "Undervotes": 576,
+      "Contest Total": 814
+    }
+  ]
+}

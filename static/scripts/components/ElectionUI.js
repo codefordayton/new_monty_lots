@@ -61,6 +61,12 @@ export async function initializeElectionUI() {
     comparisonToggle.addEventListener('change', handleComparisonToggle);
   }
 
+  // Add comparison year selector event listener
+  const comparisonYearSelect = document.getElementById('comparison-year-select');
+  if (comparisonYearSelect) {
+    comparisonYearSelect.addEventListener('change', handleComparisonYearChange);
+  }
+
   // Add turnout button event listener
   const turnoutButton = document.getElementById('view-turnout-button');
   if (turnoutButton) {
@@ -82,50 +88,54 @@ async function handleComparisonToggle(event) {
 
   const singleYearControls = document.getElementById('single-year-controls');
   const comparisonSummary = document.getElementById('comparison-summary');
+  const comparisonYearsContainer = document.getElementById('comparison-years-container');
 
   if (isComparisonMode) {
-    // Hide single year controls
-    if (singleYearControls) {
-      singleYearControls.style.display = 'none';
-    }
+    if (singleYearControls) singleYearControls.style.display = 'none';
+    if (comparisonYearsContainer) comparisonYearsContainer.style.display = 'block';
 
-    // Clear any selected race
     clearRaceData();
-
-    // Auto-load both precinct layers for comparison
-    showLoadingFeedback('Loading 2024 and 2025 election data for comparison...');
-
-    try {
-      // Load both years' data
-      await Promise.all([
-        autoLoadPrecinctLayer('2024'),
-        autoLoadPrecinctLayer('2025')
-      ]);
-
-      hideLoadingFeedback();
-
-      // Enable and display comparison mode
-      await displayComparisonMode();
-    } catch (error) {
-      console.error('Error loading comparison data:', error);
-      showErrorFeedback('Failed to load comparison data. Please try again.');
-    }
+    await loadComparisonForSelectedYears();
   } else {
-    // Show single year controls
-    if (singleYearControls) {
-      singleYearControls.style.display = 'block';
-    }
+    if (singleYearControls) singleYearControls.style.display = 'block';
+    if (comparisonYearsContainer) comparisonYearsContainer.style.display = 'none';
+    if (comparisonSummary) comparisonSummary.style.display = 'none';
 
-    // Hide comparison summary
-    if (comparisonSummary) {
-      comparisonSummary.style.display = 'none';
-    }
-
-    // Reset to turnout view
     if (currentPrecinctLayer) {
       restylePrecinctLayer();
       rebindPopups();
     }
+  }
+}
+
+/**
+ * Handle comparison year dropdown change
+ */
+async function handleComparisonYearChange() {
+  await loadComparisonForSelectedYears();
+}
+
+/**
+ * Read the selected years from the dropdown and run the comparison
+ */
+async function loadComparisonForSelectedYears() {
+  const select = document.getElementById('comparison-year-select');
+  const value = select ? select.value : '2023-2025';
+  const [yearA, yearB] = value.split('-');
+
+  showLoadingFeedback(`Loading ${yearA} and ${yearB} election data for comparison...`);
+
+  try {
+    await Promise.all([
+      autoLoadPrecinctLayer(yearA),
+      autoLoadPrecinctLayer(yearB)
+    ]);
+
+    hideLoadingFeedback();
+    await displayComparisonMode(yearA, yearB);
+  } catch (error) {
+    console.error('Error loading comparison data:', error);
+    showErrorFeedback('Failed to load comparison data. Please try again.');
   }
 }
 
@@ -136,7 +146,7 @@ function detectPrecinctLayer() {
   // Check periodically for precinct layers
   const checkInterval = setInterval(() => {
     // Try to get precinct layers by ID
-    const layerIds = ['precincts_2025', 'precincts_2024', 'precincts'];
+    const layerIds = ['precincts_2025', 'precincts_2024', 'precincts_2023', 'precincts'];
 
     for (const layerId of layerIds) {
       const layerGroup = getLayerGroup(layerId);
@@ -172,7 +182,7 @@ async function autoLoadPrecinctLayer(year) {
   }
 
   // Unload other precinct layers first
-  const otherLayerIds = ['precincts_2024', 'precincts_2025', 'precincts'].filter(id => id !== targetLayerId);
+  const otherLayerIds = ['precincts_2023', 'precincts_2024', 'precincts_2025', 'precincts'].filter(id => id !== targetLayerId);
   for (const layerId of otherLayerIds) {
     const layer = getLayerGroup(layerId);
     if (layer) {
@@ -422,8 +432,10 @@ async function handleTurnoutButtonClick() {
 
 /**
  * Display comparison mode statistics and styling
+ * @param {string} yearA - Earlier year (e.g. '2023')
+ * @param {string} yearB - Later year (e.g. '2025')
  */
-async function displayComparisonMode() {
+async function displayComparisonMode(yearA = '2023', yearB = '2025') {
   if (!currentPrecinctLayer) {
     console.warn('Cannot display comparison mode: no precinct layer loaded');
     return;
@@ -432,30 +444,20 @@ async function displayComparisonMode() {
   const summaryDiv = document.getElementById('comparison-summary');
   if (!summaryDiv) return;
 
-  // Load statistics for both years
-  const stats2024Path = '/data/elections/2024/statistics.json';
-  const stats2025Path = '/data/elections/2025/statistics.json';
-
   try {
-    const [response2024, response2025] = await Promise.all([
-      fetch(stats2024Path),
-      fetch(stats2025Path)
+    const [responseA, responseB] = await Promise.all([
+      fetch(`/data/elections/${yearA}/statistics.json`),
+      fetch(`/data/elections/${yearB}/statistics.json`)
     ]);
 
-    const stats2024 = await response2024.json();
-    const stats2025 = await response2025.json();
+    const statsA = await responseA.json();
+    const statsB = await responseB.json();
 
-    // Calculate comparison statistics
-    const comparison = calculateComparisonStats(stats2024, stats2025);
+    const comparison = calculateComparisonStats(statsA, statsB);
 
-    // Display comparison summary
-    displayComparisonSummary(comparison, summaryDiv);
-
-    // Apply comparison styling to map
+    displayComparisonSummary(comparison, summaryDiv, yearA, yearB);
     applyComparisonStyling(comparison);
-
-    // Update popups for comparison mode
-    rebindComparisonPopups(comparison);
+    rebindComparisonPopups(comparison, yearA, yearB);
 
   } catch (error) {
     console.error('Failed to load comparison data:', error);
@@ -507,52 +509,62 @@ function calculateComparisonStats(stats2024, stats2025) {
   // Calculate changes for each precinct in the map
   mapPrecinctCodes.forEach(precinctCode => {
     // Try exact match first
-    let result2024 = stats2024Lookup[precinctCode];
-    let result2025 = stats2025Lookup[precinctCode];
+    let resultA = stats2024Lookup[precinctCode];
+    let resultB = stats2025Lookup[precinctCode];
 
-    // If no exact match, aggregate sub-precincts
-    if (!result2024) {
-      const subPrecincts2024 = stats2024.results?.filter(r => {
+    // If no exact match, aggregate sub-precincts (child precinct codes in stats)
+    if (!resultA) {
+      const subA = stats2024.results?.filter(r => {
         const rCode = normalizePrecinctCode(r.Precinct);
         return rCode.startsWith(precinctCode) && rCode.length > precinctCode.length;
       });
-      if (subPrecincts2024 && subPrecincts2024.length > 0) {
-        result2024 = aggregateStatistics(subPrecincts2024);
-      }
+      if (subA && subA.length > 0) resultA = aggregateStatistics(subA);
     }
 
-    if (!result2025) {
-      const subPrecincts2025 = stats2025.results?.filter(r => {
+    // Parent → child fallback: map has split precinct, stats has original unsplit code
+    if (!resultA) {
+      resultA = stats2024.results?.find(r => {
+        const rCode = normalizePrecinctCode(r.Precinct);
+        return precinctCode.startsWith(rCode) && precinctCode.length > rCode.length;
+      });
+    }
+
+    if (!resultB) {
+      const subB = stats2025.results?.filter(r => {
         const rCode = normalizePrecinctCode(r.Precinct);
         return rCode.startsWith(precinctCode) && rCode.length > precinctCode.length;
       });
-      if (subPrecincts2025 && subPrecincts2025.length > 0) {
-        result2025 = aggregateStatistics(subPrecincts2025);
-      }
+      if (subB && subB.length > 0) resultB = aggregateStatistics(subB);
+    }
+
+    if (!resultB) {
+      resultB = stats2025.results?.find(r => {
+        const rCode = normalizePrecinctCode(r.Precinct);
+        return precinctCode.startsWith(rCode) && precinctCode.length > rCode.length;
+      });
     }
 
     // Calculate comparison if we have data for both years
-    if (result2024 && result2025) {
-      // Parse turnout values (they may be strings with % sign like "78.35%")
-      const turnout2024 = parseTurnoutValue(result2024['Voter Turnout - Total']);
-      const turnout2025 = parseTurnoutValue(result2025['Voter Turnout - Total']);
-      const change = turnout2025 - turnout2024;
+    if (resultA && resultB) {
+      const turnoutA = parseTurnoutValue(resultA['Voter Turnout - Total']);
+      const turnoutB = parseTurnoutValue(resultB['Voter Turnout - Total']);
+      const change = turnoutB - turnoutA;
 
       comparison.precincts[precinctCode] = {
         code: precinctCode,
-        turnout2024,
-        turnout2025,
+        turnoutA,
+        turnoutB,
         change,
-        changePercent: turnout2024 > 0 ? (change / turnout2024) * 100 : 0
+        changePercent: turnoutA > 0 ? (change / turnoutA) * 100 : 0
       };
 
       comparison.totalChange += change;
       comparison.precinctCount++;
 
       if (change > 0) {
-        comparison.increases.push({ code: precinctCode, change, changePercent: (change / turnout2024) * 100 });
+        comparison.increases.push({ code: precinctCode, change, changePercent: (change / turnoutA) * 100 });
       } else if (change < 0) {
-        comparison.decreases.push({ code: precinctCode, change, changePercent: (change / turnout2024) * 100 });
+        comparison.decreases.push({ code: precinctCode, change, changePercent: (change / turnoutA) * 100 });
       }
     }
   });
@@ -622,11 +634,11 @@ function aggregateStatistics(subPrecincts) {
 /**
  * Display comparison summary in sidebar
  */
-function displayComparisonSummary(comparison, summaryDiv) {
+function displayComparisonSummary(comparison, summaryDiv, yearA = '2023', yearB = '2025') {
   const avgChangePercent = (comparison.avgChange * 100).toFixed(2);
   const avgChangeClass = comparison.avgChange >= 0 ? 'increase' : 'decrease';
 
-  let html = '<h4>2024 vs 2025 Turnout Comparison</h4>';
+  let html = `<h4>${yearA} vs ${yearB} Turnout Comparison</h4>`;
 
   html += '<div class="comparison-stat">';
   html += '<strong>Average Turnout Change:</strong> ';
@@ -773,7 +785,7 @@ function getComparisonStyle(compData) {
 /**
  * Rebind popups for comparison mode
  */
-function rebindComparisonPopups(comparison) {
+function rebindComparisonPopups(comparison, yearA = '2023', yearB = '2025') {
   if (!currentPrecinctLayer) return;
 
   import('../utils/popupBuilder.js').then(module => {
@@ -794,7 +806,7 @@ function rebindComparisonPopups(comparison) {
           return '<p>No comparison data available for this precinct</p>';
         }
 
-        return buildComparisonPopupContent(precinctCode, compData);
+        return buildComparisonPopupContent(precinctCode, compData, yearA, yearB);
       });
     });
   });
@@ -911,6 +923,7 @@ function injectTurnoutData(statsData) {
     );
 
     if (!stats) {
+      // Child → parent: map has split precinct (e.g. BRK-A1), data has parent (e.g. BRK-A)
       const subPrecincts = statsData.results.filter(r => {
         const rCode = normalizePrecinctCode(r.Precinct);
         return rCode.startsWith(precinctCode) && rCode.length > precinctCode.length;
@@ -919,6 +932,15 @@ function injectTurnoutData(statsData) {
       if (subPrecincts && subPrecincts.length > 0) {
         stats = aggregateStatistics(subPrecincts);
       }
+    }
+
+    if (!stats) {
+      // Parent → child: map has split precinct (e.g. BRK-A1), data has original (e.g. BRK-A)
+      // Used when displaying older election data on newer precinct boundaries
+      stats = statsData.results.find(r => {
+        const rCode = normalizePrecinctCode(r.Precinct);
+        return precinctCode.startsWith(rCode) && precinctCode.length > rCode.length;
+      });
     }
 
     if (stats) {
@@ -1122,7 +1144,7 @@ function rebindPopups() {
       if (!layer.feature) return;
 
       // Get layer ID from the feature or use a default
-      const layerId = raceManager.currentYear ? `precincts_${raceManager.currentYear}` : 'precincts_2025';
+      const layerId = raceManager.currentYear ? `precincts_${raceManager.currentYear}` : 'precincts_2023';
 
       // Rebind popup with current data
       layer.unbindPopup();

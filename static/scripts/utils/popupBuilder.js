@@ -248,16 +248,18 @@ function buildRacePopupContent(raceData) {
 /**
  * Build popup content for comparison mode
  * @param {string} precinctCode - Precinct code
- * @param {Object} compData - Comparison data with 2024/2025 turnout
+ * @param {Object} compData - Comparison data
+ * @param {string} yearA - Earlier year label
+ * @param {string} yearB - Later year label
  * @returns {string} HTML content for comparison popup
  */
-export function buildComparisonPopupContent(precinctCode, compData) {
+export function buildComparisonPopupContent(precinctCode, compData, yearA = '2023', yearB = '2025') {
   if (!compData) {
     return '<p>No comparison data available</p>';
   }
 
-  const turnout2024Percent = (compData.turnout2024 * 100).toFixed(2);
-  const turnout2025Percent = (compData.turnout2025 * 100).toFixed(2);
+  const turnoutAPercent = (compData.turnoutA * 100).toFixed(2);
+  const turnoutBPercent = (compData.turnoutB * 100).toFixed(2);
   const changePercent = (compData.change * 100).toFixed(2);
   const changeClass = compData.change >= 0 ? 'increase' : 'decrease';
   const changeSymbol = compData.change >= 0 ? '+' : '';
@@ -269,23 +271,20 @@ export function buildComparisonPopupContent(precinctCode, compData) {
 
   content += '<table style="width: 100%; border-collapse: collapse; margin-bottom: 10px;">';
 
-  // 2024 turnout
   content += `
     <tr style="border-bottom: 1px solid #eee;">
-      <td style="padding: 4px 8px 4px 0; font-weight: 600; font-size: 13px;">2024:</td>
-      <td style="padding: 4px 0; text-align: right; font-size: 13px;">${turnout2024Percent}%</td>
+      <td style="padding: 4px 8px 4px 0; font-weight: 600; font-size: 13px;">${yearA}:</td>
+      <td style="padding: 4px 0; text-align: right; font-size: 13px;">${turnoutAPercent}%</td>
     </tr>
   `;
 
-  // 2025 turnout
   content += `
     <tr style="border-bottom: 1px solid #eee;">
-      <td style="padding: 4px 8px 4px 0; font-weight: 600; font-size: 13px;">2025:</td>
-      <td style="padding: 4px 0; text-align: right; font-size: 13px;">${turnout2025Percent}%</td>
+      <td style="padding: 4px 8px 4px 0; font-weight: 600; font-size: 13px;">${yearB}:</td>
+      <td style="padding: 4px 0; text-align: right; font-size: 13px;">${turnoutBPercent}%</td>
     </tr>
   `;
 
-  // Change
   content += `
     <tr style="border-bottom: 2px solid #ddd;">
       <td style="padding: 8px 8px 8px 0; font-weight: 600; font-size: 14px;">Change:</td>
@@ -297,15 +296,14 @@ export function buildComparisonPopupContent(precinctCode, compData) {
 
   content += '</table>';
 
-  // Interpretation
   if (Math.abs(compData.change * 100) > 5) {
     const direction = compData.change > 0 ? 'increase' : 'decrease';
     content += `<p style="margin: 10px 0 0 0; padding: 8px; background: ${changeClass === 'increase' ? '#d4edda' : '#f8d7da'}; border-radius: 4px; font-size: 12px; color: ${changeClass === 'increase' ? '#155724' : '#721c24'};">`;
-    content += `<strong>Significant ${direction}</strong> in voter turnout between 2024 and 2025 elections.`;
+    content += `<strong>Significant ${direction}</strong> in voter turnout between ${yearA} and ${yearB} elections.`;
     content += '</p>';
   } else if (Math.abs(compData.change * 100) < 0.5) {
     content += `<p style="margin: 10px 0 0 0; padding: 8px; background: #e2e3e5; border-radius: 4px; font-size: 12px; color: #383d41;">`;
-    content += 'Voter turnout remained relatively stable between 2024 and 2025.';
+    content += `Voter turnout remained relatively stable between ${yearA} and ${yearB}.`;
     content += '</p>';
   }
 

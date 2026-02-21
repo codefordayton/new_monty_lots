@@ -1,0 +1,42 @@
+{
+  "race": "Huber Heights Council (6th Ward)",
+  "precincts": 4,
+  "results": [
+    {
+      "Precinct": "HUB 6-A",
+      "Looney Brian P.": 191,
+      "McMasters Thomas F.": 117,
+      "Total Votes Cast": 308,
+      "Overvotes": 0,
+      "Undervotes": 116,
+      "Contest Total": 424
+    },
+    {
+      "Precinct": "HUB 6-B",
+      "Looney Brian P.": 348,
+      "McMasters Thomas F.": 177,
+      "Total Votes Cast": 525,
+      "Overvotes": 0,
+      "Undervotes": 92,
+      "Contest Total": 617
+    },
+    {
+      "Precinct": "HUB 6-C",
+      "Looney Brian P.": 267,
+      "McMasters Thomas F.": 194,
+      "Total Votes Cast": 461,
+      "Overvotes": 0,
+      "Undervotes": 96,
+      "Contest Total": 557
+    },
+    {
+      "Precinct": "HUB 6-D",
+      "Looney Brian P.": 211,
+      "McMasters Thomas F.": 165,
+      "Total Votes Cast": 376,
+      "Overvotes": 0,
+      "Undervotes": 107,
+      "Contest Total": 483
+    }
+  ]
+}

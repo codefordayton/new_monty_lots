@@ -1,0 +1,168 @@
+{
+  "race": "Trotwood Mayor",
+  "precincts": 18,
+  "results": [
+    {
+      "Precinct": "TR 1-A",
+      "McDonald Mary A.": 236,
+      "Yvette F. Page": 237,
+      "Total Votes Cast": 473,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 490
+    },
+    {
+      "Precinct": "TR 1-B",
+      "McDonald Mary A.": 121,
+      "Yvette F. Page": 152,
+      "Total Votes Cast": 273,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 290
+    },
+    {
+      "Precinct": "TR 1-C",
+      "McDonald Mary A.": 189,
+      "Yvette F. Page": 182,
+      "Total Votes Cast": 371,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 379
+    },
+    {
+      "Precinct": "TR 1-D",
+      "McDonald Mary A.": 108,
+      "Yvette F. Page": 159,
+      "Total Votes Cast": 267,
+      "Overvotes": 0,
+      "Undervotes": 3,
+      "Contest Total": 270
+    },
+    {
+      "Precinct": "TR 1-E",
+      "McDonald Mary A.": 243,
+      "Yvette F. Page": 243,
+      "Total Votes Cast": 486,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 493
+    },
+    {
+      "Precinct": "TR 2-A",
+      "McDonald Mary A.": 176,
+      "Yvette F. Page": 181,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 367
+    },
+    {
+      "Precinct": "TR 2-B",
+      "McDonald Mary A.": 175,
+      "Yvette F. Page": 222,
+      "Total Votes Cast": 397,
+      "Overvotes": 0,
+      "Undervotes": 12,
+      "Contest Total": 409
+    },
+    {
+      "Precinct": "TR 2-C",
+      "McDonald Mary A.": 147,
+      "Yvette F. Page": 137,
+      "Total Votes Cast": 284,
+      "Overvotes": 0,
+      "Undervotes": 4,
+      "Contest Total": 288
+    },
+    {
+      "Precinct": "TR 2-D",
+      "McDonald Mary A.": 138,
+      "Yvette F. Page": 138,
+      "Total Votes Cast": 276,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 297
+    },
+    {
+      "Precinct": "TR 2-E",
+      "McDonald Mary A.": 139,
+      "Yvette F. Page": 188,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 333
+    },
+    {
+      "Precinct": "TR 3-A",
+      "McDonald Mary A.": 147,
+      "Yvette F. Page": 136,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 10,
+      "Contest Total": 293
+    },
+    {
+      "Precinct": "TR 3-B",
+      "McDonald Mary A.": 195,
+      "Yvette F. Page": 144,
+      "Total Votes Cast": 339,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 376
+    },
+    {
+      "Precinct": "TR 3-C",
+      "McDonald Mary A.": 131,
+      "Yvette F. Page": 106,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 256
+    },
+    {
+      "Precinct": "TR 3-D",
+      "McDonald Mary A.": 181,
+      "Yvette F. Page": 239,
+      "Total Votes Cast": 420,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 433
+    },
+    {
+      "Precinct": "TR 4-A",
+      "McDonald Mary A.": 222,
+      "Yvette F. Page": 215,
+      "Total Votes Cast": 437,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 444
+    },
+    {
+      "Precinct": "TR 4-B",
+      "McDonald Mary A.": 136,
+      "Yvette F. Page": 154,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 11,
+      "Contest Total": 301
+    },
+    {
+      "Precinct": "TR 4-C",
+      "McDonald Mary A.": 109,
+      "Yvette F. Page": 102,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 8,
+      "Contest Total": 219
+    },
+    {
+      "Precinct": "TR 4-D",
+      "McDonald Mary A.": 173,
+      "Yvette F. Page": 137,
+      "Total Votes Cast": 310,
+      "Overvotes": 0,
+      "Undervotes": 6,
+      "Contest Total": 316
+    }
+  ]
+}

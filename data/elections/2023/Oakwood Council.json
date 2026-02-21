@@ -1,0 +1,86 @@
+{
+  "race": "Oakwood Council",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "OAK-A",
+      "Byington Steven": 336,
+      "William Duncan D.": 372,
+      "Healy Jackson": 341,
+      "Total Votes Cast": 1049,
+      "Overvotes": 0,
+      "Undervotes": 880,
+      "Contest Total": 1929
+    },
+    {
+      "Precinct": "OAK-B",
+      "Byington Steven": 331,
+      "William Duncan D.": 373,
+      "Healy Jackson": 343,
+      "Total Votes Cast": 1047,
+      "Overvotes": 0,
+      "Undervotes": 897,
+      "Contest Total": 1944
+    },
+    {
+      "Precinct": "OAK-C",
+      "Byington Steven": 253,
+      "William Duncan D.": 274,
+      "Healy Jackson": 266,
+      "Total Votes Cast": 793,
+      "Overvotes": 0,
+      "Undervotes": 773,
+      "Contest Total": 1566
+    },
+    {
+      "Precinct": "OAK-D",
+      "Byington Steven": 251,
+      "William Duncan D.": 261,
+      "Healy Jackson": 268,
+      "Total Votes Cast": 780,
+      "Overvotes": 0,
+      "Undervotes": 858,
+      "Contest Total": 1638
+    },
+    {
+      "Precinct": "OAK-E",
+      "Byington Steven": 252,
+      "William Duncan D.": 281,
+      "Healy Jackson": 283,
+      "Total Votes Cast": 816,
+      "Overvotes": 0,
+      "Undervotes": 951,
+      "Contest Total": 1767
+    },
+    {
+      "Precinct": "OAK-F",
+      "Byington Steven": 345,
+      "William Duncan D.": 378,
+      "Healy Jackson": 378,
+      "Total Votes Cast": 1101,
+      "Overvotes": 0,
+      "Undervotes": 954,
+      "Contest Total": 2055
+    },
+    {
+      "Precinct": "OAK-G",
+      "Byington Steven": 302,
+      "William Duncan D.": 329,
+      "Healy Jackson": 314,
+      "Total Votes Cast": 945,
+      "Overvotes": 0,
+      "Undervotes": 744,
+      "Contest Total": 1689
+    },
+    {
+      "Precinct": "OAK-H",
+      "Byington Steven": 223,
+      "William Duncan D.": 273,
+      "Healy Jackson": 222,
+      "Total Votes Cast": 718,
+      "Overvotes": 0,
+      "Undervotes": 620,
+      "Contest Total": 1338
+    }
+  ]
+}

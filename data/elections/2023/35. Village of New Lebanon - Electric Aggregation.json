@@ -1,0 +1,33 @@
+{
+  "race": "35. Village of New Lebanon - Electric Aggregation",
+  "precincts": 3,
+  "results": [
+    {
+      "Precinct": "JNLB-A",
+      "Yes": 135,
+      "No": 134,
+      "Total Votes Cast": 269,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 321
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Yes": 231,
+      "No": 184,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 53,
+      "Contest Total": 468
+    },
+    {
+      "Precinct": "PNLB",
+      "Yes": 154,
+      "No": 129,
+      "Total Votes Cast": 283,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 314
+    }
+  ]
+}

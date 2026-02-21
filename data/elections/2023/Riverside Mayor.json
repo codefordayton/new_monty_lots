@@ -1,0 +1,142 @@
+{
+  "race": "Riverside Mayor",
+  "precincts": 17,
+  "results": [
+    {
+      "Precinct": "PM",
+      "Pete Williams": 143,
+      "Total Votes Cast": 143,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 201
+    },
+    {
+      "Precinct": "RV-A",
+      "Pete Williams": 363,
+      "Total Votes Cast": 363,
+      "Overvotes": 0,
+      "Undervotes": 122,
+      "Contest Total": 485
+    },
+    {
+      "Precinct": "RV-B",
+      "Pete Williams": 193,
+      "Total Votes Cast": 193,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 291
+    },
+    {
+      "Precinct": "RV-C",
+      "Pete Williams": 269,
+      "Total Votes Cast": 269,
+      "Overvotes": 0,
+      "Undervotes": 124,
+      "Contest Total": 393
+    },
+    {
+      "Precinct": "RV-D",
+      "Pete Williams": 333,
+      "Total Votes Cast": 333,
+      "Overvotes": 0,
+      "Undervotes": 129,
+      "Contest Total": 462
+    },
+    {
+      "Precinct": "RV-E",
+      "Pete Williams": 211,
+      "Total Votes Cast": 211,
+      "Overvotes": 0,
+      "Undervotes": 113,
+      "Contest Total": 324
+    },
+    {
+      "Precinct": "RV-F",
+      "Pete Williams": 272,
+      "Total Votes Cast": 272,
+      "Overvotes": 0,
+      "Undervotes": 101,
+      "Contest Total": 373
+    },
+    {
+      "Precinct": "RV-G",
+      "Pete Williams": 242,
+      "Total Votes Cast": 242,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 346
+    },
+    {
+      "Precinct": "RV-H",
+      "Pete Williams": 125,
+      "Total Votes Cast": 125,
+      "Overvotes": 0,
+      "Undervotes": 49,
+      "Contest Total": 174
+    },
+    {
+      "Precinct": "RV-I",
+      "Pete Williams": 236,
+      "Total Votes Cast": 236,
+      "Overvotes": 0,
+      "Undervotes": 63,
+      "Contest Total": 299
+    },
+    {
+      "Precinct": "RV-J",
+      "Pete Williams": 237,
+      "Total Votes Cast": 237,
+      "Overvotes": 0,
+      "Undervotes": 97,
+      "Contest Total": 334
+    },
+    {
+      "Precinct": "RV-K",
+      "Pete Williams": 312,
+      "Total Votes Cast": 312,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 487
+    },
+    {
+      "Precinct": "RV-L",
+      "Pete Williams": 167,
+      "Total Votes Cast": 167,
+      "Overvotes": 0,
+      "Undervotes": 60,
+      "Contest Total": 227
+    },
+    {
+      "Precinct": "RV-M",
+      "Pete Williams": 312,
+      "Total Votes Cast": 312,
+      "Overvotes": 0,
+      "Undervotes": 97,
+      "Contest Total": 409
+    },
+    {
+      "Precinct": "RV-N",
+      "Pete Williams": 187,
+      "Total Votes Cast": 187,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 257
+    },
+    {
+      "Precinct": "RV-O",
+      "Pete Williams": 311,
+      "Total Votes Cast": 311,
+      "Overvotes": 0,
+      "Undervotes": 116,
+      "Contest Total": 427
+    },
+    {
+      "Precinct": "RV-P",
+      "Pete Williams": 342,
+      "Total Votes Cast": 342,
+      "Overvotes": 0,
+      "Undervotes": 130,
+      "Contest Total": 472
+    }
+  ]
+}

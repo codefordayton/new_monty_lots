@@ -1,0 +1,14 @@
+{
+  "race": "Farmersville Mayor",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "FARM",
+      "Petition No Filed Valid": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 406,
+      "Contest Total": 406
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "race": "Springboro Mayor",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "MIATWP-T",
+      "Agenbroad John H.": 256,
+      "Total Votes Cast": 256,
+      "Overvotes": 0,
+      "Undervotes": 132,
+      "Contest Total": 388
+    }
+  ]
+}

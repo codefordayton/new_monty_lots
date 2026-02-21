@@ -1,0 +1,330 @@
+{
+  "race": "Miami Township Fiscal Officer",
+  "precincts": 36,
+  "results": [
+    {
+      "Precinct": "MBG 1-A",
+      "Clingerman Greg J.": 228,
+      "Bob Matthews": 187,
+      "Total Votes Cast": 415,
+      "Overvotes": 0,
+      "Undervotes": 224,
+      "Contest Total": 639
+    },
+    {
+      "Precinct": "MBG 1-B",
+      "Clingerman Greg J.": 144,
+      "Bob Matthews": 205,
+      "Total Votes Cast": 349,
+      "Overvotes": 0,
+      "Undervotes": 190,
+      "Contest Total": 539
+    },
+    {
+      "Precinct": "MBG 1-C",
+      "Clingerman Greg J.": 198,
+      "Bob Matthews": 181,
+      "Total Votes Cast": 379,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "MBG 2-A",
+      "Clingerman Greg J.": 88,
+      "Bob Matthews": 127,
+      "Total Votes Cast": 215,
+      "Overvotes": 0,
+      "Undervotes": 177,
+      "Contest Total": 392
+    },
+    {
+      "Precinct": "MBG 2-B",
+      "Clingerman Greg J.": 126,
+      "Bob Matthews": 178,
+      "Total Votes Cast": 304,
+      "Overvotes": 0,
+      "Undervotes": 163,
+      "Contest Total": 467
+    },
+    {
+      "Precinct": "MBG 2-C",
+      "Clingerman Greg J.": 160,
+      "Bob Matthews": 214,
+      "Total Votes Cast": 374,
+      "Overvotes": 0,
+      "Undervotes": 192,
+      "Contest Total": 566
+    },
+    {
+      "Precinct": "MBG 3-A",
+      "Clingerman Greg J.": 131,
+      "Bob Matthews": 122,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 123,
+      "Contest Total": 376
+    },
+    {
+      "Precinct": "MBG 3-B",
+      "Clingerman Greg J.": 141,
+      "Bob Matthews": 203,
+      "Total Votes Cast": 344,
+      "Overvotes": 0,
+      "Undervotes": 230,
+      "Contest Total": 574
+    },
+    {
+      "Precinct": "MBG 3-C",
+      "Clingerman Greg J.": 153,
+      "Bob Matthews": 121,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 128,
+      "Contest Total": 402
+    },
+    {
+      "Precinct": "MBG 3-D",
+      "Clingerman Greg J.": 164,
+      "Bob Matthews": 214,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 571
+    },
+    {
+      "Precinct": "MBG 4-A",
+      "Clingerman Greg J.": 188,
+      "Bob Matthews": 169,
+      "Total Votes Cast": 357,
+      "Overvotes": 0,
+      "Undervotes": 151,
+      "Contest Total": 508
+    },
+    {
+      "Precinct": "MBG 4-B",
+      "Clingerman Greg J.": 151,
+      "Bob Matthews": 176,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 149,
+      "Contest Total": 476
+    },
+    {
+      "Precinct": "MBG 4-C",
+      "Clingerman Greg J.": 162,
+      "Bob Matthews": 112,
+      "Total Votes Cast": 274,
+      "Overvotes": 0,
+      "Undervotes": 138,
+      "Contest Total": 412
+    },
+    {
+      "Precinct": "MBG 4-D",
+      "Clingerman Greg J.": 198,
+      "Bob Matthews": 320,
+      "Total Votes Cast": 518,
+      "Overvotes": 0,
+      "Undervotes": 233,
+      "Contest Total": 751
+    },
+    {
+      "Precinct": "MIATWP-A",
+      "Clingerman Greg J.": 187,
+      "Bob Matthews": 154,
+      "Total Votes Cast": 341,
+      "Overvotes": 0,
+      "Undervotes": 157,
+      "Contest Total": 498
+    },
+    {
+      "Precinct": "MIATWP-B",
+      "Clingerman Greg J.": 131,
+      "Bob Matthews": 146,
+      "Total Votes Cast": 277,
+      "Overvotes": 0,
+      "Undervotes": 122,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "MIATWP-C",
+      "Clingerman Greg J.": 151,
+      "Bob Matthews": 176,
+      "Total Votes Cast": 327,
+      "Overvotes": 0,
+      "Undervotes": 142,
+      "Contest Total": 469
+    },
+    {
+      "Precinct": "MIATWP-D",
+      "Clingerman Greg J.": 112,
+      "Bob Matthews": 178,
+      "Total Votes Cast": 290,
+      "Overvotes": 0,
+      "Undervotes": 111,
+      "Contest Total": 401
+    },
+    {
+      "Precinct": "MIATWP-E",
+      "Clingerman Greg J.": 309,
+      "Bob Matthews": 271,
+      "Total Votes Cast": 580,
+      "Overvotes": 0,
+      "Undervotes": 157,
+      "Contest Total": 737
+    },
+    {
+      "Precinct": "MIATWP-F",
+      "Clingerman Greg J.": 151,
+      "Bob Matthews": 167,
+      "Total Votes Cast": 318,
+      "Overvotes": 0,
+      "Undervotes": 139,
+      "Contest Total": 457
+    },
+    {
+      "Precinct": "MIATWP-G",
+      "Clingerman Greg J.": 144,
+      "Bob Matthews": 138,
+      "Total Votes Cast": 282,
+      "Overvotes": 0,
+      "Undervotes": 117,
+      "Contest Total": 399
+    },
+    {
+      "Precinct": "MIATWP-H",
+      "Clingerman Greg J.": 131,
+      "Bob Matthews": 163,
+      "Total Votes Cast": 294,
+      "Overvotes": 0,
+      "Undervotes": 120,
+      "Contest Total": 414
+    },
+    {
+      "Precinct": "MIATWP-I",
+      "Clingerman Greg J.": 110,
+      "Bob Matthews": 77,
+      "Total Votes Cast": 187,
+      "Overvotes": 0,
+      "Undervotes": 69,
+      "Contest Total": 256
+    },
+    {
+      "Precinct": "MIATWP-J",
+      "Clingerman Greg J.": 110,
+      "Bob Matthews": 160,
+      "Total Votes Cast": 270,
+      "Overvotes": 0,
+      "Undervotes": 137,
+      "Contest Total": 407
+    },
+    {
+      "Precinct": "MIATWP-K",
+      "Clingerman Greg J.": 260,
+      "Bob Matthews": 183,
+      "Total Votes Cast": 443,
+      "Overvotes": 0,
+      "Undervotes": 178,
+      "Contest Total": 621
+    },
+    {
+      "Precinct": "MIATWP-L",
+      "Clingerman Greg J.": 134,
+      "Bob Matthews": 155,
+      "Total Votes Cast": 289,
+      "Overvotes": 0,
+      "Undervotes": 124,
+      "Contest Total": 413
+    },
+    {
+      "Precinct": "MIATWP-M",
+      "Clingerman Greg J.": 150,
+      "Bob Matthews": 184,
+      "Total Votes Cast": 334,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 438
+    },
+    {
+      "Precinct": "MIATWP-N",
+      "Clingerman Greg J.": 195,
+      "Bob Matthews": 224,
+      "Total Votes Cast": 419,
+      "Overvotes": 0,
+      "Undervotes": 121,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "MIATWP-O",
+      "Clingerman Greg J.": 211,
+      "Bob Matthews": 173,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 156,
+      "Contest Total": 540
+    },
+    {
+      "Precinct": "MIATWP-P",
+      "Clingerman Greg J.": 87,
+      "Bob Matthews": 90,
+      "Total Votes Cast": 177,
+      "Overvotes": 0,
+      "Undervotes": 92,
+      "Contest Total": 269
+    },
+    {
+      "Precinct": "MIATWP-Q",
+      "Clingerman Greg J.": 192,
+      "Bob Matthews": 130,
+      "Total Votes Cast": 322,
+      "Overvotes": 0,
+      "Undervotes": 146,
+      "Contest Total": 468
+    },
+    {
+      "Precinct": "MIATWP-R",
+      "Clingerman Greg J.": 86,
+      "Bob Matthews": 84,
+      "Total Votes Cast": 170,
+      "Overvotes": 0,
+      "Undervotes": 81,
+      "Contest Total": 251
+    },
+    {
+      "Precinct": "MIATWP-S",
+      "Clingerman Greg J.": 152,
+      "Bob Matthews": 164,
+      "Total Votes Cast": 316,
+      "Overvotes": 0,
+      "Undervotes": 154,
+      "Contest Total": 470
+    },
+    {
+      "Precinct": "MIATWP-T",
+      "Clingerman Greg J.": 0,
+      "Bob Matthews": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "MIATWP-U",
+      "Clingerman Greg J.": 130,
+      "Bob Matthews": 135,
+      "Total Votes Cast": 265,
+      "Overvotes": 0,
+      "Undervotes": 98,
+      "Contest Total": 363
+    },
+    {
+      "Precinct": "MIATWP-V",
+      "Clingerman Greg J.": 116,
+      "Bob Matthews": 155,
+      "Total Votes Cast": 271,
+      "Overvotes": 0,
+      "Undervotes": 104,
+      "Contest Total": 375
+    }
+  ]
+}

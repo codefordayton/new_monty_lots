@@ -1,0 +1,94 @@
+{
+  "race": "Oakwood School Board",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "OAK-A",
+      "DiLorenzo Debbie": 340,
+      "Johnson Vivian": 187,
+      "Drew Moore": 239,
+      "Nathan Reiter": 283,
+      "Total Votes Cast": 1049,
+      "Overvotes": 0,
+      "Undervotes": 237,
+      "Contest Total": 1286
+    },
+    {
+      "Precinct": "OAK-B",
+      "DiLorenzo Debbie": 368,
+      "Johnson Vivian": 176,
+      "Drew Moore": 265,
+      "Nathan Reiter": 312,
+      "Total Votes Cast": 1121,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 1296
+    },
+    {
+      "Precinct": "OAK-C",
+      "DiLorenzo Debbie": 248,
+      "Johnson Vivian": 162,
+      "Drew Moore": 171,
+      "Nathan Reiter": 288,
+      "Total Votes Cast": 869,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 1044
+    },
+    {
+      "Precinct": "OAK-D",
+      "DiLorenzo Debbie": 242,
+      "Johnson Vivian": 144,
+      "Drew Moore": 173,
+      "Nathan Reiter": 284,
+      "Total Votes Cast": 843,
+      "Overvotes": 0,
+      "Undervotes": 249,
+      "Contest Total": 1092
+    },
+    {
+      "Precinct": "OAK-E",
+      "DiLorenzo Debbie": 269,
+      "Johnson Vivian": 152,
+      "Drew Moore": 171,
+      "Nathan Reiter": 341,
+      "Total Votes Cast": 933,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 1178
+    },
+    {
+      "Precinct": "OAK-F",
+      "DiLorenzo Debbie": 390,
+      "Johnson Vivian": 166,
+      "Drew Moore": 216,
+      "Nathan Reiter": 396,
+      "Total Votes Cast": 1168,
+      "Overvotes": 0,
+      "Undervotes": 202,
+      "Contest Total": 1370
+    },
+    {
+      "Precinct": "OAK-G",
+      "DiLorenzo Debbie": 327,
+      "Johnson Vivian": 127,
+      "Drew Moore": 189,
+      "Nathan Reiter": 298,
+      "Total Votes Cast": 941,
+      "Overvotes": 0,
+      "Undervotes": 185,
+      "Contest Total": 1126
+    },
+    {
+      "Precinct": "OAK-H",
+      "DiLorenzo Debbie": 245,
+      "Johnson Vivian": 144,
+      "Drew Moore": 158,
+      "Nathan Reiter": 197,
+      "Total Votes Cast": 744,
+      "Overvotes": 0,
+      "Undervotes": 148,
+      "Contest Total": 892
+    }
+  ]
+}

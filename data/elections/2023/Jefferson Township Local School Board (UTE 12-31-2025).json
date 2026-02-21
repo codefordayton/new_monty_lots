@@ -1,0 +1,78 @@
+{
+  "race": "Jefferson Township Local School Board (UTE 12-31-2025)",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "DAY 14-A",
+      "Michelle Cooper": 71,
+      "Petition No Filed Valid": 0,
+      "Total Votes Cast": 71,
+      "Overvotes": 0,
+      "Undervotes": 145,
+      "Contest Total": 216
+    },
+    {
+      "Precinct": "DAY 14-C",
+      "Michelle Cooper": 20,
+      "Petition No Filed Valid": 0,
+      "Total Votes Cast": 20,
+      "Overvotes": 0,
+      "Undervotes": 58,
+      "Contest Total": 78
+    },
+    {
+      "Precinct": "JEFTWP-A",
+      "Michelle Cooper": 320,
+      "Petition No Filed Valid": 0,
+      "Total Votes Cast": 320,
+      "Overvotes": 0,
+      "Undervotes": 700,
+      "Contest Total": 1020
+    },
+    {
+      "Precinct": "JEFTWP-B",
+      "Michelle Cooper": 112,
+      "Petition No Filed Valid": 0,
+      "Total Votes Cast": 112,
+      "Overvotes": 0,
+      "Undervotes": 180,
+      "Contest Total": 292
+    },
+    {
+      "Precinct": "JEFTWP-C",
+      "Michelle Cooper": 251,
+      "Petition No Filed Valid": 0,
+      "Total Votes Cast": 251,
+      "Overvotes": 0,
+      "Undervotes": 629,
+      "Contest Total": 880
+    },
+    {
+      "Precinct": "JEFTWP-D",
+      "Michelle Cooper": 347,
+      "Petition No Filed Valid": 0,
+      "Total Votes Cast": 347,
+      "Overvotes": 0,
+      "Undervotes": 503,
+      "Contest Total": 850
+    },
+    {
+      "Precinct": "MOR 2-A",
+      "Michelle Cooper": 52,
+      "Petition No Filed Valid": 0,
+      "Total Votes Cast": 52,
+      "Overvotes": 0,
+      "Undervotes": 170,
+      "Contest Total": 222
+    },
+    {
+      "Precinct": "WCR-A",
+      "Michelle Cooper": 6,
+      "Petition No Filed Valid": 0,
+      "Total Votes Cast": 6,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 36
+    }
+  ]
+}

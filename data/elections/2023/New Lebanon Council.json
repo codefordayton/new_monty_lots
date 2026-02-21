@@ -1,0 +1,42 @@
+{
+  "race": "New Lebanon Council",
+  "precincts": 3,
+  "results": [
+    {
+      "Precinct": "JNLB-A",
+      "Timothy Back L.": 158,
+      "Gale Joy": 110,
+      "Sexton Melissa": 135,
+      "Write-in Totals": 19,
+      "Write-in: Assigned Not": 19,
+      "Total Votes Cast": 422,
+      "Overvotes": 0,
+      "Undervotes": 541,
+      "Contest Total": 963
+    },
+    {
+      "Precinct": "JNLB-B",
+      "Timothy Back L.": 265,
+      "Gale Joy": 178,
+      "Sexton Melissa": 257,
+      "Write-in Totals": 19,
+      "Write-in: Assigned Not": 19,
+      "Total Votes Cast": 719,
+      "Overvotes": 0,
+      "Undervotes": 685,
+      "Contest Total": 1404
+    },
+    {
+      "Precinct": "PNLB",
+      "Timothy Back L.": 154,
+      "Gale Joy": 130,
+      "Sexton Melissa": 154,
+      "Write-in Totals": 11,
+      "Write-in: Assigned Not": 11,
+      "Total Votes Cast": 449,
+      "Overvotes": 0,
+      "Undervotes": 493,
+      "Contest Total": 942
+    }
+  ]
+}

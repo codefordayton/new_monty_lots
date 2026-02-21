@@ -1,0 +1,78 @@
+{
+  "race": "Clay Township Trustee",
+  "precincts": 8,
+  "results": [
+    {
+      "Precinct": "BRK-A",
+      "Kyle Groh": 175,
+      "Steven Woolf A.": 195,
+      "Total Votes Cast": 370,
+      "Overvotes": 0,
+      "Undervotes": 228,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "BRK-B",
+      "Kyle Groh": 126,
+      "Steven Woolf A.": 174,
+      "Total Votes Cast": 300,
+      "Overvotes": 0,
+      "Undervotes": 164,
+      "Contest Total": 464
+    },
+    {
+      "Precinct": "BRK-C",
+      "Kyle Groh": 222,
+      "Steven Woolf A.": 188,
+      "Total Votes Cast": 410,
+      "Overvotes": 0,
+      "Undervotes": 209,
+      "Contest Total": 619
+    },
+    {
+      "Precinct": "CLATWP-A",
+      "Kyle Groh": 204,
+      "Steven Woolf A.": 160,
+      "Total Votes Cast": 364,
+      "Overvotes": 0,
+      "Undervotes": 70,
+      "Contest Total": 434
+    },
+    {
+      "Precinct": "CLATWP-B",
+      "Kyle Groh": 192,
+      "Steven Woolf A.": 146,
+      "Total Votes Cast": 338,
+      "Overvotes": 0,
+      "Undervotes": 105,
+      "Contest Total": 443
+    },
+    {
+      "Precinct": "CLATWP-C",
+      "Kyle Groh": 281,
+      "Steven Woolf A.": 234,
+      "Total Votes Cast": 515,
+      "Overvotes": 0,
+      "Undervotes": 131,
+      "Contest Total": 646
+    },
+    {
+      "Precinct": "CTN 1-C",
+      "Kyle Groh": 9,
+      "Steven Woolf A.": 9,
+      "Total Votes Cast": 18,
+      "Overvotes": 0,
+      "Undervotes": 7,
+      "Contest Total": 25
+    },
+    {
+      "Precinct": "PHBG",
+      "Kyle Groh": 83,
+      "Steven Woolf A.": 71,
+      "Total Votes Cast": 154,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 178
+    }
+  ]
+}

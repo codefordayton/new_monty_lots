@@ -1,0 +1,141 @@
+{
+  "race": "8. Harrison Township - Gas Aggregation",
+  "precincts": 15,
+  "results": [
+    {
+      "Precinct": "HARTWP-A",
+      "Yes": 126,
+      "No": 74,
+      "Total Votes Cast": 200,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 226
+    },
+    {
+      "Precinct": "HARTWP-B",
+      "Yes": 137,
+      "No": 122,
+      "Total Votes Cast": 259,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 297
+    },
+    {
+      "Precinct": "HARTWP-C",
+      "Yes": 153,
+      "No": 103,
+      "Total Votes Cast": 256,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 289
+    },
+    {
+      "Precinct": "HARTWP-D",
+      "Yes": 319,
+      "No": 160,
+      "Total Votes Cast": 479,
+      "Overvotes": 0,
+      "Undervotes": 59,
+      "Contest Total": 538
+    },
+    {
+      "Precinct": "HARTWP-E",
+      "Yes": 103,
+      "No": 66,
+      "Total Votes Cast": 169,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 189
+    },
+    {
+      "Precinct": "HARTWP-F",
+      "Yes": 109,
+      "No": 73,
+      "Total Votes Cast": 182,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 204
+    },
+    {
+      "Precinct": "HARTWP-G",
+      "Yes": 172,
+      "No": 134,
+      "Total Votes Cast": 306,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 327
+    },
+    {
+      "Precinct": "HARTWP-H",
+      "Yes": 166,
+      "No": 111,
+      "Total Votes Cast": 277,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 309
+    },
+    {
+      "Precinct": "HARTWP-I",
+      "Yes": 133,
+      "No": 110,
+      "Total Votes Cast": 243,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 274
+    },
+    {
+      "Precinct": "HARTWP-J",
+      "Yes": 195,
+      "No": 126,
+      "Total Votes Cast": 321,
+      "Overvotes": 0,
+      "Undervotes": 19,
+      "Contest Total": 340
+    },
+    {
+      "Precinct": "HARTWP-K",
+      "Yes": 148,
+      "No": 116,
+      "Total Votes Cast": 264,
+      "Overvotes": 0,
+      "Undervotes": 22,
+      "Contest Total": 286
+    },
+    {
+      "Precinct": "HARTWP-L",
+      "Yes": 322,
+      "No": 165,
+      "Total Votes Cast": 487,
+      "Overvotes": 0,
+      "Undervotes": 61,
+      "Contest Total": 548
+    },
+    {
+      "Precinct": "HARTWP-M",
+      "Yes": 331,
+      "No": 166,
+      "Total Votes Cast": 497,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "HARTWP-N",
+      "Yes": 155,
+      "No": 98,
+      "Total Votes Cast": 253,
+      "Overvotes": 0,
+      "Undervotes": 42,
+      "Contest Total": 295
+    },
+    {
+      "Precinct": "HARTWP-O",
+      "Yes": 290,
+      "No": 142,
+      "Total Votes Cast": 432,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 473
+    }
+  ]
+}

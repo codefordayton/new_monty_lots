@@ -1,0 +1,14 @@
+{
+  "race": "Verona Mayor",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "CLATWP-C",
+      "Petition No Filed Valid": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 17,
+      "Contest Total": 17
+    }
+  ]
+}

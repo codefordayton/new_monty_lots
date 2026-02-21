@@ -1,0 +1,438 @@
+{
+  "race": "13. Centerville CSD - Additional - 5.9 mills - Continuing period of time",
+  "precincts": 48,
+  "results": [
+    {
+      "Precinct": "CV-A",
+      "FOR THE LEVY TAX": 194,
+      "AGAINST TAX LEVY THE": 130,
+      "Total Votes Cast": 324,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 364
+    },
+    {
+      "Precinct": "CV-B",
+      "FOR THE LEVY TAX": 306,
+      "AGAINST TAX LEVY THE": 307,
+      "Total Votes Cast": 613,
+      "Overvotes": 0,
+      "Undervotes": 36,
+      "Contest Total": 649
+    },
+    {
+      "Precinct": "CV-C",
+      "FOR THE LEVY TAX": 167,
+      "AGAINST TAX LEVY THE": 220,
+      "Total Votes Cast": 387,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 415
+    },
+    {
+      "Precinct": "CV-D",
+      "FOR THE LEVY TAX": 146,
+      "AGAINST TAX LEVY THE": 221,
+      "Total Votes Cast": 367,
+      "Overvotes": 0,
+      "Undervotes": 18,
+      "Contest Total": 385
+    },
+    {
+      "Precinct": "CV-E",
+      "FOR THE LEVY TAX": 249,
+      "AGAINST TAX LEVY THE": 319,
+      "Total Votes Cast": 568,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "CV-F",
+      "FOR THE LEVY TAX": 285,
+      "AGAINST TAX LEVY THE": 386,
+      "Total Votes Cast": 671,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 702
+    },
+    {
+      "Precinct": "CV-G",
+      "FOR THE LEVY TAX": 296,
+      "AGAINST TAX LEVY THE": 394,
+      "Total Votes Cast": 690,
+      "Overvotes": 0,
+      "Undervotes": 37,
+      "Contest Total": 727
+    },
+    {
+      "Precinct": "CV-H",
+      "FOR THE LEVY TAX": 367,
+      "AGAINST TAX LEVY THE": 354,
+      "Total Votes Cast": 721,
+      "Overvotes": 0,
+      "Undervotes": 52,
+      "Contest Total": 773
+    },
+    {
+      "Precinct": "CV-I",
+      "FOR THE LEVY TAX": 285,
+      "AGAINST TAX LEVY THE": 468,
+      "Total Votes Cast": 753,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 801
+    },
+    {
+      "Precinct": "CV-J",
+      "FOR THE LEVY TAX": 247,
+      "AGAINST TAX LEVY THE": 409,
+      "Total Votes Cast": 656,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 686
+    },
+    {
+      "Precinct": "CV-K",
+      "FOR THE LEVY TAX": 259,
+      "AGAINST TAX LEVY THE": 405,
+      "Total Votes Cast": 664,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 715
+    },
+    {
+      "Precinct": "CV-L",
+      "FOR THE LEVY TAX": 290,
+      "AGAINST TAX LEVY THE": 443,
+      "Total Votes Cast": 733,
+      "Overvotes": 0,
+      "Undervotes": 33,
+      "Contest Total": 766
+    },
+    {
+      "Precinct": "CV-M",
+      "FOR THE LEVY TAX": 215,
+      "AGAINST TAX LEVY THE": 380,
+      "Total Votes Cast": 595,
+      "Overvotes": 0,
+      "Undervotes": 51,
+      "Contest Total": 646
+    },
+    {
+      "Precinct": "CV-N",
+      "FOR THE LEVY TAX": 320,
+      "AGAINST TAX LEVY THE": 175,
+      "Total Votes Cast": 495,
+      "Overvotes": 0,
+      "Undervotes": 55,
+      "Contest Total": 550
+    },
+    {
+      "Precinct": "CV-O",
+      "FOR THE LEVY TAX": 293,
+      "AGAINST TAX LEVY THE": 490,
+      "Total Votes Cast": 783,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 809
+    },
+    {
+      "Precinct": "CV-P",
+      "FOR THE LEVY TAX": 247,
+      "AGAINST TAX LEVY THE": 384,
+      "Total Votes Cast": 631,
+      "Overvotes": 0,
+      "Undervotes": 48,
+      "Contest Total": 679
+    },
+    {
+      "Precinct": "CV-Q",
+      "FOR THE LEVY TAX": 272,
+      "AGAINST TAX LEVY THE": 279,
+      "Total Votes Cast": 551,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 589
+    },
+    {
+      "Precinct": "CV-R",
+      "FOR THE LEVY TAX": 257,
+      "AGAINST TAX LEVY THE": 290,
+      "Total Votes Cast": 547,
+      "Overvotes": 0,
+      "Undervotes": 38,
+      "Contest Total": 585
+    },
+    {
+      "Precinct": "KT 3-I",
+      "FOR THE LEVY TAX": 0,
+      "AGAINST TAX LEVY THE": 0,
+      "Total Votes Cast": 0,
+      "Overvotes": 0,
+      "Undervotes": 0,
+      "Contest Total": 0
+    },
+    {
+      "Precinct": "WASTWP-A",
+      "FOR THE LEVY TAX": 258,
+      "AGAINST TAX LEVY THE": 309,
+      "Total Votes Cast": 567,
+      "Overvotes": 0,
+      "Undervotes": 30,
+      "Contest Total": 597
+    },
+    {
+      "Precinct": "WASTWP-B",
+      "FOR THE LEVY TAX": 308,
+      "AGAINST TAX LEVY THE": 411,
+      "Total Votes Cast": 719,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 743
+    },
+    {
+      "Precinct": "WASTWP-C",
+      "FOR THE LEVY TAX": 253,
+      "AGAINST TAX LEVY THE": 409,
+      "Total Votes Cast": 662,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 685
+    },
+    {
+      "Precinct": "WASTWP-D",
+      "FOR THE LEVY TAX": 211,
+      "AGAINST TAX LEVY THE": 273,
+      "Total Votes Cast": 484,
+      "Overvotes": 0,
+      "Undervotes": 24,
+      "Contest Total": 508
+    },
+    {
+      "Precinct": "WASTWP-E",
+      "FOR THE LEVY TAX": 294,
+      "AGAINST TAX LEVY THE": 406,
+      "Total Votes Cast": 700,
+      "Overvotes": 0,
+      "Undervotes": 25,
+      "Contest Total": 725
+    },
+    {
+      "Precinct": "WASTWP-F",
+      "FOR THE LEVY TAX": 175,
+      "AGAINST TAX LEVY THE": 242,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 438
+    },
+    {
+      "Precinct": "WASTWP-G",
+      "FOR THE LEVY TAX": 335,
+      "AGAINST TAX LEVY THE": 384,
+      "Total Votes Cast": 719,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 753
+    },
+    {
+      "Precinct": "WASTWP-H",
+      "FOR THE LEVY TAX": 271,
+      "AGAINST TAX LEVY THE": 349,
+      "Total Votes Cast": 620,
+      "Overvotes": 0,
+      "Undervotes": 14,
+      "Contest Total": 634
+    },
+    {
+      "Precinct": "WASTWP-I",
+      "FOR THE LEVY TAX": 211,
+      "AGAINST TAX LEVY THE": 206,
+      "Total Votes Cast": 417,
+      "Overvotes": 0,
+      "Undervotes": 32,
+      "Contest Total": 449
+    },
+    {
+      "Precinct": "WASTWP-J",
+      "FOR THE LEVY TAX": 232,
+      "AGAINST TAX LEVY THE": 301,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 41,
+      "Contest Total": 574
+    },
+    {
+      "Precinct": "WASTWP-K",
+      "FOR THE LEVY TAX": 228,
+      "AGAINST TAX LEVY THE": 317,
+      "Total Votes Cast": 545,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 568
+    },
+    {
+      "Precinct": "WASTWP-L",
+      "FOR THE LEVY TAX": 214,
+      "AGAINST TAX LEVY THE": 242,
+      "Total Votes Cast": 456,
+      "Overvotes": 0,
+      "Undervotes": 43,
+      "Contest Total": 499
+    },
+    {
+      "Precinct": "WASTWP-M",
+      "FOR THE LEVY TAX": 227,
+      "AGAINST TAX LEVY THE": 423,
+      "Total Votes Cast": 650,
+      "Overvotes": 0,
+      "Undervotes": 40,
+      "Contest Total": 690
+    },
+    {
+      "Precinct": "WASTWP-N",
+      "FOR THE LEVY TAX": 278,
+      "AGAINST TAX LEVY THE": 259,
+      "Total Votes Cast": 537,
+      "Overvotes": 0,
+      "Undervotes": 31,
+      "Contest Total": 568
+    },
+    {
+      "Precinct": "WASTWP-O",
+      "FOR THE LEVY TAX": 169,
+      "AGAINST TAX LEVY THE": 364,
+      "Total Votes Cast": 533,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 559
+    },
+    {
+      "Precinct": "WASTWP-P",
+      "FOR THE LEVY TAX": 273,
+      "AGAINST TAX LEVY THE": 361,
+      "Total Votes Cast": 634,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 654
+    },
+    {
+      "Precinct": "WASTWP-Q",
+      "FOR THE LEVY TAX": 258,
+      "AGAINST TAX LEVY THE": 336,
+      "Total Votes Cast": 594,
+      "Overvotes": 0,
+      "Undervotes": 44,
+      "Contest Total": 638
+    },
+    {
+      "Precinct": "WASTWP-R",
+      "FOR THE LEVY TAX": 207,
+      "AGAINST TAX LEVY THE": 270,
+      "Total Votes Cast": 477,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 500
+    },
+    {
+      "Precinct": "WASTWP-S",
+      "FOR THE LEVY TAX": 178,
+      "AGAINST TAX LEVY THE": 325,
+      "Total Votes Cast": 503,
+      "Overvotes": 0,
+      "Undervotes": 28,
+      "Contest Total": 531
+    },
+    {
+      "Precinct": "WASTWP-T",
+      "FOR THE LEVY TAX": 253,
+      "AGAINST TAX LEVY THE": 259,
+      "Total Votes Cast": 512,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 538
+    },
+    {
+      "Precinct": "WASTWP-U",
+      "FOR THE LEVY TAX": 260,
+      "AGAINST TAX LEVY THE": 373,
+      "Total Votes Cast": 633,
+      "Overvotes": 0,
+      "Undervotes": 34,
+      "Contest Total": 667
+    },
+    {
+      "Precinct": "WASTWP-V",
+      "FOR THE LEVY TAX": 247,
+      "AGAINST TAX LEVY THE": 349,
+      "Total Votes Cast": 596,
+      "Overvotes": 0,
+      "Undervotes": 21,
+      "Contest Total": 617
+    },
+    {
+      "Precinct": "WASTWP-W",
+      "FOR THE LEVY TAX": 170,
+      "AGAINST TAX LEVY THE": 197,
+      "Total Votes Cast": 367,
+      "Overvotes": 0,
+      "Undervotes": 23,
+      "Contest Total": 390
+    },
+    {
+      "Precinct": "WASTWP-X",
+      "FOR THE LEVY TAX": 229,
+      "AGAINST TAX LEVY THE": 271,
+      "Total Votes Cast": 500,
+      "Overvotes": 0,
+      "Undervotes": 26,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "WASTWP-Y",
+      "FOR THE LEVY TAX": 303,
+      "AGAINST TAX LEVY THE": 363,
+      "Total Votes Cast": 666,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 693
+    },
+    {
+      "Precinct": "WASTWP-Z",
+      "FOR THE LEVY TAX": 247,
+      "AGAINST TAX LEVY THE": 331,
+      "Total Votes Cast": 578,
+      "Overvotes": 0,
+      "Undervotes": 20,
+      "Contest Total": 598
+    },
+    {
+      "Precinct": "WASTWP-AA",
+      "FOR THE LEVY TAX": 246,
+      "AGAINST TAX LEVY THE": 349,
+      "Total Votes Cast": 595,
+      "Overvotes": 0,
+      "Undervotes": 27,
+      "Contest Total": 622
+    },
+    {
+      "Precinct": "WASTWP-BB",
+      "FOR THE LEVY TAX": 192,
+      "AGAINST TAX LEVY THE": 211,
+      "Total Votes Cast": 403,
+      "Overvotes": 0,
+      "Undervotes": 13,
+      "Contest Total": 416
+    },
+    {
+      "Precinct": "WASTWP-CC",
+      "FOR THE LEVY TAX": 334,
+      "AGAINST TAX LEVY THE": 398,
+      "Total Votes Cast": 732,
+      "Overvotes": 0,
+      "Undervotes": 29,
+      "Contest Total": 761
+    }
+  ]
+}

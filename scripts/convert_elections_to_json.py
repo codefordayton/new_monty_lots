@@ -183,14 +183,15 @@ def main():
     # Parse command line arguments
     year = sys.argv[1] if len(sys.argv) > 1 else 'all'
 
-    if year not in ['2024', '2025', 'all']:
-        print("Usage: python3 scripts/convert_elections_to_json.py [--year 2024|2025|all]")
+    if year not in ['2023', '2024', '2025', 'all']:
+        print("Usage: python3 scripts/convert_elections_to_json.py [--year 2023|2024|2025|all]")
         print("Default: all")
         sys.exit(1)
 
     print("🔄 Converting election CSV files to JSON...")
 
     if year == 'all':
+        process_year('2023')
         process_year('2024')
         process_year('2025')
     else:

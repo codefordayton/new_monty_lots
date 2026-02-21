@@ -1,0 +1,56 @@
+{
+  "race": "Union Council",
+  "precincts": 5,
+  "results": [
+    {
+      "Precinct": "UN-A",
+      "Robert Bennett I.": 147,
+      "John Bruns": 142,
+      "Thomas-Roth Lynne": 155,
+      "Total Votes Cast": 444,
+      "Overvotes": 0,
+      "Undervotes": 471,
+      "Contest Total": 915
+    },
+    {
+      "Precinct": "UN-B",
+      "Robert Bennett I.": 217,
+      "John Bruns": 252,
+      "Thomas-Roth Lynne": 252,
+      "Total Votes Cast": 721,
+      "Overvotes": 0,
+      "Undervotes": 785,
+      "Contest Total": 1506
+    },
+    {
+      "Precinct": "UN-C",
+      "Robert Bennett I.": 255,
+      "John Bruns": 252,
+      "Thomas-Roth Lynne": 255,
+      "Total Votes Cast": 762,
+      "Overvotes": 0,
+      "Undervotes": 798,
+      "Contest Total": 1560
+    },
+    {
+      "Precinct": "UN-D",
+      "Robert Bennett I.": 274,
+      "John Bruns": 298,
+      "Thomas-Roth Lynne": 300,
+      "Total Votes Cast": 872,
+      "Overvotes": 0,
+      "Undervotes": 898,
+      "Contest Total": 1770
+    },
+    {
+      "Precinct": "UN-E",
+      "Robert Bennett I.": 225,
+      "John Bruns": 228,
+      "Thomas-Roth Lynne": 261,
+      "Total Votes Cast": 714,
+      "Overvotes": 0,
+      "Undervotes": 945,
+      "Contest Total": 1659
+    }
+  ]
+}

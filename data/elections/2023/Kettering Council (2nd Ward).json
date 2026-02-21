@@ -1,0 +1,86 @@
+{
+  "race": "Kettering Council (2nd Ward)",
+  "precincts": 10,
+  "results": [
+    {
+      "Precinct": "KT 2-A",
+      "Bob Scott": 304,
+      "Total Votes Cast": 304,
+      "Overvotes": 0,
+      "Undervotes": 222,
+      "Contest Total": 526
+    },
+    {
+      "Precinct": "KT 2-B",
+      "Bob Scott": 325,
+      "Total Votes Cast": 325,
+      "Overvotes": 0,
+      "Undervotes": 212,
+      "Contest Total": 537
+    },
+    {
+      "Precinct": "KT 2-C",
+      "Bob Scott": 356,
+      "Total Votes Cast": 356,
+      "Overvotes": 0,
+      "Undervotes": 193,
+      "Contest Total": 549
+    },
+    {
+      "Precinct": "KT 2-D",
+      "Bob Scott": 332,
+      "Total Votes Cast": 332,
+      "Overvotes": 0,
+      "Undervotes": 214,
+      "Contest Total": 546
+    },
+    {
+      "Precinct": "KT 2-E",
+      "Bob Scott": 390,
+      "Total Votes Cast": 390,
+      "Overvotes": 0,
+      "Undervotes": 200,
+      "Contest Total": 590
+    },
+    {
+      "Precinct": "KT 2-F",
+      "Bob Scott": 272,
+      "Total Votes Cast": 272,
+      "Overvotes": 0,
+      "Undervotes": 159,
+      "Contest Total": 431
+    },
+    {
+      "Precinct": "KT 2-G",
+      "Bob Scott": 457,
+      "Total Votes Cast": 457,
+      "Overvotes": 0,
+      "Undervotes": 282,
+      "Contest Total": 739
+    },
+    {
+      "Precinct": "KT 2-H",
+      "Bob Scott": 361,
+      "Total Votes Cast": 361,
+      "Overvotes": 0,
+      "Undervotes": 245,
+      "Contest Total": 606
+    },
+    {
+      "Precinct": "KT 2-I",
+      "Bob Scott": 284,
+      "Total Votes Cast": 284,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 459
+    },
+    {
+      "Precinct": "KT 2-J",
+      "Bob Scott": 209,
+      "Total Votes Cast": 209,
+      "Overvotes": 0,
+      "Undervotes": 136,
+      "Contest Total": 345
+    }
+  ]
+}

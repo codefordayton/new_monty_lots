@@ -1,0 +1,15 @@
+{
+  "race": "26. Local Option - HUB 3-E - 5-R",
+  "precincts": 1,
+  "results": [
+    {
+      "Precinct": "HUB 3-E",
+      "Yes": 327,
+      "No": 51,
+      "Total Votes Cast": 378,
+      "Overvotes": 0,
+      "Undervotes": 15,
+      "Contest Total": 393
+    }
+  ]
+}

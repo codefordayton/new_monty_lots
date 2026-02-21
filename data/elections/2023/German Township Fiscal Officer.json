@@ -1,0 +1,54 @@
+{
+  "race": "German Township Fiscal Officer",
+  "precincts": 6,
+  "results": [
+    {
+      "Precinct": "GERTWP-A",
+      "Heistand Mark A.": 435,
+      "Total Votes Cast": 435,
+      "Overvotes": 0,
+      "Undervotes": 212,
+      "Contest Total": 647
+    },
+    {
+      "Precinct": "GERTWP-B",
+      "Heistand Mark A.": 425,
+      "Total Votes Cast": 425,
+      "Overvotes": 0,
+      "Undervotes": 236,
+      "Contest Total": 661
+    },
+    {
+      "Precinct": "GTN-A",
+      "Heistand Mark A.": 384,
+      "Total Votes Cast": 384,
+      "Overvotes": 0,
+      "Undervotes": 208,
+      "Contest Total": 592
+    },
+    {
+      "Precinct": "GTN-B",
+      "Heistand Mark A.": 269,
+      "Total Votes Cast": 269,
+      "Overvotes": 0,
+      "Undervotes": 175,
+      "Contest Total": 444
+    },
+    {
+      "Precinct": "GTN-C",
+      "Heistand Mark A.": 413,
+      "Total Votes Cast": 413,
+      "Overvotes": 0,
+      "Undervotes": 167,
+      "Contest Total": 580
+    },
+    {
+      "Precinct": "GTN-D",
+      "Heistand Mark A.": 332,
+      "Total Votes Cast": 332,
+      "Overvotes": 0,
+      "Undervotes": 179,
+      "Contest Total": 511
+    }
+  ]
+}
