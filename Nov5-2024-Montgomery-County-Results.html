@@ -1,0 +1,3859 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>November 5, 2024 Election Results - Montgomery County, OH</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+            line-height: 1.4;
+        }
+        
+        .banner {
+            position: sticky;
+            top: 0;
+            background: white;
+            border-bottom: 2px solid #333;
+            padding: 15px 20px;
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 20px;
+            align-items: center;
+            z-index: 100;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .banner-left {
+            text-align: left;
+        }
+        
+        .banner-left h1 {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 4px;
+        }
+        
+        .banner-left .election-number {
+            font-size: 14px;
+            margin-bottom: 2px;
+        }
+        
+        .banner-left .election-date {
+            font-size: 14px;
+        }
+        
+        .election-type {
+            color: #800080;
+            font-weight: bold;
+        }
+        
+        .banner-center {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        
+        .search-box {
+            display: flex;
+            gap: 5px;
+            align-items: center;
+        }
+        
+        .search-box input {
+            padding: 6px 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            font-size: 12px;
+            width: 200px;
+        }
+        
+        .search-box button,
+        .action-btn {
+            padding: 6px 12px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+        
+        .search-box button:hover,
+        .action-btn:hover {
+            background: #45a049;
+        }
+        
+        .search-nav {
+            font-size: 11px;
+            color: #666;
+        }
+        
+        .banner-right {
+            text-align: right;
+            font-size: 12px;
+        }
+        
+        .banner-right div {
+            margin-bottom: 3px;
+        }
+        
+        .content {
+            padding: 30px 40px;
+            max-width: 1400px;
+        }
+        
+        .header-section {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ccc;
+        }
+        
+        .header-section h2 {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        
+        .statistics {
+            margin-bottom: 10px;
+            font-size: 13px;
+        }
+        
+        .race-block {
+            margin: 40px 0;
+            page-break-inside: avoid;
+        }
+        
+        .race-title {
+            background: #FFFF99;
+            padding: 8px 12px;
+            font-weight: bold;
+            font-size: 14px;
+            margin-bottom: 8px;
+            border-left: 4px solid #800080;
+        }
+        
+        .vote-for {
+            font-size: 12px;
+            font-style: italic;
+            margin-bottom: 10px;
+            color: #666;
+        }
+        
+        .results-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        
+        .results-table th {
+            background: #f5f5f5;
+            padding: 8px;
+            text-align: left;
+            font-weight: bold;
+            border-bottom: 2px solid #333;
+            font-size: 11px;
+        }
+        
+        .results-table td {
+            padding: 6px 8px;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .results-table tr.candidate-row:hover {
+            background: #f9f9f9;
+        }
+        
+        .results-table tr.summary-row {
+            font-weight: bold;
+            background: #f5f5f5;
+        }
+        
+        .results-table tr.summary-row td {
+            border-top: 2px solid #333;
+        }
+        
+        .candidate-name {
+            font-weight: bold;
+        }
+        
+        .text-right {
+            text-align: right;
+        }
+        
+        .text-center {
+            text-align: center;
+        }
+        
+        .highlight {
+            background-color: yellow;
+        }
+        
+        @media print {
+            .banner {
+                position: relative;
+            }
+            
+            .search-box,
+            .action-btn {
+                display: none;
+            }
+            
+            .race-block {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        <div class="banner-left">
+            <h1>Election Summary Results Report</h1>
+            <div class="election-number"><span class="election-type">Presidential Election</span></div>
+            <div class="election-date">November 5, 2024</div>
+        </div>
+        
+        <div class="banner-center">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search in document...">
+                <button onclick="searchText()">Find</button>
+                <button onclick="clearSearch()">Clear</button>
+            </div>
+            <span class="search-nav" id="searchStatus"></span>
+        </div>
+        
+        <div class="banner-right">
+            <div><strong>Official</strong></div>
+            <div>Final Total w/write-ins</div>
+            <div><strong>Montgomery County</strong></div>
+            <button class="action-btn" onclick="window.print()">Print</button>
+            <button class="action-btn" onclick="downloadPage()">Download</button>
+        </div>
+    </div>
+    
+    <div class="content">
+        <div class="header-section">
+            <h2>Election Summary Results Report with Group Detail<br>General Election - Presidential Election</h2>
+            
+            <div class="statistics">Election Day Precincts Reporting: 381 of 381</div>
+            <div class="statistics">Registered Voters - Total: 373,580</div>
+            <div class="statistics">Ballots Cast - Total: 258,566</div>
+            <div class="statistics">Voter Turnout - Total: 69.21%</div>
+        </div>
+        
+        <div id="races-container">
+            <!-- Races will be inserted here by JavaScript -->
+        </div>
+    </div>
+    
+    <script>
+        // Race data will be inserted here
+        const racesData = [
+  {
+    "title": "President and Vice President",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "NPC Duncan/Bupp",
+          "524",
+          "0.20%",
+          "305",
+          "133",
+          "66",
+          "10",
+          "10",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "DEM Harris/Walz",
+          "126767",
+          "49.41%",
+          "61891",
+          "25852",
+          "35415",
+          "2379",
+          "1176",
+          "54"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "LIB Oliver/Maat",
+          "1313",
+          "0.51%",
+          "888",
+          "213",
+          "165",
+          "29",
+          "18",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "OPC Sonski/Onak",
+          "545",
+          "0.21%",
+          "344",
+          "122",
+          "66",
+          "8",
+          "5",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Candidate Withdrawn",
+          "1004",
+          "0.39%",
+          "762",
+          "57",
+          "145",
+          "34",
+          "6",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Trump/Vance",
+          "125566",
+          "48.95%",
+          "81763",
+          "18404",
+          "22478",
+          "2151",
+          "673",
+          "97"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In Totals",
+          "825",
+          "0.32%",
+          "533",
+          "138",
+          "130",
+          "13",
+          "10",
+          "1"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 10.  Not Valid",
+          "703",
+          "0.27%",
+          "451",
+          "120",
+          "112",
+          "11",
+          "8",
+          "1"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 4.  De la Cruz/Garcia",
+          "69",
+          "0.03%",
+          "49",
+          "9",
+          "9",
+          "1",
+          "1",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 9.  West/Abdullah",
+          "51",
+          "0.02%",
+          "32",
+          "8",
+          "9",
+          "1",
+          "1",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 1.  Ayyadurai/Ellis",
+          "1",
+          "0.0",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 2.  Bowman/Bowman",
+          "1",
+          "0.0",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 3.  Cheng/Waligorski",
+          "0",
+          "0.0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 5.  Fox/McVay",
+          "0",
+          "0.0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 6.  Garrity/Ballard",
+          "0",
+          "0.0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 7.  Kienitz/Johnson",
+          "0",
+          "0.0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 8.  Nalbach/Butts",
+          "0",
+          "0.0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Not Assigned",
+          "0",
+          "0.0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "254",
+          "70",
+          "109",
+          "3",
+          "52",
+          "18",
+          "2"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1768",
+          "1017",
+          "410",
+          "284",
+          "33",
+          "21",
+          "3"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "U.S. Senator",
+    "voteFor": "Vote For 1\nTOTAL  VOTE %          EDAY           ABS             EV        PROV      ABS-AI    EDAY-AI",
+    "rows": [
+      {
+        "cells": [
+          "DEM Sherrod Brown",
+          "130464",
+          "64758",
+          "26550",
+          "35471",
+          "2427",
+          "1195"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "LIB Don Kissick",
+          "9120",
+          "6477",
+          "1211",
+          "1118",
+          "246",
+          "63"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Bernie Moreno",
+          "112324",
+          "72093",
+          "16727",
+          "21013",
+          "1836",
+          "574"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In Totals",
+          "207",
+          "131",
+          "31",
+          "36",
+          "7",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 5.  Not Valid",
+          "181",
+          "109",
+          "30",
+          "33",
+          "7",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 4.  Tariq K. Shabazz",
+          "23",
+          "19",
+          "1",
+          "3",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 1.  Stephen Faris",
+          "3",
+          "3",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 2.  David Allen Pastorius",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 3.  Nathan Russell",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Not Assigned",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "114",
+          "30",
+          "59",
+          "3",
+          "14",
+          "8"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "6337",
+          "4084",
+          "860",
+          "1111",
+          "179",
+          "95"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Representative to U.S. Congress (10th District)",
+    "voteFor": "Vote For 1\nTOTAL  VOTE %          EDAY           ABS             EV        PROV      ABS-AI    EDAY-AI",
+    "rows": [
+      {
+        "cells": [
+          "DEM Amy Cox",
+          "104141",
+          "49920",
+          "20302",
+          "30827",
+          "2067",
+          "985"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "NPC Michael Harbaugh",
+          "7733",
+          "5278",
+          "909",
+          "1281",
+          "197",
+          "68"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Mike Turner",
+          "136868",
+          "85802",
+          "23198",
+          "24803",
+          "2184",
+          "775"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "62",
+          "22",
+          "28",
+          "1",
+          "8",
+          "3"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "9762",
+          "6551",
+          "1001",
+          "1840",
+          "253",
+          "106"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Ohio State Senator (6th District)",
+    "voteFor": "Vote For 1\nTOTAL  VOTE %          EDAY           ABS             EV        PROV      ABS-AI    EDAY-AI",
+    "rows": [
+      {
+        "cells": [
+          "DEM Willis E. Blackshear Jr.",
+          "84565",
+          "40630",
+          "16412",
+          "24997",
+          "1700",
+          "788"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Charlotte McGuire",
+          "78100",
+          "47996",
+          "12899",
+          "15336",
+          "1357",
+          "464"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "22",
+          "4",
+          "16",
+          "0",
+          "1",
+          "1"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "9616",
+          "6212",
+          "1334",
+          "1676",
+          "244",
+          "139"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "263 of 263"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Ohio State Representative (36th District)",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "DEM Rose Lounsbury",
+          "27060",
+          "13197",
+          "5236",
+          "8005",
+          "405",
+          "208"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Andrea White",
+          "29757",
+          "18918",
+          "4224",
+          "5940",
+          "496",
+          "160"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "4",
+          "1",
+          "3",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2916",
+          "1955",
+          "379",
+          "479",
+          "63",
+          "39"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "87 of 87"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Ohio State Representative (37th District)",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "REP Tom Young",
+          "43003",
+          "25375",
+          "8337",
+          "8378",
+          "630",
+          "263"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "24235",
+          "11487",
+          "5740",
+          "6352",
+          "400",
+          "247"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "88 of 88"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Ohio State Representative (38th District)",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "DEM Desiree Tims",
+          "34877",
+          "17666",
+          "5340",
+          "10549",
+          "939",
+          "362"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "10451",
+          "6243",
+          "1402",
+          "2306",
+          "369",
+          "113"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "90 of 90"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Ohio State Representative (39th District)",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "DEM Dion Green",
+          "22541",
+          "10900",
+          "4325",
+          "6660",
+          "470",
+          "180"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Phil Plummer",
+          "32191",
+          "20738",
+          "5194",
+          "5614",
+          "457",
+          "163"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "3",
+          "1",
+          "2",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2245",
+          "1501",
+          "256",
+          "385",
+          "68",
+          "33"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "81 of 81"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Ohio State Representative (40th District)",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "DEM Bobbie Arnold",
+          "7308",
+          "3962",
+          "1809",
+          "1366",
+          "96",
+          "69"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Rodney Creech",
+          "20114",
+          "14254",
+          "2944",
+          "2535",
+          "280",
+          "83"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1861",
+          "1375",
+          "247",
+          "183",
+          "36",
+          "17"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "41 of 41"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Judge of the Ohio State Court of Appeals",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "REP Robert Hanseman",
+          "154682",
+          "96197",
+          "25610",
+          "29386",
+          "2468",
+          "923"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "103884",
+          "51376",
+          "19828",
+          "29366",
+          "2241",
+          "1014"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Montgomery County Commissioner",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "DEM Judy Dodge",
+          "122630",
+          "60165",
+          "24696",
+          "34327",
+          "2281",
+          "1110"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Kate Baker",
+          "120290",
+          "77300",
+          "18354",
+          "22008",
+          "1933",
+          "613"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "30",
+          "6",
+          "19",
+          "0",
+          "3",
+          "1"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "15616",
+          "10102",
+          "2369",
+          "2417",
+          "492",
+          "213"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Montgomery County Commissioner",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "DEM Deborah Lieberman",
+          "120394",
+          "59730",
+          "24007",
+          "33341",
+          "2213",
+          "1051"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Mary McDonald",
+          "122446",
+          "77701",
+          "18894",
+          "23138",
+          "1977",
+          "650"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "32",
+          "7",
+          "17",
+          "0",
+          "6",
+          "2"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "15694",
+          "10135",
+          "2520",
+          "2273",
+          "513",
+          "234"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Montgomery County Prosecuting Attorney",
+    "voteFor": "Vote For 1\nTOTAL  VOTE %          EDAY           ABS             EV        PROV      ABS-AI    EDAY-AI",
+    "rows": [
+      {
+        "cells": [
+          "DEM Mat Heck Jr.",
+          "168745",
+          "91684",
+          "32478",
+          "40223",
+          "2974",
+          "1301"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "89821",
+          "55889",
+          "12960",
+          "18529",
+          "1735",
+          "636"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Montgomery County Clerk of the Court of Common Pleas",
+    "voteFor": "Vote For 1\nTOTAL  VOTE %          EDAY           ABS             EV        PROV      ABS-AI    EDAY-AI",
+    "rows": [
+      {
+        "cells": [
+          "DEM Lynn Cooper",
+          "115186",
+          "55506",
+          "23460",
+          "32960",
+          "2170",
+          "1049"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Mike Foley",
+          "126577",
+          "81477",
+          "19306",
+          "22966",
+          "2061",
+          "669"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "39",
+          "6",
+          "29",
+          "0",
+          "3",
+          "1"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "16764",
+          "10584",
+          "2643",
+          "2826",
+          "475",
+          "218"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Montgomery County Sheriff",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "REP Rob Streck",
+          "99853",
+          "27341",
+          "31188",
+          "2598",
+          "1001"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "47720",
+          "18097",
+          "27564",
+          "2111",
+          "936"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Montgomery County Recorder",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "DEM Stacey Benson-Taylor",
+          "56884",
+          "23422",
+          "33531",
+          "2221",
+          "1049"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Lori Kennedy",
+          "77309",
+          "18946",
+          "21936",
+          "1906",
+          "629"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "4",
+          "19",
+          "0",
+          "4",
+          "1"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "13376",
+          "3051",
+          "3285",
+          "578",
+          "258"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Montgomery County Treasurer",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "DEM Mohamed Al-Hamdani",
+          "50070",
+          "19530",
+          "30824",
+          "2069",
+          "956"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP John McManus",
+          "85390",
+          "23102",
+          "24687",
+          "2088",
+          "737"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "7",
+          "14",
+          "0",
+          "5",
+          "1"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "12106",
+          "2792",
+          "3241",
+          "547",
+          "243"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Montgomery County Engineer",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "TOTAL",
+          "EDAY",
+          "ABS",
+          "EV",
+          "PROV",
+          "ABS-AI"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "DEM Andrew J. Shahan                             158,098",
+          "85460",
+          "29949",
+          "38455",
+          "2924",
+          "1233"
+        ],
+        "isSummary": false
+      }
+    ]
+  },
+  {
+    "title": "Undervotes                                            100,468",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "Precincts Reporting                            381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Montgomery County Coroner",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "TOTAL",
+          "EDAY",
+          "ABS",
+          "EV",
+          "PROV",
+          "ABS-AI"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "REP Kent E. Harshbarger                          162,499",
+          "99051",
+          "27827",
+          "31830",
+          "2657",
+          "1030"
+        ],
+        "isSummary": false
+      }
+    ]
+  },
+  {
+    "title": "Undervotes                                              96,067",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "Precincts Reporting                            381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Judge of the Montgomery County Court of Common Pleas",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Tim O'Connell",
+          "136726",
+          "78429",
+          "24532",
+          "30577",
+          "2201",
+          "917"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "121840",
+          "69144",
+          "20906",
+          "28175",
+          "2508",
+          "1020"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Judge of the Montgomery County Court of Common Pleas",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Kim Melnick",
+          "120665",
+          "71877",
+          "20536",
+          "25454",
+          "1887",
+          "840"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "137901",
+          "75696",
+          "24902",
+          "33298",
+          "2822",
+          "1097"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Judge of the Montgomery County Court of Common Pleas",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Gerald Parker",
+          "127523",
+          "72305",
+          "23084",
+          "29279",
+          "1925",
+          "876"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "131043",
+          "75268",
+          "22354",
+          "29473",
+          "2784",
+          "1061"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Judge of the Montgomery County Court of Common Pleas",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Mary Montgomery",
+          "135793",
+          "76963",
+          "24469",
+          "31264",
+          "2089",
+          "937"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "122773",
+          "70610",
+          "20969",
+          "27488",
+          "2620",
+          "1000"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Judge of the Montgomery County Court of Common Pleas",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Angelina Jackson",
+          "129110",
+          "73221",
+          "23084",
+          "29830",
+          "2024",
+          "896"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "129456",
+          "74352",
+          "22354",
+          "28922",
+          "2685",
+          "1041"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Judge of the Montgomery County Court of Common Pleas - Domestic Relations Division",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Jennifer A. Petrella",
+          "119853",
+          "71068",
+          "20588",
+          "25440",
+          "1864",
+          "829"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "138713",
+          "76505",
+          "24850",
+          "33312",
+          "2845",
+          "1108"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Judge of the Montgomery County Court of Common Pleas - Domestic Relations Division",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Timothy D. Wood",
+          "130908",
+          "74392",
+          "23594",
+          "29959",
+          "2001",
+          "902"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "127658",
+          "73181",
+          "21844",
+          "28793",
+          "2708",
+          "1035"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Judge of the Montgomery County Court of Common Pleas - Juvenile Division",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Helen Wallace",
+          "130580",
+          "73844",
+          "23805",
+          "29926",
+          "2046",
+          "901"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "127986",
+          "73729",
+          "21633",
+          "28826",
+          "2663",
+          "1036"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Judge of the Montgomery County Court of Common Pleas",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Julia J. Mauk",
+          "71657",
+          "33725",
+          "14563",
+          "21697",
+          "1110",
+          "536"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Elizabeth A. Ellis",
+          "94008",
+          "56789",
+          "16403",
+          "18704",
+          "1425",
+          "628"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "97",
+          "35",
+          "46",
+          "1",
+          "13",
+          "2"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "92804",
+          "57024",
+          "14426",
+          "18350",
+          "2161",
+          "771"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Michael Daugherty",
+          "298",
+          "226",
+          "42",
+          "22",
+          "5",
+          "3"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "166",
+          "114",
+          "26",
+          "25",
+          "1",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "1 of 1"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Village of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "No Valid Petition Filed",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In Totals",
+          "153",
+          "103",
+          "21",
+          "26",
+          "3",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 2.  Not Valid",
+          "122",
+          "81",
+          "14",
+          "24",
+          "3",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: 1.  Christopher K. Sands",
+          "31",
+          "22",
+          "7",
+          "2",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Not Assigned",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1604",
+          "1194",
+          "215",
+          "158",
+          "21",
+          "16"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "3 of 3"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Issue 1",
+    "voteFor": "Vote For 1\nTOTAL  VOTE %          EDAY           ABS             EV        PROV      ABS-AI    EDAY-AI",
+    "rows": [
+      {
+        "cells": [
+          "YES",
+          "127608",
+          "66043",
+          "23592",
+          "34707",
+          "2223",
+          "982"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "NO",
+          "118695",
+          "74176",
+          "19557",
+          "22199",
+          "1999",
+          "688"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "79",
+          "25",
+          "48",
+          "1",
+          "3",
+          "2"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "11740",
+          "7325",
+          "1907",
+          "1843",
+          "482",
+          "163"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "381 of 381"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "2. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "951",
+          "633",
+          "204",
+          "100",
+          "12",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "2174",
+          "1520",
+          "384",
+          "229",
+          "34",
+          "4"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "2",
+          "0",
+          "0",
+          "2",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "187",
+          "128",
+          "28",
+          "23",
+          "4",
+          "4"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "4 of 4"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "3. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "53",
+          "24",
+          "11",
+          "15",
+          "3",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "81",
+          "52",
+          "19",
+          "8",
+          "2",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "18",
+          "13",
+          "2",
+          "3",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "1 of 1"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "4. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "57",
+          "25",
+          "10",
+          "19",
+          "3",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "75",
+          "49",
+          "20",
+          "4",
+          "2",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "20",
+          "15",
+          "2",
+          "3",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "1 of 1"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "5. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "6816",
+          "3326",
+          "1828",
+          "1521",
+          "86",
+          "47"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "6259",
+          "3167",
+          "1590",
+          "1381",
+          "70",
+          "47"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "1",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2849",
+          "1551",
+          "686",
+          "534",
+          "40",
+          "36"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "18 of 18"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "6. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "For the Income Tax",
+          "3987",
+          "2105",
+          "729",
+          "1081",
+          "50",
+          "20"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Against the Income Tax",
+          "3441",
+          "1952",
+          "576",
+          "831",
+          "54",
+          "27"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "240",
+          "141",
+          "22",
+          "61",
+          "10",
+          "5"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "10 of 10"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "9. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "8679",
+          "4833",
+          "1739",
+          "1916",
+          "148",
+          "39"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "6926",
+          "4285",
+          "1037",
+          "1440",
+          "131",
+          "28"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "2",
+          "2",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2079",
+          "1290",
+          "275",
+          "441",
+          "55",
+          "17"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "23 of 23"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "10. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "10881",
+          "6122",
+          "2103",
+          "2423",
+          "186",
+          "43"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "4104",
+          "2615",
+          "546",
+          "844",
+          "76",
+          "19"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "5",
+          "2",
+          "3",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2696",
+          "1671",
+          "399",
+          "530",
+          "72",
+          "22"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "23 of 23"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "11. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "12401",
+          "6980",
+          "2380",
+          "2768",
+          "211",
+          "56"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "3230",
+          "2130",
+          "384",
+          "642",
+          "65",
+          "7"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2054",
+          "1299",
+          "287",
+          "387",
+          "58",
+          "21"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "23 of 23"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "12. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "11025",
+          "6135",
+          "2154",
+          "2498",
+          "178",
+          "55"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "3822",
+          "2481",
+          "526",
+          "721",
+          "82",
+          "10"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "3",
+          "3",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2836",
+          "1791",
+          "371",
+          "578",
+          "74",
+          "19"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "23 of 23"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "13. City of Huber Heights",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "11975",
+          "6834",
+          "2258",
+          "2634",
+          "190",
+          "55"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "3066",
+          "1921",
+          "426",
+          "635",
+          "71",
+          "9"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2645",
+          "1655",
+          "367",
+          "528",
+          "73",
+          "20"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "23 of 23"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "15. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "4975",
+          "3122",
+          "662",
+          "1090",
+          "67",
+          "33"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "3626",
+          "2318",
+          "500",
+          "715",
+          "70",
+          "20"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1559",
+          "969",
+          "193",
+          "336",
+          "40",
+          "19"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "17 of 17"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "16. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "5228",
+          "3253",
+          "696",
+          "1166",
+          "84",
+          "28"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "3103",
+          "2018",
+          "412",
+          "610",
+          "41",
+          "19"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1829",
+          "1138",
+          "247",
+          "365",
+          "52",
+          "25"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "17 of 17"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "17. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "5532",
+          "3404",
+          "785",
+          "1234",
+          "75",
+          "32"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "2635",
+          "1745",
+          "329",
+          "499",
+          "45",
+          "14"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1993",
+          "1260",
+          "241",
+          "408",
+          "57",
+          "26"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "17 of 17"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "18. City of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "4954",
+          "3124",
+          "642",
+          "1087",
+          "69",
+          "30"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "3317",
+          "2096",
+          "479",
+          "667",
+          "54",
+          "18"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1889",
+          "1189",
+          "234",
+          "387",
+          "54",
+          "24"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "17 of 17"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "19. City of Riverside",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "5425",
+          "3374",
+          "757",
+          "1192",
+          "70",
+          "30"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "2684",
+          "1756",
+          "342",
+          "519",
+          "46",
+          "19"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2051",
+          "1279",
+          "256",
+          "430",
+          "61",
+          "23"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "17 of 17"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "20. City of Riverside",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Yes",
+          "5359",
+          "3364",
+          "717",
+          "1174",
+          "74",
+          "27"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No",
+          "2763",
+          "1770",
+          "383",
+          "544",
+          "45",
+          "20"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "2",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2037",
+          "1275",
+          "254",
+          "423",
+          "58",
+          "25"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "17 of 17"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "23. Village of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "For the Tax Levy",
+          "55",
+          "46",
+          "3",
+          "5",
+          "1",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Against the Tax Levy",
+          "178",
+          "141",
+          "16",
+          "17",
+          "3",
+          "1"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "4",
+          "4",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "1 of 1"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "24. Village of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "For the Tax Levy",
+          "14",
+          "8",
+          "0",
+          "6",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Against the Tax Levy",
+          "14",
+          "10",
+          "3",
+          "1",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "1 of 1"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "25. Village of",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "For the Tax Levy",
+          "20",
+          "12",
+          "2",
+          "6",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Against the Tax Levy",
+          "8",
+          "6",
+          "1",
+          "1",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "1 of 1"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Undervotes                                                   497",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "Precincts Reporting                                    8 of 8"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "27.\nVote For 1",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "For the Tax Levy",
+          "1868",
+          "1139",
+          "371",
+          "320",
+          "27",
+          "10"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Against the Tax Levy",
+          "2880",
+          "1990",
+          "448",
+          "399",
+          "33",
+          "8"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "1",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "322",
+          "198",
+          "80",
+          "33",
+          "9",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "6 of 6"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "28.\nVote For 1",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "For the Tax Levy",
+          "4007",
+          "1924",
+          "703",
+          "1251",
+          "92",
+          "36"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Against the Tax Levy",
+          "3986",
+          "2334",
+          "598",
+          "914",
+          "106",
+          "30"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "4",
+          "3",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "609",
+          "344",
+          "64",
+          "167",
+          "27",
+          "7"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "18 of 18"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "29.\nVote For 1",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "For the Tax Levy",
+          "1097",
+          "552",
+          "188",
+          "317",
+          "29",
+          "10"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Against the Tax Levy",
+          "1659",
+          "886",
+          "315",
+          "414",
+          "26",
+          "14"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "120",
+          "58",
+          "10",
+          "47",
+          "4",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "6 of 6"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "30.\nVote For 1",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "For the Tax Levy",
+          "907",
+          "468",
+          "147",
+          "260",
+          "22",
+          "9"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Against the Tax Levy",
+          "1833",
+          "959",
+          "351",
+          "470",
+          "33",
+          "15"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "136",
+          "69",
+          "15",
+          "48",
+          "4",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Precincts Reporting",
+          "6 of 6"
+        ],
+        "isSummary": true
+      }
+    ]
+  }
+];
+        
+        let searchMatches = [];
+        let currentMatchIndex = -1;
+        
+        function renderRaces() {
+            const container = document.getElementById('races-container');
+            
+            racesData.forEach(race => {
+                const raceBlock = document.createElement('div');
+                raceBlock.className = 'race-block';
+                
+                const title = document.createElement('div');
+                title.className = 'race-title';
+                title.textContent = race.title;
+                raceBlock.appendChild(title);
+                
+                if (race.voteFor) {
+                    const voteFor = document.createElement('div');
+                    voteFor.className = 'vote-for';
+                    voteFor.textContent = race.voteFor;
+                    raceBlock.appendChild(voteFor);
+                }
+                
+                const table = document.createElement('table');
+                table.className = 'results-table';
+                
+                // Table header
+                const thead = document.createElement('thead');
+                const headerRow = document.createElement('tr');
+                ['Candidate', 'Total', 'Vote %', 'Election Day', 'Absentee', 'Early Voting', 'Provisional', 'Absentee Add-In', 'Election Day Add-In'].forEach(header => {
+                    const th = document.createElement('th');
+                    th.textContent = header;
+                    if (header !== 'Candidate') {
+                        th.className = 'text-right';
+                    }
+                    headerRow.appendChild(th);
+                });
+                thead.appendChild(headerRow);
+                table.appendChild(thead);
+                
+                // Table body
+                const tbody = document.createElement('tbody');
+                race.rows.forEach(row => {
+                    const tr = document.createElement('tr');
+                    tr.className = row.isSummary ? 'summary-row' : 'candidate-row';
+                    
+                    row.cells.forEach((cell, idx) => {
+                        const td = document.createElement('td');
+                        td.textContent = cell;
+                        if (idx === 0) {
+                            td.className = 'candidate-name';
+                        } else {
+                            td.className = 'text-right';
+                        }
+                        tr.appendChild(td);
+                    });
+                    
+                    tbody.appendChild(tr);
+                });
+                table.appendChild(tbody);
+                
+                raceBlock.appendChild(table);
+                container.appendChild(raceBlock);
+            });
+        }
+        
+        function searchText() {
+            clearSearch();
+            const searchTerm = document.getElementById('searchInput').value.trim();
+            if (!searchTerm) return;
+            
+            const content = document.querySelector('.content');
+            const walker = document.createTreeWalker(
+                content,
+                NodeFilter.SHOW_TEXT,
+                null,
+                false
+            );
+            
+            let node;
+            while (node = walker.nextNode()) {
+                const text = node.textContent;
+                const regex = new RegExp(searchTerm, 'gi');
+                if (regex.test(text)) {
+                    const span = document.createElement('span');
+                    span.innerHTML = text.replace(regex, match => `<span class="highlight">${match}</span>`);
+                    node.parentNode.replaceChild(span, node);
+                }
+            }
+            
+            searchMatches = document.querySelectorAll('.highlight');
+            if (searchMatches.length > 0) {
+                currentMatchIndex = 0;
+                scrollToMatch();
+                updateSearchStatus();
+            } else {
+                document.getElementById('searchStatus').textContent = 'No matches found';
+            }
+        }
+        
+        function clearSearch() {
+            const highlights = document.querySelectorAll('.highlight');
+            highlights.forEach(highlight => {
+                const parent = highlight.parentNode;
+                parent.replaceWith(parent.textContent);
+            });
+            searchMatches = [];
+            currentMatchIndex = -1;
+            document.getElementById('searchStatus').textContent = '';
+            document.querySelector('.content').normalize();
+        }
+        
+        function scrollToMatch() {
+            if (searchMatches.length > 0 && currentMatchIndex >= 0) {
+                searchMatches[currentMatchIndex].scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'center'
+                });
+            }
+        }
+        
+        function updateSearchStatus() {
+            if (searchMatches.length > 0) {
+                document.getElementById('searchStatus').textContent = 
+                    `Match ${currentMatchIndex + 1} of ${searchMatches.length}`;
+            }
+        }
+        
+        function downloadPage() {
+            window.print();
+        }
+        
+        // Handle Enter key in search box
+        document.getElementById('searchInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                searchText();
+            }
+        });
+        
+        // Render races when page loads
+        renderRaces();
+    </script>
+</body>
+</html>

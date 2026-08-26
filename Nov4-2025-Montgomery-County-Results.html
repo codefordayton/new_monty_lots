@@ -1,0 +1,4018 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>November 4, 2025 Election Results - Montgomery County, OH</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+            line-height: 1.4;
+        }
+        
+        .banner {
+            position: sticky;
+            top: 0;
+            background: white;
+            border-bottom: 2px solid #333;
+            padding: 15px 20px;
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 20px;
+            align-items: center;
+            z-index: 100;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .banner-left {
+            text-align: left;
+        }
+        
+        .banner-left h1 {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 4px;
+        }
+        
+        .banner-left .election-number {
+            font-size: 14px;
+            margin-bottom: 2px;
+        }
+        
+        .banner-left .election-date {
+            font-size: 14px;
+        }
+        
+        .election-type-general {
+            color: #0066CC;
+            font-weight: bold;
+        }
+        
+        .election-type-hometown {
+            color: #228B22;
+            font-weight: bold;
+        }
+        
+        .banner-center {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        
+        .search-box {
+            display: flex;
+            gap: 5px;
+            align-items: center;
+        }
+        
+        .search-box input {
+            padding: 6px 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            font-size: 12px;
+            width: 200px;
+        }
+        
+        .search-box button,
+        .action-btn {
+            padding: 6px 12px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+        
+        .search-box button:hover,
+        .action-btn:hover {
+            background: #45a049;
+        }
+        
+        .search-nav {
+            font-size: 11px;
+            color: #666;
+        }
+        
+        .banner-right {
+            text-align: right;
+            font-size: 12px;
+        }
+        
+        .banner-right div {
+            margin-bottom: 3px;
+        }
+        
+        .content {
+            padding: 30px 40px;
+            max-width: 1400px;
+        }
+        
+        .header-section {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ccc;
+        }
+        
+        .header-section h2 {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        
+        .statistics {
+            margin-bottom: 10px;
+            font-size: 13px;
+        }
+        
+        .race-block {
+            margin: 40px 0;
+            page-break-inside: avoid;
+        }
+        
+        .race-title {
+            background: #FFFF99;
+            padding: 8px 12px;
+            font-weight: bold;
+            font-size: 14px;
+            margin-bottom: 8px;
+            border-left: 4px solid #228B22;
+        }
+        
+        .vote-for {
+            font-size: 12px;
+            font-style: italic;
+            margin-bottom: 10px;
+            color: #666;
+        }
+        
+        .results-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        
+        .results-table th {
+            background: #f5f5f5;
+            padding: 8px;
+            text-align: left;
+            font-weight: bold;
+            border-bottom: 2px solid #333;
+            font-size: 11px;
+        }
+        
+        .results-table td {
+            padding: 6px 8px;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .results-table tr.candidate-row:hover {
+            background: #f9f9f9;
+        }
+        
+        .results-table tr.summary-row {
+            font-weight: bold;
+            background: #f5f5f5;
+        }
+        
+        .results-table tr.summary-row td {
+            border-top: 2px solid #333;
+        }
+        
+        .candidate-name {
+            font-weight: bold;
+        }
+        
+        .text-right {
+            text-align: right;
+        }
+        
+        .text-center {
+            text-align: center;
+        }
+        
+        .highlight {
+            background-color: yellow;
+        }
+        
+        @media print {
+            .banner {
+                position: relative;
+            }
+            
+            .search-box,
+            .action-btn {
+                display: none;
+            }
+            
+            .race-block {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        <div class="banner-left">
+            <h1>Election Summary Results Report</h1>
+            <div class="election-number">
+                <span class="election-type-general">General Election</span> 
+                (<span class="election-type-hometown">Hometown Election</span>)
+            </div>
+            <div class="election-date">November 4, 2025</div>
+        </div>
+        
+        <div class="banner-center">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search in document...">
+                <button onclick="searchText()">Find</button>
+                <button onclick="clearSearch()">Clear</button>
+            </div>
+            <span class="search-nav" id="searchStatus"></span>
+        </div>
+        
+        <div class="banner-right">
+            <div><strong>Official</strong></div>
+            <div>Final Total w/write-ins</div>
+            <div><strong>Montgomery County</strong></div>
+            <button class="action-btn" onclick="window.print()">Print</button>
+            <button class="action-btn" onclick="downloadPage()">Download</button>
+        </div>
+    </div>
+    
+    <div class="content">
+        <div class="header-section">
+            <h2>Election Summary Results Report<br>General Election - "Hometown Election"</h2>
+            
+            <div class="statistics">Election Day Precincts Reporting: 381 of 381</div>
+            <div class="statistics">Registered Voters - Total: 356,998</div>
+            <div class="statistics">Ballots Cast - Total: 85,937</div>
+            <div class="statistics">Voter Turnout - Total: 24.07%</div>
+        </div>
+        
+        <div id="races-container">
+            <!-- Races will be inserted here by JavaScript -->
+        </div>
+    </div>
+    
+    <script>
+        // Race data will be inserted here
+        const racesData = [
+  {
+    "title": "Montgomery County",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "William C. Cox",
+          "10326",
+          "100.00%",
+          "8913",
+          "595",
+          "689",
+          "58",
+          "61",
+          "10"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "10326",
+          "100.00%",
+          "8913",
+          "595",
+          "689",
+          "58",
+          "61",
+          "10"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "6168",
+          "5386",
+          "345",
+          "381",
+          "26",
+          "28",
+          "2"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "16494"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Montgomery County",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Brandon Myers",
+          "7397",
+          "50.09%",
+          "6626",
+          "361",
+          "340",
+          "36",
+          "31",
+          "3"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Cindi Westwood",
+          "7371",
+          "49.91%",
+          "6139",
+          "510",
+          "621",
+          "41",
+          "52",
+          "8"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "14768",
+          "100.00%",
+          "12765",
+          "871",
+          "961",
+          "77",
+          "83",
+          "11"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "2",
+          "1",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1724",
+          "1533",
+          "69",
+          "108",
+          "7",
+          "6",
+          "1"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "16494"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Kettering",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Patricia N. Campbell",
+          "14642",
+          "76.09%",
+          "12089",
+          "1238",
+          "1080",
+          "51",
+          "176",
+          "8"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Candidate Withdrawn",
+          "4601",
+          "23.91%",
+          "4275",
+          "86",
+          "207",
+          "17",
+          "13",
+          "3"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "19243",
+          "100.00%",
+          "16364",
+          "1324",
+          "1287",
+          "68",
+          "189",
+          "11"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "7",
+          "0",
+          "6",
+          "0",
+          "0",
+          "1",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "4460",
+          "3901",
+          "271",
+          "228",
+          "14",
+          "41",
+          "5"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "23710"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Oakwood",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Molly Stitsinger",
+          "2203",
+          "100.00%",
+          "1807",
+          "89",
+          "287",
+          "11",
+          "7",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "2203",
+          "100.00%",
+          "1807",
+          "89",
+          "287",
+          "11",
+          "7",
+          "2"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "857",
+          "693",
+          "27",
+          "129",
+          "3",
+          "5",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "3060"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Kettering",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "TOTAL",
+          "VOTE %",
+          "EDAY",
+          "ABS",
+          "EV",
+          "PROV",
+          "ABS-AI",
+          "EDAY-AI"
+        ],
+        "isSummary": false
+      }
+    ]
+  },
+  {
+    "title": "Bob Scott                                                       4,082",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "Bryan N. Suddith",
+          "7323",
+          "64.21%",
+          "6120",
+          "443",
+          "651",
+          "31",
+          "73",
+          "5"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "11405",
+          "100.00%",
+          "9792",
+          "652",
+          "800",
+          "51",
+          "103",
+          "7"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "331",
+          "290",
+          "11",
+          "22",
+          "3",
+          "5",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "11736"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Kettering Council at Large",
+    "voteFor": "Vote For 2",
+    "rows": [
+      {
+        "cells": [
+          "Laura L. Arber",
+          "7863",
+          "42.86%",
+          "6577",
+          "532",
+          "641",
+          "31",
+          "77",
+          "5"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Dan Palmer",
+          "6818",
+          "37.16%",
+          "5744",
+          "434",
+          "553",
+          "18",
+          "66",
+          "3"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Tyler Scott",
+          "3665",
+          "19.98%",
+          "3275",
+          "161",
+          "185",
+          "18",
+          "24",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "18346",
+          "100.00%",
+          "15596",
+          "1127",
+          "1379",
+          "67",
+          "167",
+          "10"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "6",
+          "0",
+          "4",
+          "0",
+          "0",
+          "2",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "5120",
+          "4568",
+          "195",
+          "265",
+          "41",
+          "47",
+          "4"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "23472"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Moraine",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Teri Murphy",
+          "259",
+          "52.11%",
+          "225",
+          "17",
+          "16",
+          "0",
+          "1",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Erica Watts",
+          "238",
+          "47.89%",
+          "217",
+          "8",
+          "13",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "497",
+          "100.00%",
+          "442",
+          "25",
+          "29",
+          "0",
+          "1",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "40",
+          "37",
+          "3",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "537"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Moraine",
+    "voteFor": "Vote For 2",
+    "rows": [
+      {
+        "cells": [
+          "TOTAL",
+          "VOTE %",
+          "EDAY",
+          "ABS",
+          "EV",
+          "PROV",
+          "ABS-AI",
+          "EDAY-AI"
+        ],
+        "isSummary": false
+      }
+    ]
+  },
+  {
+    "title": "Ora F. Allen                                                       315",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "Branden Delph",
+          "269",
+          "46.06%",
+          "238",
+          "14",
+          "16",
+          "0",
+          "1",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "584",
+          "100.00%",
+          "517",
+          "27",
+          "38",
+          "0",
+          "2",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "490",
+          "441",
+          "29",
+          "20",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "1074"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Oakwood Council",
+    "voteFor": "Vote For 2",
+    "rows": [
+      {
+        "cells": [
+          "Sam Dorf",
+          "1814",
+          "34.20%",
+          "1415",
+          "70",
+          "315",
+          "7",
+          "7",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Sarena Kelley",
+          "1588",
+          "29.94%",
+          "1325",
+          "54",
+          "197",
+          "7",
+          "3",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Leigh S. Turben",
+          "1902",
+          "35.86%",
+          "1576",
+          "81",
+          "225",
+          "11",
+          "7",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "5304",
+          "100.00%",
+          "4316",
+          "205",
+          "737",
+          "25",
+          "17",
+          "4"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "816",
+          "684",
+          "27",
+          "95",
+          "3",
+          "7",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "6120"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Riverside Council",
+    "voteFor": "Vote For 4",
+    "rows": [
+      {
+        "cells": [
+          "Mike Denning",
+          "1305",
+          "15.86%",
+          "1156",
+          "60",
+          "77",
+          "4",
+          "6",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Brenda Fry",
+          "1578",
+          "19.18%",
+          "1399",
+          "73",
+          "87",
+          "7",
+          "11",
+          "1"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Steve Gaby",
+          "1834",
+          "22.29%",
+          "1657",
+          "83",
+          "81",
+          "5",
+          "6",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Angel R. Patterson",
+          "1849",
+          "22.47%",
+          "1654",
+          "84",
+          "95",
+          "8",
+          "8",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Freda Patterson",
+          "1663",
+          "20.21%",
+          "1485",
+          "75",
+          "81",
+          "11",
+          "10",
+          "1"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "8229",
+          "100.00%",
+          "7351",
+          "375",
+          "421",
+          "35",
+          "41",
+          "6"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "3683",
+          "3325",
+          "145",
+          "171",
+          "25",
+          "15",
+          "2"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "11912"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Verona",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "No Valid Petition Filed",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "10",
+          "9",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "10"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Butler Township Trustees",
+    "voteFor": "Vote For 2",
+    "rows": [
+      {
+        "cells": [
+          "Ken Betz",
+          "957",
+          "29.18%",
+          "824",
+          "69",
+          "55",
+          "1",
+          "8",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Bryson Jackson",
+          "1096",
+          "33.41%",
+          "990",
+          "47",
+          "48",
+          "5",
+          "6",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Mike Thein",
+          "1227",
+          "37.41%",
+          "1081",
+          "77",
+          "56",
+          "5",
+          "8",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "3280",
+          "100.00%",
+          "2895",
+          "193",
+          "159",
+          "11",
+          "22",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "866",
+          "759",
+          "47",
+          "47",
+          "7",
+          "6",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "4146"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Clay Township Trustees",
+    "voteFor": "Vote For 2",
+    "rows": [
+      {
+        "cells": [
+          "Lori Hartman",
+          "700",
+          "28.27%",
+          "624",
+          "54",
+          "17",
+          "2",
+          "3",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Mark Haworth",
+          "955",
+          "38.57%",
+          "865",
+          "69",
+          "15",
+          "5",
+          "1",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Angela Howell",
+          "821",
+          "33.16%",
+          "742",
+          "56",
+          "19",
+          "1",
+          "3",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "2476",
+          "100.00%",
+          "2231",
+          "179",
+          "51",
+          "8",
+          "7",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "856",
+          "783",
+          "47",
+          "17",
+          "6",
+          "3",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "3332"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Clay Township Trustee (UTE 12/31/2027)",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Dale Winner",
+          "1116",
+          "100.00%",
+          "1007",
+          "83",
+          "18",
+          "5",
+          "3",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "1116",
+          "100.00%",
+          "1007",
+          "83",
+          "18",
+          "5",
+          "3",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "550",
+          "500",
+          "30",
+          "16",
+          "2",
+          "2",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "1666"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Clay Township",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "No Valid Petition Filed",
+          "0",
+          "0.0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In Totals",
+          "57",
+          "100.00%",
+          "48",
+          "9",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: Vanessa W. Furrey",
+          "29",
+          "50.88%",
+          "20",
+          "9",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Write-In: NOT VALID",
+          "28",
+          "49.12%",
+          "28",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Not Assigned",
+          "0",
+          "0.0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "57",
+          "100.00%",
+          "48",
+          "9",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1609",
+          "1459",
+          "104",
+          "34",
+          "7",
+          "5",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "1666"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Perry Township",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Jamie Evans",
+          "419",
+          "47.61%",
+          "363",
+          "32",
+          "16",
+          "6",
+          "2",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Amy Hoover",
+          "461",
+          "52.39%",
+          "432",
+          "17",
+          "10",
+          "1",
+          "1",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "880",
+          "100.00%",
+          "795",
+          "49",
+          "26",
+          "7",
+          "3",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "202",
+          "191",
+          "6",
+          "4",
+          "0",
+          "1",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "1082"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Washington Township",
+    "voteFor": "Vote For 2",
+    "rows": [
+      {
+        "cells": [
+          "Sharon A. Lowry",
+          "6926",
+          "41.56%",
+          "5795",
+          "601",
+          "440",
+          "19",
+          "65",
+          "6"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Scott R. Paulson",
+          "6642",
+          "39.85%",
+          "5556",
+          "605",
+          "399",
+          "12",
+          "66",
+          "4"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Luke Trubee",
+          "3099",
+          "18.59%",
+          "2644",
+          "220",
+          "193",
+          "8",
+          "32",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "16667",
+          "100.00%",
+          "13995",
+          "1426",
+          "1032",
+          "39",
+          "163",
+          "12"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "6",
+          "2",
+          "4",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "6201",
+          "5411",
+          "390",
+          "296",
+          "17",
+          "81",
+          "6"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "22874"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Montgomery County",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "Youssef Elzein",
+          "1986",
+          "12.52%",
+          "1651",
+          "125",
+          "182",
+          "13",
+          "13",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Daryl M. Michael Jr.",
+          "4595",
+          "28.96%",
+          "3957",
+          "328",
+          "267",
+          "15",
+          "25",
+          "3"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Gary M. Roberts",
+          "4662",
+          "29.38%",
+          "4065",
+          "334",
+          "224",
+          "17",
+          "20",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Terry L. Smith",
+          "4625",
+          "29.15%",
+          "4064",
+          "294",
+          "224",
+          "20",
+          "20",
+          "3"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "15868",
+          "100.00%",
+          "13737",
+          "1081",
+          "897",
+          "65",
+          "78",
+          "10"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "13637",
+          "12231",
+          "632",
+          "612",
+          "79",
+          "72",
+          "11"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "29505"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Preble County Educational Service Center",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "Shelly Lykins",
+          "43",
+          "32.58%",
+          "41",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Jessica Spitler",
+          "48",
+          "36.36%",
+          "43",
+          "3",
+          "2",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "John Chris Tilton",
+          "41",
+          "31.06%",
+          "35",
+          "4",
+          "2",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "132",
+          "100.00%",
+          "119",
+          "8",
+          "5",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "222",
+          "196",
+          "22",
+          "4",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "354"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Preble County",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "No Valid Petition Filed",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "118",
+          "105",
+          "10",
+          "3",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "118"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Warren County",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "Fred Anness",
+          "101",
+          "25.63%",
+          "94",
+          "3",
+          "4",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Nona Cress",
+          "81",
+          "20.56%",
+          "78",
+          "0",
+          "2",
+          "1",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Jiles Farley",
+          "97",
+          "24.62%",
+          "87",
+          "4",
+          "5",
+          "1",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "John Lazares",
+          "115",
+          "29.19%",
+          "108",
+          "3",
+          "4",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "394",
+          "100.00%",
+          "367",
+          "10",
+          "15",
+          "2",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "485",
+          "446",
+          "20",
+          "18",
+          "1",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "879"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Beavercreek School Board",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "Nathan Boone",
+          "159",
+          "24.69%",
+          "151",
+          "5",
+          "3",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Claire L. Chinske",
+          "98",
+          "15.22%",
+          "86",
+          "4",
+          "6",
+          "2",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Carl Fischer IV",
+          "111",
+          "17.24%",
+          "104",
+          "0",
+          "7",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Krista Hunt",
+          "146",
+          "22.67%",
+          "134",
+          "4",
+          "6",
+          "1",
+          "1",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "JoAnn Rigano",
+          "130",
+          "20.19%",
+          "119",
+          "1",
+          "8",
+          "1",
+          "1",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "644",
+          "100.00%",
+          "594",
+          "14",
+          "30",
+          "4",
+          "2",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "361",
+          "333",
+          "7",
+          "18",
+          "2",
+          "1",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "1005"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Centerville School Board",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "Kathy Crippen",
+          "6672",
+          "25.96%",
+          "5544",
+          "605",
+          "432",
+          "14",
+          "72",
+          "5"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "John R. Doll",
+          "5710",
+          "22.22%",
+          "4802",
+          "483",
+          "353",
+          "9",
+          "60",
+          "3"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Mark Peters",
+          "6590",
+          "25.64%",
+          "5600",
+          "528",
+          "374",
+          "13",
+          "71",
+          "4"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Megan E. Murray Sparks",
+          "6725",
+          "26.17%",
+          "5667",
+          "535",
+          "425",
+          "15",
+          "77",
+          "6"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "25697",
+          "100.00%",
+          "21613",
+          "2151",
+          "1584",
+          "51",
+          "280",
+          "18"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "8614",
+          "7499",
+          "579",
+          "408",
+          "33",
+          "86",
+          "9"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "34311"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Dayton",
+    "voteFor": "Vote For 4",
+    "rows": [
+      {
+        "cells": [
+          "Ann Marie Gallin",
+          "6094",
+          "12.08%",
+          "4775",
+          "388",
+          "822",
+          "44",
+          "60",
+          "5"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Jamica Garrison",
+          "8632",
+          "17.12%",
+          "6833",
+          "386",
+          "1238",
+          "93",
+          "74",
+          "8"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Chrisondra Goodwine",
+          "7414",
+          "14.70%",
+          "5676",
+          "417",
+          "1170",
+          "69",
+          "75",
+          "7"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Virgil Goodwine II",
+          "5674",
+          "11.25%",
+          "4463",
+          "281",
+          "820",
+          "55",
+          "52",
+          "3"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Ken Hayes",
+          "6650",
+          "13.19%",
+          "5210",
+          "326",
+          "1016",
+          "48",
+          "47",
+          "3"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Joe Lacey",
+          "7594",
+          "15.06%",
+          "5893",
+          "435",
+          "1125",
+          "67",
+          "67",
+          "7"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Jocelyn Rhynard",
+          "8370",
+          "16.60%",
+          "6546",
+          "456",
+          "1206",
+          "70",
+          "86",
+          "6"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "50428",
+          "100.00%",
+          "39396",
+          "2689",
+          "7397",
+          "446",
+          "461",
+          "39"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "8",
+          "0",
+          "8",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "22004",
+          "18220",
+          "659",
+          "2699",
+          "250",
+          "155",
+          "21"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "72440"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Fairborn",
+    "voteFor": "Vote For 2",
+    "rows": [
+      {
+        "cells": [
+          "TOTAL",
+          "VOTE %",
+          "EDAY",
+          "ABS",
+          "EV",
+          "PROV",
+          "ABS-AI",
+          "EDAY-AI"
+        ],
+        "isSummary": false
+      }
+    ]
+  },
+  {
+    "title": "Katie Mlod                                                         263",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "Tim Steininger",
+          "227",
+          "46.33%",
+          "206",
+          "12",
+          "8",
+          "1",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "490",
+          "100.00%",
+          "441",
+          "23",
+          "24",
+          "2",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "398",
+          "353",
+          "19",
+          "26",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "888"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Huber Heights School Board",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "Kelly G. Bledsoe",
+          "3558",
+          "31.22%",
+          "3109",
+          "190",
+          "221",
+          "10",
+          "26",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Mark A. Combs",
+          "3241",
+          "28.44%",
+          "2838",
+          "177",
+          "193",
+          "10",
+          "21",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Barb Mirlisena",
+          "2172",
+          "19.06%",
+          "1858",
+          "128",
+          "164",
+          "5",
+          "17",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Steven Zbinden",
+          "2424",
+          "21.27%",
+          "2093",
+          "137",
+          "153",
+          "12",
+          "27",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "11395",
+          "100.00%",
+          "9898",
+          "632",
+          "731",
+          "37",
+          "91",
+          "6"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "6152",
+          "5402",
+          "307",
+          "400",
+          "17",
+          "26",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "17547"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "West Carrollton",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "Leslie A. Miller",
+          "1524",
+          "35.25%",
+          "1338",
+          "104",
+          "66",
+          "10",
+          "6",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Nate Mundy",
+          "1403",
+          "32.45%",
+          "1240",
+          "93",
+          "63",
+          "3",
+          "4",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Dormetria Robinson Thompson",
+          "1396",
+          "32.29%",
+          "1208",
+          "87",
+          "84",
+          "10",
+          "7",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "4323",
+          "100.00%",
+          "3786",
+          "284",
+          "213",
+          "23",
+          "17",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "4023",
+          "3591",
+          "205",
+          "180",
+          "28",
+          "19",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "8346"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "West Carrollton",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Angela Shockley",
+          "1877",
+          "100.00%",
+          "1655",
+          "107",
+          "96",
+          "11",
+          "8",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "1877",
+          "100.00%",
+          "1655",
+          "107",
+          "96",
+          "11",
+          "8",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "905",
+          "804",
+          "56",
+          "35",
+          "6",
+          "4",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "2782"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Brookville Local School Board",
+    "voteFor": "Vote For 2",
+    "rows": [
+      {
+        "cells": [
+          "Joy Eyler",
+          "959",
+          "45.67%",
+          "848",
+          "83",
+          "13",
+          "10",
+          "5",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Judy Hoover",
+          "1141",
+          "54.33%",
+          "1022",
+          "82",
+          "24",
+          "9",
+          "4",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "2100",
+          "100.00%",
+          "1870",
+          "165",
+          "37",
+          "19",
+          "9",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1484",
+          "1376",
+          "69",
+          "27",
+          "9",
+          "3",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "3584"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Brookville",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "Rodney C. Stark",
+          "1099",
+          "100.00%",
+          "985",
+          "81",
+          "19",
+          "10",
+          "4",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "1099",
+          "100.00%",
+          "985",
+          "81",
+          "19",
+          "10",
+          "4",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "693",
+          "638",
+          "36",
+          "13",
+          "4",
+          "2",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "1792"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Carlisle",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "William Bicknell",
+          "90",
+          "14.49%",
+          "84",
+          "3",
+          "2",
+          "1",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Craig Harris",
+          "192",
+          "30.92%",
+          "175",
+          "9",
+          "7",
+          "1",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Mollie McIntosh",
+          "186",
+          "29.95%",
+          "174",
+          "5",
+          "7",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Amanda Morris",
+          "153",
+          "24.64%",
+          "141",
+          "4",
+          "7",
+          "1",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "621",
+          "100.00%",
+          "574",
+          "21",
+          "23",
+          "3",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "258",
+          "239",
+          "9",
+          "10",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "879"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Jefferson Township Local School Board",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "Patricia Williams Babetto",
+          "533",
+          "40.26%",
+          "379",
+          "59",
+          "89",
+          "3",
+          "2",
+          "1"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Michelle Cooper",
+          "791",
+          "59.74%",
+          "612",
+          "63",
+          "110",
+          "3",
+          "1",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "No Valid Petition Filed",
+          "0",
+          "0.0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "1324",
+          "100.00%",
+          "991",
+          "122",
+          "199",
+          "6",
+          "3",
+          "3"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2522",
+          "2048",
+          "181",
+          "269",
+          "9",
+          "6",
+          "9"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "3846"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Mad River Local School Board",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "Damien McCormick",
+          "1324",
+          "26.49%",
+          "1152",
+          "63",
+          "94",
+          "4",
+          "9",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "AJ Ricker",
+          "1186",
+          "23.72%",
+          "1047",
+          "58",
+          "70",
+          "4",
+          "6",
+          "1"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Marilyn Steiner",
+          "1337",
+          "26.75%",
+          "1190",
+          "64",
+          "74",
+          "4",
+          "3",
+          "2"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Terrance Tolbert",
+          "1152",
+          "23.04%",
+          "997",
+          "57",
+          "90",
+          "4",
+          "4",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "4999",
+          "100.00%",
+          "4386",
+          "242",
+          "328",
+          "16",
+          "22",
+          "5"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "2720",
+          "2415",
+          "106",
+          "155",
+          "26",
+          "17",
+          "1"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "7719"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "New Lebanon Local School Board",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "Dawn Leonard",
+          "694",
+          "33.41%",
+          "616",
+          "51",
+          "24",
+          "0",
+          "3",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Jeff Miller",
+          "733",
+          "35.29%",
+          "653",
+          "50",
+          "27",
+          "0",
+          "3",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Elizabeth Powers",
+          "650",
+          "31.30%",
+          "579",
+          "51",
+          "17",
+          "0",
+          "3",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "2077",
+          "100.00%",
+          "1848",
+          "152",
+          "68",
+          "0",
+          "9",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "1280",
+          "1182",
+          "49",
+          "43",
+          "0",
+          "6",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "3357"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Valley View",
+    "voteFor": "Vote For 3",
+    "rows": [
+      {
+        "cells": [
+          "Timothy R. Rudd",
+          "1234",
+          "35.56%",
+          "1136",
+          "55",
+          "27",
+          "1",
+          "14",
+          "1"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "W. Joe Scholler Sr.",
+          "1112",
+          "32.05%",
+          "995",
+          "62",
+          "37",
+          "2",
+          "16",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Stephanie J. Smith",
+          "1124",
+          "32.39%",
+          "1015",
+          "63",
+          "32",
+          "3",
+          "11",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "3470",
+          "100.00%",
+          "3146",
+          "180",
+          "96",
+          "6",
+          "41",
+          "1"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "3286",
+          "2929",
+          "201",
+          "123",
+          "9",
+          "22",
+          "2"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "6756"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "13. City of West Carrollton - Charter Ammendment",
+    "voteFor": "Vote For 1\nTOTAL  VOTE %          EDAY           ABS             EV        PROV      ABS-AI    EDAY-AI",
+    "rows": [
+      {
+        "cells": [
+          "YES",
+          "702",
+          "59.49%",
+          "620",
+          "40",
+          "26",
+          "11",
+          "5",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "NO",
+          "478",
+          "40.51%",
+          "432",
+          "25",
+          "15",
+          "0",
+          "6",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "1180",
+          "100.00%",
+          "1052",
+          "65",
+          "41",
+          "11",
+          "11",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "110",
+          "97",
+          "8",
+          "5",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "1290"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Verona",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "FOR THE TAX LEVY",
+          "6",
+          "60.00%",
+          "6",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "AGAINST THE TAX LEVY",
+          "4",
+          "40.00%",
+          "3",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "10",
+          "100.00%",
+          "9",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "10"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "15. Verona Fire - Additional 1 mill - 5 yrs",
+    "voteFor": "Vote For 1",
+    "rows": [
+      {
+        "cells": [
+          "FOR THE TAX LEVY",
+          "8",
+          "80.00%",
+          "8",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "AGAINST THE TAX LEVY",
+          "2",
+          "20.00%",
+          "1",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "10",
+          "100.00%",
+          "9",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "10"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "Butler Township",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "TOTAL",
+          "VOTE %",
+          "EDAY",
+          "ABS",
+          "EV",
+          "PROV",
+          "ABS-AI",
+          "EDAY-AI"
+        ],
+        "isSummary": false
+      }
+    ]
+  },
+  {
+    "title": "Undervotes                                                     63",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "Contest Totals                                           2,073"
+        ],
+        "isSummary": true
+      }
+    ]
+  },
+  {
+    "title": "HOME RULE GOVERNMENT",
+    "voteFor": null,
+    "rows": [
+      {
+        "cells": [
+          "FOR THE TAX LEVY",
+          "891",
+          "54.23%",
+          "788",
+          "56",
+          "36",
+          "0",
+          "11",
+          "0"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "AGAINST THE TAX LEVY",
+          "752",
+          "45.77%",
+          "673",
+          "48",
+          "20",
+          "1",
+          "9",
+          "1"
+        ],
+        "isSummary": false
+      },
+      {
+        "cells": [
+          "Total Votes Cast",
+          "1643",
+          "100.00%",
+          "1461",
+          "104",
+          "56",
+          "1",
+          "20",
+          "1"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Overvotes",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Undervotes",
+          "18",
+          "15",
+          "2",
+          "1",
+          "0",
+          "0",
+          "0"
+        ],
+        "isSummary": true
+      },
+      {
+        "cells": [
+          "Contest Totals",
+          "1661"
+        ],
+        "isSummary": true
+      }
+    ]
+  }
+];
+        
+        let searchMatches = [];
+        let currentMatchIndex = -1;
+        
+        function renderRaces() {
+            const container = document.getElementById('races-container');
+            
+            racesData.forEach(race => {
+                const raceBlock = document.createElement('div');
+                raceBlock.className = 'race-block';
+                
+                const title = document.createElement('div');
+                title.className = 'race-title';
+                title.textContent = race.title;
+                raceBlock.appendChild(title);
+                
+                if (race.voteFor) {
+                    const voteFor = document.createElement('div');
+                    voteFor.className = 'vote-for';
+                    voteFor.textContent = race.voteFor;
+                    raceBlock.appendChild(voteFor);
+                }
+                
+                const table = document.createElement('table');
+                table.className = 'results-table';
+                
+                // Table header
+                const thead = document.createElement('thead');
+                const headerRow = document.createElement('tr');
+                ['Candidate', 'Total', 'Vote %', 'Election Day', 'Absentee', 'Early Voting', 'Provisional', 'Absentee Add-In', 'Election Day Add-In'].forEach(header => {
+                    const th = document.createElement('th');
+                    th.textContent = header;
+                    if (header !== 'Candidate') {
+                        th.className = 'text-right';
+                    }
+                    headerRow.appendChild(th);
+                });
+                thead.appendChild(headerRow);
+                table.appendChild(thead);
+                
+                // Table body
+                const tbody = document.createElement('tbody');
+                race.rows.forEach(row => {
+                    const tr = document.createElement('tr');
+                    tr.className = row.isSummary ? 'summary-row' : 'candidate-row';
+                    
+                    row.cells.forEach((cell, idx) => {
+                        const td = document.createElement('td');
+                        td.textContent = cell;
+                        if (idx === 0) {
+                            td.className = 'candidate-name';
+                        } else {
+                            td.className = 'text-right';
+                        }
+                        tr.appendChild(td);
+                    });
+                    
+                    tbody.appendChild(tr);
+                });
+                table.appendChild(tbody);
+                
+                raceBlock.appendChild(table);
+                container.appendChild(raceBlock);
+            });
+        }
+        
+        function searchText() {
+            clearSearch();
+            const searchTerm = document.getElementById('searchInput').value.trim();
+            if (!searchTerm) return;
+            
+            const content = document.querySelector('.content');
+            const walker = document.createTreeWalker(
+                content,
+                NodeFilter.SHOW_TEXT,
+                null,
+                false
+            );
+            
+            let node;
+            while (node = walker.nextNode()) {
+                const text = node.textContent;
+                const regex = new RegExp(searchTerm, 'gi');
+                if (regex.test(text)) {
+                    const span = document.createElement('span');
+                    span.innerHTML = text.replace(regex, match => `<span class="highlight">${match}</span>`);
+                    node.parentNode.replaceChild(span, node);
+                }
+            }
+            
+            searchMatches = document.querySelectorAll('.highlight');
+            if (searchMatches.length > 0) {
+                currentMatchIndex = 0;
+                scrollToMatch();
+                updateSearchStatus();
+            } else {
+                document.getElementById('searchStatus').textContent = 'No matches found';
+            }
+        }
+        
+        function clearSearch() {
+            const highlights = document.querySelectorAll('.highlight');
+            highlights.forEach(highlight => {
+                const parent = highlight.parentNode;
+                parent.replaceWith(parent.textContent);
+            });
+            searchMatches = [];
+            currentMatchIndex = -1;
+            document.getElementById('searchStatus').textContent = '';
+            document.querySelector('.content').normalize();
+        }
+        
+        function scrollToMatch() {
+            if (searchMatches.length > 0 && currentMatchIndex >= 0) {
+                searchMatches[currentMatchIndex].scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'center'
+                });
+            }
+        }
+        
+        function updateSearchStatus() {
+            if (searchMatches.length > 0) {
+                document.getElementById('searchStatus').textContent = 
+                    `Match ${currentMatchIndex + 1} of ${searchMatches.length}`;
+            }
+        }
+        
+        function downloadPage() {
+            window.print();
+        }
+        
+        // Handle Enter key in search box
+        document.getElementById('searchInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                searchText();
+            }
+        });
+        
+        // Render races when page loads
+        renderRaces();
+    </script>
+</body>
+</html>
